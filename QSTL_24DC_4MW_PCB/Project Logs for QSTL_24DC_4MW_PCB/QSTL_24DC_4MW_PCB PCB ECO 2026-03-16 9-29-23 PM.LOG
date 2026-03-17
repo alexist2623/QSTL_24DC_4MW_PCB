@@ -1,0 +1,77 @@
+Added Component: Designator=C1(FP-GRM155-0_05-IPC_A)
+Added Component: Designator=C2(FP-GRM155-0_05-IPC_A)
+Added Component: Designator=C3(FP-GRM155-0_05-IPC_A)
+Added Component: Designator=C4(FP-GRM155-0_05-IPC_A)
+Added Component: Designator=C5(FP-GRM155-0_05-IPC_A)
+Added Component: Designator=C6(FP-GRM155-0_05-IPC_A)
+Add component: Footprint Not Found 581-M25-213L461
+Added Component: Designator=R1(FP-MCS0402-IPC_A)
+Added Component: Designator=R2(FP-MCS0402-IPC_A)
+Added Component: Designator=R3(FP-MCS0402-IPC_A)
+Added Component: Designator=R4(FP-MCS0402-IPC_A)
+Added Component: Designator=R5(FP-MCS0402-IPC_A)
+Added Component: Designator=R6(FP-MCS0402-IPC_A)
+Added Pin To Net: NetName=Bias1 Pin=R1-2
+Added Net: Name=Bias1
+Added Pin To Net: NetName=Bias2 Pin=R2-2
+Added Net: Name=Bias2
+Added Pin To Net: NetName=Bias3 Pin=R3-2
+Added Net: Name=Bias3
+Added Pin To Net: NetName=Bias4 Pin=R4-2
+Added Net: Name=Bias4
+Added Pin To Net: NetName=Bias5 Pin=R5-2
+Added Net: Name=Bias5
+Added Pin To Net: NetName=Bias6 Pin=R6-2
+Added Net: Name=Bias6
+Added Net: Name=DC1
+Added Net: Name=DC2
+Added Net: Name=DC3
+Added Net: Name=DC4
+Added Net: Name=DC5
+Added Net: Name=DC6
+Added Net: Name=DC7
+Added Net: Name=DC8
+Added Net: Name=DC9
+Added Net: Name=DC10
+Added Net: Name=DC11
+Added Net: Name=DC12
+Added Net: Name=DC13
+Added Net: Name=DC14
+Added Net: Name=DC15
+Added Net: Name=DC16
+Added Net: Name=DC17
+Added Net: Name=DC18
+Added Net: Name=DC19
+Added Net: Name=GND
+Added Pin To Net: NetName=RF1 Pin=C1-2
+Added Net: Name=RF1
+Added Pin To Net: NetName=RF2 Pin=C2-2
+Added Net: Name=RF2
+Added Pin To Net: NetName=RF3 Pin=C3-2
+Added Net: Name=RF3
+Added Pin To Net: NetName=RF4 Pin=C4-2
+Added Net: Name=RF4
+Added Pin To Net: NetName=RF5 Pin=C5-2
+Added Net: Name=RF5
+Added Pin To Net: NetName=RF6 Pin=C6-2
+Added Net: Name=RF6
+Added Pin To Net: NetName=RFDC1 Pin=C1-1
+Added Pin To Net: NetName=RFDC1 Pin=R1-1
+Added Net: Name=RFDC1
+Added Pin To Net: NetName=RFDC2 Pin=C2-1
+Added Pin To Net: NetName=RFDC2 Pin=R2-1
+Added Net: Name=RFDC2
+Added Pin To Net: NetName=RFDC3 Pin=C3-1
+Added Pin To Net: NetName=RFDC3 Pin=R3-1
+Added Net: Name=RFDC3
+Added Pin To Net: NetName=RFDC4 Pin=C4-1
+Added Pin To Net: NetName=RFDC4 Pin=R4-1
+Added Net: Name=RFDC4
+Added Pin To Net: NetName=RFDC5 Pin=C5-1
+Added Pin To Net: NetName=RFDC5 Pin=R5-1
+Added Net: Name=RFDC5
+Added Pin To Net: NetName=RFDC6 Pin=C6-1
+Added Pin To Net: NetName=RFDC6 Pin=R6-1
+Added Net: Name=RFDC6
+Added Class: Name=QSTL_24DC_4MW_PCB
+Added Rule: Name=Schematic Supply Nets

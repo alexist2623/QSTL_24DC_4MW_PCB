@@ -1,0 +1,96 @@
+Added Component: Designator=J1(SMP-FS-SBPCT)
+Added Component: Designator=J2(SMP-FS-SBPCT)
+Added Component: Designator=J3(581-M25-113L461)
+Added Component: Designator=J4(SMP-FS-SBPCT)
+Added Component: Designator=J5(SMP-FS-SBPCT)
+Added Component: Designator=J6(SMP-FS-SBPCT)
+Added Component: Designator=J7(SMP-FS-SBPCT)
+Added Component: Designator=Q1(QD4)
+Added Pin To Net: NetName=RF1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=RF2 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=DC1 Pin=J3-1
+Added Pin To Net: NetName=DC2 Pin=J3-2
+Added Pin To Net: NetName=DC3 Pin=J3-3
+Added Pin To Net: NetName=DC4 Pin=J3-4
+Added Pin To Net: NetName=DC5 Pin=J3-5
+Added Pin To Net: NetName=DC6 Pin=J3-6
+Added Pin To Net: NetName=DC7 Pin=J3-7
+Added Pin To Net: NetName=DC8 Pin=J3-8
+Added Pin To Net: NetName=DC9 Pin=J3-9
+Added Pin To Net: NetName=DC10 Pin=J3-10
+Added Pin To Net: NetName=DC11 Pin=J3-11
+Added Pin To Net: NetName=DC12 Pin=J3-12
+Added Pin To Net: NetName=DC13 Pin=J3-13
+Added Pin To Net: NetName=DC14 Pin=J3-14
+Added Pin To Net: NetName=DC15 Pin=J3-15
+Added Pin To Net: NetName=DC16 Pin=J3-16
+Added Pin To Net: NetName=DC17 Pin=J3-17
+Added Pin To Net: NetName=DC18 Pin=J3-18
+Added Pin To Net: NetName=DC19 Pin=J3-19
+Added Pin To Net: NetName=Bias1 Pin=J3-20
+Added Pin To Net: NetName=Bias2 Pin=J3-21
+Added Pin To Net: NetName=Bias3 Pin=J3-22
+Added Pin To Net: NetName=Bias4 Pin=J3-23
+Added Pin To Net: NetName=Bias5 Pin=J3-24
+Added Pin To Net: NetName=Bias6 Pin=J3-25
+Added Pin To Net: NetName=RF3 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=RF4 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=RF5 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=RF6 Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=RFDC1 Pin=Q1-1
+Added Pin To Net: NetName=DC1 Pin=Q1-2
+Added Pin To Net: NetName=DC2 Pin=Q1-3
+Added Pin To Net: NetName=DC3 Pin=Q1-4
+Added Pin To Net: NetName=RFDC2 Pin=Q1-5
+Added Pin To Net: NetName=DC4 Pin=Q1-6
+Added Pin To Net: NetName=DC5 Pin=Q1-7
+Added Pin To Net: NetName=RFDC3 Pin=Q1-8
+Added Pin To Net: NetName=DC6 Pin=Q1-9
+Added Pin To Net: NetName=DC7 Pin=Q1-10
+Added Pin To Net: NetName=DC8 Pin=Q1-11
+Added Pin To Net: NetName=DC9 Pin=Q1-12
+Added Pin To Net: NetName=RFDC4 Pin=Q1-13
+Added Pin To Net: NetName=RFDC5 Pin=Q1-14
+Added Pin To Net: NetName=DC10 Pin=Q1-15
+Added Pin To Net: NetName=DC11 Pin=Q1-16
+Added Pin To Net: NetName=DC12 Pin=Q1-17
+Added Pin To Net: NetName=DC13 Pin=Q1-18
+Added Pin To Net: NetName=DC14 Pin=Q1-19
+Added Pin To Net: NetName=RFDC6 Pin=Q1-20
+Added Pin To Net: NetName=DC15 Pin=Q1-21
+Added Pin To Net: NetName=DC16 Pin=Q1-22
+Added Pin To Net: NetName=DC17 Pin=Q1-23
+Added Pin To Net: NetName=DC18 Pin=Q1-24
+Added Pin To Net: NetName=DC19 Pin=Q1-25
+Added Member To Class: ClassName=QSTL_24DC_4MW_PCB Member=Component J1 SMP RF Connector
+Added Member To Class: ClassName=QSTL_24DC_4MW_PCB Member=Component J2 SMP RF Connector
+Added Member To Class: ClassName=QSTL_24DC_4MW_PCB Member=Component J3 Male 25 P Micro DSUB
+Added Member To Class: ClassName=QSTL_24DC_4MW_PCB Member=Component J4 SMP RF Connector
+Added Member To Class: ClassName=QSTL_24DC_4MW_PCB Member=Component J5 SMP RF Connector
+Added Member To Class: ClassName=QSTL_24DC_4MW_PCB Member=Component J6 SMP RF Connector
+Added Member To Class: ClassName=QSTL_24DC_4MW_PCB Member=Component J7 SMP RF Connector
+Added Member To Class: ClassName=QSTL_24DC_4MW_PCB Member=Component Q1 QD4
