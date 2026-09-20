@@ -1,0 +1,12 @@
+# Altium generated files and local working data
+**/History/
+**/__Previews/
+**/Project Logs for */
+**/Project Outputs for */
+**/work/
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.PcbDocPreview
+*.SchDocPreview
+*.Lck
+*.Lock

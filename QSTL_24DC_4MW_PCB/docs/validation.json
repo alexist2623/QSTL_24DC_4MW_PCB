@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "components": 16,
+  "pcb_pads": 129,
+  "schematic_pins": 123,
+  "named_nets": 33,
+  "connected_pins": 92,
+  "nc_pins": 31,
+  "via_count": 218,
+  "top_and_bottom_tented": 218,
+  "schematic_pcb_pin_nets_match": true,
+  "pcb_sha256": "51ce575d68cf1bb05e58efbc01285e996b92571f5cb6bca99966e21aa88a65cb",
+  "schematic_sha256": "8c9a82ce4ddc82592fbe48be379cee5bc73276e305d2e489047ad094e664e1c9",
+  "geometry_and_copper_streams_byte_identical_to_verified_design": true,
+  "DRC_before_mask_change": {
+    "violations": 0,
+    "checked_rules": 13
+  },
+  "mask_exception": "16 via-in-pad holes remain exposed on Bottom through the component pad solder-mask openings"
+}
