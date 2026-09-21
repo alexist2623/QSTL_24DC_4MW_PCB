@@ -26,7 +26,7 @@ Updated 2026-09-21. Later user instructions supersede earlier ones. Read this fi
 - RF QD pads are 1, 6, 9, 12, 18 and 24. Preserve the physical positions of the initial four RF channels; QD12 and QD18 are additional RF connections.
 - Current mapping: SMP1 to QD9, SMP2 to QD6, SMP3 to QD1, SMP4 to QD24, SMP5 to QD12, SMP6 to QD18. SMP7/8 centre pins are NC.
 - Each RF channel has a series capacitor and DC bias resistor. The RF path must pass through the resistor RF-side pad centre without a separate resistor branch stub.
-- Use via-in-pad for QD and the DC-feeding bias-resistor pads. RF series capacitors remain entirely on Bottom: remove their redundant through vias to avoid RF stubs. Retain their normal SMD pads and paste. Place R/C close together, with C naturally aligned to the RF path.
+- Use via-in-pad for the 18 QD DC pads and the DC-feeding bias-resistor pads. QD RF pads 1/6/9/12/18/24 connect entirely on Bottom and must have no vias; this supersedes the earlier all-QD-pad via requirement. R1-R6 must have exactly one via each, at DC pad 2. RF pad 1 connects entirely on Bottom and must have no via; do not add a through via to a same-layer RF junction. This explicitly supersedes the former two-vias-per-resistor implementation. RF series capacitors remain entirely on Bottom: remove their redundant through vias to avoid RF stubs. Retain their normal SMD pads and paste. Place R/C close together, with C naturally aligned to the RF path.
 - Connect 18 DC-only QD pads and six RF bias resistors to ZIF pins 1-12 and 15-26 only. Preserve the verified carrier-to-footprint physical contact numbering.
 - Resolve crossings by changing ZIF assignments in the schematic and PCB together. Each DC net must complete its route on one internal signal layer. Do not add standalone DC layer-transition vias.
 - Current bias assignments: ZIF21 to R1.2, ZIF25 to R2.2, ZIF23 to R3.2, ZIF26 to R4.2, ZIF02 to R5.2, ZIF04 to R6.2.
@@ -71,6 +71,7 @@ Updated 2026-09-21. Later user instructions supersede earlier ones. Read this fi
 
 ## Latest placement and rectangular mask refinement
 
+- Latest lower-pair refinement: move R1/C1 and R5/C5 toward X=9.75 mm so that each pair centre is at 70% of its previous distance from this board centreline. Define each pair centre by the union of its pad envelopes. Move each pair rigidly in X, preserving Y, spacing and rotations; reconnect RF and DC and rebuild masks and shielding. This is an additional move from the saved revision immediately before this request.
 - Move upper R3/C3 and R4/C4 upward by 2.0 mm, away from the QD bond pads. Move both lower R1/C1 and R5/C5 upward by 1.0 mm, as confirmed by the user. Additionally move R1/C1 inward by 0.35 mm. Preserve pair spacing and rotations; reconnect RF/DC without adding transition vias.
 - Increase the retained solder-control margin around each R/C group from 0.30 to 0.90 mm. Use exact axis-aligned group rectangles, not rounded convex-hull patches. Preserve normal SMD pad openings and paste, RF coverage and the unmasked QD field.
 - Cover the complete Bottom ZIF fanout-via array with a rectangular solder-mask area, extending 0.40 mm beyond its via lands.

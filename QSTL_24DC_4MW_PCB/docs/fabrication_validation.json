@@ -1,6 +1,6 @@
 {
   "passed": true,
-  "pcb_sha256": "6dd4737a82af333bc0672e1e72a8cd007b643c2699f0f8daae56ab9bb5d2c6a4",
+  "pcb_sha256": "84feed018fbaf5cbfa3203201c8771711b00ffec18aa0aadaf20fdeadb99ca63",
   "native_mechanical2_tracks": 4,
   "native_mechanical2_arcs": 4,
   "native_depth_note": true,
@@ -10,7 +10,7 @@
     11.9,
     44.65
   ],
-  "laser_drill_positions": 470,
+  "laser_drill_positions": 480,
   "original_project_document": true,
   "complete_production_CAM": false
 }

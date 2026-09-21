@@ -1,0 +1,123 @@
+{
+  "passed": true,
+  "errors": [],
+  "pcb_sha256": "84feed018fbaf5cbfa3203201c8771711b00ffec18aa0aadaf20fdeadb99ca63",
+  "pair_centres": {
+    "R1/C1": {
+      "before_x_mm": 14.300000609999998,
+      "after_x_mm": 12.934999529999999,
+      "shift_x_mm": -1.365001079999999,
+      "distance_ratio": 0.6999998028571693
+    },
+    "R5/C5": {
+      "before_x_mm": 4.849999189999999,
+      "after_x_mm": 6.31999879,
+      "shift_x_mm": 1.4699996000000004,
+      "distance_ratio": 0.700000131224468
+    }
+  },
+  "unchanged_Y_spacing_rotations": true,
+  "RF_tangent_junctions_checked": 38,
+  "existing_track_endings_inside_pads": [
+    {
+      "net": "MW4",
+      "point": [
+        8.05000168,
+        45.325736119999995
+      ],
+      "pad": "Q1.24"
+    },
+    {
+      "net": "MW3",
+      "point": [
+        11.44999996,
+        45.325736119999995
+      ],
+      "pad": "Q1.1"
+    }
+  ],
+  "DC_max_turn_degrees": 45.00029106166352,
+  "DC_internal_layer_per_net": {
+    "ZIF20": [
+      2
+    ],
+    "ZIF11": [
+      4
+    ],
+    "ZIF09": [
+      4
+    ],
+    "ZIF25": [
+      2
+    ],
+    "ZIF04": [
+      2
+    ],
+    "ZIF15": [
+      4
+    ],
+    "ZIF08": [
+      2
+    ],
+    "ZIF05": [
+      4
+    ],
+    "ZIF10": [
+      2
+    ],
+    "ZIF07": [
+      4
+    ],
+    "ZIF17": [
+      4
+    ],
+    "ZIF19": [
+      4
+    ],
+    "ZIF06": [
+      2
+    ],
+    "ZIF21": [
+      4
+    ],
+    "ZIF12": [
+      2
+    ],
+    "ZIF18": [
+      2
+    ],
+    "ZIF26": [
+      4
+    ],
+    "ZIF23": [
+      2
+    ],
+    "ZIF03": [
+      4
+    ],
+    "ZIF02": [
+      4
+    ],
+    "ZIF24": [
+      2
+    ],
+    "ZIF22": [
+      2
+    ],
+    "ZIF16": [
+      2
+    ],
+    "ZIF01": [
+      4
+    ]
+  },
+  "QD_RF_vias_removed": [
+    "24",
+    "18",
+    "12",
+    "9",
+    "1",
+    "6"
+  ],
+  "schematic_remap_required": false
+}

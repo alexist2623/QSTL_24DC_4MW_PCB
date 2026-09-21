@@ -1,0 +1,2 @@
+C1 label moved downward by 1.2 mm to remove silk collision.
+COMPLETE

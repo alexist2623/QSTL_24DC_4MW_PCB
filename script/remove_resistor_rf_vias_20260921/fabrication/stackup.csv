@@ -1,0 +1,7 @@
+layer,function,copper_mm,dielectric_below_mm,dielectric_material
+L1,GND,0.035,0.0784,1078RC69%
+L2,DC_A,0.0152,0.55,0.55 mm core
+L3,GND,0.0152,0.2008,7628RC50%
+L4,DC_B,0.0152,0.55,0.55 mm core
+L5,GND reference,0.0152,0.0784,1078RC69%
+L6,RF/QD/RC,0.035,,

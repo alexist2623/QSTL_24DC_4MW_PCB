@@ -1,0 +1,198 @@
+{
+  "passed": true,
+  "errors": [],
+  "pcb_sha256": "b173b9c072e841f28fbcb25979e917d688061a3a3b2fa08889f660b3afcafd10",
+  "upper_RC_to_QD_pad_gap_mm": 2.050001652354336,
+  "RC_mask_margin_mm": 0.9,
+  "ZIF_bottom_rectangle_mm": [
+    1.59999854,
+    0.50000074,
+    10.39999778,
+    9.100000379999999
+  ],
+  "RC_interpad_via_intrusions": [],
+  "SMP_rings": [
+    {
+      "component": "SMP1",
+      "count": 11,
+      "radius_mm": 0.88000027,
+      "regular_step_degrees": 27.692307692307693
+    },
+    {
+      "component": "SMP2",
+      "count": 11,
+      "radius_mm": 0.88000027,
+      "regular_step_degrees": 27.692307692307693
+    },
+    {
+      "component": "SMP3",
+      "count": 11,
+      "radius_mm": 0.88000027,
+      "regular_step_degrees": 27.692307692307693
+    },
+    {
+      "component": "SMP4",
+      "count": 11,
+      "radius_mm": 0.88000027,
+      "regular_step_degrees": 27.692307692307693
+    },
+    {
+      "component": "SMP5",
+      "count": 11,
+      "radius_mm": 0.88000027,
+      "regular_step_degrees": 27.692307692307693
+    },
+    {
+      "component": "SMP6",
+      "count": 11,
+      "radius_mm": 0.88000027,
+      "regular_step_degrees": 27.692307692307693
+    }
+  ],
+  "mount_solid_copper_checks": [
+    {
+      "layer": 1,
+      "x": 2.42499896,
+      "y": 65.33999886,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 1,
+      "x": 17.07500014,
+      "y": 65.33999886,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 1,
+      "x": 16.074999599999998,
+      "y": 18.08999938,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 1,
+      "x": 17.07500014,
+      "y": 13.189999019999998,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 1,
+      "x": 2.42499896,
+      "y": 13.189999019999998,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 1,
+      "x": 3.4249994999999998,
+      "y": 18.08999938,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 3,
+      "x": 2.42499896,
+      "y": 65.33999886,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 3,
+      "x": 17.07500014,
+      "y": 65.33999886,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 3,
+      "x": 16.074999599999998,
+      "y": 18.08999938,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 3,
+      "x": 17.07500014,
+      "y": 13.189999019999998,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 3,
+      "x": 2.42499896,
+      "y": 13.189999019999998,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 3,
+      "x": 3.4249994999999998,
+      "y": 18.08999938,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 5,
+      "x": 2.42499896,
+      "y": 65.33999886,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 5,
+      "x": 17.07500014,
+      "y": 65.33999886,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 5,
+      "x": 16.074999599999998,
+      "y": 18.08999938,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 5,
+      "x": 17.07500014,
+      "y": 13.189999019999998,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 5,
+      "x": 2.42499896,
+      "y": 13.189999019999998,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 5,
+      "x": 3.4249994999999998,
+      "y": 18.08999938,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 32,
+      "x": 2.42499896,
+      "y": 65.33999886,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 32,
+      "x": 17.07500014,
+      "y": 65.33999886,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 32,
+      "x": 16.074999599999998,
+      "y": 18.08999938,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 32,
+      "x": 17.07500014,
+      "y": 13.189999019999998,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 32,
+      "x": 2.42499896,
+      "y": 13.189999019999998,
+      "missing_copper_mm2": 0.0
+    },
+    {
+      "layer": 32,
+      "x": 3.4249994999999998,
+      "y": 18.08999938,
+      "missing_copper_mm2": 0.0
+    }
+  ]
+}

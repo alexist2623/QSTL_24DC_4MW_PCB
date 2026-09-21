@@ -1,15 +1,15 @@
 {
   "passed": true,
   "physical_copper_connectivity_passed": true,
-  "pcb_sha256": "6dd4737a82af333bc0672e1e72a8cd007b643c2699f0f8daae56ab9bb5d2c6a4",
+  "pcb_sha256": "84feed018fbaf5cbfa3203201c8771711b00ffec18aa0aadaf20fdeadb99ca63",
   "method": "Independent graph of saved copper intersections by net and physical layer, including explicit through and L5-L6 blind-via spans and GND polygon regions with inherited polygon net assignments; no ratsnest/DRC result used to infer continuity.",
   "connected_net_count": 37,
   "DC_net_count": 24,
   "RF_named_net_count": 12,
   "all_component_pin_assignments_match_schematic": true,
   "disconnected_copper_nets": [],
-  "via_spans_top_to_bottom": 60,
-  "via_spans_L5_L6": 470,
+  "via_spans_top_to_bottom": 48,
+  "via_spans_L5_L6": 480,
   "nets": [
     {
       "net": "GND",
@@ -48,7 +48,7 @@
         "SMP8-4",
         "SMP8-5"
       ],
-      "primitive_count": 512,
+      "primitive_count": 522,
       "groups": []
     },
     {
@@ -59,7 +59,7 @@
         "Q1-9",
         "R1-1"
       ],
-      "primitive_count": 10,
+      "primitive_count": 8,
       "groups": []
     },
     {
@@ -70,7 +70,7 @@
         "Q1-6",
         "R2-1"
       ],
-      "primitive_count": 8,
+      "primitive_count": 6,
       "groups": []
     },
     {
@@ -81,7 +81,7 @@
         "Q1-1",
         "R3-1"
       ],
-      "primitive_count": 10,
+      "primitive_count": 8,
       "groups": []
     },
     {
@@ -92,7 +92,7 @@
         "Q1-24",
         "R4-1"
       ],
-      "primitive_count": 10,
+      "primitive_count": 8,
       "groups": []
     },
     {
@@ -103,7 +103,7 @@
         "Q1-12",
         "R5-1"
       ],
-      "primitive_count": 10,
+      "primitive_count": 8,
       "groups": []
     },
     {
@@ -114,7 +114,7 @@
         "Q1-18",
         "R6-1"
       ],
-      "primitive_count": 8,
+      "primitive_count": 6,
       "groups": []
     },
     {
@@ -194,7 +194,7 @@
         "J1-2",
         "R5-2"
       ],
-      "primitive_count": 11,
+      "primitive_count": 9,
       "groups": []
     },
     {
@@ -364,7 +364,7 @@
         "J1-21",
         "R1-2"
       ],
-      "primitive_count": 15,
+      "primitive_count": 13,
       "groups": []
     },
     {

@@ -21,3 +21,7 @@ Before reporting completion, verify saved copper connectivity, stored connection
 Surround R/C footprints with shield vias without crossing the two-pad/inter-pad body envelopes. SMP rings use an equal-angle grid with symmetric RF escape gaps. Remove solder mask around all six mounting holes on both faces and use direct GND connections without thermal relief; this supersedes the earlier mounting-mask preservation instruction. Preserve SMP masks and keep mounting paste disabled.
 
 The RF shield offset is measured to the laser hole edge: 0.435 mm centre offset for 0.11 mm RF and 0.10 mm holes. R/C solder-control masks use 0.90 mm rectangular group margins; the Bottom ZIF via array has a rectangular mask boundary. Preserve these conditions during subsequent edits.
+
+Keep exactly one via per bias resistor, on DC pad 2. R1-R6 RF pad 1, both pads of C1-C6, and QD RF pads 1/6/9/12/18/24 must have no vias because their RF routing remains on Bottom. Preserve via-in-pad on the 18 QD DC pads and the ZIF fanout.
+
+Move the lower R1/C1 and R5/C5 pairs rigidly toward the board centreline at X=9.75 mm. Their pair centres must lie at 70% of their previous distance from that centreline; preserve Y, pair spacing and rotation. Use the union of each pair's pad envelopes to define its centre. Reconnect routes and regenerate local masks and shielding without adding DC transition vias.
