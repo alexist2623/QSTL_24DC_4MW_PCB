@@ -1,0 +1,199 @@
+{
+  "passed": true,
+  "pcb_sha256": "1cc6aafc06314555b8206005bea64ebd285a8434f9bc522d36a8c283f3d84aa5",
+  "scope": "Saved native DC routing. Through vias obstruct both DC layers; different-layer traces may overlap.",
+  "central_parallel_band_mm": {
+    "y_min": 18,
+    "y_max": 30,
+    "x_min": 6.1500004,
+    "x_max": 12.749999899999999
+  },
+  "central_lanes_by_layer": {
+    "2": [
+      {
+        "net": "ZIF04",
+        "x": 6.1500004,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF06",
+        "x": 6.7499991999999995,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF08",
+        "x": 7.35000054,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF10",
+        "x": 7.94999934,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF12",
+        "x": 8.55000068,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF16",
+        "x": 9.14999948,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF18",
+        "x": 9.750000819999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF20",
+        "x": 10.349999619999998,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF22",
+        "x": 10.950000959999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF24",
+        "x": 11.549999759999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF25",
+        "x": 12.150001099999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF23",
+        "x": 12.749999899999999,
+        "width": 0.12500102
+      }
+    ],
+    "4": [
+      {
+        "net": "ZIF02",
+        "x": 6.1500004,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF26",
+        "x": 6.7499991999999995,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF01",
+        "x": 7.35000054,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF03",
+        "x": 7.94999934,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF05",
+        "x": 8.55000068,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF07",
+        "x": 9.14999948,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF09",
+        "x": 9.750000819999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF11",
+        "x": 10.349999619999998,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF15",
+        "x": 10.950000959999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF17",
+        "x": 11.549999759999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF19",
+        "x": 12.150001099999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF21",
+        "x": 12.749999899999999,
+        "width": 0.12500102
+      }
+    ]
+  },
+  "central_centre_pitch_mm": 0.6,
+  "central_edge_gap_min_mm": 0.4749977799999998,
+  "central_edge_gap_max_mm": 0.47500032000000036,
+  "overlapping_centreline_length_across_L2_L4_mm": 144.0,
+  "cross_layer_track_pairs_intersecting_or_overlapping": 167,
+  "whole_board_DC_same_layer_min_edge_gap_mm": 0.17499837999999898,
+  "bias_via_field_unrelated_DC_intrusions": [],
+  "unrelated_DC_clearance_to_R1_C1_vias_min_mm": 0.5875007299999995,
+  "internal_DC_segments_before": 305,
+  "internal_DC_segments_after": 241,
+  "DC_planar_length_before_mm": 1040.0914376255791,
+  "DC_planar_length_after_mm": 1037.5813033249633,
+  "DC_planar_length_reduction_mm": 2.510134300615846,
+  "vias_added": 0,
+  "retained_transition_via": {
+    "net": "ZIF23",
+    "x": 13.35,
+    "y": 16.4,
+    "diameter": 0.5,
+    "hole": 0.25
+  },
+  "pin_changes": {
+    "Q1-3": {
+      "old": "ZIF19",
+      "new": "ZIF17"
+    },
+    "Q1-2": {
+      "old": "ZIF21",
+      "new": "ZIF19"
+    },
+    "R1-2": {
+      "old": "ZIF17",
+      "new": "ZIF21"
+    }
+  },
+  "zif_to_target": {
+    "2": "R4-2",
+    "4": "Q1-23",
+    "6": "Q1-22",
+    "8": "Q1-21",
+    "10": "Q1-20",
+    "12": "Q1-19",
+    "16": "Q1-18",
+    "18": "Q1-17",
+    "20": "Q1-16",
+    "22": "Q1-15",
+    "24": "Q1-14",
+    "26": "Q1-13",
+    "1": "Q1-12",
+    "3": "Q1-11",
+    "5": "Q1-10",
+    "7": "Q1-8",
+    "9": "Q1-7",
+    "11": "Q1-5",
+    "15": "Q1-4",
+    "17": "Q1-3",
+    "19": "Q1-2",
+    "21": "R1-2",
+    "23": "R2-2",
+    "25": "R3-2"
+  },
+  "RF_component_placement_and_layer_stack_unchanged": true
+}

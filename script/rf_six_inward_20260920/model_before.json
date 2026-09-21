@@ -1,0 +1,1184 @@
+[
+  {
+    "component": "R6",
+    "props": {
+      "V7_LAYER": "MECHANICAL5",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "0mil",
+      "OVERALLHEIGHT": "30mil",
+      "BODYPROJECTION": "1",
+      "BODYCOLOR3D": "4078660",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "0.0001mil",
+      "TEXTURESIZEY": "0.0001mil",
+      "TEXTUREROTATION": " 3.60000000000000E+0002",
+      "MODELID": "{D2F64E4A-6C04-41E4-9F08-85C4274F9965}",
+      "MODEL.CHECKSUM": "2647964261",
+      "MODEL.EMBED": "FALSE",
+      "MODEL.NAME": "",
+      "MODEL.2D.X": "112.4724mil",
+      "MODEL.2D.Y": "1604.2757mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "0.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "0mil",
+      "MODEL.MODELTYPE": "0",
+      "MODEL.EXTRUDED.MINZ": "0mil",
+      "MODEL.EXTRUDED.MAXZ": "30mil"
+    },
+    "outline_mm": [
+      [
+        3.6567998999999998,
+        41.148601979999995
+      ],
+      [
+        3.6567998999999998,
+        40.348603579999995
+      ],
+      [
+        2.05679802,
+        40.348603579999995
+      ],
+      [
+        2.05679802,
+        41.148601979999995
+      ]
+    ]
+  },
+  {
+    "component": "R5",
+    "props": {
+      "V7_LAYER": "MECHANICAL5",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "0mil",
+      "OVERALLHEIGHT": "30mil",
+      "BODYPROJECTION": "1",
+      "BODYCOLOR3D": "4078660",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "0.0001mil",
+      "TEXTURESIZEY": "0.0001mil",
+      "TEXTUREROTATION": " 3.60000000000000E+0002",
+      "MODELID": "{D2F64E4A-6C04-41E4-9F08-85C4274F9965}",
+      "MODEL.CHECKSUM": "2647964261",
+      "MODEL.EMBED": "FALSE",
+      "MODEL.NAME": "",
+      "MODEL.2D.X": "191.2125mil",
+      "MODEL.2D.Y": "1181.0475mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "0.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "0mil",
+      "MODEL.MODELTYPE": "0",
+      "MODEL.EXTRUDED.MINZ": "0mil",
+      "MODEL.EXTRUDED.MAXZ": "30mil"
+    },
+    "outline_mm": [
+      [
+        5.6567959,
+        30.398605699999997
+      ],
+      [
+        5.6567959,
+        29.598607299999998
+      ],
+      [
+        4.0567991,
+        29.598607299999998
+      ],
+      [
+        4.0567991,
+        30.398605699999997
+      ]
+    ]
+  },
+  {
+    "component": "R4",
+    "props": {
+      "V7_LAYER": "MECHANICAL5",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "0mil",
+      "OVERALLHEIGHT": "30mil",
+      "BODYPROJECTION": "1",
+      "BODYCOLOR3D": "4078660",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "0.0001mil",
+      "TEXTURESIZEY": "0.0001mil",
+      "TEXTUREROTATION": " 1.80000000000000E+0002",
+      "MODELID": "{D2F64E4A-6C04-41E4-9F08-85C4274F9965}",
+      "MODEL.CHECKSUM": "2647964261",
+      "MODEL.EMBED": "FALSE",
+      "MODEL.NAME": "",
+      "MODEL.2D.X": "301.4488mil",
+      "MODEL.2D.Y": "1826.7167mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "0.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "0mil",
+      "MODEL.MODELTYPE": "0",
+      "MODEL.EXTRUDED.MINZ": "0mil",
+      "MODEL.EXTRUDED.MAXZ": "30mil"
+    },
+    "outline_mm": [
+      [
+        8.45680046,
+        46.798603379999996
+      ],
+      [
+        8.45680046,
+        45.998604979999996
+      ],
+      [
+        6.8567985799999995,
+        45.998604979999996
+      ],
+      [
+        6.8567985799999995,
+        46.798603379999996
+      ]
+    ]
+  },
+  {
+    "component": "R3",
+    "props": {
+      "V7_LAYER": "MECHANICAL5",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "0mil",
+      "OVERALLHEIGHT": "30mil",
+      "BODYPROJECTION": "1",
+      "BODYCOLOR3D": "4078660",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0.0001mil",
+      "TEXTURESIZEX": "0.0001mil",
+      "TEXTURESIZEY": "0.0001mil",
+      "TEXTUREROTATION": " 3.60000000000000E+0002",
+      "MODELID": "{D2F64E4A-6C04-41E4-9F08-85C4274F9965}",
+      "MODEL.CHECKSUM": "2647964261",
+      "MODEL.EMBED": "FALSE",
+      "MODEL.NAME": "",
+      "MODEL.2D.X": "466.2678mil",
+      "MODEL.2D.Y": "1826.8266mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "0.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "0mil",
+      "MODEL.MODELTYPE": "0",
+      "MODEL.EXTRUDED.MINZ": "0mil",
+      "MODEL.EXTRUDED.MAXZ": "30mil"
+    },
+    "outline_mm": [
+      [
+        11.04320372,
+        46.00139643999999
+      ],
+      [
+        11.04320372,
+        46.80139738
+      ],
+      [
+        12.643200519999999,
+        46.80139738
+      ],
+      [
+        12.643200519999999,
+        46.00139643999999
+      ]
+    ]
+  },
+  {
+    "component": "R2",
+    "props": {
+      "V7_LAYER": "MECHANICAL5",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "0mil",
+      "OVERALLHEIGHT": "30mil",
+      "BODYPROJECTION": "1",
+      "BODYCOLOR3D": "4078660",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "0.0001mil",
+      "TEXTURESIZEY": "0.0001mil",
+      "TEXTUREROTATION": " 1.80000000000000E+0002",
+      "MODELID": "{D2F64E4A-6C04-41E4-9F08-85C4274F9965}",
+      "MODEL.CHECKSUM": "2647964261",
+      "MODEL.EMBED": "FALSE",
+      "MODEL.NAME": "",
+      "MODEL.2D.X": "655.2441mil",
+      "MODEL.2D.Y": "1631.9448mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "0.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "0mil",
+      "MODEL.MODELTYPE": "0",
+      "MODEL.EXTRUDED.MINZ": "0mil",
+      "MODEL.EXTRUDED.MAXZ": "30mil"
+    },
+    "outline_mm": [
+      [
+        15.843199199999999,
+        41.051398719999995
+      ],
+      [
+        15.843199199999999,
+        41.851397119999994
+      ],
+      [
+        17.443201079999998,
+        41.851397119999994
+      ],
+      [
+        17.443201079999998,
+        41.051398719999995
+      ]
+    ]
+  },
+  {
+    "component": "R1",
+    "props": {
+      "V7_LAYER": "MECHANICAL5",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "0mil",
+      "OVERALLHEIGHT": "30mil",
+      "BODYPROJECTION": "1",
+      "BODYCOLOR3D": "4078660",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "0.0001mil",
+      "TEXTURESIZEY": "0.0001mil",
+      "TEXTUREROTATION": " 1.80000000000000E+0002",
+      "MODELID": "{D2F64E4A-6C04-41E4-9F08-85C4274F9965}",
+      "MODEL.CHECKSUM": "2647964261",
+      "MODEL.EMBED": "FALSE",
+      "MODEL.NAME": "",
+      "MODEL.2D.X": "576.504mil",
+      "MODEL.2D.Y": "1181.1573mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "0.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "0mil",
+      "MODEL.MODELTYPE": "0",
+      "MODEL.EXTRUDED.MINZ": "0mil",
+      "MODEL.EXTRUDED.MAXZ": "30mil"
+    },
+    "outline_mm": [
+      [
+        13.8432032,
+        29.601396219999998
+      ],
+      [
+        13.8432032,
+        30.401394619999998
+      ],
+      [
+        15.4432,
+        30.401394619999998
+      ],
+      [
+        15.4432,
+        29.601396219999998
+      ]
+    ]
+  },
+  {
+    "component": "C6",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "0mil",
+      "OVERALLHEIGHT": "10mil",
+      "BODYPROJECTION": "1",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "67,97,112,95,77,117,114,97,116,97,95,71,67,77,49,53,53,82,55,49,72,50,55,49,75,65,51,55,68,95,101,101,99",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "0.0001mil",
+      "TEXTURESIZEY": "0.0001mil",
+      "TEXTUREROTATION": " 9.00000000000000E+0001",
+      "MODELID": "{31BA22CC-15EE-41CC-9111-EC91D5265592}",
+      "MODEL.CHECKSUM": "1977557292",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "Cap_Murata_GCM155R71H271KA37D_eec.STEP",
+      "MODEL.2D.X": "145.6693mil",
+      "MODEL.2D.Y": "1543.3071mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "0.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "180.000",
+      "MODEL.3D.DZ": "0mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        3.1637630399999996,
+        38.16376416
+      ],
+      [
+        3.1637630399999996,
+        40.23623652
+      ],
+      [
+        4.236237399999999,
+        40.23623652
+      ],
+      [
+        4.236237399999999,
+        38.16376416
+      ]
+    ]
+  },
+  {
+    "component": "SMP6",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "-126.378mil",
+      "OVERALLHEIGHT": "212.5984mil",
+      "BODYPROJECTION": "0",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "275.5906mil",
+      "TEXTURESIZEY": "275.5906mil",
+      "TEXTUREROTATION": " 1.80000000000000E+0002",
+      "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+      "MODEL.CHECKSUM": "3679134564",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "SMP-FS-SBPCT.stp",
+      "MODEL.2D.X": "122.0472mil",
+      "MODEL.2D.Y": "1351.9685mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "90.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "180.000",
+      "MODEL.3D.DZ": "23.622mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        5.849998459999999,
+        37.07826976
+      ],
+      [
+        0.34999929999999996,
+        37.07826976
+      ],
+      [
+        0.34999929999999996,
+        31.601730039999996
+      ],
+      [
+        5.849998459999999,
+        31.601730039999996
+      ]
+    ]
+  },
+  {
+    "component": "C5",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "0mil",
+      "OVERALLHEIGHT": "10mil",
+      "BODYPROJECTION": "1",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "67,97,112,95,77,117,114,97,116,97,95,71,67,77,49,53,53,82,55,49,72,50,55,49,75,65,51,55,68,95,101,101,99",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "0.0001mil",
+      "TEXTURESIZEY": "0.0001mil",
+      "TEXTUREROTATION": " 9.00000000000000E+0001",
+      "MODELID": "{31BA22CC-15EE-41CC-9111-EC91D5265592}",
+      "MODEL.CHECKSUM": "1977557292",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "Cap_Murata_GCM155R71H271KA37D_eec.STEP",
+      "MODEL.2D.X": "224.4094mil",
+      "MODEL.2D.Y": "1120.0787mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "0.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "180.000",
+      "MODEL.3D.DZ": "0mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        5.16376158,
+        27.413762799999997
+      ],
+      [
+        5.16376158,
+        29.48623516
+      ],
+      [
+        6.236235939999999,
+        29.48623516
+      ],
+      [
+        6.236235939999999,
+        27.413762799999997
+      ]
+    ]
+  },
+  {
+    "component": "SMP5",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "-126.378mil",
+      "OVERALLHEIGHT": "212.5984mil",
+      "BODYPROJECTION": "0",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "275.5906mil",
+      "TEXTURESIZEY": "275.5906mil",
+      "TEXTUREROTATION": " 1.80000000000000E+0002",
+      "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+      "MODEL.CHECKSUM": "3679134564",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "SMP-FS-SBPCT.stp",
+      "MODEL.2D.X": "122.0472mil",
+      "MODEL.2D.Y": "1068.5039mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "90.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "180.000",
+      "MODEL.3D.DZ": "23.622mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        5.849998459999999,
+        29.878268919999996
+      ],
+      [
+        0.34999929999999996,
+        29.878268919999996
+      ],
+      [
+        0.34999929999999996,
+        24.4017292
+      ],
+      [
+        5.849998459999999,
+        24.4017292
+      ]
+    ]
+  },
+  {
+    "component": "C4",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "0mil",
+      "OVERALLHEIGHT": "10mil",
+      "BODYPROJECTION": "1",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "67,97,112,95,77,117,114,97,116,97,95,71,67,77,49,53,53,82,55,49,72,50,55,49,75,65,51,55,68,95,101,101,99",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "0.0001mil",
+      "TEXTURESIZEY": "0.0001mil",
+      "TEXTUREROTATION": " 2.70000000000000E+0002",
+      "MODELID": "{31BA22CC-15EE-41CC-9111-EC91D5265592}",
+      "MODEL.CHECKSUM": "1977557292",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "Cap_Murata_GCM155R71H271KA37D_eec.STEP",
+      "MODEL.2D.X": "334.6457mil",
+      "MODEL.2D.Y": "1887.7953mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "0.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "90.000",
+      "MODEL.3D.DZ": "0mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        9.03623796,
+        48.98623679999999
+      ],
+      [
+        9.03623796,
+        46.913764439999994
+      ],
+      [
+        7.963763599999999,
+        46.913764439999994
+      ],
+      [
+        7.963763599999999,
+        48.98623679999999
+      ]
+    ]
+  },
+  {
+    "component": "C3",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "0mil",
+      "OVERALLHEIGHT": "10mil",
+      "BODYPROJECTION": "1",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "67,97,112,95,77,117,114,97,116,97,95,71,67,77,49,53,53,82,55,49,72,50,55,49,75,65,51,55,68,95,101,101,99",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "0.0001mil",
+      "TEXTURESIZEY": "0.0001mil",
+      "TEXTUREROTATION": " 2.70000000000000E+0002",
+      "MODELID": "{31BA22CC-15EE-41CC-9111-EC91D5265592}",
+      "MODEL.CHECKSUM": "1977557292",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "Cap_Murata_GCM155R71H271KA37D_eec.STEP",
+      "MODEL.2D.X": "433.0709mil",
+      "MODEL.2D.Y": "1887.7953mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "0.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "90.000",
+      "MODEL.3D.DZ": "0mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        11.536238039999999,
+        48.98623679999999
+      ],
+      [
+        11.536238039999999,
+        46.913764439999994
+      ],
+      [
+        10.46376368,
+        46.913764439999994
+      ],
+      [
+        10.46376368,
+        48.98623679999999
+      ]
+    ]
+  },
+  {
+    "component": "C2",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "0mil",
+      "OVERALLHEIGHT": "10mil",
+      "BODYPROJECTION": "1",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "67,97,112,95,77,117,114,97,116,97,95,71,67,77,49,53,53,82,55,49,72,50,55,49,75,65,51,55,68,95,101,101,99",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "0.0001mil",
+      "TEXTURESIZEY": "0.0001mil",
+      "TEXTUREROTATION": " 9.00000000000000E+0001",
+      "MODELID": "{31BA22CC-15EE-41CC-9111-EC91D5265592}",
+      "MODEL.CHECKSUM": "1977557292",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "Cap_Murata_GCM155R71H271KA37D_eec.STEP",
+      "MODEL.2D.X": "622.0472mil",
+      "MODEL.2D.Y": "1570.8661mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "0.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "180.000",
+      "MODEL.3D.DZ": "0mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        15.263761699999998,
+        38.86376276
+      ],
+      [
+        15.263761699999998,
+        40.93623512
+      ],
+      [
+        16.336236059999997,
+        40.93623512
+      ],
+      [
+        16.336236059999997,
+        38.86376276
+      ]
+    ]
+  },
+  {
+    "component": "C1",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "0mil",
+      "OVERALLHEIGHT": "10mil",
+      "BODYPROJECTION": "1",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "67,97,112,95,77,117,114,97,116,97,95,71,67,77,49,53,53,82,55,49,72,50,55,49,75,65,51,55,68,95,101,101,99",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "0.0001mil",
+      "TEXTURESIZEY": "0.0001mil",
+      "TEXTUREROTATION": " 9.00000000000000E+0001",
+      "MODELID": "{31BA22CC-15EE-41CC-9111-EC91D5265592}",
+      "MODEL.CHECKSUM": "1977557292",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "Cap_Murata_GCM155R71H271KA37D_eec.STEP",
+      "MODEL.2D.X": "543.3071mil",
+      "MODEL.2D.Y": "1120.0787mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "0.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "180.000",
+      "MODEL.3D.DZ": "0mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        13.26376316,
+        27.413762799999997
+      ],
+      [
+        13.26376316,
+        29.48623516
+      ],
+      [
+        14.33623752,
+        29.48623516
+      ],
+      [
+        14.33623752,
+        27.413762799999997
+      ]
+    ]
+  },
+  {
+    "component": "SMP1",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "-126.378mil",
+      "OVERALLHEIGHT": "212.5984mil",
+      "BODYPROJECTION": "0",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "275.5906mil",
+      "TEXTURESIZEY": "275.5906mil",
+      "TEXTUREROTATION": " 0.00000000000000E+0000",
+      "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+      "MODEL.CHECKSUM": "3679134564",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "SMP-FS-SBPCT.stp",
+      "MODEL.2D.X": "645.6693mil",
+      "MODEL.2D.Y": "1068.5039mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "90.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "23.622mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        13.650000639999998,
+        24.4017292
+      ],
+      [
+        19.1499998,
+        24.4017292
+      ],
+      [
+        19.1499998,
+        29.878268919999996
+      ],
+      [
+        13.650000639999998,
+        29.878268919999996
+      ]
+    ]
+  },
+  {
+    "component": "SMP2",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "-126.378mil",
+      "OVERALLHEIGHT": "212.5984mil",
+      "BODYPROJECTION": "0",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "275.5906mil",
+      "TEXTURESIZEY": "275.5906mil",
+      "TEXTUREROTATION": " 0.00000000000000E+0000",
+      "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+      "MODEL.CHECKSUM": "3679134564",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "SMP-FS-SBPCT.stp",
+      "MODEL.2D.X": "645.6693mil",
+      "MODEL.2D.Y": "1351.9685mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "90.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "23.622mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        13.650000639999998,
+        31.601730039999996
+      ],
+      [
+        19.1499998,
+        31.601730039999996
+      ],
+      [
+        19.1499998,
+        37.07826976
+      ],
+      [
+        13.650000639999998,
+        37.07826976
+      ]
+    ]
+  },
+  {
+    "component": "SMP3",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "-126.378mil",
+      "OVERALLHEIGHT": "212.5984mil",
+      "BODYPROJECTION": "0",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "275.5906mil",
+      "TEXTURESIZEY": "275.5906mil",
+      "TEXTUREROTATION": " 0.00000000000000E+0000",
+      "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+      "MODEL.CHECKSUM": "3679134564",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "SMP-FS-SBPCT.stp",
+      "MODEL.2D.X": "645.6693mil",
+      "MODEL.2D.Y": "1922.8346mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "90.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "23.622mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        13.650000639999998,
+        46.10172898
+      ],
+      [
+        19.1499998,
+        46.10172898
+      ],
+      [
+        19.1499998,
+        51.578268699999995
+      ],
+      [
+        13.650000639999998,
+        51.578268699999995
+      ]
+    ]
+  },
+  {
+    "component": "SMP4",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "-126.378mil",
+      "OVERALLHEIGHT": "212.5984mil",
+      "BODYPROJECTION": "0",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "275.5906mil",
+      "TEXTURESIZEY": "275.5906mil",
+      "TEXTUREROTATION": " 0.00000000000000E+0000",
+      "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+      "MODEL.CHECKSUM": "3679134564",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "SMP-FS-SBPCT.stp",
+      "MODEL.2D.X": "122.0472mil",
+      "MODEL.2D.Y": "1922.8346mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "90.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "23.622mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        0.34999929999999996,
+        46.10172898
+      ],
+      [
+        5.849998459999999,
+        46.10172898
+      ],
+      [
+        5.849998459999999,
+        51.578268699999995
+      ],
+      [
+        0.34999929999999996,
+        51.578268699999995
+      ]
+    ]
+  },
+  {
+    "component": "SMP7",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "-126.378mil",
+      "OVERALLHEIGHT": "212.5984mil",
+      "BODYPROJECTION": "0",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "275.5906mil",
+      "TEXTURESIZEY": "275.5906mil",
+      "TEXTUREROTATION": " 0.00000000000000E+0000",
+      "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+      "MODEL.CHECKSUM": "3679134564",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "SMP-FS-SBPCT.stp",
+      "MODEL.2D.X": "122.0472mil",
+      "MODEL.2D.Y": "2218.1102mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "90.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "23.622mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        0.34999929999999996,
+        53.601729219999996
+      ],
+      [
+        5.849998459999999,
+        53.601729219999996
+      ],
+      [
+        5.849998459999999,
+        59.078268939999994
+      ],
+      [
+        0.34999929999999996,
+        59.078268939999994
+      ]
+    ]
+  },
+  {
+    "component": "SMP8",
+    "props": {
+      "V7_LAYER": "MECHANICAL13",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "-126.378mil",
+      "OVERALLHEIGHT": "212.5984mil",
+      "BODYPROJECTION": "0",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "275.5906mil",
+      "TEXTURESIZEY": "275.5906mil",
+      "TEXTUREROTATION": " 0.00000000000000E+0000",
+      "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+      "MODEL.CHECKSUM": "3679134564",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "SMP-FS-SBPCT.stp",
+      "MODEL.2D.X": "645.6693mil",
+      "MODEL.2D.Y": "2218.1102mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "90.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "23.622mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        13.650000639999998,
+        53.601729219999996
+      ],
+      [
+        19.1499998,
+        53.601729219999996
+      ],
+      [
+        19.1499998,
+        59.078268939999994
+      ],
+      [
+        13.650000639999998,
+        59.078268939999994
+      ]
+    ]
+  },
+  {
+    "component": "J1",
+    "props": {
+      "V7_LAYER": "MECHANICAL1",
+      "NAME": " ",
+      "KIND": "0",
+      "SUBPOLYINDEX": "-1",
+      "UNIONINDEX": "0",
+      "ARCRESOLUTION": "0.5mil",
+      "ISSHAPEBASED": "FALSE",
+      "CAVITYHEIGHT": "0mil",
+      "STANDOFFHEIGHT": "4.3308mil",
+      "OVERALLHEIGHT": "49.6063mil",
+      "BODYPROJECTION": "0",
+      "BODYCOLOR3D": "8421504",
+      "BODYOPACITY3D": "1.000",
+      "IDENTIFIER": "53,48,50,53,57,56,53,49,57,51",
+      "TEXTURE": "",
+      "TEXTURECENTERX": "0mil",
+      "TEXTURECENTERY": "0mil",
+      "TEXTURESIZEX": "0mil",
+      "TEXTURESIZEY": "0mil",
+      "TEXTUREROTATION": " 1.80000000000000E+0002",
+      "MODELID": "{62B47A47-CB3F-4FB6-BAB2-2FB06AB83F54}",
+      "MODEL.CHECKSUM": "119773691",
+      "MODEL.EMBED": "TRUE",
+      "MODEL.NAME": "5025985193.stp",
+      "MODEL.2D.X": "383.8583mil",
+      "MODEL.2D.Y": "175.1968mil",
+      "MODEL.2D.ROTATION": "0.000",
+      "MODEL.3D.ROTX": "90.000",
+      "MODEL.3D.ROTY": "0.000",
+      "MODEL.3D.ROTZ": "0.000",
+      "MODEL.3D.DZ": "27.5591mil",
+      "MODEL.MODELTYPE": "1",
+      "MODEL.MODELSOURCE": "Undefined"
+    },
+    "outline_mm": [
+      [
+        1.05000044,
+        2.62499856
+      ],
+      [
+        18.4500012,
+        2.62499856
+      ],
+      [
+        18.4500012,
+        6.42499858
+      ],
+      [
+        1.05000044,
+        6.42499858
+      ]
+    ]
+  }
+]

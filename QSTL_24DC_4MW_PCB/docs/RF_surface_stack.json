@@ -1,0 +1,27 @@
+{
+  "pcb_sha256": "d8d3e5dc6852aff818760e863640ffa2af25820d1afbc0d0a6ad946ec6c7260b",
+  "from_QD_side": [
+    "L6 RF",
+    "L5 GND",
+    "L4 DC",
+    "L3 GND",
+    "L2 DC",
+    "L1 GND"
+  ],
+  "physical_stack": [
+    "L1_GND",
+    "L2_DC_A",
+    "L3_GND",
+    "L4_DC_B",
+    "L5_GND",
+    "L6_RF_QD"
+  ],
+  "dielectric_dimensions_unchanged": true,
+  "ground_polygons": [
+    1,
+    3,
+    5
+  ],
+  "RF_width_mm": 0.21405596,
+  "DC_width_mm": 0.125
+}

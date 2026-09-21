@@ -1,0 +1,12 @@
+{
+  "source_sha256": "5d8bfeaebc0bdc2be4a6a13aa78f0bf1a0d7c5f48fc40d0f0ef8d9b645276ae4",
+  "shield_vias": 287,
+  "ring_vias": 70,
+  "fence_vias": 217,
+  "nominal_center_pitch_mm": 0.4,
+  "nominal_land_edge_gap_mm": 0.15,
+  "min_land_edge_gap_mm": 0.14999758825481563,
+  "minimum_trace_edge_gap_mm": 0.3299986189600996,
+  "vias_with_nearest_gap_within_5um": 283,
+  "component_clearance_exceptions": "Larger gaps at component pads, holes, RF exits and fence endpoints."
+}

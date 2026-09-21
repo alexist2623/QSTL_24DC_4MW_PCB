@@ -1,0 +1,107 @@
+{
+  "passed": true,
+  "errors": [],
+  "pcb_sha256": "bd8c71fd36253a7f13eab69a7828f3587760a34894e2eb19c72f3818caaff793",
+  "source_sha256": "d8d3e5dc6852aff818760e863640ffa2af25820d1afbc0d0a6ad946ec6c7260b",
+  "geometry_and_pin_assignments_preserved": true,
+  "counts": {
+    "components": 22,
+    "pads": 147,
+    "tracks": 250,
+    "arcs": 18,
+    "vias": 72
+  },
+  "paste": {
+    "explicit_via_paste_apertures_removed": 144,
+    "explicit_paste_regions_remaining": 0,
+    "SMP_pads_disabled": 40,
+    "mounting_pads_disabled": 6,
+    "normal_SMD_pads_preserved": 101,
+    "via_count": 72,
+    "native_via_generic_enabled_flag_serializes_as_true": true,
+    "note": "Vias do not create native pad-style paste apertures. Their former dedicated 144 paste regions are absent. SMD pad paste coincident with via-in-pad is intentionally retained. The generic via PasteMaskEnabled getter is not used as aperture evidence."
+  },
+  "solder_mask": {
+    "openings": {
+      "37": {
+        "opening_region_count": 1,
+        "protected_islands": 18,
+        "opening_area_inside_board_mm2": 882.3920869165222,
+        "native_quantization_difference_mm2": 0.0002454293186135555
+      },
+      "38": {
+        "opening_region_count": 1,
+        "protected_islands": 10,
+        "opening_area_inside_board_mm2": 857.4022569965753,
+        "native_quantization_difference_mm2": 0.00028521836525043467
+      }
+    },
+    "RF_protected_margin_mm": 0.25,
+    "SMP_and_mounting_solder_expansions_preserved": true,
+    "via_tent_flags_preserved": 72
+  },
+  "QD_ground": {
+    "boundary_mm": [
+      7.6,
+      40.35,
+      11.9,
+      44.65
+    ],
+    "coordinate_tolerance_mm": 1.016e-05,
+    "exclusions_on_layers": [
+      2,
+      3,
+      4,
+      5,
+      32
+    ],
+    "physical_board_cutout": false,
+    "layers": {
+      "1": {
+        "ground_area_inside_boundary_mm2": 18.48999999999999,
+        "ground_area_inside_boundary_with_native_tolerance_mm2": 18.48982524841287,
+        "top_preserved": true
+      },
+      "2": {
+        "ground_area_inside_boundary_mm2": 0.0,
+        "ground_area_inside_boundary_with_native_tolerance_mm2": 0.0,
+        "top_preserved": null
+      },
+      "3": {
+        "ground_area_inside_boundary_mm2": 1.5924051329091327e-06,
+        "ground_area_inside_boundary_with_native_tolerance_mm2": 0.0,
+        "top_preserved": null
+      },
+      "4": {
+        "ground_area_inside_boundary_mm2": 0.0,
+        "ground_area_inside_boundary_with_native_tolerance_mm2": 0.0,
+        "top_preserved": null
+      },
+      "5": {
+        "ground_area_inside_boundary_mm2": 1.5924051329091327e-06,
+        "ground_area_inside_boundary_with_native_tolerance_mm2": 0.0,
+        "top_preserved": null
+      },
+      "32": {
+        "ground_area_inside_boundary_mm2": 0.0,
+        "ground_area_inside_boundary_with_native_tolerance_mm2": 0.0,
+        "top_preserved": null
+      }
+    }
+  },
+  "other_design_files_unchanged": {
+    "QSTL_24DC_4MW_PCB.PrjPcb": true,
+    "QSTL_24DC_4MW_PCB.SchDoc": true,
+    "QSTL_24DC_4MW_PCB.SchLib": true,
+    "QSTL_24DC_4MW_PCB.PcbLib": true,
+    "Passives_0603.PcbLib": true,
+    "Capacitors_0402.PcbLib": true
+  },
+  "DRC": {
+    "checked_rules": 13,
+    "violations": 0,
+    "report": "Mask_Ground_DRC.html"
+  },
+  "connected_nets": 37,
+  "stored_connections": 0
+}

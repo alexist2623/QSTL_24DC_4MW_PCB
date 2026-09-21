@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "errors": [],
+  "planned_capacitor_vias_removed": 12,
+  "planned_vias": 60,
+  "planned_shield_vias": 0,
+  "cavity_pad_gap_mm": 0.199997929999995,
+  "minimum_different_net_gap_mm": 0.17499837999999987,
+  "clearance_conflicts": [],
+  "existing_mechanical_objects": {
+    "Tracks6/Data": {
+      "61": 28,
+      "69": 28,
+      "71": 28,
+      "72": 14,
+      "58": 4
+    },
+    "Arcs6/Data": {
+      "58": 4
+    },
+    "Fills6/Data": {
+      "57": 1
+    }
+  },
+  "not_saved_board_validation": true
+}

@@ -1,0 +1,64 @@
+{
+  "pcb_sha256": "d8d3e5dc6852aff818760e863640ffa2af25820d1afbc0d0a6ad946ec6c7260b",
+  "passed": true,
+  "channels": {
+    "1": {
+      "QD_pin": 9,
+      "input": "SMP1-1",
+      "capacitor": "C1",
+      "bias": "R1",
+      "native_planar_copper_length_mm": 14.861035629387555,
+      "resistor_RF_pad_on_main_line": true,
+      "resistor_branch_stub_mm": 0
+    },
+    "2": {
+      "QD_pin": 6,
+      "input": "SMP2-1",
+      "capacitor": "C2",
+      "bias": "R2",
+      "native_planar_copper_length_mm": 10.346819139389572,
+      "resistor_RF_pad_on_main_line": true,
+      "resistor_branch_stub_mm": 0
+    },
+    "3": {
+      "QD_pin": 1,
+      "input": "SMP3-1",
+      "capacitor": "C3",
+      "bias": "R3",
+      "native_planar_copper_length_mm": 8.164685337195214,
+      "resistor_RF_pad_on_main_line": true,
+      "resistor_branch_stub_mm": 0
+    },
+    "4": {
+      "QD_pin": 24,
+      "input": "SMP4-1",
+      "capacitor": "C4",
+      "bias": "R4",
+      "native_planar_copper_length_mm": 8.164690417195217,
+      "resistor_RF_pad_on_main_line": true,
+      "resistor_branch_stub_mm": 0
+    },
+    "5": {
+      "QD_pin": 12,
+      "input": "SMP5-1",
+      "capacitor": "C5",
+      "bias": "R5",
+      "native_planar_copper_length_mm": 16.020834440743084,
+      "resistor_RF_pad_on_main_line": true,
+      "resistor_branch_stub_mm": 0
+    },
+    "6": {
+      "QD_pin": 18,
+      "input": "SMP6-1",
+      "capacitor": "C6",
+      "bias": "R6",
+      "native_planar_copper_length_mm": 9.646824875443485,
+      "resistor_RF_pad_on_main_line": true,
+      "resistor_branch_stub_mm": 0
+    }
+  },
+  "RF_layer": 32,
+  "RF_arcs": 18,
+  "RF_tracks": 30,
+  "shield_vias": 0
+}

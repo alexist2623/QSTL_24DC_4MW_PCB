@@ -1,0 +1,15 @@
+{
+  "status": "Validated design companion; complete production CAM export not included",
+  "pcb_sha256": "6dd4737a82af333bc0672e1e72a8cd007b643c2699f0f8daae56ab9bb5d2c6a4",
+  "pcblib_sha256": "f8d47e028a279113354abaec4bc87cdc5bf263e3397878007956c7cc0b5382b2",
+  "schematic_sha256": "731542fee2b5faceb952ee9847650544a4ea3cacc52750a6749e39e6ed7c8d8d",
+  "files": {
+    "bottom blind slots layer.gbr": "188a98a13c2f79989f1fa5358442955b8e0394ee633ba46537bbb8d720840f41",
+    "L5_L6_shield_microvias.csv": "68ea82cf3e36c470662bbf8fdf36bba73173cef0bd3bb58abf29d4885227faa7",
+    "L6_L5_laser_microvias.drl": "1a966f6dc8e3b05a0ba701367050528d496b7aa490e0a5f2f94e544f39bdac01",
+    "QD_cavity_drawing.png": "a70556d7ee5e168ec740d43a923ed98a97e7eb7af7484c2c8010afbdee75da42",
+    "README.md": "aaefc99a69939d48da95a4b050e3001001816459bdc67c8bfaac6d1f4abc81e4",
+    "stackup.csv": "8e493b7d6e49928e908a571af16a059d6f5da3de6a7971c190c142207b65faf1"
+  },
+  "validation": "../../docs/RC_Mask_Clearance_validation.json"
+}

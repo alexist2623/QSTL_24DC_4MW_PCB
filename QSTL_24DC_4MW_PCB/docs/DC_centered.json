@@ -1,0 +1,198 @@
+{
+  "passed": true,
+  "pcb_sha256": "e556160f4f050d894eca14f4d2ce82f582a142e3eb89270b7ad0280965fb1d67",
+  "scope": "Saved native DC geometry; physical through vias remain obstacles on both layers.",
+  "central_parallel_band_mm": {
+    "y_min": 18,
+    "y_max": 24,
+    "x_min": 6.1500004,
+    "x_max": 12.749999899999999
+  },
+  "central_lanes_by_layer": {
+    "2": [
+      {
+        "net": "ZIF04",
+        "x": 6.1500004,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF06",
+        "x": 6.7499991999999995,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF08",
+        "x": 7.35000054,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF10",
+        "x": 7.94999934,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF12",
+        "x": 8.55000068,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF16",
+        "x": 9.14999948,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF18",
+        "x": 9.750000819999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF20",
+        "x": 10.349999619999998,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF22",
+        "x": 10.950000959999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF24",
+        "x": 11.549999759999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF25",
+        "x": 12.150001099999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF23",
+        "x": 12.749999899999999,
+        "width": 0.12500102
+      }
+    ],
+    "4": [
+      {
+        "net": "ZIF02",
+        "x": 6.1500004,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF26",
+        "x": 6.7499991999999995,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF01",
+        "x": 7.35000054,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF03",
+        "x": 7.94999934,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF05",
+        "x": 8.55000068,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF07",
+        "x": 9.14999948,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF09",
+        "x": 9.750000819999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF11",
+        "x": 10.349999619999998,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF15",
+        "x": 10.950000959999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF17",
+        "x": 11.549999759999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF19",
+        "x": 12.150001099999999,
+        "width": 0.12500102
+      },
+      {
+        "net": "ZIF21",
+        "x": 12.749999899999999,
+        "width": 0.12500102
+      }
+    ]
+  },
+  "central_centre_pitch_mm": 0.6,
+  "central_edge_gap_min_mm": 0.4749977799999998,
+  "central_edge_gap_max_mm": 0.47500032000000036,
+  "overlapping_centreline_length_across_L2_L4_mm": 72.0,
+  "cross_layer_track_pairs_intersecting_or_overlapping": 156,
+  "whole_board_DC_same_layer_min_edge_gap_mm": 0.1507705566702461,
+  "edge_route_changes": [
+    {
+      "net": "ZIF02",
+      "before": {
+        "planar_length_mm": 50.62248790759262,
+        "x_min_above_y20": 0.7200011,
+        "x_max_above_y20": 6.1500004
+      },
+      "after": {
+        "planar_length_mm": 41.31395955511575,
+        "x_min_above_y20": 5.850001,
+        "x_max_above_y20": 6.4499998
+      },
+      "reduced_length_mm": 9.30852835247687
+    },
+    {
+      "net": "ZIF23",
+      "before": {
+        "planar_length_mm": 54.93198525954579,
+        "x_min_above_y20": 12.749999899999999,
+        "x_max_above_y20": 18.550000999999998
+      },
+      "after": {
+        "planar_length_mm": 50.153310080455945,
+        "x_min_above_y20": 12.749999899999999,
+        "x_max_above_y20": 16.00000102
+      },
+      "reduced_length_mm": 4.778675179089845
+    },
+    {
+      "net": "ZIF25",
+      "before": {
+        "planar_length_mm": 60.04264431790281,
+        "x_min_above_y20": 13.0499993,
+        "x_max_above_y20": 19.000000099999998
+      },
+      "after": {
+        "planar_length_mm": 50.82045977392006,
+        "x_min_above_y20": 12.150001099999999,
+        "x_max_above_y20": 13.650003179999999
+      },
+      "reduced_length_mm": 9.222184543982756
+    }
+  ],
+  "added_transition_via": {
+    "net": "ZIF23",
+    "x": 13.35,
+    "y": 16.4,
+    "diameter": 0.5,
+    "hole": 0.25,
+    "top_bottom_tented": true,
+    "paste_apertures": 2
+  },
+  "electrical_pin_map_unchanged": true,
+  "RF_component_placement_and_layer_stack_unchanged": true
+}

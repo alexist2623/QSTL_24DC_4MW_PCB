@@ -1,0 +1,125 @@
+{
+  "passed": true,
+  "errors": [],
+  "pcb_sha256": "91c39972848af48d621eaf58fe99659b81f49259cd18bb78a841136b9b76155c",
+  "mirror_axis_x_mm": 9.75,
+  "pairs": [
+    {
+      "original": "SMP1",
+      "added": "SMP5",
+      "origin_mm": [
+        3.09999888,
+        27.139999059999997
+      ],
+      "rotation_deg": 180.0,
+      "side": "TOP",
+      "pattern": "RF_Con",
+      "mirror_error_mm": [
+        8.999999998593466e-07,
+        0.0
+      ]
+    },
+    {
+      "original": "R1",
+      "added": "R5",
+      "origin_mm": [
+        7.199998299999999,
+        28.19999948
+      ],
+      "rotation_deg": 270.0,
+      "side": "BOTTOM",
+      "pattern": "CC1608-0603",
+      "mirror_error_mm": [
+        9.000000034120603e-07,
+        0.0
+      ]
+    },
+    {
+      "original": "C1",
+      "added": "C5",
+      "origin_mm": [
+        6.300000099999999,
+        29.69999902
+      ],
+      "rotation_deg": 45.0,
+      "side": "BOTTOM",
+      "pattern": "FP-GCM155-0_05-IPC_A",
+      "mirror_error_mm": [
+        9.000000034120603e-07,
+        0.0
+      ]
+    },
+    {
+      "original": "SMP2",
+      "added": "SMP6",
+      "origin_mm": [
+        3.09999888,
+        34.339999899999995
+      ],
+      "rotation_deg": 180.0,
+      "side": "TOP",
+      "pattern": "RF_Con",
+      "mirror_error_mm": [
+        8.999999998593466e-07,
+        0.0
+      ]
+    },
+    {
+      "original": "R2",
+      "added": "R6",
+      "origin_mm": [
+        4.04999952,
+        38.97499952
+      ],
+      "rotation_deg": 270.0,
+      "side": "BOTTOM",
+      "pattern": "CC1608-0603",
+      "mirror_error_mm": [
+        9.000000034120603e-07,
+        0.0
+      ]
+    },
+    {
+      "original": "C2",
+      "added": "C6",
+      "origin_mm": [
+        2.72499836,
+        41.5249995
+      ],
+      "rotation_deg": 45.0,
+      "side": "BOTTOM",
+      "pattern": "FP-GCM155-0_05-IPC_A",
+      "mirror_error_mm": [
+        8.999999998593466e-07,
+        0.0
+      ]
+    }
+  ],
+  "added_signal_pads_unassigned": [
+    "C6-2",
+    "C6-1",
+    "R6-1",
+    "R6-2",
+    "C5-2",
+    "C5-1",
+    "R5-1",
+    "R5-2",
+    "SMP6-1",
+    "SMP5-1"
+  ],
+  "added_SMP_ground_pads": [
+    "SMP6-5",
+    "SMP6-2",
+    "SMP6-4",
+    "SMP6-3",
+    "SMP5-5",
+    "SMP5-2",
+    "SMP5-4",
+    "SMP5-3"
+  ],
+  "additional_signal_vias": 0,
+  "added_passive_vias": "Not added at this placement-only stage; the existing 40 QD/R1-4/C1-4 centred vias are retained.",
+  "active_RF_DC_assignments_unchanged": true,
+  "existing_RF_copper_unchanged": true,
+  "existing_DC_rerouted_to_clear_new_SMP_holes": true
+}

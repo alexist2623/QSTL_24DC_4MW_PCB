@@ -1,0 +1,32 @@
+{
+  "source": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB.PcbDoc",
+  "source_sha256": "d8d3e5dc6852aff818760e863640ffa2af25820d1afbc0d0a6ad946ec6c7260b",
+  "image": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\docs\\RF_only.png",
+  "layer": 32,
+  "tracks": 30,
+  "arcs": 18,
+  "nets": [
+    "MW1",
+    "MW2",
+    "MW3",
+    "MW4",
+    "MW5",
+    "MW6",
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+  ],
+  "qd_pins": {
+    "MW1": "9",
+    "MW2": "6",
+    "MW3": "1",
+    "MW4": "24",
+    "MW5": "12",
+    "MW6": "18"
+  },
+  "view": "top coordinates; bottom RC and QD projected",
+  "design_modified": false
+}

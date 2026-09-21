@@ -1,0 +1,107 @@
+{
+  "source_sha256": "cd2c8eb18dbdc26cdb8f8d0b2e5536f642535e9f390aa7869319507fd45a0737",
+  "shield_vias": 413,
+  "counts": {
+    "SMP_RING": 72,
+    "RC_PERIMETER": 155,
+    "RF_FENCE": 186
+  },
+  "min_land_edge_gap_mm": 0.14999856814466112,
+  "min_trace_edge_gap_mm": 0.329994946774908,
+  "SMP_rings": [
+    {
+      "component": "SMP1",
+      "grid_count": 14,
+      "placed_count": 12,
+      "step_degrees": 25.714285714285715,
+      "centre_chord_mm": 0.4250151040178648,
+      "radius_mm": 0.95500027,
+      "exit_angle_degrees": 180.0,
+      "omitted_indices": [
+        0,
+        13
+      ]
+    },
+    {
+      "component": "SMP2",
+      "grid_count": 14,
+      "placed_count": 12,
+      "step_degrees": 25.714285714285715,
+      "centre_chord_mm": 0.4250151040178648,
+      "radius_mm": 0.95500027,
+      "exit_angle_degrees": 90.0,
+      "omitted_indices": [
+        0,
+        13
+      ]
+    },
+    {
+      "component": "SMP3",
+      "grid_count": 14,
+      "placed_count": 12,
+      "step_degrees": 25.714285714285715,
+      "centre_chord_mm": 0.4250151040178648,
+      "radius_mm": 0.95500027,
+      "exit_angle_degrees": 180.0,
+      "omitted_indices": [
+        0,
+        13
+      ]
+    },
+    {
+      "component": "SMP4",
+      "grid_count": 14,
+      "placed_count": 12,
+      "step_degrees": 25.714285714285715,
+      "centre_chord_mm": 0.4250151040178648,
+      "radius_mm": 0.95500027,
+      "exit_angle_degrees": 0.0,
+      "omitted_indices": [
+        0,
+        13
+      ]
+    },
+    {
+      "component": "SMP5",
+      "grid_count": 14,
+      "placed_count": 12,
+      "step_degrees": 25.714285714285715,
+      "centre_chord_mm": 0.4250151040178648,
+      "radius_mm": 0.95500027,
+      "exit_angle_degrees": 0.0,
+      "omitted_indices": [
+        0,
+        13
+      ]
+    },
+    {
+      "component": "SMP6",
+      "grid_count": 14,
+      "placed_count": 12,
+      "step_degrees": 25.714285714285715,
+      "centre_chord_mm": 0.4250151040178648,
+      "radius_mm": 0.95500027,
+      "exit_angle_degrees": 90.0,
+      "omitted_indices": [
+        0,
+        13
+      ]
+    }
+  ],
+  "RC_nearby_via_counts": {
+    "R1": 19,
+    "R2": 19,
+    "R3": 17,
+    "R4": 17,
+    "R5": 19,
+    "R6": 19,
+    "C1": 8,
+    "C2": 10,
+    "C3": 12,
+    "C4": 11,
+    "C5": 9,
+    "C6": 11
+  },
+  "RC_interpad_via_intrusions": 0,
+  "mounting_holes": 6
+}

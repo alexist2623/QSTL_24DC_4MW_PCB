@@ -1,0 +1,59 @@
+{
+  "passed": true,
+  "errors": [],
+  "pcb_sha256": "1cc6aafc06314555b8206005bea64ebd285a8434f9bc522d36a8c283f3d84aa5",
+  "channels": [
+    {
+      "channel": 1,
+      "QD_pin": 9,
+      "R_RF_pad_to_main_line_mm": 0.0,
+      "R_branch_trace_length_mm": 0.0,
+      "R_to_C_pad_edge_gap_mm": 0.21376132000000148,
+      "path_endpoints": 2,
+      "maximum_graph_degree": 2,
+      "R_rotation": 90.0,
+      "C_rotation": 180.0
+    },
+    {
+      "channel": 2,
+      "QD_pin": 6,
+      "R_RF_pad_to_main_line_mm": 0.0,
+      "R_branch_trace_length_mm": 0.0,
+      "R_to_C_pad_edge_gap_mm": 0.2137613199999997,
+      "path_endpoints": 2,
+      "maximum_graph_degree": 1,
+      "R_rotation": 90.0,
+      "C_rotation": 180.0
+    },
+    {
+      "channel": 3,
+      "QD_pin": 1,
+      "R_RF_pad_to_main_line_mm": 0.0,
+      "R_branch_trace_length_mm": 0.0,
+      "R_to_C_pad_edge_gap_mm": 0.21376132000000148,
+      "path_endpoints": 2,
+      "maximum_graph_degree": 2,
+      "R_rotation": 90.0,
+      "C_rotation": 180.0
+    },
+    {
+      "channel": 4,
+      "QD_pin": 24,
+      "R_RF_pad_to_main_line_mm": 0.0,
+      "R_branch_trace_length_mm": 0.0,
+      "R_to_C_pad_edge_gap_mm": 0.21376386000000022,
+      "path_endpoints": 2,
+      "maximum_graph_degree": 2,
+      "R_rotation": 90.0,
+      "C_rotation": 0.0
+    }
+  ],
+  "RF_pin_map_unchanged": true,
+  "DC_pin_map_updated_in_schematic_and_library": true,
+  "all_passive_rotations_multiple_of_45": true,
+  "passive_package": {
+    "R": "0603",
+    "C": "0402"
+  },
+  "description": "Planar RF main paths run through each resistor RF via/pad centre; no separate Bottom bias branch. Does not claim elimination of via barrel stubs or EM discontinuities."
+}

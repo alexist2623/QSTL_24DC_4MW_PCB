@@ -1,0 +1,10 @@
+{
+  "pcb_sha256": "6dd4737a82af333bc0672e1e72a8cd007b643c2699f0f8daae56ab9bb5d2c6a4",
+  "images": [
+    "RF_only.png",
+    "QD_detail.png",
+    "layout.png"
+  ],
+  "ground_pours_shown": false,
+  "masks_shown": false
+}

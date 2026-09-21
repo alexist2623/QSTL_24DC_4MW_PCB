@@ -1,0 +1,3124 @@
+{
+  "source": "C:\\Users\\\ubc15\uc815\ud604\\Nextcloud3\\Lab\\Instruments\\CustomParts\\Carrier_8MW_24DC\\PCB\\Narrow_v4 (May2024)\\narrow_v4\\narrow_v2.PcbDoc",
+  "source_sha256": "1356843fb56ee93ca6903493f8d44eb2924f98711d682ca023c6505e5cf13562",
+  "source_unchanged": true,
+  "ipc_crosscheck_source": "C:\\Users\\\ubc15\uc815\ud604\\Nextcloud3\\Lab\\Instruments\\CustomParts\\Carrier_8MW_24DC\\PCB\\Narrow_v4 (May2024)\\narrow_v4\\Project Outputs for narrow_v4\\narrow_v2.cvg",
+  "board_absolute_bbox_mm": {
+    "min_x": 25.4,
+    "min_y": 25.4,
+    "max_x": 44.899999,
+    "max_y": 93.299999,
+    "width": 19.499999,
+    "height": 67.899999
+  },
+  "board_lower_left_offset_mm": {
+    "x": 25.4,
+    "y": 25.4
+  },
+  "coordinate_convention": "positive x right,positive y up; all component positions subtract reference board lower-left25.4,25.4mm",
+  "components": [
+    {
+      "native_component_index": 0,
+      "designator": "R8",
+      "pattern": "RESC1005X04N",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 31.776853,
+        "y": 60.750003
+      },
+      "origin_board_relative_mm": {
+        "x": 6.376853,
+        "y": 35.350003
+      },
+      "rotation_deg": 270.0,
+      "height_mm": 0.399999,
+      "standoff_mm": 0.0,
+      "footprint_description": "Chip Resistor, 2-Leads, Body 1.00x0.50mm, IPC Medium Density",
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -0.499999,
+        "min_y": -0.25,
+        "max_x": 0.499999,
+        "max_y": 0.25,
+        "width": 0.999998,
+        "height": 0.5
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 6.126853,
+        "min_y": 34.850004,
+        "max_x": 6.626853,
+        "max_y": 35.850002,
+        "width": 0.5,
+        "height": 0.999998
+      },
+      "ipc_origin_difference_mm": 1.26e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "NetR8_1",
+          "layer": 1,
+          "x_board_relative_mm": 6.376853,
+          "y_board_relative_mm": 35.825003,
+          "x_local_mm": -0.475,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.549999,
+          "top_size_y_mm": 0.549999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 6.101853,
+            "min_y": 35.550004,
+            "max_x": 6.651852,
+            "max_y": 36.100003,
+            "width": 0.549999,
+            "height": 0.549999
+          }
+        },
+        {
+          "number": "2",
+          "net": "3",
+          "layer": 1,
+          "x_board_relative_mm": 6.376853,
+          "y_board_relative_mm": 34.875003,
+          "x_local_mm": 0.475,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.549999,
+          "top_size_y_mm": 0.549999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 6.101853,
+            "min_y": 34.600003,
+            "max_x": 6.651852,
+            "max_y": 35.150002,
+            "width": 0.549999,
+            "height": 0.549999
+          }
+        }
+      ],
+      "pad_count": 2,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 6.101853,
+        "min_y": 34.600003,
+        "max_x": 6.651852,
+        "max_y": 36.100003,
+        "width": 0.549999,
+        "height": 1.5
+      },
+      "requested_replacement": "0603 imperial (1608 metric) body nominal1.6x0.8mm; preserve this origin/rotation"
+    },
+    {
+      "native_component_index": 1,
+      "designator": "R7",
+      "pattern": "RESC1005X04N",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 36.674999,
+        "y": 60.75
+      },
+      "origin_board_relative_mm": {
+        "x": 11.274999,
+        "y": 35.35
+      },
+      "rotation_deg": 270.0,
+      "height_mm": 0.399999,
+      "standoff_mm": 0.0,
+      "footprint_description": "Chip Resistor, 2-Leads, Body 1.00x0.50mm, IPC Medium Density",
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -0.499999,
+        "min_y": -0.25,
+        "max_x": 0.499999,
+        "max_y": 0.25,
+        "width": 0.999998,
+        "height": 0.5
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 11.024999,
+        "min_y": 34.850001,
+        "max_x": 11.524999,
+        "max_y": 35.849999,
+        "width": 0.5,
+        "height": 0.999998
+      },
+      "ipc_origin_difference_mm": 4.22e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "NetR7_1",
+          "layer": 1,
+          "x_board_relative_mm": 11.274999,
+          "y_board_relative_mm": 35.825001,
+          "x_local_mm": -0.475001,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 0.549999,
+          "top_size_y_mm": 0.549999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 11.0,
+            "min_y": 35.550001,
+            "max_x": 11.549998,
+            "max_y": 36.1,
+            "width": 0.549999,
+            "height": 0.549999
+          }
+        },
+        {
+          "number": "2",
+          "net": "9",
+          "layer": 1,
+          "x_board_relative_mm": 11.274999,
+          "y_board_relative_mm": 34.875,
+          "x_local_mm": 0.475,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 0.549999,
+          "top_size_y_mm": 0.549999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 11.0,
+            "min_y": 34.600001,
+            "max_x": 11.549998,
+            "max_y": 35.15,
+            "width": 0.549999,
+            "height": 0.549999
+          }
+        }
+      ],
+      "pad_count": 2,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 11.0,
+        "min_y": 34.600001,
+        "max_x": 11.549998,
+        "max_y": 36.1,
+        "width": 0.549998,
+        "height": 1.499999
+      },
+      "requested_replacement": "0603 imperial (1608 metric) body nominal1.6x0.8mm; preserve this origin/rotation"
+    },
+    {
+      "native_component_index": 2,
+      "designator": "SMP8",
+      "pattern": "RF_CON",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 41.8,
+        "y": 81.739999
+      },
+      "origin_board_relative_mm": {
+        "x": 16.4,
+        "y": 56.339999
+      },
+      "rotation_deg": 0.0,
+      "height_mm": 3.210001,
+      "standoff_mm": -5.399999,
+      "footprint_description": null,
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -2.75,
+        "min_y": -2.73827,
+        "max_x": 2.75,
+        "max_y": 2.73827,
+        "width": 5.5,
+        "height": 5.47654
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 13.65,
+        "min_y": 53.601729,
+        "max_x": 19.15,
+        "max_y": 59.078269,
+        "width": 5.5,
+        "height": 5.47654
+      },
+      "ipc_origin_difference_mm": 2.34e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "MW8",
+          "layer": 74,
+          "x_board_relative_mm": 16.4,
+          "y_board_relative_mm": 56.339999,
+          "x_local_mm": 0.0,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 15.9,
+            "min_y": 55.839999,
+            "max_x": 16.9,
+            "max_y": 56.839999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "2",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 15.13,
+          "y_board_relative_mm": 55.069999,
+          "x_local_mm": -1.27,
+          "y_local_mm": -1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 14.63,
+            "min_y": 54.569999,
+            "max_x": 15.63,
+            "max_y": 55.569999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "3",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 17.67,
+          "y_board_relative_mm": 55.069999,
+          "x_local_mm": 1.27,
+          "y_local_mm": -1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 17.17,
+            "min_y": 54.569999,
+            "max_x": 18.17,
+            "max_y": 55.569999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "4",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 17.67,
+          "y_board_relative_mm": 57.609999,
+          "x_local_mm": 1.27,
+          "y_local_mm": 1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 17.17,
+            "min_y": 57.109999,
+            "max_x": 18.17,
+            "max_y": 58.109999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "5",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 15.13,
+          "y_board_relative_mm": 57.609999,
+          "x_local_mm": -1.27,
+          "y_local_mm": 1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 14.63,
+            "min_y": 57.109999,
+            "max_x": 15.63,
+            "max_y": 58.109999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        }
+      ],
+      "pad_count": 5,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 14.63,
+        "min_y": 54.569999,
+        "max_x": 18.17,
+        "max_y": 58.109999,
+        "width": 3.54,
+        "height": 3.54
+      }
+    },
+    {
+      "native_component_index": 3,
+      "designator": "SMP7",
+      "pattern": "RF_CON",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 28.499999,
+        "y": 81.739999
+      },
+      "origin_board_relative_mm": {
+        "x": 3.099999,
+        "y": 56.339999
+      },
+      "rotation_deg": 0.0,
+      "height_mm": 3.210001,
+      "standoff_mm": -5.399999,
+      "footprint_description": null,
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -2.75,
+        "min_y": -2.73827,
+        "max_x": 2.75,
+        "max_y": 2.73827,
+        "width": 5.5,
+        "height": 5.47654
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 0.349999,
+        "min_y": 53.601729,
+        "max_x": 5.849999,
+        "max_y": 59.078269,
+        "width": 5.5,
+        "height": 5.47654
+      },
+      "ipc_origin_difference_mm": 1.44e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "MW7",
+          "layer": 74,
+          "x_board_relative_mm": 3.099999,
+          "y_board_relative_mm": 56.339999,
+          "x_local_mm": -0.0,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 2.599999,
+            "min_y": 55.839999,
+            "max_x": 3.599999,
+            "max_y": 56.839999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "2",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 1.829999,
+          "y_board_relative_mm": 55.069999,
+          "x_local_mm": -1.27,
+          "y_local_mm": -1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 1.329999,
+            "min_y": 54.569999,
+            "max_x": 2.329999,
+            "max_y": 55.569999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "3",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 4.369999,
+          "y_board_relative_mm": 55.069999,
+          "x_local_mm": 1.27,
+          "y_local_mm": -1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 3.869999,
+            "min_y": 54.569999,
+            "max_x": 4.869999,
+            "max_y": 55.569999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "4",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 4.369999,
+          "y_board_relative_mm": 57.609999,
+          "x_local_mm": 1.27,
+          "y_local_mm": 1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 3.869999,
+            "min_y": 57.109999,
+            "max_x": 4.869999,
+            "max_y": 58.109999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "5",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 1.829999,
+          "y_board_relative_mm": 57.609999,
+          "x_local_mm": -1.27,
+          "y_local_mm": 1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 1.329999,
+            "min_y": 57.109999,
+            "max_x": 2.329999,
+            "max_y": 58.109999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        }
+      ],
+      "pad_count": 5,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 1.329999,
+        "min_y": 54.569999,
+        "max_x": 4.869999,
+        "max_y": 58.109999,
+        "width": 3.54,
+        "height": 3.54
+      }
+    },
+    {
+      "native_component_index": 4,
+      "designator": "SMP4",
+      "pattern": "RF_CON",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 28.499999,
+        "y": 74.239999
+      },
+      "origin_board_relative_mm": {
+        "x": 3.099999,
+        "y": 48.839999
+      },
+      "rotation_deg": 0.0,
+      "height_mm": 3.210001,
+      "standoff_mm": -5.399999,
+      "footprint_description": null,
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -2.75,
+        "min_y": -2.73827,
+        "max_x": 2.75,
+        "max_y": 2.73827,
+        "width": 5.5,
+        "height": 5.47654
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 0.349999,
+        "min_y": 46.101729,
+        "max_x": 5.849999,
+        "max_y": 51.578269,
+        "width": 5.5,
+        "height": 5.47654
+      },
+      "ipc_origin_difference_mm": 2e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "S4",
+          "layer": 74,
+          "x_board_relative_mm": 3.099999,
+          "y_board_relative_mm": 48.839999,
+          "x_local_mm": -0.0,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 2.599999,
+            "min_y": 48.339999,
+            "max_x": 3.599999,
+            "max_y": 49.339999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "2",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 1.829999,
+          "y_board_relative_mm": 47.569999,
+          "x_local_mm": -1.27,
+          "y_local_mm": -1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 1.329999,
+            "min_y": 47.069999,
+            "max_x": 2.329999,
+            "max_y": 48.069999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "3",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 4.369999,
+          "y_board_relative_mm": 47.569999,
+          "x_local_mm": 1.27,
+          "y_local_mm": -1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 3.869999,
+            "min_y": 47.069999,
+            "max_x": 4.869999,
+            "max_y": 48.069999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "4",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 4.369999,
+          "y_board_relative_mm": 50.109999,
+          "x_local_mm": 1.27,
+          "y_local_mm": 1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 3.869999,
+            "min_y": 49.609999,
+            "max_x": 4.869999,
+            "max_y": 50.609999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "5",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 1.829999,
+          "y_board_relative_mm": 50.109999,
+          "x_local_mm": -1.27,
+          "y_local_mm": 1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 1.329999,
+            "min_y": 49.609999,
+            "max_x": 2.329999,
+            "max_y": 50.609999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        }
+      ],
+      "pad_count": 5,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 1.329999,
+        "min_y": 47.069999,
+        "max_x": 4.869999,
+        "max_y": 50.609999,
+        "width": 3.54,
+        "height": 3.54
+      }
+    },
+    {
+      "native_component_index": 5,
+      "designator": "SMP3",
+      "pattern": "RF_CON",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 41.8,
+        "y": 74.239999
+      },
+      "origin_board_relative_mm": {
+        "x": 16.4,
+        "y": 48.839999
+      },
+      "rotation_deg": 0.0,
+      "height_mm": 3.210001,
+      "standoff_mm": -5.399999,
+      "footprint_description": null,
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -2.75,
+        "min_y": -2.73827,
+        "max_x": 2.75,
+        "max_y": 2.73827,
+        "width": 5.5,
+        "height": 5.47654
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 13.65,
+        "min_y": 46.101729,
+        "max_x": 19.15,
+        "max_y": 51.578269,
+        "width": 5.5,
+        "height": 5.47654
+      },
+      "ipc_origin_difference_mm": 2.72e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "S3",
+          "layer": 74,
+          "x_board_relative_mm": 16.4,
+          "y_board_relative_mm": 48.839999,
+          "x_local_mm": 0.0,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 15.9,
+            "min_y": 48.339999,
+            "max_x": 16.9,
+            "max_y": 49.339999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "2",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 15.13,
+          "y_board_relative_mm": 47.569999,
+          "x_local_mm": -1.27,
+          "y_local_mm": -1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 14.63,
+            "min_y": 47.069999,
+            "max_x": 15.63,
+            "max_y": 48.069999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "3",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 17.67,
+          "y_board_relative_mm": 47.569999,
+          "x_local_mm": 1.27,
+          "y_local_mm": -1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 17.17,
+            "min_y": 47.069999,
+            "max_x": 18.17,
+            "max_y": 48.069999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "4",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 17.67,
+          "y_board_relative_mm": 50.109999,
+          "x_local_mm": 1.27,
+          "y_local_mm": 1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 17.17,
+            "min_y": 49.609999,
+            "max_x": 18.17,
+            "max_y": 50.609999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "5",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 15.13,
+          "y_board_relative_mm": 50.109999,
+          "x_local_mm": -1.27,
+          "y_local_mm": 1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 14.63,
+            "min_y": 49.609999,
+            "max_x": 15.63,
+            "max_y": 50.609999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        }
+      ],
+      "pad_count": 5,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 14.63,
+        "min_y": 47.069999,
+        "max_x": 18.17,
+        "max_y": 50.609999,
+        "width": 3.54,
+        "height": 3.54
+      }
+    },
+    {
+      "native_component_index": 6,
+      "designator": "SMP2",
+      "pattern": "RF_CON",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 41.8,
+        "y": 59.74
+      },
+      "origin_board_relative_mm": {
+        "x": 16.4,
+        "y": 34.34
+      },
+      "rotation_deg": 0.0,
+      "height_mm": 3.210001,
+      "standoff_mm": -5.399999,
+      "footprint_description": null,
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -2.75,
+        "min_y": -2.73827,
+        "max_x": 2.75,
+        "max_y": 2.73827,
+        "width": 5.5,
+        "height": 5.47654
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 13.65,
+        "min_y": 31.60173,
+        "max_x": 19.15,
+        "max_y": 37.07827,
+        "width": 5.5,
+        "height": 5.47654
+      },
+      "ipc_origin_difference_mm": 2.42e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "S2",
+          "layer": 74,
+          "x_board_relative_mm": 16.4,
+          "y_board_relative_mm": 34.34,
+          "x_local_mm": 0.0,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 15.9,
+            "min_y": 33.84,
+            "max_x": 16.9,
+            "max_y": 34.84,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "2",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 15.13,
+          "y_board_relative_mm": 33.07,
+          "x_local_mm": -1.27,
+          "y_local_mm": -1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 14.63,
+            "min_y": 32.57,
+            "max_x": 15.63,
+            "max_y": 33.57,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "3",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 17.67,
+          "y_board_relative_mm": 33.07,
+          "x_local_mm": 1.27,
+          "y_local_mm": -1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 17.17,
+            "min_y": 32.57,
+            "max_x": 18.17,
+            "max_y": 33.57,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "4",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 17.67,
+          "y_board_relative_mm": 35.61,
+          "x_local_mm": 1.27,
+          "y_local_mm": 1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 17.17,
+            "min_y": 35.11,
+            "max_x": 18.17,
+            "max_y": 36.11,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "5",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 15.13,
+          "y_board_relative_mm": 35.61,
+          "x_local_mm": -1.27,
+          "y_local_mm": 1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 14.63,
+            "min_y": 35.11,
+            "max_x": 15.63,
+            "max_y": 36.11,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        }
+      ],
+      "pad_count": 5,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 14.63,
+        "min_y": 32.57,
+        "max_x": 18.17,
+        "max_y": 36.11,
+        "width": 3.54,
+        "height": 3.54
+      }
+    },
+    {
+      "native_component_index": 7,
+      "designator": "SMP1",
+      "pattern": "RF_CON",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 41.8,
+        "y": 52.539999
+      },
+      "origin_board_relative_mm": {
+        "x": 16.4,
+        "y": 27.139999
+      },
+      "rotation_deg": 0.0,
+      "height_mm": 3.210001,
+      "standoff_mm": -5.399999,
+      "footprint_description": null,
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -2.75,
+        "min_y": -2.73827,
+        "max_x": 2.75,
+        "max_y": 2.73827,
+        "width": 5.5,
+        "height": 5.47654
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 13.65,
+        "min_y": 24.401729,
+        "max_x": 19.15,
+        "max_y": 29.878269,
+        "width": 5.5,
+        "height": 5.47654
+      },
+      "ipc_origin_difference_mm": 2.28e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "S1",
+          "layer": 74,
+          "x_board_relative_mm": 16.4,
+          "y_board_relative_mm": 27.139999,
+          "x_local_mm": 0.0,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 15.9,
+            "min_y": 26.639999,
+            "max_x": 16.9,
+            "max_y": 27.639999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "2",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 15.13,
+          "y_board_relative_mm": 25.869999,
+          "x_local_mm": -1.27,
+          "y_local_mm": -1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 14.63,
+            "min_y": 25.369999,
+            "max_x": 15.63,
+            "max_y": 26.369999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "3",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 17.67,
+          "y_board_relative_mm": 25.869999,
+          "x_local_mm": 1.27,
+          "y_local_mm": -1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 17.17,
+            "min_y": 25.369999,
+            "max_x": 18.17,
+            "max_y": 26.369999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "4",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 17.67,
+          "y_board_relative_mm": 28.409999,
+          "x_local_mm": 1.27,
+          "y_local_mm": 1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 17.17,
+            "min_y": 27.909999,
+            "max_x": 18.17,
+            "max_y": 28.909999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "5",
+          "net": "GND",
+          "layer": 74,
+          "x_board_relative_mm": 15.13,
+          "y_board_relative_mm": 28.409999,
+          "x_local_mm": -1.27,
+          "y_local_mm": 1.27,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.750001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 14.63,
+            "min_y": 27.909999,
+            "max_x": 15.63,
+            "max_y": 28.909999,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        }
+      ],
+      "pad_count": 5,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 14.63,
+        "min_y": 25.369999,
+        "max_x": 18.17,
+        "max_y": 28.909999,
+        "width": 3.54,
+        "height": 3.54
+      }
+    },
+    {
+      "native_component_index": 8,
+      "designator": "Dsub",
+      "pattern": "581-M25-113L461",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 35.150001,
+        "y": 30.25
+      },
+      "origin_board_relative_mm": {
+        "x": 9.750001,
+        "y": 4.85
+      },
+      "rotation_deg": 0.0,
+      "height_mm": 7.899999,
+      "standoff_mm": -2.699629,
+      "footprint_description": "CONN MICRO-D MALE 25P RA",
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -15.075002,
+        "min_y": -14.170017,
+        "max_x": 15.024999,
+        "max_y": 0.900001,
+        "width": 30.100001,
+        "height": 15.070018
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": -5.325001,
+        "min_y": -9.320017,
+        "max_x": 24.775,
+        "max_y": 5.750001,
+        "width": 30.100001,
+        "height": 15.070018
+      },
+      "ipc_origin_difference_mm": 4.94e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "1",
+          "layer": 74,
+          "x_board_relative_mm": 2.130001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": -7.62,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 1.630001,
+            "min_y": 4.35,
+            "max_x": 2.630001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "2",
+          "net": "2",
+          "layer": 74,
+          "x_board_relative_mm": 3.400001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": -6.35,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 2.900001,
+            "min_y": 4.35,
+            "max_x": 3.900001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "3",
+          "net": "3",
+          "layer": 74,
+          "x_board_relative_mm": 4.670001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": -5.08,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 4.170001,
+            "min_y": 4.35,
+            "max_x": 5.170001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "4",
+          "net": "4",
+          "layer": 74,
+          "x_board_relative_mm": 5.940001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": -3.81,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 5.440001,
+            "min_y": 4.35,
+            "max_x": 6.440001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "5",
+          "net": "5",
+          "layer": 74,
+          "x_board_relative_mm": 7.210001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": -2.54,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 6.710001,
+            "min_y": 4.35,
+            "max_x": 7.710001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "6",
+          "net": "6",
+          "layer": 74,
+          "x_board_relative_mm": 8.480001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": -1.27,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 7.980001,
+            "min_y": 4.35,
+            "max_x": 8.980001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "7",
+          "net": "7",
+          "layer": 74,
+          "x_board_relative_mm": 9.750001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": -0.0,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 9.250001,
+            "min_y": 4.35,
+            "max_x": 10.250001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "8",
+          "net": "8",
+          "layer": 74,
+          "x_board_relative_mm": 11.020001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": 1.27,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 10.520001,
+            "min_y": 4.35,
+            "max_x": 11.520001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "9",
+          "net": "9",
+          "layer": 74,
+          "x_board_relative_mm": 12.290001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": 2.54,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 11.790001,
+            "min_y": 4.35,
+            "max_x": 12.790001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "10",
+          "net": "10",
+          "layer": 74,
+          "x_board_relative_mm": 13.560001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": 3.81,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 13.060001,
+            "min_y": 4.35,
+            "max_x": 14.060001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "11",
+          "net": "11",
+          "layer": 74,
+          "x_board_relative_mm": 14.830001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": 5.08,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 14.330001,
+            "min_y": 4.35,
+            "max_x": 15.330001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "12",
+          "net": "12",
+          "layer": 74,
+          "x_board_relative_mm": 16.100001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": 6.35,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 15.600001,
+            "min_y": 4.35,
+            "max_x": 16.600001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "13",
+          "net": "1",
+          "layer": 74,
+          "x_board_relative_mm": 17.370001,
+          "y_board_relative_mm": 4.85,
+          "x_local_mm": 7.62,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 16.870001,
+            "min_y": 4.35,
+            "max_x": 17.870001,
+            "max_y": 5.350001,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "14",
+          "net": "14",
+          "layer": 74,
+          "x_board_relative_mm": 16.746665,
+          "y_board_relative_mm": 2.310392,
+          "x_local_mm": 6.996663,
+          "y_local_mm": -2.539608,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 16.246664,
+            "min_y": 1.810391,
+            "max_x": 17.246665,
+            "max_y": 2.810392,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "15",
+          "net": "15",
+          "layer": 74,
+          "x_board_relative_mm": 15.476664,
+          "y_board_relative_mm": 2.310392,
+          "x_local_mm": 5.726663,
+          "y_local_mm": -2.539608,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 14.976664,
+            "min_y": 1.810391,
+            "max_x": 15.976665,
+            "max_y": 2.810392,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "16",
+          "net": "16",
+          "layer": 74,
+          "x_board_relative_mm": 14.206664,
+          "y_board_relative_mm": 2.310392,
+          "x_local_mm": 4.456663,
+          "y_local_mm": -2.539608,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 13.706664,
+            "min_y": 1.810391,
+            "max_x": 14.706665,
+            "max_y": 2.810392,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "17",
+          "net": "17",
+          "layer": 74,
+          "x_board_relative_mm": 12.936664,
+          "y_board_relative_mm": 2.310392,
+          "x_local_mm": 3.186663,
+          "y_local_mm": -2.539608,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 12.436664,
+            "min_y": 1.810391,
+            "max_x": 13.436665,
+            "max_y": 2.810392,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "18",
+          "net": "18",
+          "layer": 74,
+          "x_board_relative_mm": 11.666664,
+          "y_board_relative_mm": 2.310392,
+          "x_local_mm": 1.916663,
+          "y_local_mm": -2.539608,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 11.166664,
+            "min_y": 1.810391,
+            "max_x": 12.166665,
+            "max_y": 2.810392,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "19",
+          "net": "19",
+          "layer": 74,
+          "x_board_relative_mm": 10.396664,
+          "y_board_relative_mm": 2.310392,
+          "x_local_mm": 0.646663,
+          "y_local_mm": -2.539608,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 9.896664,
+            "min_y": 1.810391,
+            "max_x": 10.896665,
+            "max_y": 2.810392,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "20",
+          "net": "20",
+          "layer": 74,
+          "x_board_relative_mm": 9.126664,
+          "y_board_relative_mm": 2.310392,
+          "x_local_mm": -0.623337,
+          "y_local_mm": -2.539608,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 8.626664,
+            "min_y": 1.810391,
+            "max_x": 9.626665,
+            "max_y": 2.810392,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "21",
+          "net": "21",
+          "layer": 74,
+          "x_board_relative_mm": 7.856665,
+          "y_board_relative_mm": 2.310392,
+          "x_local_mm": -1.893337,
+          "y_local_mm": -2.539608,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 7.356664,
+            "min_y": 1.810391,
+            "max_x": 8.356665,
+            "max_y": 2.810392,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "22",
+          "net": "22",
+          "layer": 74,
+          "x_board_relative_mm": 6.586664,
+          "y_board_relative_mm": 2.310392,
+          "x_local_mm": -3.163337,
+          "y_local_mm": -2.539608,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 6.086664,
+            "min_y": 1.810391,
+            "max_x": 7.086665,
+            "max_y": 2.810392,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "23",
+          "net": "23",
+          "layer": 74,
+          "x_board_relative_mm": 5.316664,
+          "y_board_relative_mm": 2.310392,
+          "x_local_mm": -4.433337,
+          "y_local_mm": -2.539608,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 4.816664,
+            "min_y": 1.810391,
+            "max_x": 5.816665,
+            "max_y": 2.810392,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "24",
+          "net": "24",
+          "layer": 74,
+          "x_board_relative_mm": 4.046664,
+          "y_board_relative_mm": 2.310392,
+          "x_local_mm": -5.703337,
+          "y_local_mm": -2.539608,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 3.546664,
+            "min_y": 1.810391,
+            "max_x": 4.546665,
+            "max_y": 2.810392,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        },
+        {
+          "number": "25",
+          "net": "25",
+          "layer": 74,
+          "x_board_relative_mm": 2.776664,
+          "y_board_relative_mm": 2.310392,
+          "x_local_mm": -6.973337,
+          "y_local_mm": -2.539608,
+          "top_size_x_mm": 1.000001,
+          "top_size_y_mm": 1.000001,
+          "hole_mm": 0.800001,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 2.276664,
+            "min_y": 1.810391,
+            "max_x": 3.276665,
+            "max_y": 2.810392,
+            "width": 1.000001,
+            "height": 1.000001
+          }
+        }
+      ],
+      "pad_count": 25,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 1.630001,
+        "min_y": 1.810391,
+        "max_x": 17.870001,
+        "max_y": 5.350001,
+        "width": 16.24,
+        "height": 3.53961
+      }
+    },
+    {
+      "native_component_index": 9,
+      "designator": "Sample",
+      "pattern": "SAMPLE",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 35.150001,
+        "y": 67.899999
+      },
+      "origin_board_relative_mm": {
+        "x": 9.750001,
+        "y": 42.499999
+      },
+      "rotation_deg": 0.0,
+      "height_mm": 0.0,
+      "standoff_mm": 0.0,
+      "footprint_description": null,
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -0.356039,
+        "min_y": -0.356039,
+        "max_x": 0.356039,
+        "max_y": 0.356039,
+        "width": 0.712078,
+        "height": 0.712078
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 9.393962,
+        "min_y": 42.14396,
+        "max_x": 10.10604,
+        "max_y": 42.856038,
+        "width": 0.712078,
+        "height": 0.712078
+      },
+      "ipc_origin_difference_mm": 2.55e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "1",
+          "layer": 1,
+          "x_board_relative_mm": 5.750001,
+          "y_board_relative_mm": 39.4,
+          "x_local_mm": -4.0,
+          "y_local_mm": -3.099999,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 5.500002,
+            "min_y": 39.15,
+            "max_x": 6.000001,
+            "max_y": 39.649999,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "2",
+          "net": "2",
+          "layer": 1,
+          "x_board_relative_mm": 5.750001,
+          "y_board_relative_mm": 38.599999,
+          "x_local_mm": -4.0,
+          "y_local_mm": -3.9,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 5.500002,
+            "min_y": 38.349999,
+            "max_x": 6.000001,
+            "max_y": 38.849998,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "3",
+          "net": "NetR8_1",
+          "layer": 1,
+          "x_board_relative_mm": 6.45,
+          "y_board_relative_mm": 37.999998,
+          "x_local_mm": -3.300001,
+          "y_local_mm": -4.500001,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 6.2,
+            "min_y": 37.749998,
+            "max_x": 6.699999,
+            "max_y": 38.249997,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "4",
+          "net": "4",
+          "layer": 1,
+          "x_board_relative_mm": 7.250001,
+          "y_board_relative_mm": 37.999998,
+          "x_local_mm": -2.5,
+          "y_local_mm": -4.500001,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 7.000001,
+            "min_y": 37.749998,
+            "max_x": 7.5,
+            "max_y": 38.249997,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "5",
+          "net": "5",
+          "layer": 1,
+          "x_board_relative_mm": 8.050002,
+          "y_board_relative_mm": 37.999998,
+          "x_local_mm": -1.699999,
+          "y_local_mm": -4.500001,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 7.800002,
+            "min_y": 37.749998,
+            "max_x": 8.300001,
+            "max_y": 38.249997,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "6",
+          "net": "6",
+          "layer": 1,
+          "x_board_relative_mm": 8.85,
+          "y_board_relative_mm": 37.999998,
+          "x_local_mm": -0.900001,
+          "y_local_mm": -4.500001,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 8.600001,
+            "min_y": 37.749998,
+            "max_x": 9.1,
+            "max_y": 38.249997,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "7",
+          "net": "7",
+          "layer": 1,
+          "x_board_relative_mm": 9.650001,
+          "y_board_relative_mm": 37.999998,
+          "x_local_mm": -0.1,
+          "y_local_mm": -4.500001,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 9.400002,
+            "min_y": 37.749998,
+            "max_x": 9.900001,
+            "max_y": 38.249997,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "8",
+          "net": "8",
+          "layer": 1,
+          "x_board_relative_mm": 10.450002,
+          "y_board_relative_mm": 37.999998,
+          "x_local_mm": 0.700001,
+          "y_local_mm": -4.500001,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 10.200002,
+            "min_y": 37.749998,
+            "max_x": 10.700001,
+            "max_y": 38.249997,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "9",
+          "net": "NetR7_1",
+          "layer": 1,
+          "x_board_relative_mm": 11.25,
+          "y_board_relative_mm": 37.999998,
+          "x_local_mm": 1.499999,
+          "y_local_mm": -4.500001,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 11.000001,
+            "min_y": 37.749998,
+            "max_x": 11.5,
+            "max_y": 38.249997,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "10",
+          "net": "MW1",
+          "layer": 1,
+          "x_board_relative_mm": 12.350001,
+          "y_board_relative_mm": 38.899998,
+          "x_local_mm": 2.6,
+          "y_local_mm": -3.600001,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 12.100001,
+            "min_y": 38.649999,
+            "max_x": 12.6,
+            "max_y": 39.149998,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "11",
+          "net": "11",
+          "layer": 1,
+          "x_board_relative_mm": 13.75,
+          "y_board_relative_mm": 39.849999,
+          "x_local_mm": 3.999999,
+          "y_local_mm": -2.65,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 13.500001,
+            "min_y": 39.6,
+            "max_x": 14.0,
+            "max_y": 40.099999,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "12",
+          "net": "12",
+          "layer": 1,
+          "x_board_relative_mm": 13.75,
+          "y_board_relative_mm": 40.65,
+          "x_local_mm": 3.999999,
+          "y_local_mm": -1.849999,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 13.500001,
+            "min_y": 40.4,
+            "max_x": 14.0,
+            "max_y": 40.899999,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "14",
+          "net": "MW2",
+          "layer": 1,
+          "x_board_relative_mm": 11.25,
+          "y_board_relative_mm": 42.0,
+          "x_local_mm": 1.499999,
+          "y_local_mm": -0.499999,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 11.000001,
+            "min_y": 41.75,
+            "max_x": 11.5,
+            "max_y": 42.249999,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "15",
+          "net": "15",
+          "layer": 1,
+          "x_board_relative_mm": 13.75,
+          "y_board_relative_mm": 42.15,
+          "x_local_mm": 3.999999,
+          "y_local_mm": -0.349999,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 13.500001,
+            "min_y": 41.9,
+            "max_x": 14.0,
+            "max_y": 42.399999,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "16",
+          "net": "16",
+          "layer": 1,
+          "x_board_relative_mm": 13.75,
+          "y_board_relative_mm": 42.949998,
+          "x_local_mm": 3.999999,
+          "y_local_mm": 0.449999,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 13.500001,
+            "min_y": 42.699998,
+            "max_x": 14.0,
+            "max_y": 43.199997,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "17",
+          "net": "17",
+          "layer": 1,
+          "x_board_relative_mm": 13.75,
+          "y_board_relative_mm": 43.749999,
+          "x_local_mm": 3.999999,
+          "y_local_mm": 1.25,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 13.500001,
+            "min_y": 43.499999,
+            "max_x": 14.0,
+            "max_y": 43.999998,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "18",
+          "net": "18",
+          "layer": 1,
+          "x_board_relative_mm": 13.75,
+          "y_board_relative_mm": 44.55,
+          "x_local_mm": 3.999999,
+          "y_local_mm": 2.050001,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 13.500001,
+            "min_y": 44.3,
+            "max_x": 14.0,
+            "max_y": 44.799999,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "19",
+          "net": "MW3",
+          "layer": 1,
+          "x_board_relative_mm": 10.750001,
+          "y_board_relative_mm": 44.149998,
+          "x_local_mm": 1.0,
+          "y_local_mm": 1.649999,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 10.500002,
+            "min_y": 43.899999,
+            "max_x": 11.000001,
+            "max_y": 44.399998,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "20",
+          "net": "MW4",
+          "layer": 1,
+          "x_board_relative_mm": 8.75,
+          "y_board_relative_mm": 44.149998,
+          "x_local_mm": -1.000001,
+          "y_local_mm": 1.649999,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 8.500001,
+            "min_y": 43.899999,
+            "max_x": 9.0,
+            "max_y": 44.399998,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "21",
+          "net": "21",
+          "layer": 1,
+          "x_board_relative_mm": 5.750001,
+          "y_board_relative_mm": 43.399992,
+          "x_local_mm": -4.0,
+          "y_local_mm": 0.899993,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 5.500002,
+            "min_y": 43.149992,
+            "max_x": 6.000001,
+            "max_y": 43.649991,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "22",
+          "net": "22",
+          "layer": 1,
+          "x_board_relative_mm": 5.750001,
+          "y_board_relative_mm": 42.599994,
+          "x_local_mm": -4.0,
+          "y_local_mm": 0.099995,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 5.500002,
+            "min_y": 42.349994,
+            "max_x": 6.000001,
+            "max_y": 42.849993,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "23",
+          "net": "23",
+          "layer": 1,
+          "x_board_relative_mm": 5.750001,
+          "y_board_relative_mm": 41.799995,
+          "x_local_mm": -4.0,
+          "y_local_mm": -0.700004,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 5.500002,
+            "min_y": 41.549996,
+            "max_x": 6.000001,
+            "max_y": 42.049995,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "24",
+          "net": "24",
+          "layer": 1,
+          "x_board_relative_mm": 5.750001,
+          "y_board_relative_mm": 40.999997,
+          "x_local_mm": -4.0,
+          "y_local_mm": -1.500002,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 5.500002,
+            "min_y": 40.749997,
+            "max_x": 6.000001,
+            "max_y": 41.249996,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "25",
+          "net": "25",
+          "layer": 1,
+          "x_board_relative_mm": 5.750001,
+          "y_board_relative_mm": 40.199998,
+          "x_local_mm": -4.0,
+          "y_local_mm": -2.300001,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 5.500002,
+            "min_y": 39.949999,
+            "max_x": 6.000001,
+            "max_y": 40.449998,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "26",
+          "net": "MW7",
+          "layer": 1,
+          "x_board_relative_mm": 7.75,
+          "y_board_relative_mm": 47.0,
+          "x_local_mm": -2.000001,
+          "y_local_mm": 4.500001,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 7.5,
+            "min_y": 46.75,
+            "max_x": 7.999999,
+            "max_y": 47.249999,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        },
+        {
+          "number": "27",
+          "net": "MW8",
+          "layer": 1,
+          "x_board_relative_mm": 11.750002,
+          "y_board_relative_mm": 47.0,
+          "x_local_mm": 2.000001,
+          "y_local_mm": 4.500001,
+          "top_size_x_mm": 0.499999,
+          "top_size_y_mm": 0.499999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 11.500002,
+            "min_y": 46.75,
+            "max_x": 12.000001,
+            "max_y": 47.249999,
+            "width": 0.499999,
+            "height": 0.499999
+          }
+        }
+      ],
+      "pad_count": 26,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 5.500002,
+        "min_y": 37.749998,
+        "max_x": 14.0,
+        "max_y": 47.249999,
+        "width": 8.499998,
+        "height": 9.500001
+      }
+    },
+    {
+      "native_component_index": 10,
+      "designator": "R4",
+      "pattern": "RESC1005X04N",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 27.674999,
+        "y": 70.425
+      },
+      "origin_board_relative_mm": {
+        "x": 2.274999,
+        "y": 45.025
+      },
+      "rotation_deg": 180.0,
+      "height_mm": 0.399999,
+      "standoff_mm": 0.0,
+      "footprint_description": "Chip Resistor, 2-Leads, Body 1.00x0.50mm, IPC Medium Density",
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -0.499999,
+        "min_y": -0.25,
+        "max_x": 0.499999,
+        "max_y": 0.25,
+        "width": 0.999998,
+        "height": 0.5
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 1.775,
+        "min_y": 44.775,
+        "max_x": 2.774998,
+        "max_y": 45.275,
+        "width": 0.999998,
+        "height": 0.5
+      },
+      "ipc_origin_difference_mm": 2.86e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "MW4",
+          "layer": 1,
+          "x_board_relative_mm": 2.75,
+          "y_board_relative_mm": 45.025,
+          "x_local_mm": -0.475001,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.549999,
+          "top_size_y_mm": 0.549999,
+          "hole_mm": 0.0,
+          "rotation_deg": 270.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 2.475,
+            "min_y": 44.750001,
+            "max_x": 3.024999,
+            "max_y": 45.3,
+            "width": 0.549999,
+            "height": 0.549999
+          }
+        },
+        {
+          "number": "2",
+          "net": "20",
+          "layer": 1,
+          "x_board_relative_mm": 1.799999,
+          "y_board_relative_mm": 45.025,
+          "x_local_mm": 0.475,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.549999,
+          "top_size_y_mm": 0.549999,
+          "hole_mm": 0.0,
+          "rotation_deg": 270.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 1.524999,
+            "min_y": 44.750001,
+            "max_x": 2.074998,
+            "max_y": 45.3,
+            "width": 0.549999,
+            "height": 0.549999
+          }
+        }
+      ],
+      "pad_count": 2,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 1.524999,
+        "min_y": 44.750001,
+        "max_x": 3.024999,
+        "max_y": 45.3,
+        "width": 1.5,
+        "height": 0.549999
+      },
+      "requested_replacement": "0603 imperial (1608 metric) body nominal1.6x0.8mm; preserve this origin/rotation"
+    },
+    {
+      "native_component_index": 11,
+      "designator": "R3",
+      "pattern": "RESC1005X04N",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 42.625,
+        "y": 70.425
+      },
+      "origin_board_relative_mm": {
+        "x": 17.225,
+        "y": 45.025
+      },
+      "rotation_deg": 0.0,
+      "height_mm": 0.399999,
+      "standoff_mm": 0.0,
+      "footprint_description": "Chip Resistor, 2-Leads, Body 1.00x0.50mm, IPC Medium Density",
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -0.499999,
+        "min_y": -0.25,
+        "max_x": 0.499999,
+        "max_y": 0.25,
+        "width": 0.999998,
+        "height": 0.5
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 16.725001,
+        "min_y": 44.775,
+        "max_x": 17.724999,
+        "max_y": 45.275,
+        "width": 0.999998,
+        "height": 0.5
+      },
+      "ipc_origin_difference_mm": 2e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "MW3",
+          "layer": 1,
+          "x_board_relative_mm": 16.75,
+          "y_board_relative_mm": 45.025,
+          "x_local_mm": -0.475,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 0.549999,
+          "top_size_y_mm": 0.549999,
+          "hole_mm": 0.0,
+          "rotation_deg": 90.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 16.475,
+            "min_y": 44.750001,
+            "max_x": 17.024999,
+            "max_y": 45.3,
+            "width": 0.549999,
+            "height": 0.549999
+          }
+        },
+        {
+          "number": "2",
+          "net": "19",
+          "layer": 1,
+          "x_board_relative_mm": 17.7,
+          "y_board_relative_mm": 45.025,
+          "x_local_mm": 0.475,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 0.549999,
+          "top_size_y_mm": 0.549999,
+          "hole_mm": 0.0,
+          "rotation_deg": 90.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 17.425001,
+            "min_y": 44.750001,
+            "max_x": 17.975,
+            "max_y": 45.3,
+            "width": 0.549999,
+            "height": 0.549999
+          }
+        }
+      ],
+      "pad_count": 2,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 16.475,
+        "min_y": 44.750001,
+        "max_x": 17.975,
+        "max_y": 45.3,
+        "width": 1.5,
+        "height": 0.549999
+      },
+      "requested_replacement": "0603 imperial (1608 metric) body nominal1.6x0.8mm; preserve this origin/rotation"
+    },
+    {
+      "native_component_index": 12,
+      "designator": "R2",
+      "pattern": "RESC1005X04N",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 40.85,
+        "y": 64.375
+      },
+      "origin_board_relative_mm": {
+        "x": 15.45,
+        "y": 38.975
+      },
+      "rotation_deg": 270.0,
+      "height_mm": 0.399999,
+      "standoff_mm": 0.0,
+      "footprint_description": "Chip Resistor, 2-Leads, Body 1.00x0.50mm, IPC Medium Density",
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -0.499999,
+        "min_y": -0.25,
+        "max_x": 0.499999,
+        "max_y": 0.25,
+        "width": 0.999998,
+        "height": 0.5
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 15.2,
+        "min_y": 38.475001,
+        "max_x": 15.7,
+        "max_y": 39.474999,
+        "width": 0.5,
+        "height": 0.999998
+      },
+      "ipc_origin_difference_mm": 6.38e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "MW2",
+          "layer": 1,
+          "x_board_relative_mm": 15.45,
+          "y_board_relative_mm": 39.45,
+          "x_local_mm": -0.475,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.549999,
+          "top_size_y_mm": 0.549999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 15.175,
+            "min_y": 39.175,
+            "max_x": 15.724999,
+            "max_y": 39.724999,
+            "width": 0.549999,
+            "height": 0.549999
+          }
+        },
+        {
+          "number": "2",
+          "net": "14",
+          "layer": 1,
+          "x_board_relative_mm": 15.45,
+          "y_board_relative_mm": 38.499999,
+          "x_local_mm": 0.475001,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.549999,
+          "top_size_y_mm": 0.549999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 15.175,
+            "min_y": 38.225,
+            "max_x": 15.724999,
+            "max_y": 38.774999,
+            "width": 0.549999,
+            "height": 0.549999
+          }
+        }
+      ],
+      "pad_count": 2,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 15.175,
+        "min_y": 38.225,
+        "max_x": 15.724999,
+        "max_y": 39.724999,
+        "width": 0.549999,
+        "height": 1.499999
+      },
+      "requested_replacement": "0603 imperial (1608 metric) body nominal1.6x0.8mm; preserve this origin/rotation"
+    },
+    {
+      "native_component_index": 13,
+      "designator": "R1",
+      "pattern": "RESC1005X04N",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 37.700001,
+        "y": 53.599999
+      },
+      "origin_board_relative_mm": {
+        "x": 12.300001,
+        "y": 28.199999
+      },
+      "rotation_deg": 270.0,
+      "height_mm": 0.399999,
+      "standoff_mm": 0.0,
+      "footprint_description": "Chip Resistor, 2-Leads, Body 1.00x0.50mm, IPC Medium Density",
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -0.499999,
+        "min_y": -0.25,
+        "max_x": 0.499999,
+        "max_y": 0.25,
+        "width": 0.999998,
+        "height": 0.5
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 12.050001,
+        "min_y": 27.7,
+        "max_x": 12.550001,
+        "max_y": 28.699998,
+        "width": 0.5,
+        "height": 0.999998
+      },
+      "ipc_origin_difference_mm": 5.2e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "MW1",
+          "layer": 1,
+          "x_board_relative_mm": 12.300001,
+          "y_board_relative_mm": 28.675,
+          "x_local_mm": -0.475001,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.549999,
+          "top_size_y_mm": 0.549999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 12.025001,
+            "min_y": 28.4,
+            "max_x": 12.575,
+            "max_y": 28.949999,
+            "width": 0.549999,
+            "height": 0.549999
+          }
+        },
+        {
+          "number": "2",
+          "net": "10",
+          "layer": 1,
+          "x_board_relative_mm": 12.300001,
+          "y_board_relative_mm": 27.724999,
+          "x_local_mm": 0.475,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.549999,
+          "top_size_y_mm": 0.549999,
+          "hole_mm": 0.0,
+          "rotation_deg": 0.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 12.025001,
+            "min_y": 27.45,
+            "max_x": 12.575,
+            "max_y": 27.999999,
+            "width": 0.549999,
+            "height": 0.549999
+          }
+        }
+      ],
+      "pad_count": 2,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 12.025001,
+        "min_y": 27.45,
+        "max_x": 12.575,
+        "max_y": 28.949999,
+        "width": 0.549999,
+        "height": 1.499999
+      },
+      "requested_replacement": "0603 imperial (1608 metric) body nominal1.6x0.8mm; preserve this origin/rotation"
+    },
+    {
+      "native_component_index": 14,
+      "designator": "C4",
+      "pattern": "FP-GCM155-0_05-IPC_A",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 28.874999,
+        "y": 71.599999
+      },
+      "origin_board_relative_mm": {
+        "x": 3.474999,
+        "y": 46.199999
+      },
+      "rotation_deg": 315.0,
+      "height_mm": 0.254,
+      "standoff_mm": 0.0,
+      "footprint_description": null,
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -1.036236,
+        "min_y": -0.536237,
+        "max_x": 1.036236,
+        "max_y": 0.536237,
+        "width": 2.072472,
+        "height": 1.072474
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 2.363093,
+        "min_y": 45.088093,
+        "max_x": 4.586906,
+        "max_y": 47.311905,
+        "width": 2.223813,
+        "height": 2.223813
+      },
+      "ipc_origin_difference_mm": 4.02e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "S4",
+          "layer": 1,
+          "x_board_relative_mm": 3.136605,
+          "y_board_relative_mm": 46.538393,
+          "x_local_mm": -0.478561,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 0.715348,
+          "top_size_y_mm": 0.672475,
+          "hole_mm": 0.0,
+          "rotation_deg": 315.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 2.645936,
+            "min_y": 46.047724,
+            "max_x": 3.627275,
+            "max_y": 47.029063,
+            "width": 0.981339,
+            "height": 0.981339
+          }
+        },
+        {
+          "number": "2",
+          "net": "MW4",
+          "layer": 1,
+          "x_board_relative_mm": 3.813396,
+          "y_board_relative_mm": 45.861602,
+          "x_local_mm": 0.478565,
+          "y_local_mm": 0.0,
+          "top_size_x_mm": 0.715348,
+          "top_size_y_mm": 0.672475,
+          "hole_mm": 0.0,
+          "rotation_deg": 315.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 3.322726,
+            "min_y": 45.370933,
+            "max_x": 4.304066,
+            "max_y": 46.352272,
+            "width": 0.981339,
+            "height": 0.981339
+          }
+        }
+      ],
+      "pad_count": 2,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 2.645936,
+        "min_y": 45.370933,
+        "max_x": 4.304066,
+        "max_y": 47.029063,
+        "width": 1.65813,
+        "height": 1.65813
+      },
+      "requested_replacement": "0603 imperial (1608 metric) body nominal1.6x0.8mm; preserve this origin/rotation"
+    },
+    {
+      "native_component_index": 15,
+      "designator": "C3",
+      "pattern": "FP-GCM155-0_05-IPC_A",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 41.425,
+        "y": 71.599999
+      },
+      "origin_board_relative_mm": {
+        "x": 16.025,
+        "y": 46.199999
+      },
+      "rotation_deg": 235.0,
+      "height_mm": 0.254,
+      "standoff_mm": 0.0,
+      "footprint_description": null,
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -1.036236,
+        "min_y": -0.536237,
+        "max_x": 1.036236,
+        "max_y": 0.536237,
+        "width": 2.072472,
+        "height": 1.072474
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 14.99138,
+        "min_y": 45.043591,
+        "max_x": 17.05862,
+        "max_y": 47.356407,
+        "width": 2.06724,
+        "height": 2.312815
+      },
+      "ipc_origin_difference_mm": 3.03e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "S3",
+          "layer": 1,
+          "x_board_relative_mm": 16.299492,
+          "y_board_relative_mm": 46.592012,
+          "x_local_mm": -0.478561,
+          "y_local_mm": 1e-06,
+          "top_size_x_mm": 0.715348,
+          "top_size_y_mm": 0.672475,
+          "hole_mm": 0.0,
+          "rotation_deg": 235.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 15.818909,
+            "min_y": 46.106165,
+            "max_x": 16.780075,
+            "max_y": 47.07786,
+            "width": 0.961166,
+            "height": 0.971695
+          }
+        },
+        {
+          "number": "2",
+          "net": "MW3",
+          "layer": 1,
+          "x_board_relative_mm": 15.750507,
+          "y_board_relative_mm": 45.807983,
+          "x_local_mm": 0.478563,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.715348,
+          "top_size_y_mm": 0.672475,
+          "hole_mm": 0.0,
+          "rotation_deg": 235.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 15.269924,
+            "min_y": 45.322136,
+            "max_x": 16.23109,
+            "max_y": 46.29383,
+            "width": 0.961166,
+            "height": 0.971695
+          }
+        }
+      ],
+      "pad_count": 2,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 15.269924,
+        "min_y": 45.322136,
+        "max_x": 16.780075,
+        "max_y": 47.07786,
+        "width": 1.510151,
+        "height": 1.755724
+      },
+      "requested_replacement": "0603 imperial (1608 metric) body nominal1.6x0.8mm; preserve this origin/rotation"
+    },
+    {
+      "native_component_index": 16,
+      "designator": "C2",
+      "pattern": "FP-GCM155-0_05-IPC_A",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 42.175001,
+        "y": 66.924999
+      },
+      "origin_board_relative_mm": {
+        "x": 16.775001,
+        "y": 41.524999
+      },
+      "rotation_deg": 135.0,
+      "height_mm": 0.254,
+      "standoff_mm": 0.0,
+      "footprint_description": null,
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -1.036236,
+        "min_y": -0.536237,
+        "max_x": 1.036236,
+        "max_y": 0.536237,
+        "width": 2.072472,
+        "height": 1.072474
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 15.663094,
+        "min_y": 40.413093,
+        "max_x": 17.886907,
+        "max_y": 42.636906,
+        "width": 2.223813,
+        "height": 2.223813
+      },
+      "ipc_origin_difference_mm": 5.64e-07,
+      "pads": [
+        {
+          "number": "1",
+          "net": "S2",
+          "layer": 1,
+          "x_board_relative_mm": 17.113395,
+          "y_board_relative_mm": 41.186605,
+          "x_local_mm": -0.478561,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.715348,
+          "top_size_y_mm": 0.672475,
+          "hole_mm": 0.0,
+          "rotation_deg": 135.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 16.622725,
+            "min_y": 40.695936,
+            "max_x": 17.604064,
+            "max_y": 41.677275,
+            "width": 0.981339,
+            "height": 0.981339
+          }
+        },
+        {
+          "number": "2",
+          "net": "MW2",
+          "layer": 1,
+          "x_board_relative_mm": 16.436604,
+          "y_board_relative_mm": 41.863396,
+          "x_local_mm": 0.478566,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.715348,
+          "top_size_y_mm": 0.672475,
+          "hole_mm": 0.0,
+          "rotation_deg": 135.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 15.945935,
+            "min_y": 41.372727,
+            "max_x": 16.927274,
+            "max_y": 42.354066,
+            "width": 0.981339,
+            "height": 0.981339
+          }
+        }
+      ],
+      "pad_count": 2,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 15.945935,
+        "min_y": 40.695936,
+        "max_x": 17.604064,
+        "max_y": 42.354066,
+        "width": 1.658129,
+        "height": 1.65813
+      },
+      "requested_replacement": "0603 imperial (1608 metric) body nominal1.6x0.8mm; preserve this origin/rotation"
+    },
+    {
+      "native_component_index": 17,
+      "designator": "C1",
+      "pattern": "FP-GCM155-0_05-IPC_A",
+      "side": "TOP",
+      "origin_absolute_mm": {
+        "x": 38.599999,
+        "y": 55.099999
+      },
+      "origin_board_relative_mm": {
+        "x": 13.199999,
+        "y": 29.699999
+      },
+      "rotation_deg": 135.0,
+      "height_mm": 0.254,
+      "standoff_mm": 0.0,
+      "footprint_description": null,
+      "body_bbox_source": "IPC-2581 Package Outline; may represent package/courtyard envelope rather than exact solid",
+      "body_bbox_local_mm": {
+        "min_x": -1.036236,
+        "min_y": -0.536237,
+        "max_x": 1.036236,
+        "max_y": 0.536237,
+        "width": 2.072472,
+        "height": 1.072474
+      },
+      "body_bbox_board_relative_mm": {
+        "min_x": 12.088093,
+        "min_y": 28.588093,
+        "max_x": 14.311905,
+        "max_y": 30.811905,
+        "width": 2.223813,
+        "height": 2.223813
+      },
+      "ipc_origin_difference_mm": 2e-08,
+      "pads": [
+        {
+          "number": "1",
+          "net": "S1",
+          "layer": 1,
+          "x_board_relative_mm": 13.538393,
+          "y_board_relative_mm": 29.361605,
+          "x_local_mm": -0.478561,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.715348,
+          "top_size_y_mm": 0.672475,
+          "hole_mm": 0.0,
+          "rotation_deg": 135.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 13.047724,
+            "min_y": 28.870935,
+            "max_x": 14.029063,
+            "max_y": 29.852275,
+            "width": 0.981339,
+            "height": 0.981339
+          }
+        },
+        {
+          "number": "2",
+          "net": "MW1",
+          "layer": 1,
+          "x_board_relative_mm": 12.861602,
+          "y_board_relative_mm": 30.038396,
+          "x_local_mm": 0.478565,
+          "y_local_mm": -0.0,
+          "top_size_x_mm": 0.715348,
+          "top_size_y_mm": 0.672475,
+          "hole_mm": 0.0,
+          "rotation_deg": 135.0,
+          "copper_bbox_board_relative_mm": {
+            "min_x": 12.370933,
+            "min_y": 29.547726,
+            "max_x": 13.352272,
+            "max_y": 30.529065,
+            "width": 0.981339,
+            "height": 0.981339
+          }
+        }
+      ],
+      "pad_count": 2,
+      "pad_copper_bbox_board_relative_mm": {
+        "min_x": 12.370933,
+        "min_y": 28.870935,
+        "max_x": 14.029063,
+        "max_y": 30.529065,
+        "width": 1.65813,
+        "height": 1.65813
+      },
+      "requested_replacement": "0603 imperial (1608 metric) body nominal1.6x0.8mm; preserve this origin/rotation"
+    }
+  ],
+  "free_pads": [
+    {
+      "number": "1",
+      "net": "GND",
+      "layer": 74,
+      "x_board_relative_mm": 2.424999,
+      "y_board_relative_mm": 65.339999,
+      "top_size_x_mm": 2.999999,
+      "top_size_y_mm": 2.999999,
+      "hole_mm": 2.100001,
+      "rotation_deg": 0.0
+    },
+    {
+      "number": "1",
+      "net": "GND",
+      "layer": 74,
+      "x_board_relative_mm": 17.075,
+      "y_board_relative_mm": 65.339999,
+      "top_size_x_mm": 2.999999,
+      "top_size_y_mm": 2.999999,
+      "hole_mm": 2.100001,
+      "rotation_deg": 0.0
+    },
+    {
+      "number": "1",
+      "net": "GND",
+      "layer": 74,
+      "x_board_relative_mm": 16.075,
+      "y_board_relative_mm": 18.089999,
+      "top_size_x_mm": 5.0,
+      "top_size_y_mm": 5.0,
+      "hole_mm": 4.0,
+      "rotation_deg": 0.0
+    },
+    {
+      "number": "1",
+      "net": "GND",
+      "layer": 74,
+      "x_board_relative_mm": 17.075,
+      "y_board_relative_mm": 13.189999,
+      "top_size_x_mm": 2.999999,
+      "top_size_y_mm": 2.999999,
+      "hole_mm": 2.100001,
+      "rotation_deg": 0.0
+    },
+    {
+      "number": "1",
+      "net": "GND",
+      "layer": 74,
+      "x_board_relative_mm": 2.424999,
+      "y_board_relative_mm": 13.189999,
+      "top_size_x_mm": 2.999999,
+      "top_size_y_mm": 2.999999,
+      "hole_mm": 2.100001,
+      "rotation_deg": 0.0
+    },
+    {
+      "number": "1",
+      "net": "GND",
+      "layer": 74,
+      "x_board_relative_mm": 3.424999,
+      "y_board_relative_mm": 18.089999,
+      "top_size_x_mm": 5.0,
+      "top_size_y_mm": 5.0,
+      "hole_mm": 4.0,
+      "rotation_deg": 0.0
+    }
+  ],
+  "dsub_notes": {
+    "reference_pattern": "581-M25-113L461",
+    "reference_pad_numbers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "reference_pin_net_map": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "10",
+      "11": "11",
+      "12": "12",
+      "13": "1",
+      "14": "14",
+      "15": "15",
+      "16": "16",
+      "17": "17",
+      "18": "18",
+      "19": "19",
+      "20": "20",
+      "21": "21",
+      "22": "22",
+      "23": "23",
+      "24": "24",
+      "25": "25"
+    },
+    "new_project_library_difference": "Original project library same pattern has extra mounting pads26/27 centeredlocalx\u00b112.255,y-1.27,pad3.5mm,drill2.8mm. ReferencePCB onlycontactpads1\u201325; mechanical3Dbody extendsbeyondnarrowboard."
+  }
+}

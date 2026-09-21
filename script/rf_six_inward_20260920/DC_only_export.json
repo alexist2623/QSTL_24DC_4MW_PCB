@@ -1,0 +1,14 @@
+{
+  "source": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB.PcbDoc",
+  "source_sha256": "d8d3e5dc6852aff818760e863640ffa2af25820d1afbc0d0a6ad946ec6c7260b",
+  "image": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\docs\\DC_only.png",
+  "dc_nets": 24,
+  "tracks_by_layer": {
+    "1": 24,
+    "2": 81,
+    "4": 115
+  },
+  "dc_vias": 48,
+  "view": "top coordinates with QD/R and ZIF detail views",
+  "design_modified": false
+}

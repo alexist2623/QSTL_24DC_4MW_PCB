@@ -1,0 +1,176 @@
+{
+  "pcb_sha256": "d8d3e5dc6852aff818760e863640ffa2af25820d1afbc0d0a6ad946ec6c7260b",
+  "passed": true,
+  "nets": 24,
+  "internal_layers_by_net": {
+    "ZIF01": [
+      4
+    ],
+    "ZIF02": [
+      4
+    ],
+    "ZIF03": [
+      4
+    ],
+    "ZIF04": [
+      2
+    ],
+    "ZIF05": [
+      4
+    ],
+    "ZIF06": [
+      2
+    ],
+    "ZIF07": [
+      4
+    ],
+    "ZIF08": [
+      2
+    ],
+    "ZIF09": [
+      4
+    ],
+    "ZIF10": [
+      2
+    ],
+    "ZIF11": [
+      4
+    ],
+    "ZIF12": [
+      2
+    ],
+    "ZIF15": [
+      4
+    ],
+    "ZIF16": [
+      2
+    ],
+    "ZIF17": [
+      4
+    ],
+    "ZIF18": [
+      2
+    ],
+    "ZIF19": [
+      4
+    ],
+    "ZIF20": [
+      2
+    ],
+    "ZIF21": [
+      4
+    ],
+    "ZIF22": [
+      2
+    ],
+    "ZIF23": [
+      2
+    ],
+    "ZIF24": [
+      2
+    ],
+    "ZIF25": [
+      2
+    ],
+    "ZIF26": [
+      4
+    ]
+  },
+  "extra_DC_transition_vias": [],
+  "via_classification": {
+    "R_C": 24,
+    "QD": 24,
+    "ZIF_fanout": 24
+  },
+  "internal_track_segments": 196,
+  "previous_internal_track_segments": 292,
+  "removed_segments": 96,
+  "total_planar_DC_length_mm": 1023.4306747528586,
+  "previous_total_planar_DC_length_mm": 1029.8423086042628,
+  "central_bus": {
+    "L2": [
+      4,
+      6,
+      8,
+      10,
+      12,
+      16,
+      18,
+      20,
+      22,
+      24,
+      23,
+      25
+    ],
+    "L4": [
+      2,
+      26,
+      1,
+      3,
+      5,
+      7,
+      9,
+      11,
+      15,
+      17,
+      19,
+      21
+    ],
+    "x_left": 6.35,
+    "x_right": 12.95,
+    "pitch_mm": 0.6,
+    "clearance_mm": 0.475
+  },
+  "same_layer_trace_edge_clearance_min_mm": 0.17499837999999898,
+  "trace_to_through_pad_or_via_min_mm": 0.2874987899999997,
+  "large_GND_holes": [
+    {
+      "center_mm": [
+        16.074999599999998,
+        18.08999938
+      ],
+      "minimum_DC_copper_clearance_mm": 0.5624995099999994
+    },
+    {
+      "center_mm": [
+        3.4249994999999998,
+        18.08999938
+      ],
+      "minimum_DC_copper_clearance_mm": 0.3624999099999999
+    }
+  ],
+  "zif_to_target": {
+    "2": "R5-2",
+    "4": "R6-2",
+    "6": "Q1-23",
+    "8": "Q1-22",
+    "10": "Q1-21",
+    "12": "Q1-20",
+    "16": "Q1-19",
+    "18": "Q1-17",
+    "20": "Q1-16",
+    "22": "Q1-15",
+    "24": "Q1-14",
+    "26": "R4-2",
+    "1": "Q1-13",
+    "3": "Q1-11",
+    "5": "Q1-10",
+    "7": "Q1-8",
+    "9": "Q1-7",
+    "11": "Q1-5",
+    "15": "Q1-4",
+    "17": "Q1-3",
+    "19": "Q1-2",
+    "21": "R1-2",
+    "23": "R3-2",
+    "25": "R2-2"
+  },
+  "tracks_by_layer": {
+    "2": 81,
+    "4": 115
+  },
+  "width_mm": 0.125,
+  "Top_ZIF_escape_width_mm": 0.15,
+  "schematic_swap": "ZIF23 -> R3.2, ZIF25 -> R2.2",
+  "note": "Every DC net has one internal routing layer. Through vias remain only at QD/R/C pads and ZIF fanouts."
+}

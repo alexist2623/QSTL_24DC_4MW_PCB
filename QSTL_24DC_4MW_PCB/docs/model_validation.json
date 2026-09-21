@@ -1,0 +1,187 @@
+{
+  "passed": true,
+  "errors": [],
+  "pcb_sha256": "d8d3e5dc6852aff818760e863640ffa2af25820d1afbc0d0a6ad946ec6c7260b",
+  "bodies": [
+    {
+      "component": "R6",
+      "origin_offset_mm": 1.2700000002752176e-06,
+      "pad_axis_deg": 0.0,
+      "model_axis_deg": 0.0,
+      "angle_error_deg": 0.0,
+      "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861",
+      "side": "Bottom"
+    },
+    {
+      "component": "R5",
+      "origin_offset_mm": 1.7960512258591212e-06,
+      "pad_axis_deg": 179.99991439332143,
+      "model_axis_deg": 0.0,
+      "angle_error_deg": 8.560667856727378e-05,
+      "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861",
+      "side": "Bottom"
+    },
+    {
+      "component": "R4",
+      "origin_offset_mm": 1.2700000002752176e-06,
+      "pad_axis_deg": 0.0,
+      "model_axis_deg": 0.0,
+      "angle_error_deg": 0.0,
+      "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861",
+      "side": "Bottom"
+    },
+    {
+      "component": "R3",
+      "origin_offset_mm": 1.2699999984988608e-06,
+      "pad_axis_deg": 179.99991439344933,
+      "model_axis_deg": 0.0,
+      "angle_error_deg": 8.560655066958134e-05,
+      "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861",
+      "side": "Bottom"
+    },
+    {
+      "component": "R2",
+      "origin_offset_mm": 1.2700000020515745e-06,
+      "pad_axis_deg": 0.0,
+      "model_axis_deg": 0.0,
+      "angle_error_deg": 0.0,
+      "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861",
+      "side": "Bottom"
+    },
+    {
+      "component": "R1",
+      "origin_offset_mm": 1.7960512246030472e-06,
+      "pad_axis_deg": 179.99991439332143,
+      "model_axis_deg": 0.0,
+      "angle_error_deg": 8.560667856727378e-05,
+      "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861",
+      "side": "Bottom"
+    },
+    {
+      "component": "C6",
+      "origin_offset_mm": 1.2699999984988608e-06,
+      "pad_axis_deg": 90.0,
+      "model_axis_deg": 90.0,
+      "angle_error_deg": 0.0,
+      "embedded_step_sha256": "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5",
+      "side": "Bottom"
+    },
+    {
+      "component": "C5",
+      "origin_offset_mm": 1.2700000020515745e-06,
+      "pad_axis_deg": 90.0,
+      "model_axis_deg": 90.0,
+      "angle_error_deg": 0.0,
+      "embedded_step_sha256": "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5",
+      "side": "Bottom"
+    },
+    {
+      "component": "C4",
+      "origin_offset_mm": 1.2699999984988608e-06,
+      "pad_axis_deg": 90.0,
+      "model_axis_deg": 90.0,
+      "angle_error_deg": 0.0,
+      "embedded_step_sha256": "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5",
+      "side": "Bottom"
+    },
+    {
+      "component": "C3",
+      "origin_offset_mm": 1.7960512246030472e-06,
+      "pad_axis_deg": 89.99984794961132,
+      "model_axis_deg": 90.0,
+      "angle_error_deg": 0.00015205038867804888,
+      "embedded_step_sha256": "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5",
+      "side": "Bottom"
+    },
+    {
+      "component": "C2",
+      "origin_offset_mm": 1.2699999984988608e-06,
+      "pad_axis_deg": 90.0,
+      "model_axis_deg": 90.0,
+      "angle_error_deg": 0.0,
+      "embedded_step_sha256": "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5",
+      "side": "Bottom"
+    },
+    {
+      "component": "C1",
+      "origin_offset_mm": 1.2700000020515745e-06,
+      "pad_axis_deg": 90.0,
+      "model_axis_deg": 90.0,
+      "angle_error_deg": 0.0,
+      "embedded_step_sha256": "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5",
+      "side": "Bottom"
+    },
+    {
+      "component": "R_library",
+      "origin_offset_mm": 1.2699999999742431e-06,
+      "pad_axis_deg": 0.0,
+      "model_axis_deg": 0.0,
+      "angle_error_deg": 0.0,
+      "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861",
+      "side": "Top"
+    },
+    {
+      "component": "C_library",
+      "origin_offset_mm": 1.2699999999976619e-06,
+      "pad_axis_deg": 0.0,
+      "model_axis_deg": 0.0,
+      "angle_error_deg": 0.0,
+      "embedded_step_sha256": "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5",
+      "side": "Top"
+    }
+  ],
+  "libraries": [
+    {
+      "file": "Passives_0603.PcbLib",
+      "sha256": "900d385fd330f07d7a60d9f61564f6693c91c70d6bde6c71fc7a7b6e64201cea",
+      "pad_geometry_identical": true,
+      "pad_records_byte_identical": true,
+      "note": "Altium library save updates native serialization; number, coordinates, all layer sizes, hole, rotation, shape and layer compared explicitly."
+    },
+    {
+      "file": "Capacitors_0402.PcbLib",
+      "sha256": "b8fbc8ceeb086e45c346fa43712d24d6fb90bb1a2bf9de519581af3fcf75fb5c",
+      "pad_geometry_identical": true,
+      "pad_records_byte_identical": false,
+      "note": "Altium library save updates native serialization; number, coordinates, all layer sizes, hole, rotation, shape and layer compared explicitly."
+    }
+  ],
+  "STEP_geometry": {
+    "embedded_0.step": {
+      "bounds_mm": [
+        -0.5001994899996037,
+        -0.25019948999960373,
+        -0.00019948999960387793,
+        0.5001994899996037,
+        0.2501994899996045,
+        0.5531994899996041
+      ],
+      "dimensions_mm": [
+        1.0003989799992075,
+        0.5003989799992082,
+        0.553398979999208
+      ],
+      "valid": true,
+      "sha256": "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+    },
+    "R_0603_1608Metric.step": {
+      "bounds_mm": [
+        -0.8000001,
+        -0.4000001,
+        -1.0000000002775557e-07,
+        0.8000001,
+        0.4000001,
+        0.4500001
+      ],
+      "dimensions_mm": [
+        1.6000002,
+        0.8000002,
+        0.4500002
+      ],
+      "valid": true,
+      "sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+    }
+  },
+  "resistor_model": "Generic KiCad 0603 (1.6 x 0.8 x 0.45 mm)",
+  "capacitor_model": "Existing 0402 package shape preserved; orientation corrected"
+}

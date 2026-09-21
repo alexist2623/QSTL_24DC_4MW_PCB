@@ -1,0 +1,5 @@
+numpy
+shapely
+olefile
+Pillow
+cadquery-ocp

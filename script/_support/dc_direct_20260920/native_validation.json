@@ -1,0 +1,996 @@
+{
+  "passed": true,
+  "errors": [],
+  "pcb_sha256": "1cc6aafc06314555b8206005bea64ebd285a8434f9bc522d36a8c283f3d84aa5",
+  "pcblib_sha256": "935b0c4a8b1d7be5638a7b4d83b76131b2635c5e48b52b2278af861e2bcb0398",
+  "schematic_sha256": "e7bdb2cb7f0ef36c49b7c9b28a8027a771132074278ddced5578490898f7e49d",
+  "components": 22,
+  "pcb_pads": 147,
+  "named_nets": 33,
+  "via_count": 65,
+  "ground_shield_vias": 0,
+  "QD": {
+    "inner_pad_end_opening_mm": [
+      4.3,
+      4.3
+    ],
+    "pad_size_mm": [
+      1,
+      0.5
+    ],
+    "pad_pitch_mm": 0.7,
+    "moved_to_top_edge": [
+      1,
+      24
+    ],
+    "via_in_pad": [
+      {
+        "pin": "Q1-1",
+        "net": "MW3",
+        "pad_center_mm": [
+          11.44999996,
+          45.149998599999996
+        ],
+        "via_center_mm": [
+          11.44999996,
+          45.149998599999996
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-2",
+        "net": "ZIF19",
+        "pad_center_mm": [
+          12.400000599999998,
+          44.949999
+        ],
+        "via_center_mm": [
+          12.400000599999998,
+          44.949999
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-3",
+        "net": "ZIF17",
+        "pad_center_mm": [
+          12.400000599999998,
+          44.24999785999999
+        ],
+        "via_center_mm": [
+          12.400000599999998,
+          44.24999785999999
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-4",
+        "net": "ZIF15",
+        "pad_center_mm": [
+          12.400000599999998,
+          43.54999926
+        ],
+        "via_center_mm": [
+          12.400000599999998,
+          43.54999926
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-5",
+        "net": "ZIF11",
+        "pad_center_mm": [
+          12.400000599999998,
+          42.849998119999995
+        ],
+        "via_center_mm": [
+          12.400000599999998,
+          42.849998119999995
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-6",
+        "net": "MW2",
+        "pad_center_mm": [
+          12.400000599999998,
+          42.149999519999994
+        ],
+        "via_center_mm": [
+          12.400000599999998,
+          42.149999519999994
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-7",
+        "net": "ZIF09",
+        "pad_center_mm": [
+          12.400000599999998,
+          41.44999838
+        ],
+        "via_center_mm": [
+          12.400000599999998,
+          41.44999838
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-8",
+        "net": "ZIF07",
+        "pad_center_mm": [
+          12.400000599999998,
+          40.749999779999996
+        ],
+        "via_center_mm": [
+          12.400000599999998,
+          40.749999779999996
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-9",
+        "net": "MW1",
+        "pad_center_mm": [
+          12.200000999999999,
+          39.84999904
+        ],
+        "via_center_mm": [
+          12.200000999999999,
+          39.84999904
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-10",
+        "net": "ZIF05",
+        "pad_center_mm": [
+          11.499999859999999,
+          39.84999904
+        ],
+        "via_center_mm": [
+          11.499999859999999,
+          39.84999904
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-11",
+        "net": "ZIF03",
+        "pad_center_mm": [
+          10.800001259999998,
+          39.84999904
+        ],
+        "via_center_mm": [
+          10.800001259999998,
+          39.84999904
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-12",
+        "net": "ZIF01",
+        "pad_center_mm": [
+          10.100000119999999,
+          39.84999904
+        ],
+        "via_center_mm": [
+          10.100000119999999,
+          39.84999904
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-13",
+        "net": "ZIF26",
+        "pad_center_mm": [
+          9.40000152,
+          39.84999904
+        ],
+        "via_center_mm": [
+          9.40000152,
+          39.84999904
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-14",
+        "net": "ZIF24",
+        "pad_center_mm": [
+          8.700000379999999,
+          39.84999904
+        ],
+        "via_center_mm": [
+          8.700000379999999,
+          39.84999904
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-15",
+        "net": "ZIF22",
+        "pad_center_mm": [
+          8.00000178,
+          39.84999904
+        ],
+        "via_center_mm": [
+          8.00000178,
+          39.84999904
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-16",
+        "net": "ZIF20",
+        "pad_center_mm": [
+          7.3000006399999995,
+          39.84999904
+        ],
+        "via_center_mm": [
+          7.3000006399999995,
+          39.84999904
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-17",
+        "net": "ZIF18",
+        "pad_center_mm": [
+          7.1000010399999995,
+          40.749999779999996
+        ],
+        "via_center_mm": [
+          7.1000010399999995,
+          40.749999779999996
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-18",
+        "net": "ZIF16",
+        "pad_center_mm": [
+          7.1000010399999995,
+          41.44999838
+        ],
+        "via_center_mm": [
+          7.1000010399999995,
+          41.44999838
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-19",
+        "net": "ZIF12",
+        "pad_center_mm": [
+          7.1000010399999995,
+          42.149999519999994
+        ],
+        "via_center_mm": [
+          7.1000010399999995,
+          42.149999519999994
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-20",
+        "net": "ZIF10",
+        "pad_center_mm": [
+          7.1000010399999995,
+          42.849998119999995
+        ],
+        "via_center_mm": [
+          7.1000010399999995,
+          42.849998119999995
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-21",
+        "net": "ZIF08",
+        "pad_center_mm": [
+          7.1000010399999995,
+          43.54999926
+        ],
+        "via_center_mm": [
+          7.1000010399999995,
+          43.54999926
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-24",
+        "net": "MW4",
+        "pad_center_mm": [
+          8.05000168,
+          45.149998599999996
+        ],
+        "via_center_mm": [
+          8.05000168,
+          45.149998599999996
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-22",
+        "net": "ZIF06",
+        "pad_center_mm": [
+          7.1000010399999995,
+          44.24999785999999
+        ],
+        "via_center_mm": [
+          7.1000010399999995,
+          44.24999785999999
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      },
+      {
+        "pin": "Q1-23",
+        "net": "ZIF04",
+        "pad_center_mm": [
+          7.1000010399999995,
+          44.949999
+        ],
+        "via_center_mm": [
+          7.1000010399999995,
+          44.949999
+        ],
+        "offset_mm": 0.0,
+        "via_diameter_mm": 0.49999899999999997,
+        "drill_mm": 0.24999949999999999
+      }
+    ],
+    "signal_interior_crossings": [],
+    "library_matched": true
+  },
+  "bias_via_in_pad": [
+    {
+      "pin": "C1-2",
+      "net": "MW1",
+      "pad_center_mm": [
+        14.72143614,
+        30.000000959999998
+      ],
+      "via_center_mm": [
+        14.72143614,
+        30.000000959999998
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "C1-1",
+      "net": "S1",
+      "pad_center_mm": [
+        15.678561479999999,
+        30.000000959999998
+      ],
+      "via_center_mm": [
+        15.678561479999999,
+        30.000000959999998
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "C2-2",
+      "net": "MW2",
+      "pad_center_mm": [
+        17.07143652,
+        42.149999519999994
+      ],
+      "via_center_mm": [
+        17.07143652,
+        42.149999519999994
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "C2-1",
+      "net": "S2",
+      "pad_center_mm": [
+        18.02856186,
+        42.149999519999994
+      ],
+      "via_center_mm": [
+        18.02856186,
+        42.149999519999994
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "C3-2",
+      "net": "MW3",
+      "pad_center_mm": [
+        14.72143614,
+        46.199999039999994
+      ],
+      "via_center_mm": [
+        14.72143614,
+        46.199999039999994
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "C3-1",
+      "net": "S3",
+      "pad_center_mm": [
+        15.678561479999999,
+        46.1999965
+      ],
+      "via_center_mm": [
+        15.678561479999999,
+        46.1999965
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "C4-2",
+      "net": "MW4",
+      "pad_center_mm": [
+        4.7785629599999995,
+        46.199999039999994
+      ],
+      "via_center_mm": [
+        4.7785629599999995,
+        46.199999039999994
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "C4-1",
+      "net": "S4",
+      "pad_center_mm": [
+        3.8214376199999998,
+        46.199999039999994
+      ],
+      "via_center_mm": [
+        3.8214376199999998,
+        46.199999039999994
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "R1-2",
+      "net": "ZIF21",
+      "pad_center_mm": [
+        13.650003179999999,
+        31.700000099999997
+      ],
+      "via_center_mm": [
+        13.650003179999999,
+        31.700000099999997
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "R1-1",
+      "net": "MW1",
+      "pad_center_mm": [
+        13.650000639999998,
+        30.000000959999998
+      ],
+      "via_center_mm": [
+        13.650000639999998,
+        30.000000959999998
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "R2-2",
+      "net": "ZIF23",
+      "pad_center_mm": [
+        16.00000102,
+        43.84999866
+      ],
+      "via_center_mm": [
+        16.00000102,
+        43.84999866
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "R2-1",
+      "net": "MW2",
+      "pad_center_mm": [
+        16.00000102,
+        42.149999519999994
+      ],
+      "via_center_mm": [
+        16.00000102,
+        42.149999519999994
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "R3-2",
+      "net": "ZIF25",
+      "pad_center_mm": [
+        13.650003179999999,
+        47.900000719999994
+      ],
+      "via_center_mm": [
+        13.650003179999999,
+        47.900000719999994
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "R3-1",
+      "net": "MW3",
+      "pad_center_mm": [
+        13.650000639999998,
+        46.199999039999994
+      ],
+      "via_center_mm": [
+        13.650000639999998,
+        46.199999039999994
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "R4-2",
+      "net": "ZIF02",
+      "pad_center_mm": [
+        5.850001,
+        47.89999818
+      ],
+      "via_center_mm": [
+        5.850001,
+        47.89999818
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    },
+    {
+      "pin": "R4-1",
+      "net": "MW4",
+      "pad_center_mm": [
+        5.850001,
+        46.199999039999994
+      ],
+      "via_center_mm": [
+        5.850001,
+        46.199999039999994
+      ],
+      "offset_mm": 0.0,
+      "via_diameter_mm": 0.49999899999999997,
+      "drill_mm": 0.24999949999999999
+    }
+  ],
+  "capacitor_package": "0402",
+  "resistor_package": "0603",
+  "paste": {
+    "passed": true,
+    "regions": 130,
+    "top": 65,
+    "bottom": 65,
+    "via_count": 65,
+    "all_region_tails_consumed_exactly": true,
+    "max_center_error_mm": 7.105427357601002e-15,
+    "max_vertex_radius_error_mm": 1.624059245752818e-06,
+    "errors": [],
+    "missing_or_duplicate": [],
+    "evidence": "Actual filled 72-vertex region contours on TopPaste35/BottomPaste36; diameter equals native via copper. Native CAM export still requires separate verification."
+  },
+  "top_and_bottom_tented": 65,
+  "DRC_after_save_and_reopen": {
+    "violations": 0,
+    "checked_rules": 13,
+    "report": "DC_direct_DRC.html",
+    "rules": {
+      "Clearance Constraint (Gap=0.15mm) (All),(All)": "0",
+      "Short-Circuit Constraint (Allowed=No) (All),(All)": "0",
+      "Un-Routed Net Constraint ( (All) )": "0",
+      "Modified Polygon (Allow modified: No), (Allow shelved: No)": "0",
+      "Width Constraint (Min=0.125mm) (Max=0.254mm) (Preferred=0.15mm) (All)": "0",
+      "Routing Topology Rule(Topology=Shortest) (All)": "0",
+      "Hole Size Constraint (Min=0.025mm) (Max=4.1mm) (All)": "0",
+      "Hole To Hole Clearance (Gap=0.254mm) (All),(All)": "0",
+      "Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)": "0",
+      "Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)": "0",
+      "Silk to Silk (Clearance=0.254mm) (All),(All)": "0",
+      "Net Antennae (Tolerance=0mm) (All)": "0",
+      "Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)": "0"
+    }
+  },
+  "rf_qd_map": {
+    "1": 9,
+    "2": 6,
+    "3": 1,
+    "4": 24
+  },
+  "zif_to_target": {
+    "2": "R4-2",
+    "4": "Q1-23",
+    "6": "Q1-22",
+    "8": "Q1-21",
+    "10": "Q1-20",
+    "12": "Q1-19",
+    "16": "Q1-18",
+    "18": "Q1-17",
+    "20": "Q1-16",
+    "22": "Q1-15",
+    "24": "Q1-14",
+    "26": "Q1-13",
+    "1": "Q1-12",
+    "3": "Q1-11",
+    "5": "Q1-10",
+    "7": "Q1-8",
+    "9": "Q1-7",
+    "11": "Q1-5",
+    "15": "Q1-4",
+    "17": "Q1-3",
+    "19": "Q1-2",
+    "21": "R1-2",
+    "23": "R2-2",
+    "25": "R3-2"
+  },
+  "RF_delay_matching": "Deferred by user; short simple routes prioritized",
+  "RF_main_planar_lengths_mm": {
+    "1": 15.695351656076937,
+    "2": 14.163118278101784,
+    "3": 7.17682735865308,
+    "4": 7.1768273586530835
+  },
+  "route_geometry_comparison": [
+    {
+      "net": "MW1",
+      "layer": 32,
+      "max_error_mm": 5.999999999062311e-07
+    },
+    {
+      "net": "MW2",
+      "layer": 32,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "MW3",
+      "layer": 32,
+      "max_error_mm": 9.637057696673341e-07
+    },
+    {
+      "net": "MW4",
+      "layer": 32,
+      "max_error_mm": 9.63705770399435e-07
+    },
+    {
+      "net": "S1",
+      "layer": 32,
+      "max_error_mm": 5.999999999062311e-07
+    },
+    {
+      "net": "S2",
+      "layer": 32,
+      "max_error_mm": 1.2799295648733735e-06
+    },
+    {
+      "net": "S3",
+      "layer": 32,
+      "max_error_mm": 5.999999999062311e-07
+    },
+    {
+      "net": "S4",
+      "layer": 32,
+      "max_error_mm": 5.999999999062311e-07
+    },
+    {
+      "net": "ZIF01",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF01",
+      "layer": 4,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF02",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF02",
+      "layer": 4,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF03",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF03",
+      "layer": 4,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF04",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF04",
+      "layer": 2,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF05",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF05",
+      "layer": 4,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF06",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF06",
+      "layer": 2,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF07",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF07",
+      "layer": 4,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF08",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF08",
+      "layer": 2,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF09",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF09",
+      "layer": 4,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF10",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF10",
+      "layer": 2,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF11",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF11",
+      "layer": 4,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF12",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF12",
+      "layer": 2,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF15",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF15",
+      "layer": 4,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF16",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF16",
+      "layer": 2,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF17",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF17",
+      "layer": 4,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF18",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF18",
+      "layer": 2,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF19",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF19",
+      "layer": 4,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF20",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF20",
+      "layer": 2,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF21",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF21",
+      "layer": 4,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF22",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF22",
+      "layer": 2,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF23",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF23",
+      "layer": 2,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF23",
+      "layer": 4,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF24",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF24",
+      "layer": 2,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF25",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF25",
+      "layer": 2,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF26",
+      "layer": 1,
+      "max_error_mm": 0.0
+    },
+    {
+      "net": "ZIF26",
+      "layer": 4,
+      "max_error_mm": 0.0
+    }
+  ],
+  "mask_exception": "Via-in-pad holes share Bottom pad solder-mask openings; all via-specific top/bottom tent flags and paste apertures are present."
+}

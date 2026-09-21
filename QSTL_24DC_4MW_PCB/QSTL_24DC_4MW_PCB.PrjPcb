@@ -1196,3 +1196,9 @@ DocumentPath=Reference_Capacitors.SchLib
 AnnotationEnabled=0
 ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
+
+[Document11]
+DocumentPath=Capacitors_0402.PcbLib
+AnnotationEnabled=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1

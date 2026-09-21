@@ -1,0 +1,538 @@
+{
+  "passed": true,
+  "errors": [],
+  "schematic": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB.SchDoc",
+  "sha256": "731542fee2b5faceb952ee9847650544a4ea3cacc52750a6749e39e6ed7c8d8d",
+  "counts": {
+    "components": 22,
+    "pins": 141,
+    "named_nets": 37,
+    "connected_pins": 110,
+    "NC_pins": 31,
+    "labels": 110,
+    "wire_segments": 110,
+    "NC_markers": 31
+  },
+  "recovered_nets": {
+    "ZIF01": [
+      "J1-1",
+      "Q1-13"
+    ],
+    "ZIF02": [
+      "J1-2",
+      "R5-2"
+    ],
+    "ZIF03": [
+      "J1-3",
+      "Q1-11"
+    ],
+    "ZIF04": [
+      "J1-4",
+      "R6-2"
+    ],
+    "ZIF05": [
+      "J1-5",
+      "Q1-10"
+    ],
+    "ZIF06": [
+      "J1-6",
+      "Q1-23"
+    ],
+    "ZIF07": [
+      "J1-7",
+      "Q1-8"
+    ],
+    "ZIF08": [
+      "J1-8",
+      "Q1-22"
+    ],
+    "ZIF09": [
+      "J1-9",
+      "Q1-7"
+    ],
+    "ZIF10": [
+      "J1-10",
+      "Q1-21"
+    ],
+    "ZIF11": [
+      "J1-11",
+      "Q1-5"
+    ],
+    "ZIF12": [
+      "J1-12",
+      "Q1-20"
+    ],
+    "ZIF15": [
+      "J1-15",
+      "Q1-4"
+    ],
+    "ZIF16": [
+      "J1-16",
+      "Q1-19"
+    ],
+    "ZIF17": [
+      "J1-17",
+      "Q1-3"
+    ],
+    "ZIF18": [
+      "J1-18",
+      "Q1-17"
+    ],
+    "ZIF19": [
+      "J1-19",
+      "Q1-2"
+    ],
+    "ZIF20": [
+      "J1-20",
+      "Q1-16"
+    ],
+    "ZIF21": [
+      "J1-21",
+      "R1-2"
+    ],
+    "ZIF22": [
+      "J1-22",
+      "Q1-15"
+    ],
+    "ZIF23": [
+      "J1-23",
+      "R3-2"
+    ],
+    "ZIF24": [
+      "J1-24",
+      "Q1-14"
+    ],
+    "ZIF25": [
+      "J1-25",
+      "R2-2"
+    ],
+    "ZIF26": [
+      "J1-26",
+      "R4-2"
+    ],
+    "MW3": [
+      "C3-2",
+      "Q1-1",
+      "R3-1"
+    ],
+    "MW2": [
+      "C2-2",
+      "Q1-6",
+      "R2-1"
+    ],
+    "MW1": [
+      "C1-2",
+      "Q1-9",
+      "R1-1"
+    ],
+    "MW5": [
+      "C5-2",
+      "Q1-12",
+      "R5-1"
+    ],
+    "MW6": [
+      "C6-2",
+      "Q1-18",
+      "R6-1"
+    ],
+    "MW4": [
+      "C4-2",
+      "Q1-24",
+      "R4-1"
+    ],
+    "S1": [
+      "C1-1",
+      "SMP1-1"
+    ],
+    "GND": [
+      "SMP1-2",
+      "SMP1-3",
+      "SMP1-4",
+      "SMP1-5",
+      "SMP2-2",
+      "SMP2-3",
+      "SMP2-4",
+      "SMP2-5",
+      "SMP3-2",
+      "SMP3-3",
+      "SMP3-4",
+      "SMP3-5",
+      "SMP4-2",
+      "SMP4-3",
+      "SMP4-4",
+      "SMP4-5",
+      "SMP5-2",
+      "SMP5-3",
+      "SMP5-4",
+      "SMP5-5",
+      "SMP6-2",
+      "SMP6-3",
+      "SMP6-4",
+      "SMP6-5",
+      "SMP7-2",
+      "SMP7-3",
+      "SMP7-4",
+      "SMP7-5",
+      "SMP8-2",
+      "SMP8-3",
+      "SMP8-4",
+      "SMP8-5"
+    ],
+    "S2": [
+      "C2-1",
+      "SMP2-1"
+    ],
+    "S3": [
+      "C3-1",
+      "SMP3-1"
+    ],
+    "S4": [
+      "C4-1",
+      "SMP4-1"
+    ],
+    "S5": [
+      "C5-1",
+      "SMP5-1"
+    ],
+    "S6": [
+      "C6-1",
+      "SMP6-1"
+    ]
+  },
+  "NC_pins": [
+    "J1-13",
+    "J1-14",
+    "J1-27",
+    "J1-28",
+    "J1-29",
+    "J1-30",
+    "J1-31",
+    "J1-32",
+    "J1-33",
+    "J1-34",
+    "J1-35",
+    "J1-36",
+    "J1-37",
+    "J1-38",
+    "J1-39",
+    "J1-40",
+    "J1-41",
+    "J1-42",
+    "J1-43",
+    "J1-44",
+    "J1-45",
+    "J1-46",
+    "J1-47",
+    "J1-48",
+    "J1-49",
+    "J1-50",
+    "J1-51",
+    "J1-52",
+    "J1-53",
+    "SMP7-1",
+    "SMP8-1"
+  ],
+  "models": {
+    "J1": {
+      "name": "FP-5025985193-MFG",
+      "file": "ZIF_5025985193.PcbLib"
+    },
+    "Q1": {
+      "name": "QD4",
+      "file": "QSTL_24DC_4MW_PCB.PcbLib"
+    },
+    "SMP1": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "SMP2": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "SMP3": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "SMP4": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "R1": {
+      "name": "CC1608-0603",
+      "file": "Passives_0603.PcbLib"
+    },
+    "R2": {
+      "name": "CC1608-0603",
+      "file": "Passives_0603.PcbLib"
+    },
+    "R3": {
+      "name": "CC1608-0603",
+      "file": "Passives_0603.PcbLib"
+    },
+    "R4": {
+      "name": "CC1608-0603",
+      "file": "Passives_0603.PcbLib"
+    },
+    "C1": {
+      "name": "FP-GCM155-0_05-IPC_A",
+      "file": "Capacitors_0402.PcbLib"
+    },
+    "C2": {
+      "name": "FP-GCM155-0_05-IPC_A",
+      "file": "Capacitors_0402.PcbLib"
+    },
+    "C3": {
+      "name": "FP-GCM155-0_05-IPC_A",
+      "file": "Capacitors_0402.PcbLib"
+    },
+    "C4": {
+      "name": "FP-GCM155-0_05-IPC_A",
+      "file": "Capacitors_0402.PcbLib"
+    },
+    "SMP7": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "SMP8": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "SMP5": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "R5": {
+      "name": "CC1608-0603",
+      "file": "Passives_0603.PcbLib"
+    },
+    "C5": {
+      "name": "FP-GCM155-0_05-IPC_A",
+      "file": "Capacitors_0402.PcbLib"
+    },
+    "SMP6": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "R6": {
+      "name": "CC1608-0603",
+      "file": "Passives_0603.PcbLib"
+    },
+    "C6": {
+      "name": "FP-GCM155-0_05-IPC_A",
+      "file": "Capacitors_0402.PcbLib"
+    }
+  },
+  "values": {
+    "R1": "10k",
+    "R2": "10k",
+    "R3": "10k",
+    "R4": "10k",
+    "C1": "1nF",
+    "C2": "1nF",
+    "C3": "1nF",
+    "C4": "1nF",
+    "R5": "10k",
+    "C5": "1nF",
+    "R6": "10k",
+    "C6": "1nF"
+  },
+  "qd_library_pins": {
+    "1": "MW3",
+    "2": "ZIF19",
+    "3": "ZIF17",
+    "4": "ZIF15",
+    "5": "ZIF11",
+    "6": "MW2",
+    "7": "ZIF09",
+    "8": "ZIF07",
+    "9": "MW1",
+    "10": "ZIF05",
+    "11": "ZIF03",
+    "12": "MW5",
+    "13": "ZIF01",
+    "14": "ZIF24",
+    "15": "ZIF22",
+    "16": "ZIF20",
+    "17": "ZIF18",
+    "18": "MW6",
+    "19": "ZIF16",
+    "20": "ZIF12",
+    "21": "ZIF10",
+    "22": "ZIF08",
+    "23": "ZIF06",
+    "24": "MW4"
+  },
+  "source_hash_checks": {
+    "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\script\\rf_six_inward_20260920\\QSTL_24DC_4MW_PCB.PcbDoc": true,
+    "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\script\\rf_six_inward_20260920\\QSTL_24DC_4MW_PCB.SchDoc": true,
+    "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\script\\rf_six_inward_20260920\\QSTL_24DC_4MW_PCB.SchLib": true,
+    "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\script\\rf_six_inward_20260920\\QSTL_24DC_4MW_PCB.PrjPcb": true,
+    "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\script\\rf_six_inward_20260920\\QSTL_24DC_4MW_PCB.PcbLib": true
+  },
+  "native_compile": {
+    "report": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\work\\rf6_schematic_compile.txt",
+    "sha256": "5bf17a8c96e17cf69cc8a53cef40902af9cf6e1a8e22f4388cdb968a94c79958",
+    "summary": {
+      "COMPILE_RESULT": "False",
+      "VIOLATION_COUNT": "0",
+      "NET_COUNT": "68"
+    },
+    "named_net_mismatches": {},
+    "extra_nets": {
+      "NetSMP8_1": [
+        "SMP8-1"
+      ],
+      "NetSMP7_1": [
+        "SMP7-1"
+      ],
+      "NetJ1_53": [
+        "J1-53"
+      ],
+      "NetJ1_52": [
+        "J1-52"
+      ],
+      "NetJ1_51": [
+        "J1-51"
+      ],
+      "NetJ1_50": [
+        "J1-50"
+      ],
+      "NetJ1_49": [
+        "J1-49"
+      ],
+      "NetJ1_48": [
+        "J1-48"
+      ],
+      "NetJ1_47": [
+        "J1-47"
+      ],
+      "NetJ1_46": [
+        "J1-46"
+      ],
+      "NetJ1_45": [
+        "J1-45"
+      ],
+      "NetJ1_44": [
+        "J1-44"
+      ],
+      "NetJ1_43": [
+        "J1-43"
+      ],
+      "NetJ1_42": [
+        "J1-42"
+      ],
+      "NetJ1_41": [
+        "J1-41"
+      ],
+      "NetJ1_40": [
+        "J1-40"
+      ],
+      "NetJ1_39": [
+        "J1-39"
+      ],
+      "NetJ1_38": [
+        "J1-38"
+      ],
+      "NetJ1_37": [
+        "J1-37"
+      ],
+      "NetJ1_36": [
+        "J1-36"
+      ],
+      "NetJ1_35": [
+        "J1-35"
+      ],
+      "NetJ1_34": [
+        "J1-34"
+      ],
+      "NetJ1_33": [
+        "J1-33"
+      ],
+      "NetJ1_32": [
+        "J1-32"
+      ],
+      "NetJ1_31": [
+        "J1-31"
+      ],
+      "NetJ1_30": [
+        "J1-30"
+      ],
+      "NetJ1_29": [
+        "J1-29"
+      ],
+      "NetJ1_28": [
+        "J1-28"
+      ],
+      "NetJ1_27": [
+        "J1-27"
+      ],
+      "NetJ1_14": [
+        "J1-14"
+      ],
+      "NetJ1_13": [
+        "J1-13"
+      ]
+    },
+    "unexpected_extra_nets": {},
+    "violations": [],
+    "complete": true
+  },
+  "native_reopen_compile_pending": false,
+  "PCB_comparison": {
+    "path": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB.PcbDoc",
+    "sha256": "bd8c71fd36253a7f13eab69a7828f3587760a34894e2eb19c72f3818caaff793",
+    "pad_net_assignments_match": true,
+    "component_UID_mismatches": {},
+    "footprint_mismatches": {},
+    "standalone_GND_mounts_valid": true,
+    "standalone_GND_mounts": [
+      {
+        "index": 141,
+        "number": "1",
+        "net_index": 4,
+        "x_dxp": 954724,
+        "y_dxp": 25724409
+      },
+      {
+        "index": 142,
+        "number": "1",
+        "net_index": 4,
+        "x_dxp": 6722441,
+        "y_dxp": 25724409
+      },
+      {
+        "index": 143,
+        "number": "1",
+        "net_index": 4,
+        "x_dxp": 6328740,
+        "y_dxp": 7122047
+      },
+      {
+        "index": 144,
+        "number": "1",
+        "net_index": 4,
+        "x_dxp": 6722441,
+        "y_dxp": 5192913
+      },
+      {
+        "index": 145,
+        "number": "1",
+        "net_index": 4,
+        "x_dxp": 954724,
+        "y_dxp": 5192913
+      },
+      {
+        "index": 146,
+        "number": "1",
+        "net_index": 4,
+        "x_dxp": 1348425,
+        "y_dxp": 7122047
+      }
+    ],
+    "counts": {
+      "components": 22,
+      "pads": 147,
+      "nets": 37
+    }
+  }
+}

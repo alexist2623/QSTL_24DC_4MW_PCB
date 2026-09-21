@@ -1,0 +1,417 @@
+{
+  "sha256": "7164883c9f44fed781b92c1137845829c33937e1e895fc6c56fdb348240f006b",
+  "stack": {
+    "V9_STACK_LAYER0_NAME": "Top Paste",
+    "V9_STACK_LAYER1_NAME": "Top Overlay",
+    "V9_STACK_LAYER2_NAME": "Top Solder",
+    "V9_STACK_LAYER2_DIELCONST": "3.500",
+    "V9_STACK_LAYER2_DIELHEIGHT": "0.4mil",
+    "V9_STACK_LAYER2_DIELMATERIAL": "Solder Resist",
+    "V9_STACK_LAYER3_NAME": "L1_GND",
+    "V9_STACK_LAYER3_COPTHICK": "1.378mil",
+    "V9_STACK_LAYER4_NAME": "Dielectric 1",
+    "V9_STACK_LAYER4_DIELCONST": "4.800",
+    "V9_STACK_LAYER4_DIELHEIGHT": "3.0866mil",
+    "V9_STACK_LAYER4_DIELMATERIAL": "1078RC69%",
+    "V9_STACK_LAYER5_NAME": "L2_DC_A",
+    "V9_STACK_LAYER5_COPTHICK": "0.5984mil",
+    "V9_STACK_LAYER6_NAME": "Dielectric2",
+    "V9_STACK_LAYER6_DIELCONST": "4.800",
+    "V9_STACK_LAYER6_DIELHEIGHT": "21.6535mil",
+    "V9_STACK_LAYER6_DIELMATERIAL": "0.55mm H/HOZ CORE",
+    "V9_STACK_LAYER7_NAME": "L3_GND",
+    "V9_STACK_LAYER7_COPTHICK": "0.5984mil",
+    "V9_STACK_LAYER8_NAME": "Dielectric3",
+    "V9_STACK_LAYER8_DIELCONST": "4.800",
+    "V9_STACK_LAYER8_DIELHEIGHT": "7.9055mil",
+    "V9_STACK_LAYER8_DIELMATERIAL": "7628RC50%",
+    "V9_STACK_LAYER9_NAME": "L4_DC_B",
+    "V9_STACK_LAYER9_COPTHICK": "0.5984mil",
+    "V9_STACK_LAYER10_NAME": "Dielectric4",
+    "V9_STACK_LAYER10_DIELCONST": "4.800",
+    "V9_STACK_LAYER10_DIELHEIGHT": "21.6535mil",
+    "V9_STACK_LAYER10_DIELMATERIAL": "0.55mm H/HOZ CORE",
+    "V9_STACK_LAYER11_NAME": "L5_GND",
+    "V9_STACK_LAYER11_COPTHICK": "0.5984mil",
+    "V9_STACK_LAYER12_NAME": "Dielectric5",
+    "V9_STACK_LAYER12_DIELCONST": "4.800",
+    "V9_STACK_LAYER12_DIELHEIGHT": "3.0866mil",
+    "V9_STACK_LAYER12_DIELMATERIAL": "1078RC69%",
+    "V9_STACK_LAYER13_NAME": "L6_RF_QD",
+    "V9_STACK_LAYER13_COPTHICK": "1.378mil",
+    "V9_STACK_LAYER14_NAME": "Bottom Solder",
+    "V9_STACK_LAYER14_DIELCONST": "3.500",
+    "V9_STACK_LAYER14_DIELHEIGHT": "0.4mil",
+    "V9_STACK_LAYER14_DIELMATERIAL": "Solder Resist",
+    "V9_STACK_LAYER15_NAME": "Bottom Overlay",
+    "V9_STACK_LAYER16_NAME": "Bottom Paste"
+  },
+  "shield_connections": [
+    {
+      "layer": 5,
+      "minimum_ground_land_overlap": 0.7420563246246374,
+      "not_fully_covered": [
+        {
+          "x": 4.55378058,
+          "y": 26.63000008,
+          "overlap_fraction": 0.7420563246246374,
+          "center_in_ground": true
+        },
+        {
+          "x": 14.946218519999999,
+          "y": 26.63000008,
+          "overlap_fraction": 0.7420564426018592,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.7752858199999997,
+          "y": 33.664712959999996,
+          "overlap_fraction": 0.9016140850768991,
+          "center_in_ground": true
+        },
+        {
+          "x": 2.42471194,
+          "y": 33.664712959999996,
+          "overlap_fraction": 0.9016140850769054,
+          "center_in_ground": true
+        },
+        {
+          "x": 2.42471194,
+          "y": 35.015286839999995,
+          "overlap_fraction": 0.9016140850769222,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.7752858199999997,
+          "y": 35.015286839999995,
+          "overlap_fraction": 0.9016140850769222,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.7752858199999997,
+          "y": 26.464712119999998,
+          "overlap_fraction": 0.901614085076911,
+          "center_in_ground": true
+        },
+        {
+          "x": 2.42471194,
+          "y": 26.464712119999998,
+          "overlap_fraction": 0.9016140850769118,
+          "center_in_ground": true
+        },
+        {
+          "x": 2.42471194,
+          "y": 27.815285999999997,
+          "overlap_fraction": 0.901614085076912,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.7752858199999997,
+          "y": 27.815285999999997,
+          "overlap_fraction": 0.9016140850769119,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.7752858199999997,
+          "y": 48.16471189999999,
+          "overlap_fraction": 0.9016140850768991,
+          "center_in_ground": true
+        },
+        {
+          "x": 2.42471194,
+          "y": 48.16471189999999,
+          "overlap_fraction": 0.9016140850769054,
+          "center_in_ground": true
+        },
+        {
+          "x": 2.42471194,
+          "y": 49.51528578,
+          "overlap_fraction": 0.9016140850769049,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.7752858199999997,
+          "y": 49.51528578,
+          "overlap_fraction": 0.9016140850768998,
+          "center_in_ground": true
+        },
+        {
+          "x": 17.07528716,
+          "y": 48.16471189999999,
+          "overlap_fraction": 0.9016140850768993,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.72471328,
+          "y": 48.16471189999999,
+          "overlap_fraction": 0.9016140850769042,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.72471328,
+          "y": 49.51528578,
+          "overlap_fraction": 0.9016140850769039,
+          "center_in_ground": true
+        },
+        {
+          "x": 17.07528716,
+          "y": 49.51528578,
+          "overlap_fraction": 0.9016140850768994,
+          "center_in_ground": true
+        },
+        {
+          "x": 17.07528716,
+          "y": 33.664712959999996,
+          "overlap_fraction": 0.9016140850768993,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.72471328,
+          "y": 33.664712959999996,
+          "overlap_fraction": 0.9016140850769042,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.72471328,
+          "y": 35.015286839999995,
+          "overlap_fraction": 0.9016140850769212,
+          "center_in_ground": true
+        },
+        {
+          "x": 17.07528716,
+          "y": 35.015286839999995,
+          "overlap_fraction": 0.901614085076918,
+          "center_in_ground": true
+        },
+        {
+          "x": 17.07528716,
+          "y": 26.464712119999998,
+          "overlap_fraction": 0.9016140850769122,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.72471328,
+          "y": 26.464712119999998,
+          "overlap_fraction": 0.9016140850769107,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.72471328,
+          "y": 27.815285999999997,
+          "overlap_fraction": 0.9016140850769114,
+          "center_in_ground": true
+        },
+        {
+          "x": 17.07528716,
+          "y": 27.815285999999997,
+          "overlap_fraction": 0.9016140850769129,
+          "center_in_ground": true
+        }
+      ]
+    },
+    {
+      "layer": 32,
+      "minimum_ground_land_overlap": 0.7420563246246374,
+      "not_fully_covered": [
+        {
+          "x": 4.195625339999999,
+          "y": 38.07234448,
+          "overlap_fraction": 0.9340245594535552,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.07346096,
+          "y": 38.19471152,
+          "overlap_fraction": 0.9369345262596122,
+          "center_in_ground": true
+        },
+        {
+          "x": 4.55378058,
+          "y": 26.63000008,
+          "overlap_fraction": 0.7420563246246374,
+          "center_in_ground": true
+        },
+        {
+          "x": 6.201336339999999,
+          "y": 27.321860519999998,
+          "overlap_fraction": 0.9384294185594847,
+          "center_in_ground": true
+        },
+        {
+          "x": 16.426538139999998,
+          "y": 38.89471012,
+          "overlap_fraction": 0.9369345262596138,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.304373759999999,
+          "y": 38.77234308,
+          "overlap_fraction": 0.9340245594535538,
+          "center_in_ground": true
+        },
+        {
+          "x": 14.946218519999999,
+          "y": 26.63000008,
+          "overlap_fraction": 0.7420564426018592,
+          "center_in_ground": true
+        },
+        {
+          "x": 13.29866276,
+          "y": 27.321860519999998,
+          "overlap_fraction": 0.9384294185594841,
+          "center_in_ground": true
+        },
+        {
+          "x": 12.70999998,
+          "y": 38.9499983,
+          "overlap_fraction": 0.8967101594746071,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.7752858199999997,
+          "y": 33.664712959999996,
+          "overlap_fraction": 0.9016140850768991,
+          "center_in_ground": true
+        },
+        {
+          "x": 2.42471194,
+          "y": 33.664712959999996,
+          "overlap_fraction": 0.9016140850769054,
+          "center_in_ground": true
+        },
+        {
+          "x": 2.42471194,
+          "y": 35.015286839999995,
+          "overlap_fraction": 0.9016140850769222,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.7752858199999997,
+          "y": 35.015286839999995,
+          "overlap_fraction": 0.9016140850769222,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.7752858199999997,
+          "y": 26.464712119999998,
+          "overlap_fraction": 0.901614085076911,
+          "center_in_ground": true
+        },
+        {
+          "x": 2.42471194,
+          "y": 26.464712119999998,
+          "overlap_fraction": 0.9016140850769118,
+          "center_in_ground": true
+        },
+        {
+          "x": 2.42471194,
+          "y": 27.815285999999997,
+          "overlap_fraction": 0.901614085076912,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.7752858199999997,
+          "y": 27.815285999999997,
+          "overlap_fraction": 0.9016140850769119,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.7752858199999997,
+          "y": 48.16471189999999,
+          "overlap_fraction": 0.9016140850768991,
+          "center_in_ground": true
+        },
+        {
+          "x": 2.42471194,
+          "y": 48.16471189999999,
+          "overlap_fraction": 0.9016140850769054,
+          "center_in_ground": true
+        },
+        {
+          "x": 2.42471194,
+          "y": 49.51528578,
+          "overlap_fraction": 0.9016140850769049,
+          "center_in_ground": true
+        },
+        {
+          "x": 3.7752858199999997,
+          "y": 49.51528578,
+          "overlap_fraction": 0.9016140850768998,
+          "center_in_ground": true
+        },
+        {
+          "x": 17.07528716,
+          "y": 48.16471189999999,
+          "overlap_fraction": 0.9016140850768993,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.72471328,
+          "y": 48.16471189999999,
+          "overlap_fraction": 0.9016140850769042,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.72471328,
+          "y": 49.51528578,
+          "overlap_fraction": 0.9016140850769039,
+          "center_in_ground": true
+        },
+        {
+          "x": 17.07528716,
+          "y": 49.51528578,
+          "overlap_fraction": 0.9016140850768994,
+          "center_in_ground": true
+        },
+        {
+          "x": 17.07528716,
+          "y": 33.664712959999996,
+          "overlap_fraction": 0.9016140850768993,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.72471328,
+          "y": 33.664712959999996,
+          "overlap_fraction": 0.9016140850769042,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.72471328,
+          "y": 35.015286839999995,
+          "overlap_fraction": 0.9016140850769212,
+          "center_in_ground": true
+        },
+        {
+          "x": 17.07528716,
+          "y": 35.015286839999995,
+          "overlap_fraction": 0.901614085076918,
+          "center_in_ground": true
+        },
+        {
+          "x": 17.07528716,
+          "y": 26.464712119999998,
+          "overlap_fraction": 0.9016140850769122,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.72471328,
+          "y": 26.464712119999998,
+          "overlap_fraction": 0.9016140850769107,
+          "center_in_ground": true
+        },
+        {
+          "x": 15.72471328,
+          "y": 27.815285999999997,
+          "overlap_fraction": 0.9016140850769114,
+          "center_in_ground": true
+        },
+        {
+          "x": 17.07528716,
+          "y": 27.815285999999997,
+          "overlap_fraction": 0.9016140850769129,
+          "center_in_ground": true
+        }
+      ]
+    }
+  ]
+}

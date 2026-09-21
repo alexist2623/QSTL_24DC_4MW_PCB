@@ -1,71 +1,61 @@
 {
+  "pcb_sha256": "d8d3e5dc6852aff818760e863640ffa2af25820d1afbc0d0a6ad946ec6c7260b",
   "channels": {
     "1": {
-      "from": "SMP1-1",
+      "QD_pin": 9,
+      "input": "SMP1-1",
       "capacitor": "C1",
-      "to": "Q1-24",
-      "net": "MW1",
-      "input_L4_length_mm": 43.588547948450305,
-      "output_L4_length_mm": 1.0432025157817888,
-      "bottom_QD_stub_mm": 0.7,
-      "vertical_traversal_mm": 3.2004,
-      "vertical_delay_ps": 23.388597361439075,
-      "nominal_delay_ps": 353.80140880908806,
-      "main_planar_length_mm": 45.331750464232094
+      "bias": "R1",
+      "native_planar_copper_length_mm": 14.861035629387555,
+      "resistor_RF_pad_on_main_line": true,
+      "resistor_branch_stub_mm": 0
     },
     "2": {
-      "from": "SMP2-1",
+      "QD_pin": 6,
+      "input": "SMP2-1",
       "capacitor": "C2",
-      "to": "Q1-21",
-      "net": "MW2",
-      "input_L4_length_mm": 42.16365123004079,
-      "output_L4_length_mm": 2.4680992341912926,
-      "bottom_QD_stub_mm": 0.7,
-      "vertical_traversal_mm": 3.2004,
-      "vertical_delay_ps": 23.388597361439075,
-      "nominal_delay_ps": 353.801408809088,
-      "main_planar_length_mm": 45.33175046423209
+      "bias": "R2",
+      "native_planar_copper_length_mm": 10.346819139389572,
+      "resistor_RF_pad_on_main_line": true,
+      "resistor_branch_stub_mm": 0
     },
     "3": {
-      "from": "SMP3-1",
+      "QD_pin": 1,
+      "input": "SMP3-1",
       "capacitor": "C3",
-      "to": "Q1-14",
-      "net": "MW3",
-      "input_L4_length_mm": 42.55935357694597,
-      "output_L4_length_mm": 2.0723968872861445,
-      "bottom_QD_stub_mm": 0.7,
-      "vertical_traversal_mm": 3.2004,
-      "vertical_delay_ps": 23.388597361439075,
-      "nominal_delay_ps": 353.8014088090883,
-      "main_planar_length_mm": 45.33175046423212
+      "bias": "R3",
+      "native_planar_copper_length_mm": 8.164685337195214,
+      "resistor_RF_pad_on_main_line": true,
+      "resistor_branch_stub_mm": 0
     },
     "4": {
-      "from": "SMP4-1",
+      "QD_pin": 24,
+      "input": "SMP4-1",
       "capacitor": "C4",
-      "to": "Q1-11",
-      "net": "MW4",
-      "input_L4_length_mm": 42.55800045192062,
-      "output_L4_length_mm": 2.0737500123114687,
-      "bottom_QD_stub_mm": 0.7,
-      "vertical_traversal_mm": 3.2004,
-      "vertical_delay_ps": 23.388597361439075,
-      "nominal_delay_ps": 353.80140880908806,
-      "main_planar_length_mm": 45.331750464232094
+      "bias": "R4",
+      "native_planar_copper_length_mm": 8.164690417195217,
+      "resistor_RF_pad_on_main_line": true,
+      "resistor_branch_stub_mm": 0
+    },
+    "5": {
+      "QD_pin": 12,
+      "input": "SMP5-1",
+      "capacitor": "C5",
+      "bias": "R5",
+      "native_planar_copper_length_mm": 16.020834440743084,
+      "resistor_RF_pad_on_main_line": true,
+      "resistor_branch_stub_mm": 0
+    },
+    "6": {
+      "QD_pin": 18,
+      "input": "SMP6-1",
+      "capacitor": "C6",
+      "bias": "R6",
+      "native_planar_copper_length_mm": 9.646824875443485,
+      "resistor_RF_pad_on_main_line": true,
+      "resistor_branch_stub_mm": 0
     }
   },
-  "constraints": {
-    "RF_main_layer": 4,
-    "QD_interior_forbidden": [
-      6.075,
-      38.825,
-      13.425,
-      46.7
-    ],
-    "all_R_C_vias_exact_pad_center": true,
-    "nominal_matched_delay_spread_ps": 2.8421709430404007e-13,
-    "width_mm": 0.21405524114055727,
-    "clearance_mm": 0.15,
-    "Dk": 4.8,
-    "limitations": "Nominal copper+actual barrel-delay only; excludes component, connector, bondwire, discontinuity and via stub EM group delay. Via-in-pad fabrication requires suitable filling/capping process."
-  }
+  "delay_matching_deferred_by_user": true,
+  "note": "Planar track/arc lengths only, excluding component internals and via barrels. No 1 ps or 50 ohm verification is claimed."
 }

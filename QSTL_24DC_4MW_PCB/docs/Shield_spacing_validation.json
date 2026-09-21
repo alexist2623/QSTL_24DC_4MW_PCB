@@ -1,0 +1,75 @@
+{
+  "passed": true,
+  "errors": [],
+  "pcb_sha256": "cd2c8eb18dbdc26cdb8f8d0b2e5536f642535e9f390aa7869319507fd45a0737",
+  "pcblib_sha256": "f8d47e028a279113354abaec4bc87cdc5bf263e3397878007956c7cc0b5382b2",
+  "schematic_sha256": "731542fee2b5faceb952ee9847650544a4ea3cacc52750a6749e39e6ed7c8d8d",
+  "components": 22,
+  "pads": 147,
+  "nets": 37,
+  "vias": 347,
+  "shield_vias": 287,
+  "signal_vias": 60,
+  "capacitor_vias_remaining": 0,
+  "QD": {
+    "cavity_mm": [
+      4.3,
+      4.3
+    ],
+    "inner_pad_end_square_mm": [
+      4.7,
+      4.7
+    ],
+    "minimum_cavity_pad_gap_mm": 0.199997929999995,
+    "cavity_depth_mm": 1.2,
+    "entry": "Bottom/L6",
+    "non_plated": true,
+    "corner_radius_mm": 0.5,
+    "ground_area_by_layer_mm2": {
+      "1": 22.08971348892901,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0,
+      "32": 0.0
+    }
+  },
+  "RF": {
+    "target_ohms": 50,
+    "width_mm": 0.11,
+    "coplanar_gap_mm": 0.2,
+    "shield_edge_gap_min_mm": 0.32999869825324596,
+    "shield_span": [
+      "L5",
+      "L6"
+    ],
+    "shield_to_shield_edge_gap_mm": 0.14999808825481564,
+    "nominal_center_pitch_mm": 0.4,
+    "stack_code": "JLCH06161HN1-1078",
+    "impedance_measurement": false
+  },
+  "mask_geometry_difference_mm2": 0.00034475336545624003,
+  "DRC": {
+    "checked_rules": 15,
+    "violations": 0,
+    "rules": {
+      "Clearance Constraint (Gap=0.15mm) (Not (InNet('GND') And OnLayer('L6_RF_QD'))),(Not (InNet('GND') And OnLayer('L6_RF_QD')))": "0",
+      "Clearance Constraint (Gap=0.2mm) (InNet('GND') And OnLayer('L6_RF_QD')),(All)": "0",
+      "Short-Circuit Constraint (Allowed=No) (All),(All)": "0",
+      "Un-Routed Net Constraint ( (All) )": "0",
+      "Modified Polygon (Allow modified: No), (Allow shelved: No)": "0",
+      "Width Constraint (Min=0.125mm) (Max=0.254mm) (Preferred=0.15mm) (Not OnLayer('L6_RF_QD'))": "0",
+      "Width Constraint (Min=0.11mm) (Max=0.11mm) (Preferred=0.11mm) (OnLayer('L6_RF_QD'))": "0",
+      "Routing Topology Rule(Topology=Shortest) (All)": "0",
+      "Hole Size Constraint (Min=0.025mm) (Max=4.1mm) (All)": "0",
+      "Hole To Hole Clearance (Gap=0.254mm) (All),(All)": "0",
+      "Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)": "0",
+      "Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)": "0",
+      "Silk to Silk (Clearance=0.254mm) (All),(All)": "0",
+      "Net Antennae (Tolerance=0mm) (All)": "0",
+      "Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)": "0"
+    }
+  },
+  "connectivity": true,
+  "stored_connections": 0
+}

@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "pcb_sha256": "1cc6aafc06314555b8206005bea64ebd285a8434f9bc522d36a8c283f3d84aa5",
+  "fixed_component_placement_pads_stack_RF_unchanged": true,
+  "pad_net_changes": {
+    "Q1-3": {
+      "old": "ZIF19",
+      "new": "ZIF17"
+    },
+    "Q1-2": {
+      "old": "ZIF21",
+      "new": "ZIF19"
+    },
+    "R1-2": {
+      "old": "ZIF17",
+      "new": "ZIF21"
+    }
+  },
+  "via_net_changes": 3,
+  "vias_added": 0,
+  "tracks_by_layer": {
+    "1": 24,
+    "32": 19,
+    "2": 80,
+    "4": 161
+  },
+  "internal_DC_segments_before": 305,
+  "internal_DC_segments_after": 241
+}

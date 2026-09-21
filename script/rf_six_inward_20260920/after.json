@@ -1,0 +1,422 @@
+{
+  "passed": true,
+  "physical_copper_connectivity_passed": true,
+  "pcb_sha256": "bd8c71fd36253a7f13eab69a7828f3587760a34894e2eb19c72f3818caaff793",
+  "method": "Independent graph of saved copper intersections by net and physical layer, including through-via spans and GND polygon regions with inherited polygon net assignments; no ratsnest/DRC result used to infer continuity.",
+  "connected_net_count": 37,
+  "DC_net_count": 24,
+  "RF_named_net_count": 12,
+  "all_component_pin_assignments_match_schematic": true,
+  "disconnected_copper_nets": [],
+  "via_spans_top_to_bottom": 72,
+  "nets": [
+    {
+      "net": "GND",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "SMP1-2",
+        "SMP1-3",
+        "SMP1-4",
+        "SMP1-5",
+        "SMP2-2",
+        "SMP2-3",
+        "SMP2-4",
+        "SMP2-5",
+        "SMP3-2",
+        "SMP3-3",
+        "SMP3-4",
+        "SMP3-5",
+        "SMP4-2",
+        "SMP4-3",
+        "SMP4-4",
+        "SMP4-5",
+        "SMP5-2",
+        "SMP5-3",
+        "SMP5-4",
+        "SMP5-5",
+        "SMP6-2",
+        "SMP6-3",
+        "SMP6-4",
+        "SMP6-5",
+        "SMP7-2",
+        "SMP7-3",
+        "SMP7-4",
+        "SMP7-5",
+        "SMP8-2",
+        "SMP8-3",
+        "SMP8-4",
+        "SMP8-5"
+      ],
+      "primitive_count": 41,
+      "groups": []
+    },
+    {
+      "net": "MW1",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "C1-2",
+        "Q1-9",
+        "R1-1"
+      ],
+      "primitive_count": 11,
+      "groups": []
+    },
+    {
+      "net": "MW2",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "C2-2",
+        "Q1-6",
+        "R2-1"
+      ],
+      "primitive_count": 9,
+      "groups": []
+    },
+    {
+      "net": "MW3",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "C3-2",
+        "Q1-1",
+        "R3-1"
+      ],
+      "primitive_count": 11,
+      "groups": []
+    },
+    {
+      "net": "MW4",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "C4-2",
+        "Q1-24",
+        "R4-1"
+      ],
+      "primitive_count": 11,
+      "groups": []
+    },
+    {
+      "net": "MW5",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "C5-2",
+        "Q1-12",
+        "R5-1"
+      ],
+      "primitive_count": 11,
+      "groups": []
+    },
+    {
+      "net": "MW6",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "C6-2",
+        "Q1-18",
+        "R6-1"
+      ],
+      "primitive_count": 9,
+      "groups": []
+    },
+    {
+      "net": "S1",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "C1-1",
+        "SMP1-1"
+      ],
+      "primitive_count": 6,
+      "groups": []
+    },
+    {
+      "net": "S2",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "C2-1",
+        "SMP2-1"
+      ],
+      "primitive_count": 8,
+      "groups": []
+    },
+    {
+      "net": "S3",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "C3-1",
+        "SMP3-1"
+      ],
+      "primitive_count": 6,
+      "groups": []
+    },
+    {
+      "net": "S4",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "C4-1",
+        "SMP4-1"
+      ],
+      "primitive_count": 6,
+      "groups": []
+    },
+    {
+      "net": "S5",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "C5-1",
+        "SMP5-1"
+      ],
+      "primitive_count": 6,
+      "groups": []
+    },
+    {
+      "net": "S6",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "C6-1",
+        "SMP6-1"
+      ],
+      "primitive_count": 8,
+      "groups": []
+    },
+    {
+      "net": "ZIF01",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-1",
+        "Q1-13"
+      ],
+      "primitive_count": 14,
+      "groups": []
+    },
+    {
+      "net": "ZIF02",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-2",
+        "R5-2"
+      ],
+      "primitive_count": 11,
+      "groups": []
+    },
+    {
+      "net": "ZIF03",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-3",
+        "Q1-11"
+      ],
+      "primitive_count": 14,
+      "groups": []
+    },
+    {
+      "net": "ZIF04",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-4",
+        "R6-2"
+      ],
+      "primitive_count": 10,
+      "groups": []
+    },
+    {
+      "net": "ZIF05",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-5",
+        "Q1-10"
+      ],
+      "primitive_count": 14,
+      "groups": []
+    },
+    {
+      "net": "ZIF06",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-6",
+        "Q1-23"
+      ],
+      "primitive_count": 12,
+      "groups": []
+    },
+    {
+      "net": "ZIF07",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-7",
+        "Q1-8"
+      ],
+      "primitive_count": 16,
+      "groups": []
+    },
+    {
+      "net": "ZIF08",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-8",
+        "Q1-22"
+      ],
+      "primitive_count": 12,
+      "groups": []
+    },
+    {
+      "net": "ZIF09",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-9",
+        "Q1-7"
+      ],
+      "primitive_count": 16,
+      "groups": []
+    },
+    {
+      "net": "ZIF10",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-10",
+        "Q1-21"
+      ],
+      "primitive_count": 12,
+      "groups": []
+    },
+    {
+      "net": "ZIF11",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-11",
+        "Q1-5"
+      ],
+      "primitive_count": 16,
+      "groups": []
+    },
+    {
+      "net": "ZIF12",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-12",
+        "Q1-20"
+      ],
+      "primitive_count": 12,
+      "groups": []
+    },
+    {
+      "net": "ZIF15",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-15",
+        "Q1-4"
+      ],
+      "primitive_count": 16,
+      "groups": []
+    },
+    {
+      "net": "ZIF16",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-16",
+        "Q1-19"
+      ],
+      "primitive_count": 12,
+      "groups": []
+    },
+    {
+      "net": "ZIF17",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-17",
+        "Q1-3"
+      ],
+      "primitive_count": 16,
+      "groups": []
+    },
+    {
+      "net": "ZIF18",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-18",
+        "Q1-17"
+      ],
+      "primitive_count": 12,
+      "groups": []
+    },
+    {
+      "net": "ZIF19",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-19",
+        "Q1-2"
+      ],
+      "primitive_count": 16,
+      "groups": []
+    },
+    {
+      "net": "ZIF20",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-20",
+        "Q1-16"
+      ],
+      "primitive_count": 10,
+      "groups": []
+    },
+    {
+      "net": "ZIF21",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-21",
+        "R1-2"
+      ],
+      "primitive_count": 15,
+      "groups": []
+    },
+    {
+      "net": "ZIF22",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-22",
+        "Q1-15"
+      ],
+      "primitive_count": 10,
+      "groups": []
+    },
+    {
+      "net": "ZIF23",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-23",
+        "R3-2"
+      ],
+      "primitive_count": 13,
+      "groups": []
+    },
+    {
+      "net": "ZIF24",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-24",
+        "Q1-14"
+      ],
+      "primitive_count": 10,
+      "groups": []
+    },
+    {
+      "net": "ZIF25",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-25",
+        "R2-2"
+      ],
+      "primitive_count": 16,
+      "groups": []
+    },
+    {
+      "net": "ZIF26",
+      "copper_connected_components": 1,
+      "connected_pins": [
+        "J1-26",
+        "R4-2"
+      ],
+      "primitive_count": 11,
+      "groups": []
+    }
+  ],
+  "stored_connection_line_count": 0,
+  "stored_connection_lines": []
+}

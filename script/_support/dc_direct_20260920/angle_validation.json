@@ -1,0 +1,124 @@
+{
+  "passed": true,
+  "errors": [],
+  "pcb_sha256": "1cc6aafc06314555b8206005bea64ebd285a8434f9bc522d36a8c283f3d84aa5",
+  "straight_track_count": 284,
+  "non_octilinear_tracks": [],
+  "DC": {
+    "layers": [
+      2,
+      4
+    ],
+    "corner_count": 217,
+    "max_direction_change_deg": 45.00029106166414,
+    "disallowed_corners": []
+  },
+  "RF": {
+    "arc_count": 11,
+    "radius_range_mm": [
+      0.29999939999999997,
+      0.29999939999999997
+    ],
+    "tangent_junction_count": 22,
+    "max_tangent_error_deg": 2.572463984051865e-06,
+    "hard_corners": []
+  },
+  "reference": {
+    "path": "C:\\Users\\\ubc15\uc815\ud604\\Nextcloud3\\Lab\\Instruments\\CustomParts\\Carrier_8MW_24DC\\PCB\\Narrow_v4 (May2024)\\narrow_v4\\narrow_v2.PcbDoc",
+    "sha256": "1356843fb56ee93ca6903493f8d44eb2924f98711d682ca023c6505e5cf13562",
+    "unchanged": true,
+    "coordinate_view": "Common board Top view: X right, Y up. Bottom component placement is already represented in saved coordinates.",
+    "method": "Recompute all four biased-RF positions from native reference pad coordinates after the QD rotation/compaction. Closest available current peripheral pads and clockwise order both checked. Photograph is qualitative orientation evidence; no calibrated photo-to-board transform is claimed.",
+    "mapping": [
+      {
+        "channel": "MW1",
+        "reference_sample_pad": "10",
+        "reference_xy_mm": [
+          12.350001,
+          38.899998
+        ],
+        "current_QD_pad": 9,
+        "current_xy_mm": [
+          12.200000999999999,
+          39.84999904
+        ],
+        "reference_bearing_deg": 144.16235135743173,
+        "current_bearing_deg": 137.2457380966042,
+        "centre_displacement_mm": 0.9617702303570688,
+        "closest_available_current_pad": 9,
+        "source_to_pad": "SMP1 -> C1 -> QD9",
+        "bias": "R1"
+      },
+      {
+        "channel": "MW2",
+        "reference_sample_pad": "14",
+        "reference_xy_mm": [
+          11.25,
+          42.0
+        ],
+        "current_QD_pad": 6,
+        "current_xy_mm": [
+          12.400000599999998,
+          42.149999519999994
+        ],
+        "reference_bearing_deg": 108.43491765399507,
+        "current_bearing_deg": 97.52380618084888,
+        "centre_displacement_mm": 1.1597418833518884,
+        "closest_available_current_pad": 6,
+        "source_to_pad": "SMP2 -> C2 -> QD6",
+        "bias": "R2"
+      },
+      {
+        "channel": "MW3",
+        "reference_sample_pad": "19",
+        "reference_xy_mm": [
+          10.750001,
+          44.149998
+        ],
+        "current_QD_pad": 1,
+        "current_xy_mm": [
+          11.44999996,
+          45.149998599999996
+        ],
+        "reference_bearing_deg": 31.218419956933577,
+        "current_bearing_deg": 32.68054373216718,
+        "centre_displacement_mm": 1.2206554567122705,
+        "closest_available_current_pad": 1,
+        "source_to_pad": "SMP3 -> C3 -> QD1",
+        "bias": "R3"
+      },
+      {
+        "channel": "MW4",
+        "reference_sample_pad": "20",
+        "reference_xy_mm": [
+          8.75,
+          44.149998
+        ],
+        "current_QD_pad": 24,
+        "current_xy_mm": [
+          8.05000168,
+          45.149998599999996
+        ],
+        "reference_bearing_deg": 328.7815637893819,
+        "current_bearing_deg": 327.31945626783283,
+        "centre_displacement_mm": 1.2206550896969968,
+        "closest_available_current_pad": 24,
+        "source_to_pad": "SMP4 -> C4 -> QD24",
+        "bias": "R4"
+      }
+    ],
+    "reference_clockwise": [
+      "MW3",
+      "MW2",
+      "MW1",
+      "MW4"
+    ],
+    "current_clockwise": [
+      "MW3",
+      "MW2",
+      "MW1",
+      "MW4"
+    ]
+  },
+  "fixed_component_placement_and_pad_geometry_unchanged": true
+}

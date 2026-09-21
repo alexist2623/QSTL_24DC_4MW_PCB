@@ -1,0 +1,10 @@
+.venv/
+.deps/
+**/__pycache__/
+**/built/
+**/*.PcbDoc
+**/*.SchDoc
+**/*.PcbLib
+**/*.SchLib
+**/*.PrjPcb
+**/History/
