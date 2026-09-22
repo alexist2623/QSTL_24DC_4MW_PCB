@@ -1,0 +1,211 @@
+{
+  "assembly_step_valid": true,
+  "assembly_occurrences": 14,
+  "actual_reopened_matrices_used": true,
+  "plate_bounds_mm": [
+    0.0,
+    135.0,
+    -4.0,
+    51.0,
+    215.0,
+    6.0
+  ],
+  "device_bounds_mm": [
+    15.283771299523789,
+    138.75138302909545,
+    4.9567974100602186e-15,
+    35.716228700476144,
+    218.19138224909543,
+    17.58839542
+  ],
+  "plate_midplane_x_mm": 25.5,
+  "device_centre_x_mm": 25.499999999999964,
+  "centre_offset_mm": -3.552713678800501e-14,
+  "base_plate_z_mm": [
+    -4,
+    0
+  ],
+  "rod_z_mm": [
+    0,
+    6
+  ],
+  "inward_boss_z_mm": [
+    0,
+    6
+  ],
+  "device_length_mm": 79.43999921999998,
+  "device_upper_overhang_mm": 3.191382249095426,
+  "thread_count": 10,
+  "threads_per_side": 5,
+  "interfaces": [
+    {
+      "pair": "Plate / rods",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Plate / device",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 5.329070518200751e-15
+    },
+    {
+      "pair": "Device / rods",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 9.283771299523792
+    },
+    {
+      "pair": "Device_Clamp_M3_1 / plate",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 8.881784197001252e-16
+    },
+    {
+      "pair": "Device_Clamp_M3_1 / device",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Device_Clamp_M3_2 / plate",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 8.881784197001252e-16
+    },
+    {
+      "pair": "Device_Clamp_M3_2 / device",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y140 / plate",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y140 / rods",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y160 / plate",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y160 / rods",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y180 / plate",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y180 / rods",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y200 / plate",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y200 / rods",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y140 / plate",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y140 / rods",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y160 / plate",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y160 / rods",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y180 / plate",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y180 / rods",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y200 / plate",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y200 / rods",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    }
+  ],
+  "sleeve_intersections": [
+    {
+      "component": "Existing_Probe_H_Frame",
+      "overlap_mm3": 254.64785254422122
+    },
+    {
+      "component": "Solid_Plate_With_Integral_Mounting_Boss",
+      "overlap_mm3": 334.56632712440705
+    },
+    {
+      "component": "Existing_Carrier_Hung_From_Side_Slots",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Device_Clamp_M3_1",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Device_Clamp_M3_2",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Rod_Clamp_M3_X3_Y140",
+      "overlap_mm3": 11.903409883261936
+    },
+    {
+      "component": "Rod_Clamp_M3_X3_Y160",
+      "overlap_mm3": 11.903409883259902
+    },
+    {
+      "component": "Rod_Clamp_M3_X3_Y180",
+      "overlap_mm3": 11.90340988325988
+    },
+    {
+      "component": "Rod_Clamp_M3_X3_Y200",
+      "overlap_mm3": 11.90340988326834
+    },
+    {
+      "component": "Rod_Clamp_M3_X48_Y140",
+      "overlap_mm3": 11.903411074856573
+    },
+    {
+      "component": "Rod_Clamp_M3_X48_Y160",
+      "overlap_mm3": 11.903411074856574
+    },
+    {
+      "component": "Rod_Clamp_M3_X48_Y180",
+      "overlap_mm3": 11.90341107486836
+    },
+    {
+      "component": "Rod_Clamp_M3_X48_Y200",
+      "overlap_mm3": 11.90341107485676
+    }
+  ]
+}

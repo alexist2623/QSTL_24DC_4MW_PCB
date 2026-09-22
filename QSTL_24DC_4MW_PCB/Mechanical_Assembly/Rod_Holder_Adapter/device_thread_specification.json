@@ -1,0 +1,33 @@
+{
+  "source_drawing": "Coldfinger-v2",
+  "thread": "M3x0.5",
+  "class": "6H",
+  "right_hand": true,
+  "count": 10,
+  "count_per_side": 5,
+  "centre_pitch_mm": 16,
+  "sides": [
+    {
+      "entry_x_mm": 33.294248369169,
+      "axis": "-X"
+    },
+    {
+      "entry_x_mm": 19.794248369169,
+      "axis": "+X"
+    }
+  ],
+  "centre_z_mm": 3,
+  "global_y_mm": [
+    144.82802366515844,
+    160.82802366515844,
+    176.82802366515844,
+    192.82802366515844,
+    208.82802366515844
+  ],
+  "thread_depth_mm": 6,
+  "drill_diameter_mm": 2.5,
+  "opposed_bore_web_mm": 1.5,
+  "representation": "Native Inventor cosmetic threads on cylindrical bores",
+  "reference_depth_discrepancy": "Reference drawing lists drill depth 4 mm and thread depth 6 mm. Existing model uses 6 mm cylindrical depth; manufacturing drill allowance is to be finalized.",
+  "coordinate_scope": "Actual assembly coordinates. The device uses the entry face at X=19.794248369169 mm; rod screws enter toward +Z from the back of the plate."
+}

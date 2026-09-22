@@ -1,0 +1,22 @@
+﻿{
+    "saved_and_reopened":  true,
+    "tube_count":  1,
+    "assembly_occurrences":  22,
+    "local_reference_count":  32,
+    "inner_diameter_mm":  51,
+    "outer_diameter_mm":  54,
+    "length_mm":  360,
+    "wall_thickness_mm":  1.5,
+    "axis_point_mm":  [
+                          25.5,
+                          0,
+                          3
+                      ],
+    "axis_direction":  [
+                           0,
+                           1.0000000000000002,
+                           -2.2204460492503131E-16
+                       ],
+    "parameter_trial_outer_diameter_mm":  55,
+    "parameters_restored":  true
+}

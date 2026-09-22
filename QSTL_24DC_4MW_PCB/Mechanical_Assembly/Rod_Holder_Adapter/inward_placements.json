@@ -1,0 +1,422 @@
+﻿[
+    {
+        "name":  "Existing_Probe_H_Frame",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              0
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              0
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Probe_H_Frame\\Probe_H_Frame.ipt"
+    },
+    {
+        "name":  "Solid_Plate_With_Integral_Mounting_Boss",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              13.5
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_Holder_Adapter.ipt"
+    },
+    {
+        "name":  "Existing_Carrier_Hung_From_Side_Slots",
+        "matrix_cm":  [
+                          [
+                              1,
+                              -1.2246467991473532E-16,
+                              -1.2246467991473532E-16,
+                              0.90358729880877853
+                          ],
+                          [
+                              -1.2246467991473532E-16,
+                              -1,
+                              1.4997597826618576E-32,
+                              22.295138302909542
+                          ],
+                          [
+                              -1.2246467991473532E-16,
+                              0,
+                              -1,
+                              1.418839662
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Carrier_with_PCB.iam"
+    },
+    {
+        "name":  "Device_Clamp_M3_1",
+        "matrix_cm":  [
+                          [
+                              2.2204460492503131E-16,
+                              -1.2246467991473532E-16,
+                              1.0000000000000002,
+                              1.6754407752268459
+                          ],
+                          [
+                              -2.7192621468937821E-32,
+                              -1,
+                              -1.2246467991473535E-16,
+                              17.682802366515844
+                          ],
+                          [
+                              1.0000000000000002,
+                              0,
+                              -2.2204460492503131E-16,
+                              0.30000000000000004
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Device_M3x8_Simplified.ipt"
+    },
+    {
+        "name":  "Device_Clamp_M3_2",
+        "matrix_cm":  [
+                          [
+                              2.2204460492503131E-16,
+                              -1.2246467991473532E-16,
+                              1.0000000000000002,
+                              1.6754407752268459
+                          ],
+                          [
+                              -2.7192621468937821E-32,
+                              -1,
+                              -1.2246467991473535E-16,
+                              16.082802366515843
+                          ],
+                          [
+                              1.0000000000000002,
+                              0,
+                              -2.2204460492503131E-16,
+                              0.30000000000000004
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Device_M3x8_Simplified.ipt"
+    },
+    {
+        "name":  "Rod_Clamp_M3_X3_Y140",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0.3
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              14
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_M3x8_Simplified.ipt"
+    },
+    {
+        "name":  "Rod_Clamp_M3_X3_Y160",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0.3
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              16
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_M3x8_Simplified.ipt"
+    },
+    {
+        "name":  "Rod_Clamp_M3_X3_Y180",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0.3
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              18
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_M3x8_Simplified.ipt"
+    },
+    {
+        "name":  "Rod_Clamp_M3_X3_Y200",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0.3
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              20
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_M3x8_Simplified.ipt"
+    },
+    {
+        "name":  "Rod_Clamp_M3_X48_Y140",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              4.8
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              14
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_M3x8_Simplified.ipt"
+    },
+    {
+        "name":  "Rod_Clamp_M3_X48_Y160",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              4.8
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              16
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_M3x8_Simplified.ipt"
+    },
+    {
+        "name":  "Rod_Clamp_M3_X48_Y180",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              4.8
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              18
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_M3x8_Simplified.ipt"
+    },
+    {
+        "name":  "Rod_Clamp_M3_X48_Y200",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              4.8
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              20
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_M3x8_Simplified.ipt"
+    },
+    {
+        "name":  "Probe_Tube_ID51_OD54",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              2.55
+                          ],
+                          [
+                              0,
+                              -2.2204460492503131E-16,
+                              1.0000000000000002,
+                              0
+                          ],
+                          [
+                              0,
+                              -1.0000000000000002,
+                              -2.2204460492503131E-16,
+                              0.3
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ],
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Probe_Tube\\Probe_Tube.ipt"
+    }
+]

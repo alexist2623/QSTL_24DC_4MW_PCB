@@ -1,0 +1,27 @@
+﻿[
+    {
+        "source":  "C:\\Users\\박정현\\Nextcloud3\\Lab\\Instruments\\CustomParts\\ColdFinger\\DilFridge_Mechanical\\v2\\Coldfinger-v2.SLDPRT",
+        "sha256":  "25DF15A9E6FB75A0A3206F1F0A7F21CAB16D2DDA61FA5D6E08971866ABBD858B",
+        "unchanged":  true
+    },
+    {
+        "source":  "C:\\Users\\박정현\\Nextcloud3\\Lab\\Instruments\\CustomParts\\ColdFinger\\DilFridge_Mechanical\\v2\\Coldfinger-SimplePlate.SLDPRT",
+        "sha256":  "D3FA10B0FCFFF23785E29AB7562771C97E46DCDDB43B453AD68CE5017A0AFB6D",
+        "unchanged":  true
+    },
+    {
+        "source":  "C:\\Users\\박정현\\Nextcloud3\\Lab\\Instruments\\CustomParts\\ColdFinger\\DilFridge_Mechanical\\v2\\DCAnchor.SLDPRT",
+        "sha256":  "E42E6E7D613AD11302CFED97AD2F8882C7C4AF739877E5FAADF813696CD674CD",
+        "unchanged":  true
+    },
+    {
+        "source":  "C:\\Users\\박정현\\Nextcloud3\\Lab\\Instruments\\CustomParts\\ColdFinger\\DilFridge_Mechanical\\v2\\Top plate-MXC-v2.SLDPRT",
+        "sha256":  "5B88B4071D7265380ACAF7EAB6C12AA9E5AE6F74E56DF97D5DFCBAD7D35528EC",
+        "unchanged":  true
+    },
+    {
+        "source":  "C:\\Users\\박정현\\Nextcloud3\\Lab\\Instruments\\CustomParts\\ColdFinger\\DilFridge_Mechanical\\v2\\assembly_coldfinger_v2.SLDASM",
+        "sha256":  "6722182618E0953603360CFC03709758528FD7B107B94D0FD17F81F35DAFAF4A",
+        "unchanged":  true
+    }
+]

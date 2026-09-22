@@ -1,0 +1,65 @@
+{
+  "overall_dimensions_mm": [
+    51,
+    360,
+    6
+  ],
+  "solid_count": 4,
+  "total_simplified_M3_holes": 66,
+  "positive_volume_interferences": 0,
+  "source_pcb_unchanged": true,
+  "solids": [
+    {
+      "bounds_mm": [
+        0.0,
+        0.0,
+        0.0,
+        6.0,
+        360.0,
+        6.0
+      ],
+      "valid": true,
+      "hole_count": 33,
+      "volume_mm3": 11560.42047282575
+    },
+    {
+      "bounds_mm": [
+        45.0,
+        0.0,
+        0.0,
+        51.0,
+        360.0,
+        6.0
+      ],
+      "valid": true,
+      "hole_count": 33,
+      "volume_mm3": 11560.42047282575
+    },
+    {
+      "bounds_mm": [
+        6.0,
+        246.0,
+        0.0,
+        45.0,
+        254.0,
+        6.0
+      ],
+      "valid": true,
+      "hole_count": 0,
+      "volume_mm3": 1872.0
+    },
+    {
+      "bounds_mm": [
+        6.0,
+        86.0,
+        0.0,
+        45.0,
+        94.0,
+        6.0
+      ],
+      "valid": true,
+      "hole_count": 0,
+      "volume_mm3": 1872.0
+    }
+  ]
+}

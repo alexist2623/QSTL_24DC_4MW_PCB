@@ -1,0 +1,39 @@
+﻿{
+    "inner_diameter_mm":  51,
+    "outer_diameter_mm":  54,
+    "wall_thickness_mm":  1.5,
+    "length_mm":  360,
+    "length_basis":  "Assumed equal to the current rods",
+    "rod_centres_xz_mm":  [
+                              [
+                                  3,
+                                  3
+                              ],
+                              [
+                                  48,
+                                  3
+                              ]
+                          ],
+    "axis_point_mm":  [
+                          25.5,
+                          0,
+                          3
+                      ],
+    "axis_direction":  [
+                           0,
+                           1,
+                           0
+                       ],
+    "extent_y_mm":  [
+                        0,
+                        360
+                    ],
+    "part_rotation_x_deg":  -90,
+    "part_translation_mm":  [
+                                25.5,
+                                0,
+                                3
+                            ],
+    "assembly":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_Holder_Assembly.iam",
+    "appearance":  "Transparent occurrence override for inspection; geometry is a solid annular wall"
+}

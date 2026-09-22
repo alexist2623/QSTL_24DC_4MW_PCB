@@ -1,0 +1,129 @@
+﻿{
+    "saved_and_reloaded":  true,
+    "native_thread_count":  10,
+    "count_per_side":  5,
+    "centre_pitch_mm":  16,
+    "opposed_bore_web_mm":  1.5,
+    "items":  [
+                  {
+                      "name":  "Device_M3x0_5_6H_NegativeX_3",
+                      "designation":  "M3x0.5",
+                      "class":  "6H",
+                      "internal":  true,
+                      "right_handed":  true,
+                      "entry_x_mm":  19.794248369169,
+                      "local_y_mm":  9.8280236651584385,
+                      "local_z_mm":  7.0000000000000009,
+                      "depth_mm":  6.0000000000000009,
+                      "healthy":  true
+                  },
+                  {
+                      "name":  "Device_M3x0_5_6H_PositiveX_3",
+                      "designation":  "M3x0.5",
+                      "class":  "6H",
+                      "internal":  true,
+                      "right_handed":  true,
+                      "entry_x_mm":  33.294248369169004,
+                      "local_y_mm":  9.8280236651584385,
+                      "local_z_mm":  7.0000000000000009,
+                      "depth_mm":  6.0000000000000009,
+                      "healthy":  true
+                  },
+                  {
+                      "name":  "Device_M3x0_5_6H_NegativeX_2",
+                      "designation":  "M3x0.5",
+                      "class":  "6H",
+                      "internal":  true,
+                      "right_handed":  true,
+                      "entry_x_mm":  19.794248369169,
+                      "local_y_mm":  25.82802366515844,
+                      "local_z_mm":  7.0000000000000009,
+                      "depth_mm":  6.0000000000000009,
+                      "healthy":  true
+                  },
+                  {
+                      "name":  "Device_M3x0_5_6H_PositiveX_2",
+                      "designation":  "M3x0.5",
+                      "class":  "6H",
+                      "internal":  true,
+                      "right_handed":  true,
+                      "entry_x_mm":  33.294248369169004,
+                      "local_y_mm":  25.82802366515844,
+                      "local_z_mm":  7.0000000000000009,
+                      "depth_mm":  6.0000000000000009,
+                      "healthy":  true
+                  },
+                  {
+                      "name":  "Device_M3x0_5_6H_NegativeX_4",
+                      "designation":  "M3x0.5",
+                      "class":  "6H",
+                      "internal":  true,
+                      "right_handed":  true,
+                      "entry_x_mm":  19.794248369169,
+                      "local_y_mm":  41.82802366515844,
+                      "local_z_mm":  7.0000000000000009,
+                      "depth_mm":  6.0000000000000009,
+                      "healthy":  true
+                  },
+                  {
+                      "name":  "Device_M3x0_5_6H_PositiveX_4",
+                      "designation":  "M3x0.5",
+                      "class":  "6H",
+                      "internal":  true,
+                      "right_handed":  true,
+                      "entry_x_mm":  33.294248369169004,
+                      "local_y_mm":  41.82802366515844,
+                      "local_z_mm":  7.0000000000000009,
+                      "depth_mm":  6.0000000000000009,
+                      "healthy":  true
+                  },
+                  {
+                      "name":  "Device_M3x0_5_6H_PositiveX_1",
+                      "designation":  "M3x0.5",
+                      "class":  "6H",
+                      "internal":  true,
+                      "right_handed":  true,
+                      "entry_x_mm":  33.294248369169004,
+                      "local_y_mm":  57.82802366515844,
+                      "local_z_mm":  7.0000000000000009,
+                      "depth_mm":  6.0000000000000009,
+                      "healthy":  true
+                  },
+                  {
+                      "name":  "Device_M3x0_5_6H_NegativeX_1",
+                      "designation":  "M3x0.5",
+                      "class":  "6H",
+                      "internal":  true,
+                      "right_handed":  true,
+                      "entry_x_mm":  19.794248369169,
+                      "local_y_mm":  57.82802366515844,
+                      "local_z_mm":  7.0000000000000009,
+                      "depth_mm":  6.0000000000000009,
+                      "healthy":  true
+                  },
+                  {
+                      "name":  "Device_M3x0_5_6H_NegativeX_5",
+                      "designation":  "M3x0.5",
+                      "class":  "6H",
+                      "internal":  true,
+                      "right_handed":  true,
+                      "entry_x_mm":  19.794248369169,
+                      "local_y_mm":  73.82802366515844,
+                      "local_z_mm":  7.0000000000000009,
+                      "depth_mm":  6.0000000000000009,
+                      "healthy":  true
+                  },
+                  {
+                      "name":  "Device_M3x0_5_6H_PositiveX_5",
+                      "designation":  "M3x0.5",
+                      "class":  "6H",
+                      "internal":  true,
+                      "right_handed":  true,
+                      "entry_x_mm":  33.294248369169004,
+                      "local_y_mm":  73.82802366515844,
+                      "local_z_mm":  7.0000000000000009,
+                      "depth_mm":  6.0000000000000009,
+                      "healthy":  true
+                  }
+              ]
+}

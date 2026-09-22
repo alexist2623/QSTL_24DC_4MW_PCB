@@ -1,0 +1,77 @@
+﻿{
+    "source_pdf":  "SO01373.10-Probe-R01.pdf",
+    "native_file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Probe_H_Frame\\Probe_H_Frame.ipt",
+    "solid_bodies":  4,
+    "parameters":  [
+                       {
+                           "name":  "RodLength",
+                           "expression":  "360 mm",
+                           "comment":  "Dimensioned rod length in section X2-X2."
+                       },
+                       {
+                           "name":  "RodWidth",
+                           "expression":  "6 mm",
+                           "comment":  "Derived from (51 mm overall - 39 mm clear) / 2."
+                       },
+                       {
+                           "name":  "ClearGap",
+                           "expression":  "39 mm",
+                           "comment":  "Dimensioned clear distance between rods."
+                       },
+                       {
+                           "name":  "ASSUMED_RodDepth",
+                           "expression":  "6 mm",
+                           "comment":  "PROVISIONAL: front-to-back thickness is not dimensioned."
+                       },
+                       {
+                           "name":  "ASSUMED_CrossbarDepth",
+                           "expression":  "6 mm",
+                           "comment":  "PROVISIONAL: crossbar front-to-back thickness is not dimensioned."
+                       },
+                       {
+                           "name":  "EST_CrossbarHeight",
+                           "expression":  "8 mm",
+                           "comment":  "Estimated from drawing geometry; not an explicit dimension."
+                       },
+                       {
+                           "name":  "EST_UpperCrossbarFromTop",
+                           "expression":  "110 mm",
+                           "comment":  "Estimated centre position measured from rod top."
+                       },
+                       {
+                           "name":  "EST_LowerCrossbarFromTop",
+                           "expression":  "270 mm",
+                           "comment":  "Estimated centre position measured from rod top."
+                       },
+                       {
+                           "name":  "HolePitch",
+                           "expression":  "10 mm",
+                           "comment":  "Dimensioned M3 hole pitch."
+                       },
+                       {
+                           "name":  "FirstHoleFromTop",
+                           "expression":  "30 mm",
+                           "comment":  "Dimensioned first hole centre from rod top."
+                       },
+                       {
+                           "name":  "HoleNominalDiameter",
+                           "expression":  "3 mm",
+                           "comment":  "Simplified nominal M3 thread envelope, not a tap-drill specification."
+                       },
+                       {
+                           "name":  "HoleCount",
+                           "expression":  "33 ul",
+                           "comment":  "Repeated hole locations on each rod."
+                       },
+                       {
+                           "name":  "OverallWidth",
+                           "expression":  "2 ul * RodWidth + ClearGap",
+                           "comment":  "Derived overall width."
+                       },
+                       {
+                           "name":  "RodCentreSpacing",
+                           "expression":  "RodWidth + ClearGap",
+                           "comment":  "Derived centre-to-centre spacing."
+                       }
+                   ]
+}

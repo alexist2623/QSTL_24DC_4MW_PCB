@@ -1,0 +1,110 @@
+{
+  "valid": true,
+  "solid_count": 1,
+  "inner_diameter_mm": 51,
+  "outer_diameter_mm": 54,
+  "wall_thickness_mm": 1.5,
+  "length_mm": 360,
+  "local_bounds_mm": [
+    -27.0,
+    -27.0,
+    0.0,
+    27.0,
+    27.0,
+    360.0
+  ],
+  "placed_bounds_mm": [
+    -1.5,
+    -2.9976021664879227e-15,
+    -24.0,
+    52.5,
+    360.0,
+    30.00000000000004
+  ],
+  "volume_mm3": 89064.1517292709,
+  "rod_centre_midpoint_xz_mm": [
+    25.5,
+    3
+  ],
+  "axis_point_mm": [
+    25.5,
+    0,
+    3
+  ],
+  "axis_direction": [
+    0,
+    1,
+    0
+  ],
+  "intersections": [
+    {
+      "component": "Existing_Probe_H_Frame",
+      "overlap_mm3": 254.6478525442721,
+      "intersects": true
+    },
+    {
+      "component": "Solid_Plate_With_Integral_Mounting_Boss",
+      "overlap_mm3": 334.56632712441933,
+      "intersects": true
+    },
+    {
+      "component": "Existing_Carrier_Hung_From_Side_Slots",
+      "overlap_mm3": 0.0,
+      "intersects": false
+    },
+    {
+      "component": "Device_Clamp_M3_1",
+      "overlap_mm3": 0.0,
+      "intersects": false
+    },
+    {
+      "component": "Device_Clamp_M3_2",
+      "overlap_mm3": 0.0,
+      "intersects": false
+    },
+    {
+      "component": "Rod_Clamp_M3_X3_Y140",
+      "overlap_mm3": 11.903409883302368,
+      "intersects": true
+    },
+    {
+      "component": "Rod_Clamp_M3_X3_Y160",
+      "overlap_mm3": 11.90340988326869,
+      "intersects": true
+    },
+    {
+      "component": "Rod_Clamp_M3_X3_Y180",
+      "overlap_mm3": 11.903409883268672,
+      "intersects": true
+    },
+    {
+      "component": "Rod_Clamp_M3_X3_Y200",
+      "overlap_mm3": 11.903409883300345,
+      "intersects": true
+    },
+    {
+      "component": "Rod_Clamp_M3_X48_Y140",
+      "overlap_mm3": 11.903411074120115,
+      "intersects": true
+    },
+    {
+      "component": "Rod_Clamp_M3_X48_Y160",
+      "overlap_mm3": 11.903411074868846,
+      "intersects": true
+    },
+    {
+      "component": "Rod_Clamp_M3_X48_Y180",
+      "overlap_mm3": 11.903411074879877,
+      "intersects": true
+    },
+    {
+      "component": "Rod_Clamp_M3_X48_Y200",
+      "overlap_mm3": 11.903411074880452,
+      "intersects": true
+    }
+  ],
+  "rod_outer_corner_radial_overrun_mm": 0.17586415293553515,
+  "plate_outer_corner_radial_overrun_mm": 0.9433356443547041,
+  "dimensions_preserved": true,
+  "assembly_step_valid": true
+}
