@@ -1,0 +1,1247 @@
+{
+  "source_pcb_sha256": "84feed018fbaf5cbfa3203201c8771711b00ffec18aa0aadaf20fdeadb99ca63",
+  "top_source": "Top_ForFridge.SLDPRT",
+  "pcb_thickness_mm": 1.58839662,
+  "pcb_items": [
+    {
+      "name": "PCB_board",
+      "path": "PCB_parts\\PCB_board.step",
+      "color": [
+        42,
+        105,
+        69
+      ],
+      "kind": "board",
+      "bounds_mm": [
+        0.0,
+        0.0,
+        0.0,
+        19.4999991,
+        67.89999882000001,
+        1.58839662
+      ],
+      "volume_mm3": 1991.189478521862,
+      "details": {
+        "outline_mm": [
+          19.4999991,
+          67.89999882000001
+        ],
+        "thickness_mm": 1.58839662,
+        "drill_count": 46,
+        "cavity": {
+          "envelope_mm": [
+            7.6,
+            40.35,
+            11.9,
+            44.65
+          ],
+          "size_mm": [
+            4.3,
+            4.3
+          ],
+          "corner_radius_mm": 0.5,
+          "depth_mm": 1.2,
+          "entry": "Bottom L6 / QD side",
+          "plated": false,
+          "geometry": null
+        }
+      }
+    },
+    {
+      "name": "R6",
+      "path": "PCB_parts\\R6.step",
+      "color": [
+        50,
+        53,
+        56
+      ],
+      "kind": "passive",
+      "bounds_mm": [
+        2.0500019199999997,
+        40.34999978,
+        -0.45,
+        3.6500019200000002,
+        41.149999779999995,
+        0.0
+      ],
+      "volume_mm3": 0.5759999999999994,
+      "details": {
+        "size_mm": [
+          1.6,
+          0.8,
+          0.45
+        ],
+        "side": "Bottom/QD",
+        "centre_xy_mm": [
+          2.85000192,
+          40.749999779999996
+        ],
+        "rotation_deg": 180.0
+      }
+    },
+    {
+      "name": "R5",
+      "path": "PCB_parts\\R5.step",
+      "color": [
+        50,
+        53,
+        56
+      ],
+      "kind": "passive",
+      "bounds_mm": [
+        5.51999752,
+        30.600001499999998,
+        -0.45,
+        7.11999752,
+        31.4000015,
+        0.0
+      ],
+      "volume_mm3": 0.5759999999999992,
+      "details": {
+        "size_mm": [
+          1.6,
+          0.8,
+          0.45
+        ],
+        "side": "Bottom/QD",
+        "centre_xy_mm": [
+          6.31999752,
+          31.0000015
+        ],
+        "rotation_deg": 180.0
+      }
+    },
+    {
+      "name": "R4",
+      "path": "PCB_parts\\R4.step",
+      "color": [
+        50,
+        53,
+        56
+      ],
+      "kind": "passive",
+      "bounds_mm": [
+        6.85000248,
+        48.000002259999995,
+        -0.45,
+        8.45000248,
+        48.80000225999999,
+        0.0
+      ],
+      "volume_mm3": 0.5759999999999994,
+      "details": {
+        "size_mm": [
+          1.6,
+          0.8,
+          0.45
+        ],
+        "side": "Bottom/QD",
+        "centre_xy_mm": [
+          7.6500024799999995,
+          48.400002259999994
+        ],
+        "rotation_deg": 180.0
+      }
+    },
+    {
+      "name": "R3",
+      "path": "PCB_parts\\R3.step",
+      "color": [
+        50,
+        53,
+        56
+      ],
+      "kind": "passive",
+      "bounds_mm": [
+        11.0500017,
+        47.99999972,
+        -0.45,
+        12.6500017,
+        48.799999719999995,
+        0.0
+      ],
+      "volume_mm3": 0.5759999999999996,
+      "details": {
+        "size_mm": [
+          1.6,
+          0.8,
+          0.45
+        ],
+        "side": "Bottom/QD",
+        "centre_xy_mm": [
+          11.8500017,
+          48.39999972
+        ],
+        "rotation_deg": 0.0
+      }
+    },
+    {
+      "name": "R2",
+      "path": "PCB_parts\\R2.step",
+      "color": [
+        50,
+        53,
+        56
+      ],
+      "kind": "passive",
+      "bounds_mm": [
+        15.84999972,
+        41.050000919999995,
+        -0.45,
+        17.44999972,
+        41.85000091999999,
+        0.0
+      ],
+      "volume_mm3": 0.5759999999999997,
+      "details": {
+        "size_mm": [
+          1.6,
+          0.8,
+          0.45
+        ],
+        "side": "Bottom/QD",
+        "centre_xy_mm": [
+          16.64999972,
+          41.450000919999994
+        ],
+        "rotation_deg": 0.0
+      }
+    },
+    {
+      "name": "R1",
+      "path": "PCB_parts\\R1.step",
+      "color": [
+        50,
+        53,
+        56
+      ],
+      "kind": "passive",
+      "bounds_mm": [
+        12.134998259999998,
+        30.6000015,
+        -0.45,
+        13.73499826,
+        31.400001500000002,
+        0.0
+      ],
+      "volume_mm3": 0.5759999999999997,
+      "details": {
+        "size_mm": [
+          1.6,
+          0.8,
+          0.45
+        ],
+        "side": "Bottom/QD",
+        "centre_xy_mm": [
+          12.934998259999999,
+          31.0000015
+        ],
+        "rotation_deg": 0.0
+      }
+    },
+    {
+      "name": "C6",
+      "path": "PCB_parts\\C6.step",
+      "color": [
+        180,
+        124,
+        68
+      ],
+      "kind": "passive",
+      "bounds_mm": [
+        3.4500002199999993,
+        38.70000288,
+        -0.5530001000000002,
+        3.95000022,
+        39.70000288,
+        0.0
+      ],
+      "volume_mm3": 0.27650005000000055,
+      "details": {
+        "size_mm": [
+          1.0,
+          0.5000000000000008,
+          0.5530001000000002
+        ],
+        "side": "Bottom/QD",
+        "centre_xy_mm": [
+          3.7000002199999997,
+          39.20000288
+        ],
+        "rotation_deg": 90.0
+      }
+    },
+    {
+      "name": "SMP6",
+      "path": "PCB_parts\\SMP6.step",
+      "color": [
+        190,
+        192,
+        195
+      ],
+      "kind": "connector",
+      "bounds_mm": [
+        0.3499988799999998,
+        31.589999899999995,
+        -1.62160458,
+        5.849998879999999,
+        37.089999899999995,
+        6.98839542
+      ],
+      "volume_mm3": 91.59335058530347,
+      "details": {
+        "outer_diameter_mm": 5.5,
+        "height_above_top_mm": 5.4,
+        "pin_tip_below_top_mm": 3.21,
+        "side": "Top/SMP"
+      }
+    },
+    {
+      "name": "C5",
+      "path": "PCB_parts\\C5.step",
+      "color": [
+        180,
+        124,
+        68
+      ],
+      "kind": "passive",
+      "bounds_mm": [
+        6.919998359999998,
+        28.950002060000003,
+        -0.5530001000000002,
+        7.419998359999999,
+        29.950002060000003,
+        0.0
+      ],
+      "volume_mm3": 0.2765000500000004,
+      "details": {
+        "size_mm": [
+          1.0,
+          0.5000000000000008,
+          0.5530001000000002
+        ],
+        "side": "Bottom/QD",
+        "centre_xy_mm": [
+          7.169998359999999,
+          29.450002060000003
+        ],
+        "rotation_deg": 90.0
+      }
+    },
+    {
+      "name": "SMP5",
+      "path": "PCB_parts\\SMP5.step",
+      "color": [
+        190,
+        192,
+        195
+      ],
+      "kind": "connector",
+      "bounds_mm": [
+        0.3499988799999998,
+        24.389999059999997,
+        -1.62160458,
+        5.849998879999999,
+        29.889999059999997,
+        6.98839542
+      ],
+      "volume_mm3": 91.59335058530345,
+      "details": {
+        "outer_diameter_mm": 5.5,
+        "height_above_top_mm": 5.4,
+        "pin_tip_below_top_mm": 3.21,
+        "side": "Top/SMP"
+      }
+    },
+    {
+      "name": "C4",
+      "path": "PCB_parts\\C4.step",
+      "color": [
+        180,
+        124,
+        68
+      ],
+      "kind": "passive",
+      "bounds_mm": [
+        8.250000779999999,
+        49.44999916,
+        -0.5530001000000002,
+        8.750000779999999,
+        50.44999916,
+        0.0
+      ],
+      "volume_mm3": 0.2765000500000004,
+      "details": {
+        "size_mm": [
+          1.0,
+          0.5000000000000008,
+          0.5530001000000002
+        ],
+        "side": "Bottom/QD",
+        "centre_xy_mm": [
+          8.500000779999999,
+          49.94999916
+        ],
+        "rotation_deg": 270.0
+      }
+    },
+    {
+      "name": "C3",
+      "path": "PCB_parts\\C3.step",
+      "color": [
+        180,
+        124,
+        68
+      ],
+      "kind": "passive",
+      "bounds_mm": [
+        10.7500034,
+        49.44999916,
+        -0.5530001000000002,
+        11.2500034,
+        50.44999916,
+        0.0
+      ],
+      "volume_mm3": 0.2765000500000004,
+      "details": {
+        "size_mm": [
+          1.0,
+          0.5000000000000008,
+          0.5530001000000002
+        ],
+        "side": "Bottom/QD",
+        "centre_xy_mm": [
+          11.0000034,
+          49.94999916
+        ],
+        "rotation_deg": 270.0
+      }
+    },
+    {
+      "name": "C2",
+      "path": "PCB_parts\\C2.step",
+      "color": [
+        180,
+        124,
+        68
+      ],
+      "kind": "passive",
+      "bounds_mm": [
+        15.549998879999999,
+        39.40000148,
+        -0.5530001000000002,
+        16.04999888,
+        40.40000148,
+        0.0
+      ],
+      "volume_mm3": 0.27650005000000066,
+      "details": {
+        "size_mm": [
+          1.0,
+          0.5000000000000008,
+          0.5530001000000002
+        ],
+        "side": "Bottom/QD",
+        "centre_xy_mm": [
+          15.799998879999999,
+          39.90000148
+        ],
+        "rotation_deg": 90.0
+      }
+    },
+    {
+      "name": "C1",
+      "path": "PCB_parts\\C1.step",
+      "color": [
+        180,
+        124,
+        68
+      ],
+      "kind": "passive",
+      "bounds_mm": [
+        11.83499996,
+        28.950002060000003,
+        -0.5530001000000002,
+        12.33499996,
+        29.950002060000003,
+        0.0
+      ],
+      "volume_mm3": 0.2765000500000004,
+      "details": {
+        "size_mm": [
+          1.0,
+          0.5000000000000008,
+          0.5530001000000002
+        ],
+        "side": "Bottom/QD",
+        "centre_xy_mm": [
+          12.08499996,
+          29.450002060000003
+        ],
+        "rotation_deg": 90.0
+      }
+    },
+    {
+      "name": "SMP1",
+      "path": "PCB_parts\\SMP1.step",
+      "color": [
+        190,
+        192,
+        195
+      ],
+      "kind": "connector",
+      "bounds_mm": [
+        13.650000219999999,
+        24.389999059999997,
+        -1.62160458,
+        19.15000022,
+        29.889999059999997,
+        6.98839542
+      ],
+      "volume_mm3": 91.59335058530351,
+      "details": {
+        "outer_diameter_mm": 5.5,
+        "height_above_top_mm": 5.4,
+        "pin_tip_below_top_mm": 3.21,
+        "side": "Top/SMP"
+      }
+    },
+    {
+      "name": "SMP2",
+      "path": "PCB_parts\\SMP2.step",
+      "color": [
+        190,
+        192,
+        195
+      ],
+      "kind": "connector",
+      "bounds_mm": [
+        13.650000219999999,
+        31.589999899999995,
+        -1.62160458,
+        19.15000022,
+        37.089999899999995,
+        6.98839542
+      ],
+      "volume_mm3": 91.59335058530353,
+      "details": {
+        "outer_diameter_mm": 5.5,
+        "height_above_top_mm": 5.4,
+        "pin_tip_below_top_mm": 3.21,
+        "side": "Top/SMP"
+      }
+    },
+    {
+      "name": "SMP3",
+      "path": "PCB_parts\\SMP3.step",
+      "color": [
+        190,
+        192,
+        195
+      ],
+      "kind": "connector",
+      "bounds_mm": [
+        13.650000219999999,
+        46.08999883999999,
+        -1.62160458,
+        19.15000022,
+        51.58999883999999,
+        6.98839542
+      ],
+      "volume_mm3": 91.59335058530353,
+      "details": {
+        "outer_diameter_mm": 5.5,
+        "height_above_top_mm": 5.4,
+        "pin_tip_below_top_mm": 3.21,
+        "side": "Top/SMP"
+      }
+    },
+    {
+      "name": "SMP4",
+      "path": "PCB_parts\\SMP4.step",
+      "color": [
+        190,
+        192,
+        195
+      ],
+      "kind": "connector",
+      "bounds_mm": [
+        0.3499988799999998,
+        46.08999883999999,
+        -1.62160458,
+        5.849998879999999,
+        51.58999883999999,
+        6.98839542
+      ],
+      "volume_mm3": 91.59335058530348,
+      "details": {
+        "outer_diameter_mm": 5.5,
+        "height_above_top_mm": 5.4,
+        "pin_tip_below_top_mm": 3.21,
+        "side": "Top/SMP"
+      }
+    },
+    {
+      "name": "SMP7",
+      "path": "PCB_parts\\SMP7.step",
+      "color": [
+        190,
+        192,
+        195
+      ],
+      "kind": "connector",
+      "bounds_mm": [
+        0.3499988799999998,
+        53.58999908,
+        -1.62160458,
+        5.849998879999999,
+        59.08999908,
+        6.98839542
+      ],
+      "volume_mm3": 91.59335058530347,
+      "details": {
+        "outer_diameter_mm": 5.5,
+        "height_above_top_mm": 5.4,
+        "pin_tip_below_top_mm": 3.21,
+        "side": "Top/SMP"
+      }
+    },
+    {
+      "name": "SMP8",
+      "path": "PCB_parts\\SMP8.step",
+      "color": [
+        190,
+        192,
+        195
+      ],
+      "kind": "connector",
+      "bounds_mm": [
+        13.650000219999999,
+        53.58999908,
+        -1.62160458,
+        19.15000022,
+        59.08999908,
+        6.98839542
+      ],
+      "volume_mm3": 91.59335058530353,
+      "details": {
+        "outer_diameter_mm": 5.5,
+        "height_above_top_mm": 5.4,
+        "pin_tip_below_top_mm": 3.21,
+        "side": "Top/SMP"
+      }
+    },
+    {
+      "name": "J1",
+      "path": "PCB_parts\\J1.step",
+      "color": [
+        220,
+        217,
+        200
+      ],
+      "kind": "connector",
+      "bounds_mm": [
+        1.0500008199999993,
+        2.6249987199999794,
+        1.69839776,
+        18.45000082,
+        6.4249987200000005,
+        2.848397760000001
+      ],
+      "volume_mm3": 76.0380000000005,
+      "details": {
+        "size_mm": [
+          17.4,
+          3.800000000000021,
+          1.1500000000000008
+        ],
+        "side": "Top/SMP",
+        "simplification": "conservative closed-actuator outer envelope"
+      }
+    },
+    {
+      "name": "QD_bond_pads",
+      "path": "PCB_parts\\QD_bond_pads.step",
+      "color": [
+        207,
+        170,
+        51
+      ],
+      "kind": "visual",
+      "bounds_mm": [
+        6.4000011699999995,
+        39.149999169999994,
+        -0.005,
+        13.100000469999998,
+        45.849998469999996,
+        0.0
+      ],
+      "volume_mm3": 0.05999991239993527,
+      "details": {
+        "visual_thickness_mm": 0.005,
+        "excluded_from_mechanical_interference": true
+      }
+    }
+  ],
+  "pcb_transform": {
+    "rot_y_deg": 180,
+    "translation_mm": [
+      26.07499955,
+      4.760000779999999,
+      3.58839662
+    ]
+  },
+  "top_transform": {
+    "rot_y_deg": 0,
+    "translation_mm": [
+      0,
+      0,
+      8.188396619999999
+    ]
+  },
+  "registration": [
+    {
+      "feature": "SMP1",
+      "error_mm": 6.888396032022445e-07
+    },
+    {
+      "feature": "SMP2",
+      "error_mm": 9.546203369203843e-07
+    },
+    {
+      "feature": "SMP3",
+      "error_mm": 7.702596967315919e-07
+    },
+    {
+      "feature": "SMP4",
+      "error_mm": 7.702596967315919e-07
+    },
+    {
+      "feature": "SMP7",
+      "error_mm": 6.84470597884253e-07
+    },
+    {
+      "feature": "SMP8",
+      "error_mm": 6.84470597884253e-07
+    },
+    {
+      "feature": "SMP5",
+      "error_mm": 6.888396032022445e-07
+    },
+    {
+      "feature": "SMP6",
+      "error_mm": 9.546203369203843e-07
+    },
+    {
+      "feature": "mount_[2.42499896, 65.33999886]",
+      "error_mm": 6.911584507823744e-07
+    },
+    {
+      "feature": "mount_[17.07500014, 65.33999886]",
+      "error_mm": 6.911584477496384e-07
+    },
+    {
+      "feature": "mount_[16.074999599999998, 18.08999938]",
+      "error_mm": 1.6763054093787403e-07
+    },
+    {
+      "feature": "mount_[17.07500014, 13.189999019999998]",
+      "error_mm": 6.229767249648289e-07
+    },
+    {
+      "feature": "mount_[2.42499896, 13.189999019999998]",
+      "error_mm": 6.229767283294829e-07
+    },
+    {
+      "feature": "mount_[3.4249994999999998, 18.08999938]",
+      "error_mm": 1.6763054305724538e-07
+    }
+  ],
+  "interference_checks": [
+    {
+      "mechanical": "Bottom",
+      "component": "PCB_board",
+      "overlap_mm3": 0.27567198795800374,
+      "minimum_distance_mm": 0.0,
+      "overlap_bounds_mm": [
+        6.600058000934439,
+        14.434999305350999,
+        1.9999999999999973,
+        26.07499955,
+        72.6599996,
+        2.0110903248991
+      ]
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "R6",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 1.7255315405550216
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "R5",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.5883966199999993
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "R4",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.5883966199999993
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "R3",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.588396619999999
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "R2",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 1.6665123311123855
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "R1",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.5883966199999984
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "C6",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.5883966199999997
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "SMP6",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.06524212279190067
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "C5",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.5883966199999993
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "SMP5",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.06524212279190067
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "C4",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.5883966199999993
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "C3",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.588396619999999
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "C2",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.4849482732596013
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "C1",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.588396619999999
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "SMP1",
+      "overlap_mm3": 0.08036037234719517,
+      "minimum_distance_mm": 0.0,
+      "overlap_bounds_mm": [
+        6.924999330000002,
+        31.284498855103926,
+        1.712172814871311e-05,
+        6.994764538495353,
+        32.515500824896066,
+        1.400001199999998
+      ]
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "SMP2",
+      "overlap_mm3": 0.08036037234720474,
+      "minimum_distance_mm": 0.0,
+      "overlap_bounds_mm": [
+        6.924999330000002,
+        38.48449969510372,
+        1.712172814871311e-05,
+        6.994764538495398,
+        39.715501664896266,
+        1.400001199999998
+      ]
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "SMP3",
+      "overlap_mm3": 0.08036037234720238,
+      "minimum_distance_mm": 0.0,
+      "overlap_bounds_mm": [
+        6.924999330000002,
+        52.98449863510391,
+        1.712172814871311e-05,
+        6.994764538495356,
+        54.21550060489607,
+        1.400001199999998
+      ]
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "SMP4",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.06524212279190067
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "SMP7",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.06524212279190067
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "SMP8",
+      "overlap_mm3": 0.08036037234720458,
+      "minimum_distance_mm": 0.0,
+      "overlap_bounds_mm": [
+        6.924999330000002,
+        60.48449887510391,
+        1.712172814871311e-05,
+        6.994764538495358,
+        61.715500844896084,
+        1.400001199999998
+      ]
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "J1",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 3.249999805351001
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "PCB_board",
+      "overlap_mm3": 5.655824100437503,
+      "minimum_distance_mm": 0.0,
+      "overlap_bounds_mm": [
+        6.575000450000001,
+        14.39067139824602,
+        1.9999999999999976,
+        6.6361082894434915,
+        72.6599996,
+        3.588396620000009
+      ]
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "R6",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 1.7750023699999211
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "R5",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.349999999999995
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "R4",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.349999999999995
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "R3",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.349999999999998
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "R2",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 1.8249998299999906
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "R1",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.349999999999998
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "C6",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.246999899999995
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "SMP6",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.5228233543665901
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "C5",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.246999899999995
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "SMP5",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.5228233543665901
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "C4",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.246999899999996
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "C3",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.246999899999997
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "C2",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.2469998999999996
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "C1",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 2.246999899999998
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "SMP1",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.2888910405565115
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "SMP2",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.2888910405565115
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "SMP3",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.2888910405565115
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "SMP4",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.5228233543665901
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "SMP7",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.5228233543665901
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "SMP8",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 0.2888910405565115
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "J1",
+      "overlap_mm3": 0.0,
+      "minimum_distance_mm": 3.354733465214233
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "Bottom",
+      "overlap_mm3": 3.59920436199122
+    }
+  ],
+  "interferences": [
+    {
+      "mechanical": "Bottom",
+      "component": "PCB_board",
+      "overlap_mm3": 0.27567198795800374,
+      "minimum_distance_mm": 0.0,
+      "overlap_bounds_mm": [
+        6.600058000934439,
+        14.434999305350999,
+        1.9999999999999973,
+        26.07499955,
+        72.6599996,
+        2.0110903248991
+      ]
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "SMP1",
+      "overlap_mm3": 0.08036037234719517,
+      "minimum_distance_mm": 0.0,
+      "overlap_bounds_mm": [
+        6.924999330000002,
+        31.284498855103926,
+        1.712172814871311e-05,
+        6.994764538495353,
+        32.515500824896066,
+        1.400001199999998
+      ]
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "SMP2",
+      "overlap_mm3": 0.08036037234720474,
+      "minimum_distance_mm": 0.0,
+      "overlap_bounds_mm": [
+        6.924999330000002,
+        38.48449969510372,
+        1.712172814871311e-05,
+        6.994764538495398,
+        39.715501664896266,
+        1.400001199999998
+      ]
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "SMP3",
+      "overlap_mm3": 0.08036037234720238,
+      "minimum_distance_mm": 0.0,
+      "overlap_bounds_mm": [
+        6.924999330000002,
+        52.98449863510391,
+        1.712172814871311e-05,
+        6.994764538495356,
+        54.21550060489607,
+        1.400001199999998
+      ]
+    },
+    {
+      "mechanical": "Bottom",
+      "component": "SMP8",
+      "overlap_mm3": 0.08036037234720458,
+      "minimum_distance_mm": 0.0,
+      "overlap_bounds_mm": [
+        6.924999330000002,
+        60.48449887510391,
+        1.712172814871311e-05,
+        6.994764538495358,
+        61.715500844896084,
+        1.400001199999998
+      ]
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "PCB_board",
+      "overlap_mm3": 5.655824100437503,
+      "minimum_distance_mm": 0.0,
+      "overlap_bounds_mm": [
+        6.575000450000001,
+        14.39067139824602,
+        1.9999999999999976,
+        6.6361082894434915,
+        72.6599996,
+        3.588396620000009
+      ]
+    },
+    {
+      "mechanical": "Top_ForFridge",
+      "component": "Bottom",
+      "overlap_mm3": 3.59920436199122
+    }
+  ],
+  "assumptions": [
+    "Bottom PCB seat at native Z=2 mm",
+    "Top_ForFridge PCB seat at native Z=-4.6 mm",
+    "Component envelopes preserve source model nominal size and height; solder fillets and manufacturing tolerance are not added",
+    "Copper tracks, masks and tiny vias omitted; 24 QD pads are visual only",
+    "SMP overlaps are accepted by the user for this assembly pass and have not been corrected"
+  ],
+  "exact_SMP_model_cross_check": [
+    {
+      "component": "SMP6",
+      "exact_model_overlap_mm3": 0.0,
+      "overlap_bounds_mm": null
+    },
+    {
+      "component": "SMP5",
+      "exact_model_overlap_mm3": 0.0,
+      "overlap_bounds_mm": null
+    },
+    {
+      "component": "SMP1",
+      "exact_model_overlap_mm3": 0.07621805741770063,
+      "overlap_bounds_mm": [
+        6.924999009015002,
+        31.284498855103926,
+        1.712172814865332e-05,
+        6.994764538495353,
+        32.515500824896066,
+        1.3697676599189914
+      ]
+    },
+    {
+      "component": "SMP2",
+      "exact_model_overlap_mm3": 0.07621805741770975,
+      "overlap_bounds_mm": [
+        6.924999009015002,
+        38.48449969510372,
+        1.712172814865332e-05,
+        6.994764538495398,
+        39.715501664896266,
+        1.3697676599189914
+      ]
+    },
+    {
+      "component": "SMP3",
+      "exact_model_overlap_mm3": 0.07621805741770753,
+      "overlap_bounds_mm": [
+        6.924999009015002,
+        52.98449863510391,
+        1.712172814865332e-05,
+        6.994764538495356,
+        54.21550060489607,
+        1.3697676599189932
+      ]
+    },
+    {
+      "component": "SMP4",
+      "exact_model_overlap_mm3": 0.0,
+      "overlap_bounds_mm": null
+    },
+    {
+      "component": "SMP7",
+      "exact_model_overlap_mm3": 0.0,
+      "overlap_bounds_mm": null
+    },
+    {
+      "component": "SMP8",
+      "exact_model_overlap_mm3": 0.07621805741770937,
+      "overlap_bounds_mm": [
+        6.924999009015002,
+        60.48449887510391,
+        1.712172814865332e-05,
+        6.994764538495358,
+        61.715500844896084,
+        1.369767659918995
+      ]
+    }
+  ]
+}

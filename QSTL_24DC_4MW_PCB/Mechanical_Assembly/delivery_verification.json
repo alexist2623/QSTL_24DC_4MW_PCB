@@ -1,0 +1,13 @@
+{
+  "source_hashes_verified": {
+    "C:\\Users\\\ubc15\uc815\ud604\\Nextcloud3\\Lab\\Instruments\\CustomParts\\Carrier_8MW_24DC\\Mechanical\\Narrow_V3_24DC_8MW\\Bottom.SLDPRT": "bf18cb81fc57202fd1fa0ec75f10d2123ff039342b51967ce9b0c1b72f48e228",
+    "C:\\Users\\\ubc15\uc815\ud604\\Nextcloud3\\Lab\\Instruments\\CustomParts\\Carrier_8MW_24DC\\Mechanical\\Narrow_V3_24DC_8MW\\Top.SLDPRT": "f025481e7f5f13a52e3160a5f4153ae0f1cb326dead542656e4fc07e4d9598b9",
+    "C:\\Users\\\ubc15\uc815\ud604\\Nextcloud3\\Lab\\Instruments\\CustomParts\\Carrier_8MW_24DC\\Mechanical\\Narrow_V3_24DC_8MW\\Top_ForFridge.SLDPRT": "9297e508d5c7c758613860f31f2e4896c0c0d03101450073ceff5e0084b8c1ed",
+    "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB.PcbDoc": "84feed018fbaf5cbfa3203201c8771711b00ffec18aa0aadaf20fdeadb99ca63"
+  },
+  "assembly_step_bound_error_mm": 3.588240815588506e-13,
+  "assembly_step_volume_error_mm3": 2.546585164964199e-10,
+  "passive_minimum_clearance_mm": 1.6665123311123855,
+  "original_pcb_and_cad_unchanged": true,
+  "top_source": "Top_ForFridge.SLDPRT"
+}

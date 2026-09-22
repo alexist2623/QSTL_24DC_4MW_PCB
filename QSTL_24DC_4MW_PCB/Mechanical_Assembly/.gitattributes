@@ -1,0 +1,4 @@
+# Preserve CAD exporter bytes and avoid line-based geometry merges.
+*.step binary
+*.ipt binary
+*.iam binary

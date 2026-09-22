@@ -1,0 +1,28 @@
+﻿[
+    {
+        "name":  "Bottom",
+        "source":  "C:\\Users\\박정현\\Nextcloud3\\Lab\\Instruments\\CustomParts\\Carrier_8MW_24DC\\Mechanical\\Narrow_V3_24DC_8MW\\Bottom.SLDPRT",
+        "bodies":  1,
+        "bounds_mm":  [
+                          6.59925840902531,
+                          14.434999305350971,
+                          -3.0000000000000044,
+                          26.210824541351492,
+                          80.200000000000017,
+                          3
+                      ]
+    },
+    {
+        "name":  "Top_ForFridge",
+        "source":  "C:\\Users\\박정현\\Nextcloud3\\Lab\\Instruments\\CustomParts\\Carrier_8MW_24DC\\Mechanical\\Narrow_V3_24DC_8MW\\Top_ForFridge.SLDPRT",
+        "bodies":  1,
+        "bounds_mm":  [
+                          6.2478983114360176,
+                          14.390671397557069,
+                          -7.5837209527804816,
+                          26.680355712388248,
+                          84.200000000000017,
+                          6.0000000000000009
+                      ]
+    }
+]

@@ -1,0 +1,8 @@
+# Inventor backups and associative import intermediates.
+/OldVersions/
+/*_reference.ipt
+
+# Superseded Top imports; delivered assemblies use Top_ForFridge.
+/Top.ipt
+/Top_reference.step
+/Interference_Top_PCB_board.step

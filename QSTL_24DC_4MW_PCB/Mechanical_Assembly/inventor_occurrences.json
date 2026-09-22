@@ -1,0 +1,68 @@
+﻿[
+    {
+        "assembly":  "Carrier_with_PCB",
+        "name":  "Bottom - SMP side",
+        "source":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Bottom.ipt",
+        "grounded":  true,
+        "translation_mm":  [
+                               0,
+                               0,
+                               0
+                           ]
+    },
+    {
+        "assembly":  "Carrier_with_PCB",
+        "name":  "Current PCB - simplified",
+        "source":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_simplified.iam",
+        "grounded":  true,
+        "translation_mm":  [
+                               26.07499955,
+                               4.7600007799999986,
+                               3.58839662
+                           ]
+    },
+    {
+        "assembly":  "Carrier_with_PCB",
+        "name":  "Top_ForFridge - QD side",
+        "source":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Top_ForFridge.ipt",
+        "grounded":  true,
+        "translation_mm":  [
+                               0,
+                               0,
+                               8.1883966199999989
+                           ]
+    },
+    {
+        "assembly":  "Carrier_exploded",
+        "name":  "Bottom - SMP side",
+        "source":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Bottom.ipt",
+        "grounded":  true,
+        "translation_mm":  [
+                               0,
+                               0,
+                               -20
+                           ]
+    },
+    {
+        "assembly":  "Carrier_exploded",
+        "name":  "Current PCB - simplified",
+        "source":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_simplified.iam",
+        "grounded":  true,
+        "translation_mm":  [
+                               26.07499955,
+                               4.7600007799999986,
+                               3.58839662
+                           ]
+    },
+    {
+        "assembly":  "Carrier_exploded",
+        "name":  "Top_ForFridge - QD side",
+        "source":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Top_ForFridge.ipt",
+        "grounded":  true,
+        "translation_mm":  [
+                               0,
+                               0,
+                               38.18839662
+                           ]
+    }
+]
