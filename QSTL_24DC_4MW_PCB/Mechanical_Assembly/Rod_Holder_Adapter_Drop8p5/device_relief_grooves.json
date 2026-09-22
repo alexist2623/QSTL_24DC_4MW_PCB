@@ -1,0 +1,34 @@
+{
+  "lip_thickness_mm": 3.0398406169005163,
+  "groove_width_mm": 3.339840616900516,
+  "groove_allowance_mm": 0.3,
+  "groove_depth_mm": 0.5,
+  "groove_length_mm": 72,
+  "corner_radius_mm": 0.5,
+  "groove_x_ranges_mm": [
+    [
+      16.5935352141807,
+      19.933375831081218
+    ],
+    [
+      33.433375831081214,
+      36.77321644798173
+    ]
+  ],
+  "groove_y_range_mm": [
+    4,
+    76
+  ],
+  "groove_z_range_mm": [
+    3.5,
+    4
+  ],
+  "removed_volume_mm3": 240.25392258023203,
+  "expected_removed_volume_mm3": 240.25392258023462,
+  "thread_count": 10,
+  "single_solid": true,
+  "source_device_unchanged": true,
+  "boss_and_thread_locations_unchanged": true,
+  "countersink_diameter_mm": 6.6,
+  "countersink_correction_removed_mm3": 36.96188476703506
+}

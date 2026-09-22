@@ -1,0 +1,482 @@
+﻿[
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Bottom.ipt",
+        "before_sha256":  "F6B8A2DAAB1BBF02EC22AAEFA71F2ABA0C574F30BE986E9E53D3FD4342E26901",
+        "after_sha256":  "F6B8A2DAAB1BBF02EC22AAEFA71F2ABA0C574F30BE986E9E53D3FD4342E26901",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Bottom_reference.ipt",
+        "before_sha256":  "71B8C9DCDE155E3C6B5FF6CA73C7887CA06CC4905F66589E646EC16AD2DECC76",
+        "after_sha256":  "71B8C9DCDE155E3C6B5FF6CA73C7887CA06CC4905F66589E646EC16AD2DECC76",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Bottom_reference.step",
+        "before_sha256":  "9B3BCFE3193F8DA31E0B78EB5DBA9133F61FB0887F34BA4510FDBF93C29818EA",
+        "after_sha256":  "9B3BCFE3193F8DA31E0B78EB5DBA9133F61FB0887F34BA4510FDBF93C29818EA",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Carrier_exploded.iam",
+        "before_sha256":  "0137D645E122C7B52DDBEB9FF67FB4F3F143DC98661B8DBBF994DFC6EE82A0C4",
+        "after_sha256":  "0137D645E122C7B52DDBEB9FF67FB4F3F143DC98661B8DBBF994DFC6EE82A0C4",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Carrier_with_PCB.iam",
+        "before_sha256":  "3580C39FBE403DB5611B3C24349E700D1EE103D647BE0F4589D066B121F6E6F8",
+        "after_sha256":  "3580C39FBE403DB5611B3C24349E700D1EE103D647BE0F4589D066B121F6E6F8",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Carrier_with_PCB.step",
+        "before_sha256":  "DA39C930F7700EFB1260D31A6AE0DD2C52CD8CCC0C721F854AB973B81097772D",
+        "after_sha256":  "DA39C930F7700EFB1260D31A6AE0DD2C52CD8CCC0C721F854AB973B81097772D",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Carrier_with_PCB_geometry.step",
+        "before_sha256":  "B4BBC8A7EE739A1844554F8A0B836A5E5EFFC28E25CBE8A8E8E035747F72B762",
+        "after_sha256":  "B4BBC8A7EE739A1844554F8A0B836A5E5EFFC28E25CBE8A8E8E035747F72B762",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Interference_Bottom_PCB_board.step",
+        "before_sha256":  "7272214D4E1DCD64C1EB4E48F69C0FF0941D8213E1B43084DEC15ED58765C5A1",
+        "after_sha256":  "7272214D4E1DCD64C1EB4E48F69C0FF0941D8213E1B43084DEC15ED58765C5A1",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Interference_Bottom_SMP1.step",
+        "before_sha256":  "BFC0C13F90FAB0A00F00689CF0E5760641FA4CC85A4EC5A2C655A02FA431CD74",
+        "after_sha256":  "BFC0C13F90FAB0A00F00689CF0E5760641FA4CC85A4EC5A2C655A02FA431CD74",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Interference_Bottom_SMP2.step",
+        "before_sha256":  "8CEA5B3A516BD9C1F0823B709A6DE41EC59FA53C463DA1B5EB5053494EE8D911",
+        "after_sha256":  "8CEA5B3A516BD9C1F0823B709A6DE41EC59FA53C463DA1B5EB5053494EE8D911",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Interference_Bottom_SMP3.step",
+        "before_sha256":  "00FD80D38C70E26881BCDA220D81695945DAACDDBD2AD0B2F59094C23F0BDF80",
+        "after_sha256":  "00FD80D38C70E26881BCDA220D81695945DAACDDBD2AD0B2F59094C23F0BDF80",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Interference_Bottom_SMP8.step",
+        "before_sha256":  "A2BE5D40C9E9558C16CE904D25976772E3EA7A25C8AE4B63E0DCB8E86FDFF824",
+        "after_sha256":  "A2BE5D40C9E9558C16CE904D25976772E3EA7A25C8AE4B63E0DCB8E86FDFF824",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Interference_Top_ForFridge_PCB_board.step",
+        "before_sha256":  "2FA07006CF044F0B8D9E8FE3394C0F255091A02DD76DBE120EA6D37BBF4F991D",
+        "after_sha256":  "2FA07006CF044F0B8D9E8FE3394C0F255091A02DD76DBE120EA6D37BBF4F991D",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Interference_Top_PCB_board.step",
+        "before_sha256":  "1AA4EAF7606BD4F5640F46C3D93CF67AB022FDA932D68406AB400AA1A399FF35",
+        "after_sha256":  "1AA4EAF7606BD4F5640F46C3D93CF67AB022FDA932D68406AB400AA1A399FF35",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_simplified.iam",
+        "before_sha256":  "59720AEE399DB7ED4D002BDC15A9BDF660370871377DFA85798DDF09CCCD0307",
+        "after_sha256":  "59720AEE399DB7ED4D002BDC15A9BDF660370871377DFA85798DDF09CCCD0307",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_simplified.step",
+        "before_sha256":  "364BB177C73BAE496DBBC8EFBCC4875A7B576EE87085393EACD88927942FAA5A",
+        "after_sha256":  "364BB177C73BAE496DBBC8EFBCC4875A7B576EE87085393EACD88927942FAA5A",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Top.ipt",
+        "before_sha256":  "921A69DE7D1A6520E370D96F34AAAA30019D418B93FEAB175B3897B0F548AC13",
+        "after_sha256":  "921A69DE7D1A6520E370D96F34AAAA30019D418B93FEAB175B3897B0F548AC13",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Top_ForFridge.ipt",
+        "before_sha256":  "E2D6F94652B6FB4AF244944E853FF5DAB59B1A9C2B554C25100D47D47FC6CE6E",
+        "after_sha256":  "E2D6F94652B6FB4AF244944E853FF5DAB59B1A9C2B554C25100D47D47FC6CE6E",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Top_ForFridge_reference.ipt",
+        "before_sha256":  "0D757153E8749D2538FDFC77DDB1E5AF9199B368AC94B7D98B897473F59D093E",
+        "after_sha256":  "0D757153E8749D2538FDFC77DDB1E5AF9199B368AC94B7D98B897473F59D093E",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Top_ForFridge_reference.step",
+        "before_sha256":  "709054CBD8953C045EFF9A897DF164F5CECC2AAB3DA4BD45C2F2E48831163104",
+        "after_sha256":  "709054CBD8953C045EFF9A897DF164F5CECC2AAB3DA4BD45C2F2E48831163104",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Top_reference.ipt",
+        "before_sha256":  "E12A506DCE3781308CF13A6D58B19E6754C04A1EBEB420D8D31F87B1071BA52A",
+        "after_sha256":  "E12A506DCE3781308CF13A6D58B19E6754C04A1EBEB420D8D31F87B1071BA52A",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Top_reference.step",
+        "before_sha256":  "4B8FADA606D729209BFEA3E3818245199B5B8ACAF974BC62985EBF477A459DBC",
+        "after_sha256":  "4B8FADA606D729209BFEA3E3818245199B5B8ACAF974BC62985EBF477A459DBC",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\C1.ipt",
+        "before_sha256":  "DB9023291F1EEC80DE5A43F7BAE7F0DF308FE9615DB577ECBA525C6DFF56C2FA",
+        "after_sha256":  "DB9023291F1EEC80DE5A43F7BAE7F0DF308FE9615DB577ECBA525C6DFF56C2FA",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\C1.step",
+        "before_sha256":  "D73F380621C2B802C1B6E58AF6F8EA738283505049129FE0D97A5FE7E93BFF4C",
+        "after_sha256":  "D73F380621C2B802C1B6E58AF6F8EA738283505049129FE0D97A5FE7E93BFF4C",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\C2.ipt",
+        "before_sha256":  "3A4975D4785E0841A00FE2262E21A0B2723A8C39DCC587E62663FB9560AB64CF",
+        "after_sha256":  "3A4975D4785E0841A00FE2262E21A0B2723A8C39DCC587E62663FB9560AB64CF",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\C2.step",
+        "before_sha256":  "026F2AE095C2B10977162B23FDD8556C03FA03028B85AF71C354007091245589",
+        "after_sha256":  "026F2AE095C2B10977162B23FDD8556C03FA03028B85AF71C354007091245589",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\C3.ipt",
+        "before_sha256":  "205FD4F3D70B01D1E76250097F359C5AB5BBFED13379341B75B12872E9791861",
+        "after_sha256":  "205FD4F3D70B01D1E76250097F359C5AB5BBFED13379341B75B12872E9791861",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\C3.step",
+        "before_sha256":  "70C5D9D6E39859762A71B9EA5C569698B7F2945588E2C6965699D30823FE5DCE",
+        "after_sha256":  "70C5D9D6E39859762A71B9EA5C569698B7F2945588E2C6965699D30823FE5DCE",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\C4.ipt",
+        "before_sha256":  "733CB7206C8EE3940DF61509763A1B662363CF8F4BE6E09881576146646171AC",
+        "after_sha256":  "733CB7206C8EE3940DF61509763A1B662363CF8F4BE6E09881576146646171AC",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\C4.step",
+        "before_sha256":  "8069E80D877F5CC87C4061C80DF16702E4DF080DA45991B485B2F9F16D739BC6",
+        "after_sha256":  "8069E80D877F5CC87C4061C80DF16702E4DF080DA45991B485B2F9F16D739BC6",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\C5.ipt",
+        "before_sha256":  "BE85C2ACEBDCC6D2E36A479A1B641C9FEADD22105799FD7E497EC77A316B7E6A",
+        "after_sha256":  "BE85C2ACEBDCC6D2E36A479A1B641C9FEADD22105799FD7E497EC77A316B7E6A",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\C5.step",
+        "before_sha256":  "F618D9D99F53520A0AEA45DAE1DA096D86D0674A05CF30A9687EC6990A9ECA61",
+        "after_sha256":  "F618D9D99F53520A0AEA45DAE1DA096D86D0674A05CF30A9687EC6990A9ECA61",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\C6.ipt",
+        "before_sha256":  "3B227B14557EBD69DD0A326DB049F7537E306219131D5D3991AE887EE065F30E",
+        "after_sha256":  "3B227B14557EBD69DD0A326DB049F7537E306219131D5D3991AE887EE065F30E",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\C6.step",
+        "before_sha256":  "F3A13C29CD3DB9C29280307DB740A1EB9752501C846091AD4AD833804DC659E6",
+        "after_sha256":  "F3A13C29CD3DB9C29280307DB740A1EB9752501C846091AD4AD833804DC659E6",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\J1.ipt",
+        "before_sha256":  "000725C565848EB0664B51E51748060F86854EA761671D0B5ABEBED1FE2D6C35",
+        "after_sha256":  "000725C565848EB0664B51E51748060F86854EA761671D0B5ABEBED1FE2D6C35",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\J1.step",
+        "before_sha256":  "DB549A244229437B7D994EDA90F85BB824283717FCF19AEFC13D46777C770725",
+        "after_sha256":  "DB549A244229437B7D994EDA90F85BB824283717FCF19AEFC13D46777C770725",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\PCB_board.ipt",
+        "before_sha256":  "B605CB91F065EBADDB905810BFB43193D6563A0B63DD8F9C2A5895F12BF80BD1",
+        "after_sha256":  "B605CB91F065EBADDB905810BFB43193D6563A0B63DD8F9C2A5895F12BF80BD1",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\PCB_board.step",
+        "before_sha256":  "A60F881B4B42B608BBB564225A9CEC214E195577503DAE9EE36B3F78C9AF039B",
+        "after_sha256":  "A60F881B4B42B608BBB564225A9CEC214E195577503DAE9EE36B3F78C9AF039B",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\QD_bond_pads.ipt",
+        "before_sha256":  "F95BD556E98A03041837D5116022F3B770A6B1170B356E806E9B535E549B7471",
+        "after_sha256":  "F95BD556E98A03041837D5116022F3B770A6B1170B356E806E9B535E549B7471",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\QD_bond_pads.step",
+        "before_sha256":  "BDE92AE62221D2244C49B30F3C4F5A8BD4CF8B035811A3A3674C54C53DC1CDC7",
+        "after_sha256":  "BDE92AE62221D2244C49B30F3C4F5A8BD4CF8B035811A3A3674C54C53DC1CDC7",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\R1.ipt",
+        "before_sha256":  "1EFFDB659541FC69F46B43BA750D57CA2CC12EC8884D33CF383E4715B46C2821",
+        "after_sha256":  "1EFFDB659541FC69F46B43BA750D57CA2CC12EC8884D33CF383E4715B46C2821",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\R1.step",
+        "before_sha256":  "25023594214BB9DDDDFCC05C331E7D6200B814A07DB7DEF519C9FD92FB227871",
+        "after_sha256":  "25023594214BB9DDDDFCC05C331E7D6200B814A07DB7DEF519C9FD92FB227871",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\R2.ipt",
+        "before_sha256":  "8C469F58D7A481842EBBDAD213FC0235A5AFF6F5BDAB651CDB4A751DE086223C",
+        "after_sha256":  "8C469F58D7A481842EBBDAD213FC0235A5AFF6F5BDAB651CDB4A751DE086223C",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\R2.step",
+        "before_sha256":  "41F4BA854BAE3423CA4D41EC8403F32D0C7D6F306962CA006514D9452504C376",
+        "after_sha256":  "41F4BA854BAE3423CA4D41EC8403F32D0C7D6F306962CA006514D9452504C376",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\R3.ipt",
+        "before_sha256":  "6D349B50FDFF22FF03D58320C44ECFD474F0608ED0AABFA3716AA7F42861D99C",
+        "after_sha256":  "6D349B50FDFF22FF03D58320C44ECFD474F0608ED0AABFA3716AA7F42861D99C",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\R3.step",
+        "before_sha256":  "75B79E543E19AD944838F8B6956CA9AEFC009E7EB000D1165E429D7628AB0415",
+        "after_sha256":  "75B79E543E19AD944838F8B6956CA9AEFC009E7EB000D1165E429D7628AB0415",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\R4.ipt",
+        "before_sha256":  "B47C0950E85EB28CF026A34729BD36791670310B9ABEDCF605F407181A684B97",
+        "after_sha256":  "B47C0950E85EB28CF026A34729BD36791670310B9ABEDCF605F407181A684B97",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\R4.step",
+        "before_sha256":  "BBC7F7FAC3F711E312741E8F863CF11D47E12F4A4798E0AD17440AF19D28E178",
+        "after_sha256":  "BBC7F7FAC3F711E312741E8F863CF11D47E12F4A4798E0AD17440AF19D28E178",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\R5.ipt",
+        "before_sha256":  "63328F6B1A9E49A63027B7EB05DDBEFDE60FA31DA4F80A2AF8453E90244F17D4",
+        "after_sha256":  "63328F6B1A9E49A63027B7EB05DDBEFDE60FA31DA4F80A2AF8453E90244F17D4",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\R5.step",
+        "before_sha256":  "15452F3FC8D2CE5D7168E07132B5174F70138137932DFC066FCA8482EBDDFC69",
+        "after_sha256":  "15452F3FC8D2CE5D7168E07132B5174F70138137932DFC066FCA8482EBDDFC69",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\R6.ipt",
+        "before_sha256":  "6D2AE31C3C23EA7DC672432F77B54A167C10B47BA1E5B50909E870C297A5CD85",
+        "after_sha256":  "6D2AE31C3C23EA7DC672432F77B54A167C10B47BA1E5B50909E870C297A5CD85",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\R6.step",
+        "before_sha256":  "A4945CEA1D7C68B849241D41CE151E322F13393C70B5E6DD38457E8A81D47D94",
+        "after_sha256":  "A4945CEA1D7C68B849241D41CE151E322F13393C70B5E6DD38457E8A81D47D94",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP1.ipt",
+        "before_sha256":  "816425A92071FF90835DA9C3F277F766E61D421811EC447C0C49C0E63DFAB6C4",
+        "after_sha256":  "816425A92071FF90835DA9C3F277F766E61D421811EC447C0C49C0E63DFAB6C4",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP1.step",
+        "before_sha256":  "9D377AE5796815DDF1174949FE5B66B2D01E5F9F6F20049B60E68D548654F42E",
+        "after_sha256":  "9D377AE5796815DDF1174949FE5B66B2D01E5F9F6F20049B60E68D548654F42E",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP2.ipt",
+        "before_sha256":  "A2614600F75B770B69C0B478F1CB50D446BEC9B48320AC83B80D713A4AC64971",
+        "after_sha256":  "A2614600F75B770B69C0B478F1CB50D446BEC9B48320AC83B80D713A4AC64971",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP2.step",
+        "before_sha256":  "7E47026FB88894302E94E8A17EECA82A0FDC6BAC53DCCC378E27E10A06D50A42",
+        "after_sha256":  "7E47026FB88894302E94E8A17EECA82A0FDC6BAC53DCCC378E27E10A06D50A42",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP3.ipt",
+        "before_sha256":  "17C20F0636716ABF023F9F7753D410053964282784DFC2E9E0A83156430D7D56",
+        "after_sha256":  "17C20F0636716ABF023F9F7753D410053964282784DFC2E9E0A83156430D7D56",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP3.step",
+        "before_sha256":  "D2B4E436318D8692EF015807B7A24FBA9ACD8BE7540404C49D519EE69911FA2D",
+        "after_sha256":  "D2B4E436318D8692EF015807B7A24FBA9ACD8BE7540404C49D519EE69911FA2D",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP4.ipt",
+        "before_sha256":  "35A4EC0E92A2C460930ABE255730CEE738C09B874977A0089CC994A427FE0A8C",
+        "after_sha256":  "35A4EC0E92A2C460930ABE255730CEE738C09B874977A0089CC994A427FE0A8C",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP4.step",
+        "before_sha256":  "EE7EE8D82C2084BD412A58C54C43384E0EC2C84A2F5E0305F35EF3F8384B843E",
+        "after_sha256":  "EE7EE8D82C2084BD412A58C54C43384E0EC2C84A2F5E0305F35EF3F8384B843E",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP5.ipt",
+        "before_sha256":  "D686F451E8A27CB646A93C5B026AE4B177AF92EFD426DFA8ADF47398666B12C4",
+        "after_sha256":  "D686F451E8A27CB646A93C5B026AE4B177AF92EFD426DFA8ADF47398666B12C4",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP5.step",
+        "before_sha256":  "A1BCFBB0CAFA2F94365AA90647B223AEF7E9F605D73095136AEC60B6FB947634",
+        "after_sha256":  "A1BCFBB0CAFA2F94365AA90647B223AEF7E9F605D73095136AEC60B6FB947634",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP6.ipt",
+        "before_sha256":  "4EE20E1D53DF625253BD0AC2BE00F1BF7BA026A9949E362C502D9B9AB9454153",
+        "after_sha256":  "4EE20E1D53DF625253BD0AC2BE00F1BF7BA026A9949E362C502D9B9AB9454153",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP6.step",
+        "before_sha256":  "E54AE34FA51D6F0A218D7449E10A55E93AB11674A9676594EE30C30D66A23E76",
+        "after_sha256":  "E54AE34FA51D6F0A218D7449E10A55E93AB11674A9676594EE30C30D66A23E76",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP7.ipt",
+        "before_sha256":  "C1E6BC57ADD148D074AEFFADE440C77FC54063D46A3CB9896F14D4979B7DC7B5",
+        "after_sha256":  "C1E6BC57ADD148D074AEFFADE440C77FC54063D46A3CB9896F14D4979B7DC7B5",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP7.step",
+        "before_sha256":  "80360C52D444457CD27DB0F292C2705E0B8085F6812C569F26C46086A6642046",
+        "after_sha256":  "80360C52D444457CD27DB0F292C2705E0B8085F6812C569F26C46086A6642046",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP8.ipt",
+        "before_sha256":  "8E736B4464DC3B5C2A06F235FBE5E9EF8164A2DB49AA6C989972CD768345EBEB",
+        "after_sha256":  "8E736B4464DC3B5C2A06F235FBE5E9EF8164A2DB49AA6C989972CD768345EBEB",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\PCB_parts\\SMP8.step",
+        "before_sha256":  "E17AC097562B6FCE88896F90F0FF1C61F939D9C691ACE6512CD25001936D84E0",
+        "after_sha256":  "E17AC097562B6FCE88896F90F0FF1C61F939D9C691ACE6512CD25001936D84E0",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Probe_H_Frame\\Probe_H_Frame.ipt",
+        "before_sha256":  "9A627E385278B66C7A5E1E95C2B4F56AC5F37B1803958418352E45617D5914B1",
+        "after_sha256":  "9A627E385278B66C7A5E1E95C2B4F56AC5F37B1803958418352E45617D5914B1",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Probe_H_Frame\\Probe_H_Frame.step",
+        "before_sha256":  "1755A6CB10B159BE491AD9D4E30359DBF396D496A2E5EC5346B01C06B04649C6",
+        "after_sha256":  "1755A6CB10B159BE491AD9D4E30359DBF396D496A2E5EC5346B01C06B04649C6",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Probe_Tube\\Probe_Tube.ipt",
+        "before_sha256":  "A0968E058A13A11C3500195A3D340BAFA9018AFFE21B155FF68E094B04BEF5EB",
+        "after_sha256":  "A0968E058A13A11C3500195A3D340BAFA9018AFFE21B155FF68E094B04BEF5EB",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Probe_Tube\\Probe_Tube.step",
+        "before_sha256":  "2BE562A1873F9E7B24DE8C5DA45A2C4FC823F5D3E1C164FE5D52B1A4A3275EB7",
+        "after_sha256":  "2BE562A1873F9E7B24DE8C5DA45A2C4FC823F5D3E1C164FE5D52B1A4A3275EB7",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Device_M3x8_Simplified.ipt",
+        "before_sha256":  "16801CC4C0BE73FEAF469DFE630EE75C4D8DA4F49A226FF029A2FAFB2AF21656",
+        "after_sha256":  "16801CC4C0BE73FEAF469DFE630EE75C4D8DA4F49A226FF029A2FAFB2AF21656",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Device_M3x8_Simplified.step",
+        "before_sha256":  "B7C5071357C3FD9F26A33975E2F61516D06648B42A87346B0CD08404D74F2DC2",
+        "after_sha256":  "B7C5071357C3FD9F26A33975E2F61516D06648B42A87346B0CD08404D74F2DC2",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_Holder_Adapter.ipt",
+        "before_sha256":  "EB723A650B7B100619751E8C1EEB208BF71C6A8ACA54EA4517A946922F51ECD1",
+        "after_sha256":  "EB723A650B7B100619751E8C1EEB208BF71C6A8ACA54EA4517A946922F51ECD1",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_Holder_Adapter.step",
+        "before_sha256":  "1BB1F696FF3C491A8C98C5743DE9A837E2A21B2B3770998B0754028C2B20D70D",
+        "after_sha256":  "1BB1F696FF3C491A8C98C5743DE9A837E2A21B2B3770998B0754028C2B20D70D",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_Holder_Assembly.iam",
+        "before_sha256":  "3EC93ADFE90ED3D2DF8FB5C2AC221B464834321BDD26F5664DE6879A4D2A897C",
+        "after_sha256":  "3EC93ADFE90ED3D2DF8FB5C2AC221B464834321BDD26F5664DE6879A4D2A897C",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_Holder_Assembly.step",
+        "before_sha256":  "9FF874F61E8C3AED6BF35DE3A180AF6769CE934DA3E31977C1CC9F887FC15070",
+        "after_sha256":  "9FF874F61E8C3AED6BF35DE3A180AF6769CE934DA3E31977C1CC9F887FC15070",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_M3x8_Simplified.ipt",
+        "before_sha256":  "A144FB8E4A5F7DBF23EF8652B9F038E11898D3B971478193E787C5F1778DFCC9",
+        "after_sha256":  "A144FB8E4A5F7DBF23EF8652B9F038E11898D3B971478193E787C5F1778DFCC9",
+        "unchanged":  true
+    },
+    {
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter\\Rod_M3x8_Simplified.step",
+        "before_sha256":  "8459898E16B5CC235CB74C7F2F2150EEFC47DD13B7D4AC7C4DC6CFFD64FE38EA",
+        "after_sha256":  "8459898E16B5CC235CB74C7F2F2150EEFC47DD13B7D4AC7C4DC6CFFD64FE38EA",
+        "unchanged":  true
+    }
+]

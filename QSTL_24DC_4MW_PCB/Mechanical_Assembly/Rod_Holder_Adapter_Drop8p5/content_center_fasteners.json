@@ -1,0 +1,119 @@
+[
+  {
+    "family": "DIN 7991",
+    "library": "AI2027_Inventor DIN",
+    "family_id": "dc008177-fb61-46d9-9b99-764838f13578",
+    "row": 2,
+    "source": "C:\\OneDrive_UBC\\OneDrive - UBC\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\DIN 7991(2)\\DIN 7991 - M3x10.ipt",
+    "file": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\DIN_7991_M3x10.ipt",
+    "sha256": "E6BFDE878AC19D8A56ED1E9E493CD2D1BF8FF11D724AAD3B401CC9399BBE2E79",
+    "is_content_member": true,
+    "values": {
+      "FILENAME": "DIN 7991 - M3x10",
+      "MATERIAL": "Steel, Mild",
+      "DESIGNATION": "M3x10",
+      "PARTNUMBER": "DIN 7991 - M3x10",
+      "THREADDIA": "3",
+      "THREADDESC": "M3x0.5",
+      "THREADCLASSEXT": "6g",
+      "THREADTYPE": "ISO Metric profile",
+      "SIZE_SEL": "M3",
+      "NND": "3",
+      "NLG": "10",
+      "PTC": "0.5",
+      "dk": "6",
+      "ParK": "1.7",
+      "ParS": "2",
+      "ParT": "1.2",
+      "r": "0.1",
+      "b": "7.3",
+      "ParC": "0.2",
+      "grplen": "1",
+      "ang": "90"
+    },
+    "bounds_mm": [
+      [
+        -3.0000000000000004,
+        -3.0000000000000004,
+        -10
+      ],
+      [
+        3.0000000000000004,
+        3.0000000000000004,
+        0
+      ]
+    ],
+    "threads": [
+      {
+        "internal": false,
+        "health": 11778,
+        "class": "6g",
+        "designation": "M3x0.5",
+        "depth_mm": 7.3
+      }
+    ]
+  },
+  {
+    "family": "ISO 4762",
+    "library": "AI2027_Inventor ISO",
+    "family_id": "9c6583ef-6f2e-42a0-aee7-94f8e9e059c5",
+    "row": 30,
+    "source": "C:\\OneDrive_UBC\\OneDrive - UBC\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\ISO 4762(2)\\ISO 4762 - M3 x 8ISO.ipt",
+    "file": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt",
+    "sha256": "1CF62E33539C619C459E5F8ED8F4AE1E5B316AAE319F02CE3E520B8F9CDD9619",
+    "is_content_member": true,
+    "values": {
+      "NND": "3",
+      "NLG": "8",
+      "GEL": "6.75",
+      "SW": "2.5",
+      "KOD": "5.5",
+      "KOH": "3",
+      "INTI": "1.3",
+      "RR": "0.3",
+      "GD": "3",
+      "E0": "2.8875",
+      "SPD": "2.38655",
+      "BDM": "3",
+      "SIZE": "M3x8",
+      "FAWI": "45",
+      "THREADDIA": "3",
+      "TPU": "2",
+      "THREADDESC": "M3x0.5",
+      "GD1": "2.38655",
+      "GUL": "0.306725",
+      "GAL": "0.306725",
+      "PTC": "0.5",
+      "TOA": "30",
+      "THREADCLASSEXT": "6g",
+      "THREADTYPE": "ISO Metric profile",
+      "DESIGNATION": "M3 x 8",
+      "FILENAME": "ISO 4762 - M3 x 8ISO",
+      "MATERIAL": "Stainless Steel, 440C",
+      "PARTNUMBER": "ISO 4762 - M3 x 8",
+      "SIZE_SEL": "M3",
+      "KLG": "1.25"
+    },
+    "bounds_mm": [
+      [
+        -2.9999999999999947,
+        -2.7500000000000027,
+        -2.7500000000000027
+      ],
+      [
+        7.999999999999997,
+        2.7500000000000027,
+        2.7500000000000027
+      ]
+    ],
+    "threads": [
+      {
+        "internal": false,
+        "health": 11778,
+        "class": "6g",
+        "designation": "M3x0.5",
+        "depth_mm": 6.75
+      }
+    ]
+  }
+]

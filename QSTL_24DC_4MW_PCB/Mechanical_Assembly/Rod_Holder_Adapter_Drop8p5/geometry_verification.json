@@ -1,0 +1,681 @@
+{
+  "assembly_step_valid": true,
+  "fabricated_part_count": 3,
+  "each_part_one_solid": true,
+  "saved_occurrence_count": 24,
+  "plate_bounds_mm": [
+    0.0,
+    135.0,
+    -12.5,
+    51.0,
+    215.0,
+    0.0
+  ],
+  "device_bounds_mm": [
+    15.422898761436006,
+    138.75138302909545,
+    -8.499999999999995,
+    35.85535616238836,
+    218.19138224909543,
+    9.088395420000001
+  ],
+  "device_shift_mm": [
+    0.13912746191221714,
+    0.0,
+    -8.5
+  ],
+  "baseline_radial_distance_mm": 8.501138538493464,
+  "radial_distance_mm": 3.7974171942835164e-14,
+  "target_global_mm": [
+    25.499999999999993,
+    175.69138224909543,
+    2.9999999999999982
+  ],
+  "floor_global_mm": [
+    25.499999999999993,
+    175.69138224909543,
+    3.299999999999998
+  ],
+  "tube_axis_at_target_y_mm": [
+    25.5,
+    175.69138224909543,
+    2.999999999999961
+  ],
+  "centre_residual_xz_mm": [
+    -7.105427357601002e-15,
+    3.730349362740526e-14
+  ],
+  "boss_threads_per_side": 5,
+  "boss_thread_count": 10,
+  "boss_thread_pitch_mm": 16,
+  "support_thread_count": 8,
+  "support_thread_pitch_mm": 20,
+  "countersunk_screw_count": 8,
+  "thread_engagement_mm": 6.1,
+  "thread_bottom_clearance_mm": 0.4,
+  "interfaces": [
+    {
+      "pair": "Stepped plate / rods",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Stepped plate / device",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 5.329070518200751e-15,
+      "interference_free": true
+    },
+    {
+      "pair": "Device / rods",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 9.144643837611639,
+      "interference_free": true
+    },
+    {
+      "pair": "Centre deck / left support",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Centre deck / right support",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Left support / right support",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 27.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Device_Clamp_M3_1 / plate",
+      "overlap_mm3": 10.312496137231722,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": true,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Device_Clamp_M3_1 / device",
+      "overlap_mm3": 0.002047282531844361,
+      "non_thread_overlap_mm3": 0.002047282531844361,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": false,
+      "intersection_bounds_mm": [
+        16.89353511418067,
+        175.22802356515845,
+        -6.569532708198749,
+        16.99353525347046,
+        175.6380237651586,
+        -4.430467291801319
+      ]
+    },
+    {
+      "pair": "Device_Clamp_M3_2 / plate",
+      "overlap_mm3": 10.312496137248868,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": true,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Device_Clamp_M3_2 / device",
+      "overlap_mm3": 0.0020498803673401882,
+      "non_thread_overlap_mm3": 0.0020498803673401882,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": false,
+      "intersection_bounds_mm": [
+        16.893535114180665,
+        159.22802356515842,
+        -6.569532708198867,
+        16.99353531418068,
+        159.6380237651587,
+        -4.430467291801225
+      ]
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y140 / plate",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 2.220446049250313e-15,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y140 / rods",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y160 / plate",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 2.220446049250313e-15,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y160 / rods",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y180 / plate",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 2.220446049250313e-15,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y180 / rods",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y200 / plate",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 2.220446049250313e-15,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y200 / rods",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y140 / plate",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 2.220446049250313e-15,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y140 / rods",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y160 / plate",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 2.220446049250313e-15,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y160 / rods",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y180 / plate",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 2.220446049250313e-15,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y180 / rods",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y200 / plate",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 2.220446049250313e-15,
+      "interference_free": true
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y200 / rods",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y145 / countersink",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y145 / tapped support",
+      "overlap_mm3": 12.896892341455587,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": true,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y145 / device",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 4.425441611174208,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y145 / sleeve",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.0426902542409906,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y165 / countersink",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y165 / tapped support",
+      "overlap_mm3": 12.896892341455587,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": true,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y165 / device",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 4.425441611174212,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y165 / sleeve",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.0426902542409928,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y185 / countersink",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y185 / tapped support",
+      "overlap_mm3": 12.896892341455587,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": true,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y185 / device",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 4.425441611174214,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y185 / sleeve",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.0426902542409973,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y205 / countersink",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y205 / tapped support",
+      "overlap_mm3": 12.896892341455587,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": true,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y205 / device",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 4.425441611174217,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X9.5_Y205 / sleeve",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.0426902542409995,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y145 / countersink",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y145 / tapped support",
+      "overlap_mm3": 12.896892341455587,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": true,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y145 / device",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 4.147357295996113,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y145 / sleeve",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.0426902542409877,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y165 / countersink",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y165 / tapped support",
+      "overlap_mm3": 12.896892341455587,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": true,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y165 / device",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 4.147357295996113,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y165 / sleeve",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.0426902542409948,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y185 / countersink",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y185 / tapped support",
+      "overlap_mm3": 12.896892341455587,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": true,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y185 / device",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 4.147357295996106,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y185 / sleeve",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.0426902542409948,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y205 / countersink",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y205 / tapped support",
+      "overlap_mm3": 12.896892341455587,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": true,
+      "minimum_distance_mm": 0.0,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y205 / device",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 4.147357295996106,
+      "interference_free": true
+    },
+    {
+      "pair": "Deck_Join_M3_X41.5_Y205 / sleeve",
+      "overlap_mm3": 0.0,
+      "non_thread_overlap_mm3": 0.0,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.0426902542409984,
+      "interference_free": true
+    }
+  ],
+  "rod_contact_area_comparison": [
+    {
+      "rod_x_mm": 0,
+      "baseline_mm2": 443.683188924502,
+      "variant_mm2": 443.683188924502
+    },
+    {
+      "rod_x_mm": 45,
+      "baseline_mm2": 443.6831889245018,
+      "variant_mm2": 443.6831889245018
+    }
+  ],
+  "sleeve_intersections": [
+    {
+      "component": "Existing_Probe_H_Frame",
+      "overlap_mm3": 254.64785254422122
+    },
+    {
+      "component": "Centre_Plate_With_Device_Boss",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Existing_Carrier_Hung_From_Side_Slots",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Device_Clamp_M3_1",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Device_Clamp_M3_2",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Rod_Clamp_M3_X3_Y140",
+      "overlap_mm3": 11.733599830200895
+    },
+    {
+      "component": "Rod_Clamp_M3_X3_Y160",
+      "overlap_mm3": 11.733599830244135
+    },
+    {
+      "component": "Rod_Clamp_M3_X3_Y180",
+      "overlap_mm3": 11.733599830244158
+    },
+    {
+      "component": "Rod_Clamp_M3_X3_Y200",
+      "overlap_mm3": 11.733599830222655
+    },
+    {
+      "component": "Rod_Clamp_M3_X48_Y140",
+      "overlap_mm3": 11.73360019639494
+    },
+    {
+      "component": "Rod_Clamp_M3_X48_Y160",
+      "overlap_mm3": 11.73360019655316
+    },
+    {
+      "component": "Rod_Clamp_M3_X48_Y180",
+      "overlap_mm3": 11.733600196553178
+    },
+    {
+      "component": "Rod_Clamp_M3_X48_Y200",
+      "overlap_mm3": 11.733600196394796
+    },
+    {
+      "component": "Left_Rod_Support",
+      "overlap_mm3": 167.28316356220319
+    },
+    {
+      "component": "Right_Rod_Support",
+      "overlap_mm3": 167.283163562203
+    },
+    {
+      "component": "Deck_Join_M3_X9.5_Y145",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Deck_Join_M3_X9.5_Y165",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Deck_Join_M3_X9.5_Y185",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Deck_Join_M3_X9.5_Y205",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Deck_Join_M3_X41.5_Y145",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Deck_Join_M3_X41.5_Y165",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Deck_Join_M3_X41.5_Y185",
+      "overlap_mm3": 0.0
+    },
+    {
+      "component": "Deck_Join_M3_X41.5_Y205",
+      "overlap_mm3": 0.0
+    }
+  ],
+  "original_cad_files_unchanged": true,
+  "native_pocket_floor_verified": true,
+  "unresolved_interfaces": [
+    {
+      "pair": "Device_Clamp_M3_1 / device",
+      "overlap_mm3": 0.002047282531844361,
+      "non_thread_overlap_mm3": 0.002047282531844361,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": false,
+      "intersection_bounds_mm": [
+        16.89353511418067,
+        175.22802356515845,
+        -6.569532708198749,
+        16.99353525347046,
+        175.6380237651586,
+        -4.430467291801319
+      ]
+    },
+    {
+      "pair": "Device_Clamp_M3_2 / device",
+      "overlap_mm3": 0.0020498803673401882,
+      "non_thread_overlap_mm3": 0.0020498803673401882,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 0.0,
+      "interference_free": false,
+      "intersection_bounds_mm": [
+        16.893535114180665,
+        159.22802356515842,
+        -6.569532708198867,
+        16.99353531418068,
+        159.6380237651587,
+        -4.430467291801225
+      ]
+    }
+  ],
+  "all_checked_interfaces_clear": false
+}

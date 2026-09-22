@@ -1,0 +1,722 @@
+﻿[
+    {
+        "name":  "Existing_Probe_H_Frame",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Probe_H_Frame\\Probe_H_Frame.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              0
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              0
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Centre_Plate_With_Device_Boss",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Centre_Plate.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              13.5
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              -1.25
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Existing_Carrier_Hung_From_Side_Slots",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Carrier_with_PCB.iam",
+        "matrix_cm":  [
+                          [
+                              1,
+                              -1.2246467991473532E-16,
+                              -1.2246467991473532E-16,
+                              0.91750004500000026
+                          ],
+                          [
+                              -1.2246467991473532E-16,
+                              -1,
+                              1.4997597826618576E-32,
+                              22.295138302909542
+                          ],
+                          [
+                              -1.2246467991473532E-16,
+                              0,
+                              -1,
+                              0.56883966199999991
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Device_Clamp_M3_1",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt",
+        "matrix_cm":  [
+                          [
+                              1.0000000000000002,
+                              -1.2246467991473532E-16,
+                              -2.2204460492503131E-16,
+                              1.6893535214180677
+                          ],
+                          [
+                              -1.2246467991473535E-16,
+                              -1,
+                              2.7192621468937821E-32,
+                              17.682802366515844
+                          ],
+                          [
+                              -2.2204460492503131E-16,
+                              0,
+                              -1.0000000000000002,
+                              -0.54999999999999993
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Device_Clamp_M3_2",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt",
+        "matrix_cm":  [
+                          [
+                              1.0000000000000002,
+                              -1.2246467991473532E-16,
+                              -2.2204460492503131E-16,
+                              1.6893535214180677
+                          ],
+                          [
+                              -1.2246467991473535E-16,
+                              -1,
+                              2.7192621468937821E-32,
+                              16.082802366515843
+                          ],
+                          [
+                              -2.2204460492503131E-16,
+                              0,
+                              -1.0000000000000002,
+                              -0.54999999999999993
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Rod_Clamp_M3_X3_Y140",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt",
+        "matrix_cm":  [
+                          [
+                              0,
+                              0,
+                              -1,
+                              0.3
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              14
+                          ],
+                          [
+                              1,
+                              0,
+                              0,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Rod_Clamp_M3_X3_Y160",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt",
+        "matrix_cm":  [
+                          [
+                              0,
+                              0,
+                              -1,
+                              0.3
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              16
+                          ],
+                          [
+                              1,
+                              0,
+                              0,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Rod_Clamp_M3_X3_Y180",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt",
+        "matrix_cm":  [
+                          [
+                              0,
+                              0,
+                              -1,
+                              0.3
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              18
+                          ],
+                          [
+                              1,
+                              0,
+                              0,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Rod_Clamp_M3_X3_Y200",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt",
+        "matrix_cm":  [
+                          [
+                              0,
+                              0,
+                              -1,
+                              0.3
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              20
+                          ],
+                          [
+                              1,
+                              0,
+                              0,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Rod_Clamp_M3_X48_Y140",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt",
+        "matrix_cm":  [
+                          [
+                              0,
+                              0,
+                              -1,
+                              4.8
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              14
+                          ],
+                          [
+                              1,
+                              0,
+                              0,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Rod_Clamp_M3_X48_Y160",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt",
+        "matrix_cm":  [
+                          [
+                              0,
+                              0,
+                              -1,
+                              4.8
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              16
+                          ],
+                          [
+                              1,
+                              0,
+                              0,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Rod_Clamp_M3_X48_Y180",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt",
+        "matrix_cm":  [
+                          [
+                              0,
+                              0,
+                              -1,
+                              4.8
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              18
+                          ],
+                          [
+                              1,
+                              0,
+                              0,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Rod_Clamp_M3_X48_Y200",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt",
+        "matrix_cm":  [
+                          [
+                              0,
+                              0,
+                              -1,
+                              4.8
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              20
+                          ],
+                          [
+                              1,
+                              0,
+                              0,
+                              -0.4
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Probe_Tube_ID51_OD54",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Probe_Tube\\Probe_Tube.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              2.55
+                          ],
+                          [
+                              0,
+                              -2.2204460492503131E-16,
+                              1.0000000000000002,
+                              0
+                          ],
+                          [
+                              0,
+                              -1.0000000000000002,
+                              -2.2204460492503131E-16,
+                              0.3
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Left_Rod_Support",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Left_Rod_Support.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              13.5
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              -1.25
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Right_Rod_Support",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Right_Rod_Support.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0
+                          ],
+                          [
+                              0,
+                              1,
+                              0,
+                              13.5
+                          ],
+                          [
+                              0,
+                              0,
+                              1,
+                              -1.25
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Deck_Join_M3_X9.5_Y145",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\DIN_7991_M3x10.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0.95
+                          ],
+                          [
+                              0,
+                              -1,
+                              0,
+                              14.5
+                          ],
+                          [
+                              0,
+                              0,
+                              -1,
+                              -1.24
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Deck_Join_M3_X9.5_Y165",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\DIN_7991_M3x10.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0.95
+                          ],
+                          [
+                              0,
+                              -1,
+                              0,
+                              16.5
+                          ],
+                          [
+                              0,
+                              0,
+                              -1,
+                              -1.24
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Deck_Join_M3_X9.5_Y185",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\DIN_7991_M3x10.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0.95
+                          ],
+                          [
+                              0,
+                              -1,
+                              0,
+                              18.5
+                          ],
+                          [
+                              0,
+                              0,
+                              -1,
+                              -1.24
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Deck_Join_M3_X9.5_Y205",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\DIN_7991_M3x10.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              0.95
+                          ],
+                          [
+                              0,
+                              -1,
+                              0,
+                              20.5
+                          ],
+                          [
+                              0,
+                              0,
+                              -1,
+                              -1.24
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Deck_Join_M3_X41.5_Y145",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\DIN_7991_M3x10.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              4.15
+                          ],
+                          [
+                              0,
+                              -1,
+                              0,
+                              14.5
+                          ],
+                          [
+                              0,
+                              0,
+                              -1,
+                              -1.24
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Deck_Join_M3_X41.5_Y165",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\DIN_7991_M3x10.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              4.15
+                          ],
+                          [
+                              0,
+                              -1,
+                              0,
+                              16.5
+                          ],
+                          [
+                              0,
+                              0,
+                              -1,
+                              -1.24
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Deck_Join_M3_X41.5_Y185",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\DIN_7991_M3x10.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              4.15
+                          ],
+                          [
+                              0,
+                              -1,
+                              0,
+                              18.5
+                          ],
+                          [
+                              0,
+                              0,
+                              -1,
+                              -1.24
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    },
+    {
+        "name":  "Deck_Join_M3_X41.5_Y205",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\DIN_7991_M3x10.ipt",
+        "matrix_cm":  [
+                          [
+                              1,
+                              0,
+                              0,
+                              4.15
+                          ],
+                          [
+                              0,
+                              -1,
+                              0,
+                              20.5
+                          ],
+                          [
+                              0,
+                              0,
+                              -1,
+                              -1.24
+                          ],
+                          [
+                              0,
+                              0,
+                              0,
+                              1
+                          ]
+                      ]
+    }
+]

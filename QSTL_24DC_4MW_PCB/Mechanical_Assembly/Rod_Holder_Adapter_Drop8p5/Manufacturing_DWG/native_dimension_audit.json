@@ -1,0 +1,370 @@
+[
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "BOSS FACE",
+        "expected_mm":  80,
+        "native_model_value_mm":  80,
+        "displayed_text":  "80.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "BOSS FACE",
+        "expected_mm":  72,
+        "native_model_value_mm":  72,
+        "displayed_text":  "72.00 (2X GROOVES)",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "BOSS FACE",
+        "expected_mm":  39,
+        "native_model_value_mm":  39,
+        "displayed_text":  "39.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "BOSS FACE",
+        "expected_mm":  3.5,
+        "native_model_value_mm":  3.5000000000000027,
+        "displayed_text":  "3.50",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "BOSS FACE",
+        "expected_mm":  32,
+        "native_model_value_mm":  31.999999999999996,
+        "displayed_text":  "32.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "BOSS FACE",
+        "expected_mm":  60,
+        "native_model_value_mm":  60,
+        "displayed_text":  "60.00 (3 X 20 PITCH)",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "BOSS FACE",
+        "expected_mm":  10,
+        "native_model_value_mm":  10,
+        "displayed_text":  "10.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "BOSS FACE",
+        "expected_mm":  72,
+        "native_model_value_mm":  72,
+        "displayed_text":  "72.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "BOSS FACE",
+        "expected_mm":  4,
+        "native_model_value_mm":  3.9999999999999973,
+        "displayed_text":  "4.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "VIEW2",
+        "expected_mm":  13.933375831081,
+        "native_model_value_mm":  13.933375831081218,
+        "displayed_text":  "13.9334",
+        "precision":  4
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "VIEW2",
+        "expected_mm":  13.5,
+        "native_model_value_mm":  13.499999999999996,
+        "displayed_text":  "13.50",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "VIEW2",
+        "expected_mm":  4,
+        "native_model_value_mm":  4.0000000000000107,
+        "displayed_text":  "4.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "VIEW2",
+        "expected_mm":  6,
+        "native_model_value_mm":  5.9999999999999911,
+        "displayed_text":  "6.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "VIEW3",
+        "expected_mm":  9.828023665,
+        "native_model_value_mm":  9.828023665158435,
+        "displayed_text":  "9.8280",
+        "precision":  4
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "VIEW3",
+        "expected_mm":  64,
+        "native_model_value_mm":  63.999999999999986,
+        "displayed_text":  "64.00 (4 X 16 PITCH)",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP01:1",
+        "view":  "VIEW3",
+        "expected_mm":  3,
+        "native_model_value_mm":  2.9999999999999956,
+        "displayed_text":  "3.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP02:2",
+        "view":  "A",
+        "expected_mm":  6,
+        "native_model_value_mm":  5.9999999999999964,
+        "displayed_text":  "6.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP02:2",
+        "view":  "A",
+        "expected_mm":  6,
+        "native_model_value_mm":  6.0000000000000053,
+        "displayed_text":  "6.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP02:2",
+        "view":  "A",
+        "expected_mm":  1.5,
+        "native_model_value_mm":  1.4999999999999947,
+        "displayed_text":  "1.50 WEB",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP02:2",
+        "view":  "B",
+        "expected_mm":  4,
+        "native_model_value_mm":  4.0000000000000036,
+        "displayed_text":  "4.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-CP02:2",
+        "view":  "B",
+        "expected_mm":  3.3398406169005161,
+        "native_model_value_mm":  3.3398406169005224,
+        "displayed_text":  "3.340 (2X)",
+        "precision":  3
+    },
+    {
+        "sheet":  "QSTL-CP02:2",
+        "view":  "B",
+        "expected_mm":  0.5,
+        "native_model_value_mm":  0.50000000000000266,
+        "displayed_text":  "0.50 (2X)",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-LS01:3",
+        "view":  "ROD CONTACT FACE",
+        "expected_mm":  80,
+        "native_model_value_mm":  80,
+        "displayed_text":  "80.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-LS01:3",
+        "view":  "ROD CONTACT FACE",
+        "expected_mm":  12,
+        "native_model_value_mm":  11.999999999999996,
+        "displayed_text":  "12.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-LS01:3",
+        "view":  "ROD CONTACT FACE",
+        "expected_mm":  60,
+        "native_model_value_mm":  60.000000000000014,
+        "displayed_text":  "60.00 (3 X 20 PITCH)",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-LS01:3",
+        "view":  "ROD CONTACT FACE",
+        "expected_mm":  5,
+        "native_model_value_mm":  5,
+        "displayed_text":  "5.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-LS01:3",
+        "view":  "ROD CONTACT FACE",
+        "expected_mm":  3,
+        "native_model_value_mm":  3.0000000000000027,
+        "displayed_text":  "3.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-LS01:3",
+        "view":  "DECK JOINT FACE",
+        "expected_mm":  60,
+        "native_model_value_mm":  60.000000000000014,
+        "displayed_text":  "60.00 (3 X 20 PITCH)",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-LS01:3",
+        "view":  "DECK JOINT FACE",
+        "expected_mm":  10,
+        "native_model_value_mm":  10,
+        "displayed_text":  "10.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-LS01:3",
+        "view":  "DECK JOINT FACE",
+        "expected_mm":  3.5,
+        "native_model_value_mm":  3.4999999999999964,
+        "displayed_text":  "3.50",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-LS01:3",
+        "view":  "VIEW7",
+        "expected_mm":  8.5,
+        "native_model_value_mm":  8.4999999999999964,
+        "displayed_text":  "8.50",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-LS01:3",
+        "view":  "VIEW7",
+        "expected_mm":  4,
+        "native_model_value_mm":  4.0000000000000036,
+        "displayed_text":  "4.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-LS01:3",
+        "view":  "VIEW7",
+        "expected_mm":  6,
+        "native_model_value_mm":  5.9999999999999964,
+        "displayed_text":  "6.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-RS01:4",
+        "view":  "ROD CONTACT FACE",
+        "expected_mm":  80,
+        "native_model_value_mm":  80,
+        "displayed_text":  "80.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-RS01:4",
+        "view":  "ROD CONTACT FACE",
+        "expected_mm":  12,
+        "native_model_value_mm":  11.999999999999996,
+        "displayed_text":  "12.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-RS01:4",
+        "view":  "ROD CONTACT FACE",
+        "expected_mm":  60,
+        "native_model_value_mm":  60.000000000000014,
+        "displayed_text":  "60.00 (3 X 20 PITCH)",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-RS01:4",
+        "view":  "ROD CONTACT FACE",
+        "expected_mm":  5,
+        "native_model_value_mm":  5,
+        "displayed_text":  "5.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-RS01:4",
+        "view":  "ROD CONTACT FACE",
+        "expected_mm":  9,
+        "native_model_value_mm":  9.0000000000000071,
+        "displayed_text":  "9.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-RS01:4",
+        "view":  "DECK JOINT FACE",
+        "expected_mm":  60,
+        "native_model_value_mm":  60,
+        "displayed_text":  "60.00 (3 X 20 PITCH)",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-RS01:4",
+        "view":  "DECK JOINT FACE",
+        "expected_mm":  10,
+        "native_model_value_mm":  10,
+        "displayed_text":  "10.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-RS01:4",
+        "view":  "DECK JOINT FACE",
+        "expected_mm":  3.5,
+        "native_model_value_mm":  3.4999999999999964,
+        "displayed_text":  "3.50",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-RS01:4",
+        "view":  "VIEW11",
+        "expected_mm":  8.5,
+        "native_model_value_mm":  8.4999999999999964,
+        "displayed_text":  "8.50",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-RS01:4",
+        "view":  "VIEW11",
+        "expected_mm":  4,
+        "native_model_value_mm":  4.0000000000000036,
+        "displayed_text":  "4.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-RS01:4",
+        "view":  "VIEW11",
+        "expected_mm":  6,
+        "native_model_value_mm":  6.0000000000000009,
+        "displayed_text":  "6.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-AS01:5",
+        "view":  "C",
+        "expected_mm":  51,
+        "native_model_value_mm":  51.000000000000014,
+        "displayed_text":  "51.00",
+        "precision":  2
+    },
+    {
+        "sheet":  "QSTL-AS01:5",
+        "view":  "C",
+        "expected_mm":  8.5,
+        "native_model_value_mm":  8.4999999999999964,
+        "displayed_text":  "8.50",
+        "precision":  2
+    }
+]

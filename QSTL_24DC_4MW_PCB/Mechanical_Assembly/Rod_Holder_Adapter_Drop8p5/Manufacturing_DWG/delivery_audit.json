@@ -1,0 +1,97 @@
+{
+  "sheets": 5,
+  "paper": "ISO A3 landscape",
+  "native_dimensions": 46,
+  "source_cad_unchanged_during_drawing_generation": true,
+  "native_presentation": "Split_Mount_Assembly.ipn",
+  "removed_blocks": [
+    "BILL OF MATERIALS",
+    "ASSEMBLY SEQUENCE"
+  ],
+  "files": [
+    {
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB_QSTL-CP01.dwg",
+      "sha256": "aa9ade6959985e04ca44ae5ee9306f03acda7bbbceac3876284e967c425f8401"
+    },
+    {
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB_QSTL-CP02.dwg",
+      "sha256": "b98144b5a991471ecd2c83b9830d3d28d3e7f71decc2a42489391c75b6bc0cb2"
+    },
+    {
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB_QSTL-LS01.dwg",
+      "sha256": "08f7a2fc98d68665928fcea331224213fb7d837442f49dd2ff777aebb8b0e47d"
+    },
+    {
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB_QSTL-RS01.dwg",
+      "sha256": "395037b4a347148b5b22f942e57acfcc7828acf3a77e9804f61a9f8a29d1af69"
+    },
+    {
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB_QSTL-AS01.dwg",
+      "sha256": "78d126c8c5e3f85b51af57e23c62aa797a22581b0dabcdfd794ce505c4c137ee"
+    },
+    {
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB_Inventor.dwg",
+      "sha256": "0f76894d925269901f9955cb9036743394f41a5781f325b1bd5653fff14066a5"
+    },
+    {
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB.idw",
+      "sha256": "d96a100478526939bc4f8ff803ea40113c900ebdbd5dd26efba4ad00d6b0719a"
+    },
+    {
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB.pdf",
+      "sha256": "938de60c8c7f593293b852debdf6204ca81788c5742d47ceacd4517352d42dfa"
+    },
+    {
+      "file": "Manufacturing_DWG\\Split_Mount_Assembly.ipn",
+      "sha256": "21f404764c241741e1c6df166eadbe9e06c3322ccbef6fd6fafc1171d973c3b5"
+    },
+    {
+      "file": "Manufacturing_DWG\\Split_Mount_Plate_Only.iam",
+      "sha256": "bcdc534ca586cd7340a8cb8cacb9fdef3a2f98765d741149a07a9e71aa2aa667"
+    },
+    {
+      "file": "Manufacturing_DWG\\Split_Mount_Presentation_Source.iam",
+      "sha256": "60f9f72cd615e75047e6105681c8e69f0d3026acaa0c71bc6615e09e1b1b4459"
+    },
+    {
+      "file": "Manufacturing_DWG\\Eight_M3_Fasteners.iam",
+      "sha256": "3a9605cc0e0e4418c356a27326f6504053a2a9931f230006895e143ba96d52d7"
+    },
+    {
+      "file": "Centre_Plate.ipt",
+      "sha256": "9a22e8d9a1dabff6b263a7681597ac1ec8a7105b83da472a14bb2e2bfd3f104c"
+    },
+    {
+      "file": "Left_Rod_Support.ipt",
+      "sha256": "ff73becc54ce4b1696a24b5d2b9c7b766eaa0295395262834577ff9434f0ca30"
+    },
+    {
+      "file": "Right_Rod_Support.ipt",
+      "sha256": "fa967ed758fb5affd9d58619d554ee3b40837f6e5ab149d1ff6ea9ea6860f679"
+    },
+    {
+      "file": "Standard_Fasteners\\DIN_7991_M3x10.ipt",
+      "sha256": "e6bfde878ac19d8a56ed1e9e493cd2d1bf8ff11d724aad3b401cc9399bbe2e79"
+    },
+    {
+      "file": "content_center_fasteners.json",
+      "sha256": "81b395bccb983e3071affe1ee19e23fc841f460a9967d7367fd7bd5ed764d2e2"
+    },
+    {
+      "file": "Centre_Plate.step",
+      "sha256": "fa29da0907184682429d6a6e1c19c6831039096aa064a5047e680639c6a1effd"
+    },
+    {
+      "file": "Left_Rod_Support.step",
+      "sha256": "da6f83436b8dc4733ef101c9c72fbdc19f5044802432b523cdde0e6cc7a8b487"
+    },
+    {
+      "file": "Right_Rod_Support.step",
+      "sha256": "c289c1543e46aae4c007cc36d4919ecd21c64a902ea5e7311c4dc75455ad22f5"
+    },
+    {
+      "file": "device_relief_grooves.json",
+      "sha256": "4608d93f57622b7d64bf8662ec0494ba64648fd10519f0d081c8dca59699f93c"
+    }
+  ]
+}

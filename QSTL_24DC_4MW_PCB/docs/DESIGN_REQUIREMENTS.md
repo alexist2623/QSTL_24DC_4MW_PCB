@@ -1,6 +1,6 @@
 # User design requirements
 
-Updated 2026-09-21. Later user instructions supersede earlier ones. Read this file before every design-file modification.
+Updated 2026-09-22. Later user instructions supersede earlier ones. Read this file before every design-file modification.
 
 ## Language and workspace
 
@@ -11,6 +11,29 @@ Updated 2026-09-21. Later user instructions supersede earlier ones. Read this fi
 - Push to Git only when the user requests it.
 
 ## Mechanical geometry and placement
+
+- Standard hardware requirement: use the actual M3 fasteners supplied by Autodesk Inventor Content Center. Do not substitute custom simplified screw shapes. Replace the custom M3 hardware in the current split-mount assembly with the appropriate supplied standard families/members, retaining the normal 0.5 mm pitch and checking real head envelopes, clearances and engagement. Preserve the newly requested device relief grooves.
+- Implemented hardware: eight DIN 7991 M3x10 deck screws and ten ISO 4762 M3x8 rod/device screws from the installed Inventor 2027 Content Center, with unmodified source member files and M3x0.5-6g external thread features. Enlarge the eight 90-degree deck countersinks to 6.6 mm for the actual 0.2 mm head rim and 0.1 mm recessed head face. Preserve internal M3x0.5-6H threads. Cosmetic thread-cylinder overlap is acceptable only within the documented tapped depth and nominal thread diameter. Legacy illustrative fastener builders are historical and must not overwrite this standard-hardware state.
+- Latest user correction: do not introduce device washers as an unsolicited clearance fix. Remove the added washers and restore the original screw bearing planes. Keep the reference device unchanged. Report the actual local under-head fillet/slot intersection separately; do not hide it, reshape the standard screw, or add other hardware to claim clearance.
+
+- Latest mounting-interface change: machine two 0.5 mm deep relief grooves in the central plate at the device mounting lips indicated in the user's end-view image. Measure the actual device screw-mounting lip thickness from the saved CAD; groove width must equal that thickness plus 0.3 mm total clearance. Preserve the device, the existing mounting datum and thread locations, and update the affected native model, STEP, fabrication/assembly DWGs and delivery package. Keep comments and drawing annotations in English.
+- Implemented relief geometry: measured lip thickness 3.039840616900516 mm; each groove is 3.339840616900516 mm wide, 72 mm long and 0.5 mm deep, with R0.5 closed-end corners. Grooves run along both boss sides at local Y=4..76 mm, Z=3.5..4 mm. The 0.3 mm width allowance extends outward from the unchanged boss contact faces. Preserve the existing carrier placement and M3 axes.
+
+- Latest drawing correction: remove the manually typed BILL OF MATERIALS and ASSEMBLY SEQUENCE blocks shown by the user. Follow the native drawings and presentation in `C:/JeonghyunPark/Workspace/QSTL_M12C_BNC/Enclosure3` for assembly documentation. Show the three-part plate assembly with clear exploded geometry, alignment trails/fastening direction and assembled views instead of prose blocks. Deliver native, editable DWG sheets with correctly sized paper and a saved fit-to-sheet view. Preserve all reference files and fabrication geometry.
+
+- Deliver the split-mount manufacturing and assembly drawings in DWG format. Inspect the user's existing mechanical drawings first and follow their sheet, title-block, projection, dimensioning and annotation conventions. A PDF-only package does not satisfy this requirement. Preserve source/reference drawings and model geometry.
+
+- Limit this DWG package to fabrication of the central plate/boss, left support and right support, plus their screw-fastened three-part assembly. Exclude the cylinder, rod/device installation and sleeve-fit drawings. The three-part exploded/assembled joint drawing remains required.
+
+- Omit the general NOTES block shown by the user, including supplier grade/temper declarations, proposed RFQ tolerances/roughness, release/confirmation text, quantity/TBD statements and STEP-governs boilerplate. Keep material and surface treatment in the title block, dimensional/thread callouts on views, and the actual plate assembly instructions. Do not move the removed notes elsewhere in the drawing.
+
+- Material for the three machined split-mount parts (central plate/boss and both rod supports) is oxygen-free copper (OFC), with no surface treatment or coating. Record the supplier's exact OFC grade and material certificate; do not invent an approved alloy grade, temper or thermal-performance specification. Machined surface roughness remains a separate drawing requirement from surface treatment.
+
+- Prepare a CNC drawing package for the split lowered variant: dimensioned drawings for the central plate with integral boss and both rod supports, plus an exploded assembly drawing, hardware schedule and assembly sequence. Use the saved CAD geometry as the dimensional source. Drawings and notes must be in English. Preserve the models while preparing the drawings; explicitly identify unresolved material, finish, quantities, production tolerances, blind-thread tooling and existing sleeve envelope clashes before manufacturing release. Include STEP files with the drawing package. No ordering, supplier contact or Git push is authorized by this drawing request.
+
+- Split the lowered variant at the deck-to-support interface shown by the user. Use three separately machinable parts: the central deck with its integral device boss, and separate left/right rod supports. Join the central deck to the supports with screws inserted from the outside deck face. Retain the 8.5 mm drop and the aligned pocket reference point. Use 6 mm wide connecting walls to accommodate two rows of M3 assembly screws without changing the 6 x 80 mm rod contact footprints. The initial detail uses four M3 x 10 countersunk screws per support, 20 mm pitch, with heads recessed to preserve the cylindrical envelope. Archive the superseded monolithic lowered adapter; preserve the original flat version unchanged. Verify separate solids, mating faces, screw engagement, saved thread metadata and the assembled centre alignment. Final machining radii and tolerances remain unspecified.
+
+- Add a separate stepped mounting-plate variant while preserving the existing flat plate and its assembly unchanged. Lower the central deck, mounting boss, carrier and device fasteners by 8.5 mm relative to the current arrangement, as in the user's end-view sketch. Keep both rod-contact flanges and rod fasteners at their current locations. Preserve the 80 mm contact length, 4 mm plate/web thickness, 6 mm boss height and bilateral five-hole M3 x 0.5 - 6H rows at 16 mm pitch. Align the point 0.300 mm from the PCB pocket floor toward the cavity opening with the sleeve axis, including the measured +0.139127461912 mm lateral correction of the boss/carrier/device screws. The axis remains X=25.5 mm, Z=3 mm. This additional variant supersedes the earlier instruction to retain only one mechanical arrangement; both requested versions must remain available. Verify actual saved placements, connected solid geometry, contact/interference and centre alignment. Do not change the original holder, PCB, rods or sleeve.
 
 - Preserve the reference 19.5 x 67.9 mm outline, all eight SMP positions and six mechanical mounting holes.
 - ZIF and SMP are on Top. QD and all R/C components are on Bottom.

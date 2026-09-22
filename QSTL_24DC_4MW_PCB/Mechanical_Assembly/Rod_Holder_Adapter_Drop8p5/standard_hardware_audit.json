@@ -1,0 +1,62 @@
+﻿{
+    "library_members":  [
+                            {
+                                "thread_class":  "6g",
+                                "is_content_member":  true,
+                                "family":  "DIN 7991",
+                                "designation":  "M3x0.5",
+                                "unchanged_library_member":  true,
+                                "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\DIN_7991_M3x10.ipt"
+                            },
+                            {
+                                "thread_class":  "6g",
+                                "is_content_member":  true,
+                                "family":  "ISO 4762",
+                                "designation":  "M3x0.5",
+                                "unchanged_library_member":  true,
+                                "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            }
+                        ],
+    "assemblies":  [
+                       {
+                           "old_handmade_screws":  0,
+                           "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Rod_Holder_Assembly_Drop8p5.iam",
+                           "standard_screws":  18,
+                           "washers":  0
+                       },
+                       {
+                           "old_handmade_screws":  0,
+                           "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Manufacturing_DWG\\Split_Mount_Plate_Only.iam",
+                           "standard_screws":  8,
+                           "washers":  0
+                       },
+                       {
+                           "old_handmade_screws":  0,
+                           "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Manufacturing_DWG\\Eight_M3_Fasteners.iam",
+                           "standard_screws":  8,
+                           "washers":  0
+                       }
+                   ],
+    "machined_parts":  [
+                           {
+                               "internal_threads":  10,
+                               "single_solid":  true,
+                               "part":  "Centre_Plate",
+                               "designation":  "M3x0.5-6H"
+                           },
+                           {
+                               "internal_threads":  4,
+                               "single_solid":  true,
+                               "part":  "Left_Rod_Support",
+                               "designation":  "M3x0.5-6H"
+                           },
+                           {
+                               "internal_threads":  4,
+                               "single_solid":  true,
+                               "part":  "Right_Rod_Support",
+                               "designation":  "M3x0.5-6H"
+                           }
+                       ],
+    "device_washers":  0,
+    "geometry_report":  "geometry_verification.json"
+}

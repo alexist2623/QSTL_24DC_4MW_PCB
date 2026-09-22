@@ -1,0 +1,117 @@
+{
+    "native_sheets":  [
+                          {
+                              "sheet":  "QSTL-CP01:1",
+                              "views":  4,
+                              "native_dimensions":  16,
+                              "width_mm":  420,
+                              "height_mm":  297,
+                              "border":  "Default Border",
+                              "titleblock":  "QSTL QSTL-CP01",
+                              "references":  [
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Centre_Plate.ipt",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Centre_Plate.ipt",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Centre_Plate.ipt",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Centre_Plate.ipt"
+                                             ]
+                          },
+                          {
+                              "sheet":  "QSTL-CP02:2",
+                              "views":  3,
+                              "native_dimensions":  6,
+                              "width_mm":  420,
+                              "height_mm":  297,
+                              "border":  "Default Border",
+                              "titleblock":  "QSTL QSTL-CP02",
+                              "references":  [
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Centre_Plate.ipt",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Centre_Plate.ipt",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Centre_Plate.ipt"
+                                             ]
+                          },
+                          {
+                              "sheet":  "QSTL-LS01:3",
+                              "views":  4,
+                              "native_dimensions":  11,
+                              "width_mm":  420,
+                              "height_mm":  297,
+                              "border":  "Default Border",
+                              "titleblock":  "QSTL QSTL-LS01",
+                              "references":  [
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Left_Rod_Support.ipt",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Left_Rod_Support.ipt",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Left_Rod_Support.ipt",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Left_Rod_Support.ipt"
+                                             ]
+                          },
+                          {
+                              "sheet":  "QSTL-RS01:4",
+                              "views":  4,
+                              "native_dimensions":  11,
+                              "width_mm":  420,
+                              "height_mm":  297,
+                              "border":  "Default Border",
+                              "titleblock":  "QSTL QSTL-RS01",
+                              "references":  [
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Right_Rod_Support.ipt",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Right_Rod_Support.ipt",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Right_Rod_Support.ipt",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Right_Rod_Support.ipt"
+                                             ]
+                          },
+                          {
+                              "sheet":  "QSTL-AS01:5",
+                              "views":  4,
+                              "native_dimensions":  2,
+                              "width_mm":  420,
+                              "height_mm":  297,
+                              "border":  "Default Border",
+                              "titleblock":  "QSTL QSTL-AS01",
+                              "references":  [
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Manufacturing_DWG\\Split_Mount_Assembly.ipn",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Manufacturing_DWG\\Split_Mount_Plate_Only.iam",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Manufacturing_DWG\\Split_Mount_Plate_Only.iam",
+                                                 "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Manufacturing_DWG\\Split_Mount_Plate_Only.iam"
+                                             ]
+                          }
+                      ],
+    "native_dimension_count":  46,
+    "standalone_files":  [
+                             {
+                                 "file":  "QSTL_Split_Mount_RevB_QSTL-AS01.dwg",
+                                 "document_type":  "12292",
+                                 "inventor_dwg":  true,
+                                 "sheets":  1,
+                                 "bytes":  351167
+                             },
+                             {
+                                 "file":  "QSTL_Split_Mount_RevB_QSTL-CP01.dwg",
+                                 "document_type":  "12292",
+                                 "inventor_dwg":  true,
+                                 "sheets":  1,
+                                 "bytes":  293731
+                             },
+                             {
+                                 "file":  "QSTL_Split_Mount_RevB_QSTL-CP02.dwg",
+                                 "document_type":  "12292",
+                                 "inventor_dwg":  true,
+                                 "sheets":  1,
+                                 "bytes":  297209
+                             },
+                             {
+                                 "file":  "QSTL_Split_Mount_RevB_QSTL-LS01.dwg",
+                                 "document_type":  "12292",
+                                 "inventor_dwg":  true,
+                                 "sheets":  1,
+                                 "bytes":  285435
+                             },
+                             {
+                                 "file":  "QSTL_Split_Mount_RevB_QSTL-RS01.dwg",
+                                 "document_type":  "12292",
+                                 "inventor_dwg":  true,
+                                 "sheets":  1,
+                                 "bytes":  282246
+                             }
+                         ],
+    "status":  "Saved native DWG master and five single-sheet native DWGs reopened successfully"
+}

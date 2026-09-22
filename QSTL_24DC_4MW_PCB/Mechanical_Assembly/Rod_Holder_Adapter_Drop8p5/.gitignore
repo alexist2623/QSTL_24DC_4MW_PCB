@@ -1,0 +1,18 @@
+/OldVersions/
+**/OldVersions/
+*.tmp
+*.bak
+
+# Superseded local prototypes and previews; current delivery is Rev B.
+/Manufacturing/
+/QSTL_Split_Mount_CNC_Package_RevA.zip
+/Deck_M3x10_Countersunk.*
+/Standard_Fasteners/ISO_7092_M3.*
+/Manufacturing_DWG/Split_Mount_Exploded.iam
+/Assembly_closeup.png
+/Assembly_deck_side.png
+/Centre_Plate_countersinks.png
+/Exploded_plate.png
+/native_verification.json
+/saved_feature_health.json
+/variant_plan.json
