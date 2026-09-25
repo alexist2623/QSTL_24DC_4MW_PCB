@@ -1,0 +1,554 @@
+﻿{
+    "parts":  [
+                  {
+                      "part":  "Left",
+                      "flange_mm":  1.6000000000000003,
+                      "chamfer_mm":  1.6000000000000003,
+                      "rod_through_threads":  0,
+                      "rod_clearance_diameter_mm":  3.4,
+                      "rod_mating_plane_local_z_mm":  12.5,
+                      "rod_free_plane_local_z_mm":  10.9,
+                      "deck_blind_threads":  4,
+                      "volume_mm3":  4560.0560986040582,
+                      "healthy":  true
+                  },
+                  {
+                      "part":  "Right",
+                      "flange_mm":  1.6000000000000003,
+                      "chamfer_mm":  1.6000000000000003,
+                      "rod_through_threads":  0,
+                      "rod_clearance_diameter_mm":  3.4,
+                      "rod_mating_plane_local_z_mm":  12.5,
+                      "rod_free_plane_local_z_mm":  10.9,
+                      "deck_blind_threads":  4,
+                      "volume_mm3":  4560.0560986040573,
+                      "healthy":  true
+                  }
+              ],
+    "rod_screw_moves":  [
+                            {
+                                "name":  "Rod_Clamp_M3_X3_Y140",
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      0.3
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      14
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.1
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     0.3
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     14
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.16
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "head_bearing_z_mm":  -1.6,
+                                "insertion_axis":  [
+                                                       0,
+                                                       0,
+                                                       1
+                                                   ],
+                                "nominal_rod_engagement_mm":  6,
+                                "tip_z_mm":  6.4,
+                                "tip_projection_mm":  0.4,
+                                "standard_member":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X3_Y160",
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      0.3
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      16
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.1
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     0.3
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     16
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.16
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "head_bearing_z_mm":  -1.6,
+                                "insertion_axis":  [
+                                                       0,
+                                                       0,
+                                                       1
+                                                   ],
+                                "nominal_rod_engagement_mm":  6,
+                                "tip_z_mm":  6.4,
+                                "tip_projection_mm":  0.4,
+                                "standard_member":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X3_Y180",
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      0.3
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      18
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.1
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     0.3
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     18
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.16
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "head_bearing_z_mm":  -1.6,
+                                "insertion_axis":  [
+                                                       0,
+                                                       0,
+                                                       1
+                                                   ],
+                                "nominal_rod_engagement_mm":  6,
+                                "tip_z_mm":  6.4,
+                                "tip_projection_mm":  0.4,
+                                "standard_member":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X3_Y200",
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      0.3
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      20
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.1
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     0.3
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     20
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.16
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "head_bearing_z_mm":  -1.6,
+                                "insertion_axis":  [
+                                                       0,
+                                                       0,
+                                                       1
+                                                   ],
+                                "nominal_rod_engagement_mm":  6,
+                                "tip_z_mm":  6.4,
+                                "tip_projection_mm":  0.4,
+                                "standard_member":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X48_Y140",
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      4.8
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      14
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.1
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     4.8
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     14
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.16
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "head_bearing_z_mm":  -1.6,
+                                "insertion_axis":  [
+                                                       0,
+                                                       0,
+                                                       1
+                                                   ],
+                                "nominal_rod_engagement_mm":  6,
+                                "tip_z_mm":  6.4,
+                                "tip_projection_mm":  0.4,
+                                "standard_member":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X48_Y160",
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      4.8
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      16
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.1
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     4.8
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     16
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.16
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "head_bearing_z_mm":  -1.6,
+                                "insertion_axis":  [
+                                                       0,
+                                                       0,
+                                                       1
+                                                   ],
+                                "nominal_rod_engagement_mm":  6,
+                                "tip_z_mm":  6.4,
+                                "tip_projection_mm":  0.4,
+                                "standard_member":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X48_Y180",
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      4.8
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      18
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.1
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     4.8
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     18
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.16
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "head_bearing_z_mm":  -1.6,
+                                "insertion_axis":  [
+                                                       0,
+                                                       0,
+                                                       1
+                                                   ],
+                                "nominal_rod_engagement_mm":  6,
+                                "tip_z_mm":  6.4,
+                                "tip_projection_mm":  0.4,
+                                "standard_member":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X48_Y200",
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      4.8
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      20
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.1
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     4.8
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     20
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.16
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "head_bearing_z_mm":  -1.6,
+                                "insertion_axis":  [
+                                                       0,
+                                                       0,
+                                                       1
+                                                   ],
+                                "nominal_rod_engagement_mm":  6,
+                                "tip_z_mm":  6.4,
+                                "tip_projection_mm":  0.4,
+                                "standard_member":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            }
+                        ],
+    "central_deck_mm":  4,
+    "rod_contact_datum_unchanged":  true,
+    "device_placement_unchanged":  true,
+    "rod_hole_treatment":  "Original M3 threaded rods retained; flange threads cancelled by user"
+}

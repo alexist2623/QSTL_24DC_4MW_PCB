@@ -1,0 +1,29 @@
+{
+  "pcb_sha256": "8841a488c8a961dbc1d93d881ae981af0ba81006e28a80e4c08543c365c2812e",
+  "cable_width_mm": 15.6,
+  "cable_edges_x_mm": [
+    1.9500000000000002,
+    17.55
+  ],
+  "hole_centers_mm": [
+    [
+      1.05000044,
+      1.20000014
+    ],
+    [
+      18.4500012,
+      1.20000014
+    ]
+  ],
+  "hole_diameters_mm": [
+    1.20000014,
+    1.20000014
+  ],
+  "inside_hole_edge_separation_mm": 16.200000619999997,
+  "signed_hole_edge_to_cable_edge_clearance_mm": [
+    0.29999949000000026,
+    0.3000011299999983
+  ],
+  "interpretation": "Negative clearance means overlap in XY projection. The cable is above the PCB; this is not a claim that the hole void collides with it in 3D.",
+  "cable_height_assumption_mm": 0.47
+}

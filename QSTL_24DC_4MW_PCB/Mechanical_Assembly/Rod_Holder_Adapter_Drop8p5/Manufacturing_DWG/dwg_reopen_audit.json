@@ -78,39 +78,39 @@
     "native_dimension_count":  46,
     "standalone_files":  [
                              {
-                                 "file":  "QSTL_Split_Mount_RevB_QSTL-AS01.dwg",
+                                 "file":  "QSTL_Split_Mount_RevE_QSTL-AS01.dwg",
                                  "document_type":  "12292",
                                  "inventor_dwg":  true,
                                  "sheets":  1,
-                                 "bytes":  351167
+                                 "bytes":  351979
                              },
                              {
-                                 "file":  "QSTL_Split_Mount_RevB_QSTL-CP01.dwg",
+                                 "file":  "QSTL_Split_Mount_RevE_QSTL-CP01.dwg",
                                  "document_type":  "12292",
                                  "inventor_dwg":  true,
                                  "sheets":  1,
-                                 "bytes":  293731
+                                 "bytes":  293925
                              },
                              {
-                                 "file":  "QSTL_Split_Mount_RevB_QSTL-CP02.dwg",
+                                 "file":  "QSTL_Split_Mount_RevE_QSTL-CP02.dwg",
                                  "document_type":  "12292",
                                  "inventor_dwg":  true,
                                  "sheets":  1,
-                                 "bytes":  297209
+                                 "bytes":  296376
                              },
                              {
-                                 "file":  "QSTL_Split_Mount_RevB_QSTL-LS01.dwg",
+                                 "file":  "QSTL_Split_Mount_RevE_QSTL-LS01.dwg",
                                  "document_type":  "12292",
                                  "inventor_dwg":  true,
                                  "sheets":  1,
-                                 "bytes":  285435
+                                 "bytes":  280029
                              },
                              {
-                                 "file":  "QSTL_Split_Mount_RevB_QSTL-RS01.dwg",
+                                 "file":  "QSTL_Split_Mount_RevE_QSTL-RS01.dwg",
                                  "document_type":  "12292",
                                  "inventor_dwg":  true,
                                  "sheets":  1,
-                                 "bytes":  282246
+                                 "bytes":  285119
                              }
                          ],
     "status":  "Saved native DWG master and five single-sheet native DWGs reopened successfully"

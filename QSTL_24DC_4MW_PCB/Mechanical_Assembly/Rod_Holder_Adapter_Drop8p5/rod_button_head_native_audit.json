@@ -1,0 +1,18 @@
+﻿{
+    "reopened":  true,
+    "counts":  {
+                   "socket_device":  2,
+                   "round_rod":  8,
+                   "countersunk_deck":  8
+               },
+    "all_top_level_occurrences":  24,
+    "family":  "ISO 7380-1",
+    "member_sha256":  "1C98CA69EEB0EA3453674614B97D2648674203C819AAC70E8E49CEB5943D1F0B",
+    "protected_geometry_and_plate_drawings_unchanged":  true,
+    "head_diameter_mm":  5.7,
+    "head_height_mm":  1.65,
+    "shank_length_mm":  8,
+    "thread_pitch_mm":  0.5,
+    "underhead_global_z_mm":  -1.6,
+    "screw_tip_global_z_mm":  6.4
+}

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [QSTL_24DC_4MW_PCB.PcbDoc]
+   Generated File[QSTL_24DC_4MW_PCB-Plated.TXT]
+   Generated File[QSTL_24DC_4MW_PCB-Plated.TX1]
+   Generated File[QSTL_24DC_4MW_PCB.LDP]
+   Generated File[QSTL_24DC_4MW_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 오전 11:02:37 On 2026-09-25

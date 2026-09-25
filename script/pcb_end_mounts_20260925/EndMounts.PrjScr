@@ -1,0 +1,11 @@
+[Design]
+Version=1.0
+HierarchyMode=0
+
+[Document1]
+DocumentPath=EndMounts.pas
+AnnotationEnabled=1
+
+[Document2]
+DocumentPath=AuditAll.pas
+AnnotationEnabled=1

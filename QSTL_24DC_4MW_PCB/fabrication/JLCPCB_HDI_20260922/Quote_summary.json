@@ -1,0 +1,252 @@
+{
+  "observed_date": "2026-09-22",
+  "url": "https://cart.jlcpcb.com/quote",
+  "currency": "USD",
+  "quantity": 5,
+  "pcb_price": 291.99,
+  "shipping_country_assumption": "Canada",
+  "shipping_method": "DHL Express",
+  "shipping_price": 28.08,
+  "subtotal_before_tax_and_manual_adjustments": 320.07,
+  "PCB_build_time_display": "12-13 days",
+  "shipping_time_display": "2-4 business days",
+  "manual_quote_lines": [
+    "Buried Via Fee",
+    "Lamination Fee"
+  ],
+  "blind_slot": {
+    "side": "Bottom",
+    "plated": false,
+    "depth_mm": 1.2,
+    "size_mm": [
+      4.3,
+      4.3
+    ],
+    "radius_mm": 0.5
+  },
+  "blind_laser_holes": {
+    "count": 480,
+    "span": [
+      "L5",
+      "L6"
+    ],
+    "hole_mm": 0.1,
+    "land_mm": 0.25
+  },
+  "selected_options": [
+    {
+      "label": "Base Material",
+      "selected": [
+        "HDI"
+      ]
+    },
+    {
+      "label": "Layers",
+      "selected": [
+        "6"
+      ]
+    },
+    {
+      "label": "HDI Structure",
+      "selected": [
+        "1-step"
+      ]
+    },
+    {
+      "label": "Product Type",
+      "selected": [
+        "Industrial/Consumer electronics"
+      ]
+    },
+    {
+      "label": "Deburring/Edge rounding",
+      "selected": [
+        "Yes"
+      ]
+    },
+    {
+      "label": "Different Design",
+      "selected": [
+        "1"
+      ]
+    },
+    {
+      "label": "Delivery Format",
+      "selected": [
+        "Single PCB"
+      ]
+    },
+    {
+      "label": "PCB Thickness",
+      "selected": [
+        "1.6mm"
+      ]
+    },
+    {
+      "label": "PCB Color",
+      "selected": [
+        "Green"
+      ]
+    },
+    {
+      "label": "Silkscreen",
+      "selected": [
+        "White"
+      ]
+    },
+    {
+      "label": "Material Type",
+      "selected": [
+        "NP-175F TG170"
+      ]
+    },
+    {
+      "label": "Surface Finish",
+      "selected": [
+        "ENIG"
+      ]
+    },
+    {
+      "label": "Gold Thickness",
+      "selected": [
+        "1 U\""
+      ]
+    },
+    {
+      "label": "Outer Copper Weight",
+      "selected": [
+        "1 oz"
+      ]
+    },
+    {
+      "label": "Inner Copper Weight",
+      "selected": [
+        "1 oz"
+      ]
+    },
+    {
+      "label": "Specify Layer Sequence",
+      "selected": [
+        "Yes"
+      ]
+    },
+    {
+      "label": "Layer Stackup",
+      "selected": [
+        "Subject to Review"
+      ]
+    },
+    {
+      "label": "Impedance Control",
+      "selected": [
+        "\u00b110% (\u00b15\u03a9 if value\u226450\u03a9)"
+      ]
+    },
+    {
+      "label": "Impedance Test Report",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Via Covering",
+      "selected": [
+        "Epoxy Filled & Capped"
+      ]
+    },
+    {
+      "label": "Min via hole size/diameter",
+      "selected": [
+        "0.25mm/(0.35/0.4mm)"
+      ]
+    },
+    {
+      "label": "Board Outline Tolerance",
+      "selected": [
+        "\u00b10.2mm(Regular)"
+      ]
+    },
+    {
+      "label": "Confirm Production file",
+      "selected": [
+        "Yes"
+      ]
+    },
+    {
+      "label": "Mark on PCB",
+      "selected": [
+        "Remove Mark"
+      ]
+    },
+    {
+      "label": "Electrical Test",
+      "selected": [
+        "Flying Probe Fully Test"
+      ]
+    },
+    {
+      "label": "Gold Fingers",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Castellated Holes",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Press-Fit Hole",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Edge Plating",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Blind Slots",
+      "selected": [
+        "Yes"
+      ]
+    },
+    {
+      "label": "UL Marking",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Backdrill",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Humidity Indicator Card",
+      "selected": [
+        "No"
+      ]
+    }
+  ],
+  "PCBA": false,
+  "stencil": false,
+  "firm_manufacturer_quote": false,
+  "quote_captured_before_login": true,
+  "account_access": {
+    "requested_account": "QSTL DOTS",
+    "login_succeeded": true,
+    "restriction_notice_shown": true,
+    "announced_closure_date": "2026-11-21",
+    "quote_redirected_to_restriction_notice": true,
+    "manufacturer_viewer_span_confirmation": "Blocked by account restriction",
+    "quote_saved_to_requested_account": false,
+    "notice_url": "https://jlcpcb.com/help/article/notice-of-limited-account-access-restrictions",
+    "evidence": "09_Account_restriction_notice.png"
+  },
+  "order_placed": false
+}

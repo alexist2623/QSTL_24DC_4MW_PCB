@@ -1,0 +1,119 @@
+{
+  "passed": true,
+  "errors": [],
+  "pcb_sha256": "8841a488c8a961dbc1d93d881ae981af0ba81006e28a80e4c08543c365c2812e",
+  "source_sha256": "833555d572fb9945703213acef1ecd809d7eb3ce4a73d5e467c577d3ef70bc90",
+  "unchanged_streams": {
+    "Vias6/Data": true,
+    "Components6/Data": true,
+    "ComponentBodies6/Data": true,
+    "Fills6/Data": true,
+    "BoardRegions/Data": true,
+    "LayerKindMapping/Data": true
+  },
+  "mounts": [
+    {
+      "name": "MH8",
+      "x": 18.4500012,
+      "y": 1.20000014,
+      "land_mm": 1.5999993399999999,
+      "drill_mm": 1.20000014
+    },
+    {
+      "name": "MH7",
+      "x": 1.05000044,
+      "y": 1.20000014,
+      "land_mm": 1.5999993399999999,
+      "drill_mm": 1.20000014
+    }
+  ],
+  "hole_pitch_mm": 17.4,
+  "board_outline_mm": [
+    19.5,
+    67.9
+  ],
+  "nearest_drill_to_edge_mm": 0.45,
+  "mask_symmetric_difference_mm2": {
+    "35": 0.0,
+    "36": 0.0,
+    "37": 0.0,
+    "38": 0.0
+  },
+  "mechanical_solid_connection_checks": [
+    {
+      "layer": 1,
+      "pad": "MH8",
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 1,
+      "pad": "MH7",
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 2,
+      "pad": "MH8",
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 2,
+      "pad": "MH7",
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 3,
+      "pad": "MH8",
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 3,
+      "pad": "MH7",
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 4,
+      "pad": "MH8",
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 4,
+      "pad": "MH7",
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 5,
+      "pad": "MH8",
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 5,
+      "pad": "MH7",
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 32,
+      "pad": "MH8",
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 32,
+      "pad": "MH7",
+      "missing_ground_mm2": 0.0
+    }
+  ],
+  "DRC": {
+    "report": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\fabrication\\JLCPCB_HDI_20260925\\Native_DRC.html",
+    "checked_rules": 16,
+    "violations": 0
+  },
+  "connectivity": {
+    "connected_nets": 37,
+    "stored_unrouted_connections": 0
+  },
+  "schematic_mapping_matches": true,
+  "dc_ground_clearance_mm": 0.2,
+  "paste_pad_count": 149,
+  "via_count": 528,
+  "existing_480_L5_L6_blind_vias_preserved": true,
+  "no_added_DC_vias": true
+}

@@ -1,0 +1,1502 @@
+{
+  "source_message": "https://qstlab.slack.com/archives/D095YL5JJAC/p1790190544437059",
+  "source_note": "Anton states this is equivalent but not exactly the same as the blue PCB; he offered to confirm pin numbering.",
+  "archive_sha256": "ee582d4d1ddc6737ef02a48d3bc048212ccd9db8506ebcb2ea5102a34f51baab",
+  "source_hashes": {
+    "DSUBtoZIF_20250106.kicad_pcb": "2eb2aecd16b3f8b5328f088a6895bcdad013f5a3cd094614acc38a275958c938",
+    "DSUBtoZIF_20250106.kicad_pro": "57412feb208a6b4fcb3f4bf638144065bc67a7497b21ac815aadf543ffeda04a",
+    "DSUBtoZIF_20250106.kicad_sch": "fdab94b5eb4a46332c18c65ca376d8079c83c5be3d5554d3a18079c7efeed9a5",
+    "DSUBtoZIF_20250106.net": "81f425e7fd6a002e1431c90e707b1949fe671c51190c6fe9f7e660fa0840226b"
+  },
+  "footprints": [
+    {
+      "reference": "REF**",
+      "value": "MountingHole_4.3mm_M4_DIN965_Pad",
+      "footprint": "MountingHole:MountingHole_4.3mm_M4_DIN965_Pad",
+      "at": [
+        "131.5",
+        "100"
+      ],
+      "layer": "F.Cu"
+    },
+    {
+      "reference": "J1",
+      "value": "381-025-112L565",
+      "footprint": "DSUBfootprintplastic:CONN25_112L565_NRC",
+      "at": [
+        "141.23",
+        "107.62",
+        "90"
+      ],
+      "layer": "F.Cu"
+    },
+    {
+      "reference": "J2",
+      "value": "502598-5193",
+      "footprint": "ANTON:5025985193",
+      "at": [
+        "120",
+        "100",
+        "-90"
+      ],
+      "layer": "F.Cu"
+    }
+  ],
+  "ZIF_reference": "J2",
+  "Dsub_reference": "J1",
+  "ZIF_pad_mapping": [
+    {
+      "reference": "J2",
+      "pin": "1",
+      "net_code": 50,
+      "net": "unconnected-(J2-Pad1)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-7.5",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad1)"
+    },
+    {
+      "reference": "J2",
+      "pin": "2",
+      "net_code": 3,
+      "net": "Net-(J1-Pad1)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-7.2",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "1"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad1)"
+    },
+    {
+      "reference": "J2",
+      "pin": "3",
+      "net_code": 28,
+      "net": "unconnected-(J2-Pad3)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-6.9",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad3)"
+    },
+    {
+      "reference": "J2",
+      "pin": "4",
+      "net_code": 22,
+      "net": "Net-(J1-Pad14)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-6.6",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "14"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad14)"
+    },
+    {
+      "reference": "J2",
+      "pin": "5",
+      "net_code": 52,
+      "net": "unconnected-(J2-Pad5)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-6.3",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad5)"
+    },
+    {
+      "reference": "J2",
+      "pin": "6",
+      "net_code": 20,
+      "net": "Net-(J1-Pad2)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-6",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "2"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad2)"
+    },
+    {
+      "reference": "J2",
+      "pin": "7",
+      "net_code": 37,
+      "net": "unconnected-(J2-Pad7)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-5.7",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad7)"
+    },
+    {
+      "reference": "J2",
+      "pin": "8",
+      "net_code": 24,
+      "net": "Net-(J1-Pad15)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-5.4",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "15"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad15)"
+    },
+    {
+      "reference": "J2",
+      "pin": "9",
+      "net_code": 35,
+      "net": "unconnected-(J2-Pad9)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-5.1",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad9)"
+    },
+    {
+      "reference": "J2",
+      "pin": "10",
+      "net_code": 19,
+      "net": "Net-(J1-Pad3)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-4.8",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "3"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad3)"
+    },
+    {
+      "reference": "J2",
+      "pin": "11",
+      "net_code": 27,
+      "net": "unconnected-(J2-Pad11)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-4.5",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad11)"
+    },
+    {
+      "reference": "J2",
+      "pin": "12",
+      "net_code": 21,
+      "net": "Net-(J1-Pad16)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-4.2",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "16"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad16)"
+    },
+    {
+      "reference": "J2",
+      "pin": "13",
+      "net_code": 51,
+      "net": "unconnected-(J2-Pad13)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-3.9",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad13)"
+    },
+    {
+      "reference": "J2",
+      "pin": "14",
+      "net_code": 9,
+      "net": "Net-(J1-Pad4)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-3.6",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "4"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad4)"
+    },
+    {
+      "reference": "J2",
+      "pin": "15",
+      "net_code": 36,
+      "net": "unconnected-(J2-Pad15)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-3.3",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad15)"
+    },
+    {
+      "reference": "J2",
+      "pin": "16",
+      "net_code": 10,
+      "net": "Net-(J1-Pad17)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-3",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "17"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad17)"
+    },
+    {
+      "reference": "J2",
+      "pin": "17",
+      "net_code": 33,
+      "net": "unconnected-(J2-Pad17)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-2.7",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad17)"
+    },
+    {
+      "reference": "J2",
+      "pin": "18",
+      "net_code": 7,
+      "net": "Net-(J1-Pad5)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-2.4",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "5"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad5)"
+    },
+    {
+      "reference": "J2",
+      "pin": "19",
+      "net_code": 46,
+      "net": "unconnected-(J2-Pad19)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-2.1",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad19)"
+    },
+    {
+      "reference": "J2",
+      "pin": "20",
+      "net_code": 14,
+      "net": "Net-(J1-Pad18)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-1.8",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "18"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad18)"
+    },
+    {
+      "reference": "J2",
+      "pin": "21",
+      "net_code": 45,
+      "net": "unconnected-(J2-Pad21)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-1.5",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad21)"
+    },
+    {
+      "reference": "J2",
+      "pin": "22",
+      "net_code": 15,
+      "net": "Net-(J1-Pad6)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-1.2",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "6"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad6)"
+    },
+    {
+      "reference": "J2",
+      "pin": "23",
+      "net_code": 49,
+      "net": "unconnected-(J2-Pad23)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-0.9",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad23)"
+    },
+    {
+      "reference": "J2",
+      "pin": "24",
+      "net_code": 17,
+      "net": "Net-(J1-Pad19)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-0.6",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "19"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad19)"
+    },
+    {
+      "reference": "J2",
+      "pin": "25",
+      "net_code": 30,
+      "net": "unconnected-(J2-Pad25)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-0.3",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad25)"
+    },
+    {
+      "reference": "J2",
+      "pin": "26",
+      "net_code": 12,
+      "net": "Net-(J1-Pad7)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "0",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "7"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad7)"
+    },
+    {
+      "reference": "J2",
+      "pin": "27",
+      "net_code": 34,
+      "net": "unconnected-(J2-Pad27)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "0.3",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad27)"
+    },
+    {
+      "reference": "J2",
+      "pin": "28",
+      "net_code": 8,
+      "net": "Net-(J1-Pad20)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "0.6",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "20"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad20)"
+    },
+    {
+      "reference": "J2",
+      "pin": "29",
+      "net_code": 47,
+      "net": "unconnected-(J2-Pad29)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "0.9",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad29)"
+    },
+    {
+      "reference": "J2",
+      "pin": "30",
+      "net_code": 6,
+      "net": "Net-(J1-Pad8)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "1.2",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "8"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad8)"
+    },
+    {
+      "reference": "J2",
+      "pin": "31",
+      "net_code": 29,
+      "net": "unconnected-(J2-Pad31)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "1.5",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad31)"
+    },
+    {
+      "reference": "J2",
+      "pin": "32",
+      "net_code": 18,
+      "net": "Net-(J1-Pad21)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "1.8",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "21"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad21)"
+    },
+    {
+      "reference": "J2",
+      "pin": "33",
+      "net_code": 31,
+      "net": "unconnected-(J2-Pad33)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "2.1",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad33)"
+    },
+    {
+      "reference": "J2",
+      "pin": "34",
+      "net_code": 1,
+      "net": "Net-(J1-Pad9)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "2.4",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "9"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad9)"
+    },
+    {
+      "reference": "J2",
+      "pin": "35",
+      "net_code": 32,
+      "net": "unconnected-(J2-Pad35)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "2.7",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad35)"
+    },
+    {
+      "reference": "J2",
+      "pin": "36",
+      "net_code": 13,
+      "net": "Net-(J1-Pad22)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "3",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "22"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad22)"
+    },
+    {
+      "reference": "J2",
+      "pin": "37",
+      "net_code": 41,
+      "net": "unconnected-(J2-Pad37)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "3.3",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad37)"
+    },
+    {
+      "reference": "J2",
+      "pin": "38",
+      "net_code": 16,
+      "net": "Net-(J1-Pad10)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "3.6",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "10"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad10)"
+    },
+    {
+      "reference": "J2",
+      "pin": "39",
+      "net_code": 44,
+      "net": "unconnected-(J2-Pad39)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "3.9",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad39)"
+    },
+    {
+      "reference": "J2",
+      "pin": "40",
+      "net_code": 4,
+      "net": "Net-(J1-Pad23)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "4.2",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "23"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad23)"
+    },
+    {
+      "reference": "J2",
+      "pin": "41",
+      "net_code": 43,
+      "net": "unconnected-(J2-Pad41)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "4.5",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad41)"
+    },
+    {
+      "reference": "J2",
+      "pin": "42",
+      "net_code": 5,
+      "net": "Net-(J1-Pad11)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "4.8",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "11"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad11)"
+    },
+    {
+      "reference": "J2",
+      "pin": "43",
+      "net_code": 40,
+      "net": "unconnected-(J2-Pad43)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "5.1",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad43)"
+    },
+    {
+      "reference": "J2",
+      "pin": "44",
+      "net_code": 23,
+      "net": "Net-(J1-Pad24)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "5.4",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "24"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad24)"
+    },
+    {
+      "reference": "J2",
+      "pin": "45",
+      "net_code": 48,
+      "net": "unconnected-(J2-Pad45)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "5.7",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad45)"
+    },
+    {
+      "reference": "J2",
+      "pin": "46",
+      "net_code": 11,
+      "net": "Net-(J1-Pad12)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "6",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "12"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad12)"
+    },
+    {
+      "reference": "J2",
+      "pin": "47",
+      "net_code": 38,
+      "net": "unconnected-(J2-Pad47)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "6.3",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad47)"
+    },
+    {
+      "reference": "J2",
+      "pin": "48",
+      "net_code": 2,
+      "net": "Net-(J1-Pad25)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "6.6",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "25"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad25)"
+    },
+    {
+      "reference": "J2",
+      "pin": "49",
+      "net_code": 42,
+      "net": "unconnected-(J2-Pad49)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "6.9",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad49)"
+    },
+    {
+      "reference": "J2",
+      "pin": "50",
+      "net_code": 25,
+      "net": "Net-(J1-Pad13)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "7.2",
+        "-1.475",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.5"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [
+        {
+          "reference": "J1",
+          "pin": "13"
+        }
+      ],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "Net-(J1-Pad13)"
+    },
+    {
+      "reference": "J2",
+      "pin": "51",
+      "net_code": 26,
+      "net": "unconnected-(J2-Pad51)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "7.5",
+        "1.59",
+        "270"
+      ],
+      "size": [
+        "0.3",
+        "0.67"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-Pad51)"
+    },
+    {
+      "reference": "J2",
+      "pin": "MP1",
+      "net_code": 53,
+      "net": "unconnected-(J2-PadMP1)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "-8.475",
+        "1.325",
+        "270"
+      ],
+      "size": [
+        "0.35",
+        "1"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-PadMP1)"
+    },
+    {
+      "reference": "J2",
+      "pin": "MP2",
+      "net_code": 39,
+      "net": "unconnected-(J2-PadMP2)",
+      "type": "smd",
+      "shape": "rect",
+      "at": [
+        "8.475",
+        "1.325",
+        "270"
+      ],
+      "size": [
+        "0.35",
+        "1"
+      ],
+      "layers": [
+        "F.Cu",
+        "F.Paste",
+        "F.Mask"
+      ],
+      "connected_pads": [],
+      "other_ZIF_pins_on_net": [],
+      "exported_netlist_net": "unconnected-(J2-PadMP2)"
+    }
+  ],
+  "PCB_vs_exported_netlist_name_differences": [],
+  "segment_count": 192,
+  "via_count": 139
+}

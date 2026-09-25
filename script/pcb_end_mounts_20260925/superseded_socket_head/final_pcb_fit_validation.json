@@ -1,0 +1,45 @@
+{
+  "final_pcb_sha256": "4cc4626ee5a9bf4f63d474a3c31aa95e3da202f511cf1d620147b490a2115ccf",
+  "cad_source_pcb_sha256": "306a53d49bfee85d3b3776aa249cc8012ffaea3bdd0f4d14b103167de2ac51f8",
+  "connector_body_and_placement_match": true,
+  "embedded_connector_model_bytes_match": true,
+  "both_mount_locations_and_drills_match": true,
+  "standard_screw_bytes_unchanged": true,
+  "final_change_after_CAD_export": "Top silkscreen pin-1 marker moved; physical fit geometry verified unchanged.",
+  "nominal_connector_gap_mm": 0.024998580000365967,
+  "nominal_radial_shank_play_mm": 0.09999999999999998,
+  "gap_after_possible_shank_shift_mm": -0.07500141999963401,
+  "tolerance_safe_fit_confirmed": false,
+  "fit_status": "Nominal centered screw clears housing; radial hole play exceeds clearance and can cause contact. No tolerance-safe fit claim.",
+  "head_to_non_GND_copper": [
+    {
+      "mount": "MH8",
+      "head_to_non_GND_copper_mm": 0.17630665468172385,
+      "nearest": "J1-51"
+    },
+    {
+      "mount": "MH7",
+      "head_to_non_GND_copper_mm": 0.1763058987378256,
+      "nearest": "J1-1"
+    }
+  ],
+  "cable_height_status": "0.47 mm center above PCB is a placement assumption; detailed section verification and flex deformation are not modeled.",
+  "cable_width_mm": 15.6,
+  "cable_reinforced_thickness_mm": 0.2,
+  "screw_length_status": "M1.6 x 4 used for clearance review; mating threaded support/nut and required engagement are not specified.",
+  "artifacts": {
+    "FPC_51_0p3_Envelope.ipt": "beb0ad0720f590951bafa1dc5304b920638a3d5b8cb7efcca5483dfa61a4136c",
+    "FPC_51_0p3_Envelope.step": "b864170a33c4221aa9958d4b73f60cffbf237b147610c712fde90cb0c6097b6f",
+    "ISO_4762_M1p6x4.step": "64e5324f9ddf5757af9b5587e697de010f60f49e7383eb6421c5aff6acb25d28",
+    "J1_Current.ipt": "f609d00b396d426c55674f347e1e4712279038b6455946af23f6567fd7abc34e",
+    "J1_Current.step": "6a2bfc9f3fabcb8b4959dd746596ce82a09f65626e61f62353c20129a9fa268e",
+    "J1_embedded.step": "0f86a223e1a1920af07de0972295acb75b1658ea2ece95c59b116630a4253501",
+    "PCB_End.ipt": "e6d0ea20efe7fb1151ed200e143cdb32f4b47db2982f5f61e7b4ae54615f568f",
+    "PCB_End.step": "aaa44d6bd0cb3de563af3c53d22225ee08b74f4db550b6036fbe158a848199df",
+    "ZIF_M1p6_Fit.iam": "0ad911300e6f6b77b0e02f80779718280d37b8862753099bd21ebd093d76e324",
+    "ZIF_M1p6_Fit.step": "934d266d276121106821b6828ebf1494ae5548d57bb7576b618a3de34735d3a8",
+    "ZIF_M1p6_NoCable.png": "fb67dc3526c816b32f6d5a56bf3ddfdfb9536e353de9425d4f84190961435dde",
+    "ZIF_M1p6_Oblique.png": "1e0d2f5b7a101cb46722a37cb16be7e38e7343b6b6a56c6356bf6ef830ae4e64",
+    "ZIF_M1p6_Top.png": "bd0511b854436bf69aa74e494444f7261d6452d7595c91a8677400a2b64d486c"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "plate_drawings_unchanged": true,
+  "archive": "QSTL_Plate_DWG_Package_RevD.zip",
+  "updated_readmes": [
+    "README.md"
+  ],
+  "added_report": "rod_button_head_verification.json",
+  "comment": "The archive remains a plate-only package, without rod hardware or full-installation drawings."
+}

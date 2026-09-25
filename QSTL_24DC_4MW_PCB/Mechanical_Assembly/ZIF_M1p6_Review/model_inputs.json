@@ -1,0 +1,101 @@
+{
+  "pcb_sha256": "306a53d49bfee85d3b3776aa249cc8012ffaea3bdd0f4d14b103167de2ac51f8",
+  "body": {
+    "V7_LAYER": "MECHANICAL1",
+    "NAME": " ",
+    "KIND": "0",
+    "SUBPOLYINDEX": "-1",
+    "UNIONINDEX": "0",
+    "ARCRESOLUTION": "0.5mil",
+    "ISSHAPEBASED": "FALSE",
+    "CAVITYHEIGHT": "0mil",
+    "STANDOFFHEIGHT": "4.3308mil",
+    "OVERALLHEIGHT": "49.6063mil",
+    "BODYPROJECTION": "0",
+    "BODYCOLOR3D": "8421504",
+    "BODYOPACITY3D": "1.000",
+    "IDENTIFIER": "53,48,50,53,57,56,53,49,57,51",
+    "TEXTURE": "",
+    "TEXTURECENTERX": "0mil",
+    "TEXTURECENTERY": "0mil",
+    "TEXTURESIZEX": "0mil",
+    "TEXTURESIZEY": "0mil",
+    "TEXTUREROTATION": " 1.80000000000000E+0002",
+    "MODELID": "{62B47A47-CB3F-4FB6-BAB2-2FB06AB83F54}",
+    "MODEL.CHECKSUM": "119773691",
+    "MODEL.EMBED": "TRUE",
+    "MODEL.NAME": "5025985193.stp",
+    "MODEL.2D.X": "383.8583mil",
+    "MODEL.2D.Y": "175.1968mil",
+    "MODEL.2D.ROTATION": "0.000",
+    "MODEL.3D.ROTX": "90.000",
+    "MODEL.3D.ROTY": "0.000",
+    "MODEL.3D.ROTZ": "0.000",
+    "MODEL.3D.DZ": "27.5591mil",
+    "MODEL.MODELTYPE": "1",
+    "MODEL.MODELSOURCE": "Undefined"
+  },
+  "mounts": [
+    {
+      "name": "MH8",
+      "x": 17.89999976,
+      "y": 1.20000014,
+      "drill": 1.7999989399999998
+    },
+    {
+      "name": "MH7",
+      "x": 1.5999993399999999,
+      "y": 1.20000014,
+      "drill": 1.7999989399999998
+    }
+  ],
+  "parts": [
+    {
+      "name": "PCB_End",
+      "bounds_mm": [
+        0.0,
+        0.0,
+        0.0,
+        19.5,
+        10.0,
+        1.6
+      ],
+      "volume_mm3": 303.85700143254655
+    },
+    {
+      "name": "J1_Current",
+      "bounds_mm": [
+        1.0500008199999993,
+        2.624998719999979,
+        1.7100011399999997,
+        18.45000082,
+        6.42499872,
+        2.8600011400000005
+      ],
+      "volume_mm3": 44.191607484855794
+    },
+    {
+      "name": "FPC_51_0p3_Envelope",
+      "bounds_mm": [
+        1.95,
+        -10.0,
+        1.9700000000000002,
+        17.55,
+        2.6249987199999794,
+        2.1700000000000004
+      ],
+      "volume_mm3": 39.38999600639998
+    }
+  ],
+  "connector": "Molex 502598-5193",
+  "source": "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/502/502598/5025983993_sd.pdf",
+  "cable": {
+    "status": "dimensional fit envelope, not a detailed routed production cable",
+    "width_mm": 15.6,
+    "reinforced_thickness_mm": 0.2,
+    "free_end_y_mm": 2.624998719999979,
+    "nominal_centre_above_pcb_mm": 0.47,
+    "placement_assumption": "centred on manufacturer cable reference; verify on section drawing"
+  },
+  "screw_head_cable_contact_permitted": true
+}

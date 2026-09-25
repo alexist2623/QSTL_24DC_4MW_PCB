@@ -1,0 +1,200 @@
+[
+  {
+    "label": "Base Material",
+    "selected": [
+      "HDI"
+    ]
+  },
+  {
+    "label": "Layers",
+    "selected": [
+      "6"
+    ]
+  },
+  {
+    "label": "HDI Structure",
+    "selected": [
+      "1-step"
+    ]
+  },
+  {
+    "label": "Product Type",
+    "selected": [
+      "Industrial/Consumer electronics"
+    ]
+  },
+  {
+    "label": "Deburring/Edge rounding",
+    "selected": [
+      "Yes"
+    ]
+  },
+  {
+    "label": "Different Design",
+    "selected": [
+      "1"
+    ]
+  },
+  {
+    "label": "Delivery Format",
+    "selected": [
+      "Single PCB"
+    ]
+  },
+  {
+    "label": "PCB Thickness",
+    "selected": [
+      "1.6mm"
+    ]
+  },
+  {
+    "label": "PCB Color",
+    "selected": [
+      "Green"
+    ]
+  },
+  {
+    "label": "Silkscreen",
+    "selected": [
+      "White"
+    ]
+  },
+  {
+    "label": "Material Type",
+    "selected": [
+      "NP-175F TG170"
+    ]
+  },
+  {
+    "label": "Surface Finish",
+    "selected": [
+      "ENIG"
+    ]
+  },
+  {
+    "label": "Gold Thickness",
+    "selected": [
+      "1 U\""
+    ]
+  },
+  {
+    "label": "Outer Copper Weight",
+    "selected": [
+      "1 oz"
+    ]
+  },
+  {
+    "label": "Inner Copper Weight",
+    "selected": [
+      "1 oz"
+    ]
+  },
+  {
+    "label": "Specify Layer Sequence",
+    "selected": [
+      "Yes"
+    ]
+  },
+  {
+    "label": "Layer Stackup",
+    "selected": [
+      "Subject to Review"
+    ]
+  },
+  {
+    "label": "Impedance Control",
+    "selected": [
+      "±10% (±5Ω if value≤50Ω)"
+    ]
+  },
+  {
+    "label": "Impedance Test Report",
+    "selected": [
+      "No"
+    ]
+  },
+  {
+    "label": "Via Covering",
+    "selected": [
+      "Epoxy Filled & Capped"
+    ]
+  },
+  {
+    "label": "Min via hole size/diameter",
+    "selected": [
+      "0.25mm/(0.35/0.4mm)"
+    ]
+  },
+  {
+    "label": "Board Outline Tolerance",
+    "selected": [
+      "±0.2mm(Regular)"
+    ]
+  },
+  {
+    "label": "Confirm Production file",
+    "selected": [
+      "Yes"
+    ]
+  },
+  {
+    "label": "Mark on PCB",
+    "selected": [
+      "Remove Mark"
+    ]
+  },
+  {
+    "label": "Electrical Test",
+    "selected": [
+      "Flying Probe Fully Test"
+    ]
+  },
+  {
+    "label": "Gold Fingers",
+    "selected": [
+      "No"
+    ]
+  },
+  {
+    "label": "Castellated Holes",
+    "selected": [
+      "No"
+    ]
+  },
+  {
+    "label": "Press-Fit Hole",
+    "selected": [
+      "No"
+    ]
+  },
+  {
+    "label": "Edge Plating",
+    "selected": [
+      "No"
+    ]
+  },
+  {
+    "label": "Blind Slots",
+    "selected": [
+      "Yes"
+    ]
+  },
+  {
+    "label": "UL Marking",
+    "selected": [
+      "No"
+    ]
+  },
+  {
+    "label": "Backdrill",
+    "selected": [
+      "No"
+    ]
+  },
+  {
+    "label": "Humidity Indicator Card",
+    "selected": [
+      "No"
+    ]
+  }
+]

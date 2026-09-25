@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\JeonghyunPark\Workspace\QSTL_24DC_4MW_PCB\QSTL_24DC_4MW_PCB\QSTL_24DC_4MW_PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=qstl_24dc_4mw_pcb-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=L5_GND_L6_RF_QD_Blind_Vias|DrillFile=qstl_24dc_4mw_pcb-plated.tx1|DrillLayers=g4,gbl

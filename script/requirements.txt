@@ -3,3 +3,6 @@ shapely
 olefile
 Pillow
 cadquery-ocp
+gerbonara==1.6.3
+matplotlib
+pymupdf

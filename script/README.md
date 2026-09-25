@@ -1,5 +1,11 @@
 # PCB working scripts
 
+The latest M1 ZIF-end mounts, native save/reopen audit, Inventor standard-hardware fit review and fresh CAM package are in [pcb_end_mounts_20260925/](pcb_end_mounts_20260925/README.md). The current Gerber ZIP is under `fabrication/JLCPCB_HDI_20260925/`. Native L2/L4 GND pour work is in [dc_ground_pour_20260924/](dc_ground_pour_20260924/README.md). Completed Rev E DWG refresh is in [dwg_gerber_refresh_20260924/](dwg_gerber_refresh_20260924/README.md). Earlier CAM/quote records are historical.
+
+The current 2026-09-23 DC remap is in `dc_even_zif_20260923/`: physical J1 contacts 2..48 even only, with pin 50 and every odd contact NC. `FixZIFPads.pas` records the required `SetState_InNet` update and native connectivity rebuild. Saved-file connectivity, schematic correspondence, DRC, preserved RF/mask geometry and DC previews are verified there. Mutation scripts are one-time records; do not rerun them against a different starting revision.
+
+The complete native Altium CAM package and JLCPCB HDI quote record from 2026-09-22 are generated/validated by `jlcpcb_hdi_quote_20260922/package_cam.py`. `ReopenAudit.pas` reopens the original saved board and runs native DRC without changing the design. Quote evidence is stored in `QSTL_24DC_4MW_PCB/fabrication/JLCPCB_HDI_20260922/`.
+
 Create and run helper code inside this repository's `script/` directory. Write Markdown, code comments and technical annotations in English. Communicate with the user in Korean.
 
 Read [DESIGN_REQUIREMENTS.md](../QSTL_24DC_4MW_PCB/docs/DESIGN_REQUIREMENTS.md) and [AGENTS.md](../AGENTS.md) before editing the original `QSTL_24DC_4MW_PCB/` project.

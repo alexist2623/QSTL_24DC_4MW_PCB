@@ -1,0 +1,489 @@
+﻿{
+    "parts":  [
+                  {
+                      "part":  "Left",
+                      "flange_mm":  2,
+                      "outer_chamfer_mm":  2,
+                      "angle_deg":  45,
+                      "rod_contact_z_mm":  12.5,
+                      "free_face_z_mm":  10.5,
+                      "native_chamfer_features":  1,
+                      "thread_count":  4,
+                      "volume_mm3":  4681.2785101825957,
+                      "healthy":  true
+                  },
+                  {
+                      "part":  "Right",
+                      "flange_mm":  2,
+                      "outer_chamfer_mm":  2,
+                      "angle_deg":  45,
+                      "rod_contact_z_mm":  12.5,
+                      "free_face_z_mm":  10.5,
+                      "native_chamfer_features":  1,
+                      "thread_count":  4,
+                      "volume_mm3":  4681.2785101825939,
+                      "healthy":  true
+                  }
+              ],
+    "rod_screw_moves":  [
+                            {
+                                "name":  "Rod_Clamp_M3_X3_Y140",
+                                "translation_z_mm":  2,
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      0.3
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      14
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.4
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     0.3
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     14
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.2
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X3_Y160",
+                                "translation_z_mm":  2,
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      0.3
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      16
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.4
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     0.3
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     16
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.2
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X3_Y180",
+                                "translation_z_mm":  2,
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      0.3
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      18
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.4
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     0.3
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     18
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.2
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X3_Y200",
+                                "translation_z_mm":  2,
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      0.3
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      20
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.4
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     0.3
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     20
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.2
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X48_Y140",
+                                "translation_z_mm":  2,
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      4.8
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      14
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.4
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     4.8
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     14
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.2
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X48_Y160",
+                                "translation_z_mm":  2,
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      4.8
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      16
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.4
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     4.8
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     16
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.2
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X48_Y180",
+                                "translation_z_mm":  2,
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      4.8
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      18
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.4
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     4.8
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     18
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.2
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "name":  "Rod_Clamp_M3_X48_Y200",
+                                "translation_z_mm":  2,
+                                "before_cm":  [
+                                                  [
+                                                      0,
+                                                      0,
+                                                      -1,
+                                                      4.8
+                                                  ],
+                                                  [
+                                                      0,
+                                                      1,
+                                                      0,
+                                                      20
+                                                  ],
+                                                  [
+                                                      1,
+                                                      0,
+                                                      0,
+                                                      -0.4
+                                                  ],
+                                                  [
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                                              ],
+                                "after_cm":  [
+                                                 [
+                                                     0,
+                                                     0,
+                                                     -1,
+                                                     4.8
+                                                 ],
+                                                 [
+                                                     0,
+                                                     1,
+                                                     0,
+                                                     20
+                                                 ],
+                                                 [
+                                                     1,
+                                                     0,
+                                                     0,
+                                                     -0.2
+                                                 ],
+                                                 [
+                                                     0,
+                                                     0,
+                                                     0,
+                                                     1
+                                                 ]
+                                             ],
+                                "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            }
+                        ],
+    "central_deck_mm":  4,
+    "rod_contact_plane_unchanged":  true,
+    "device_alignment_unchanged":  true
+}

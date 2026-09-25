@@ -1,0 +1,14 @@
+{
+  "GBO": {
+    "removed": [],
+    "added": []
+  },
+  "GTO": {
+    "removed": [
+      "Arc(x1=2.375, y1=2.195, x2=2.375, y2=2.195, cx=2.25, cy=2.195, clockwise=False, width=0.25, polarity_dark=True)"
+    ],
+    "added": [
+      "Arc(x1=3.125, y1=2.1, x2=3.125, y2=2.1, cx=3.0, cy=2.1, clockwise=False, width=0.25, polarity_dark=True)"
+    ]
+  }
+}

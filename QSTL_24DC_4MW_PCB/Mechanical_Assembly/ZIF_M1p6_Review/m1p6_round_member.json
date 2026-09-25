@@ -1,0 +1,66 @@
+﻿{
+    "family":  "ISO 7045 H",
+    "library":  "AI2027_Inventor ISO",
+    "family_id":  "687a4f7c-d9fa-4898-b8cd-0b8ec5fade7d",
+    "row":  2,
+    "source":  "C:\\OneDrive_UBC\\OneDrive - UBC\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\ISO 7045  H\\ISO 7045 - M1.6 x 4_ - 4.8 - H - ISO.ipt",
+    "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\ZIF_M1p6_Review\\Standard_Fasteners\\ISO_7045_H_M1p6x4.ipt",
+    "sha256":  "4FC782EB9EA72ED7261A1C592FA794493B481A227E72C055E7C00480C443FC9A",
+    "is_content_member":  true,
+    "values":  {
+                   "NND":  "1.6",
+                   "NLG":  "4",
+                   "GEL":  "3.3",
+                   "KOD":  "3.2",
+                   "KOH":  "1.3",
+                   "STI":  "0.95",
+                   "SBR":  "0.3",
+                   "RR":  "0.5",
+                   "KR":  "2.5",
+                   "SDM":  "1.7",
+                   "BDM":  "1.41056",
+                   "GD":  "1.6",
+                   "SIZE":  "M1.6 x 4 - 4.8 - H",
+                   "SPD":  "1.170585",
+                   "KEWI":  "2",
+                   "THREADDIA":  "1.6",
+                   "TPU":  "2.8571429",
+                   "THREADDESC":  "M1.6x0.35",
+                   "GD1":  "1.170585",
+                   "GUL":  "0.2147075",
+                   "GAL":  "0.2147075",
+                   "PTC":  "0.35",
+                   "TOA":  "30",
+                   "THREADCLASSEXT":  "6g",
+                   "THREADTYPE":  "ISO Metric profile",
+                   "DESIGNATION":  "M1.6 x 4 - 4.8 - H",
+                   "FILENAME":  "ISO 7045 - M1.6 x 4\" - 4.8 - H - ISO",
+                   "PG":  "A",
+                   "MATERIAL":  "Steel",
+                   "PARTNUMBER":  "ISO 7045 - M1.6 x 4 - 4.8 - H",
+                   "SIZE_SEL":  "M1.6",
+                   "NLG_SEL":  "4",
+                   "KLG":  "0.7"
+               },
+    "bounds_mm":  [
+                      [
+                          -1.2880665776212918,
+                          -1.5999999999999968,
+                          -1.6000000000000005
+                      ],
+                      [
+                          3.9999999999999991,
+                          1.6000000000000045,
+                          1.6000000000000005
+                      ]
+                  ],
+    "threads":  [
+                    {
+                        "internal":  false,
+                        "health":  11778,
+                        "class":  "6g",
+                        "designation":  "M1.6x0.35",
+                        "depth_mm":  3.3000000000000003
+                    }
+                ]
+}

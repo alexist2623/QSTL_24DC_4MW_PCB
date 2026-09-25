@@ -1,0 +1,63 @@
+{
+  "family": "KS B 1021 - Metric",
+  "library": "AI2027_Inventor OTHER",
+  "family_id": "93d13d9c-bf16-4c30-a07f-d9d9302e51cf",
+  "row": 2,
+  "source": "C:\\OneDrive_UBC\\OneDrive - UBC\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\KS B 1021(1)\\KS B 1021 - M 1 x 4(5).ipt",
+  "file": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\ZIF_M1_Review\\Standard_Fasteners\\KS_B1021_M1x4.ipt",
+  "sha256": "E587C94D5C0A530A56139664BDB0B25A196D52C3AF8B532233410517E7FD8571",
+  "is_content_member": true,
+  "values": {
+    "NND": "1",
+    "NLG": "4",
+    "GEL": "3.5",
+    "KOD": "2",
+    "KOH": "0.65",
+    "STI": "0.3",
+    "SBR": "0.32",
+    "GAL": "0.1533625",
+    "KR": "3",
+    "RR": "0.3",
+    "BDM": "0.8465",
+    "SIZE": "M1x4",
+    "SPD": "0.693275",
+    "GD": "1",
+    "KEWI": "3",
+    "GUL": "0.1533625",
+    "THREADDIA": "1",
+    "TPU": "4",
+    "THREADDESC": "M1x0.25",
+    "GD1": "0.693275",
+    "PTC": "0.25",
+    "TOA": "30",
+    "THREADCLASSEXT": "6g",
+    "THREADTYPE": "ISO Metric profile",
+    "DESIGNATION": "M 1 x 4",
+    "FILENAME": "KS B 1021 - M 1 x 4(5)",
+    "MATERIAL": "Steel, Mild",
+    "PARTNUMBER": "KS B 1021 - M 1 x 4",
+    "SIZE_SEL": "M1",
+    "KLG": "0.5"
+  },
+  "bounds_mm": [
+    [
+      -0.6493301564206044,
+      -0.9999999999999998,
+      -0.9999999999999998
+    ],
+    [
+      3.999999999999999,
+      0.9999999999999998,
+      0.9999999999999998
+    ]
+  ],
+  "threads": [
+    {
+      "internal": false,
+      "health": 11778,
+      "class": "6g",
+      "designation": "M1x0.25",
+      "depth_mm": 3.5000000000000004
+    }
+  ]
+}

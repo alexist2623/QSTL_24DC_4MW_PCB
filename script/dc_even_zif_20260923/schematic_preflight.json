@@ -1,0 +1,373 @@
+{
+  "passed": true,
+  "errors": [],
+  "schematic": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\script\\dc_even_zif_20260923\\built\\QSTL_24DC_4MW_PCB.SchDoc",
+  "sha256": "c2988857ab2062b0f581f105a6cd1f93677647b3c8a3b3ad4ac0c1e570bbf45e",
+  "counts": {
+    "components": 22,
+    "pins": 141,
+    "named_nets": 37,
+    "connected_pins": 110,
+    "NC_pins": 31,
+    "labels": 110,
+    "wire_segments": 110,
+    "NC_markers": 31
+  },
+  "recovered_nets": {
+    "ZIF02": [
+      "J1-2",
+      "R6-2"
+    ],
+    "ZIF04": [
+      "J1-4",
+      "R5-2"
+    ],
+    "ZIF06": [
+      "J1-6",
+      "Q1-23"
+    ],
+    "ZIF08": [
+      "J1-8",
+      "R4-2"
+    ],
+    "ZIF10": [
+      "J1-10",
+      "Q1-22"
+    ],
+    "ZIF12": [
+      "J1-12",
+      "Q1-13"
+    ],
+    "ZIF14": [
+      "J1-14",
+      "Q1-21"
+    ],
+    "ZIF16": [
+      "J1-16",
+      "Q1-11"
+    ],
+    "ZIF18": [
+      "J1-18",
+      "Q1-20"
+    ],
+    "ZIF20": [
+      "J1-20",
+      "Q1-10"
+    ],
+    "ZIF22": [
+      "J1-22",
+      "Q1-19"
+    ],
+    "ZIF24": [
+      "J1-24",
+      "Q1-8"
+    ],
+    "ZIF26": [
+      "J1-26",
+      "Q1-17"
+    ],
+    "ZIF28": [
+      "J1-28",
+      "Q1-7"
+    ],
+    "ZIF30": [
+      "J1-30",
+      "Q1-16"
+    ],
+    "ZIF32": [
+      "J1-32",
+      "Q1-5"
+    ],
+    "ZIF34": [
+      "J1-34",
+      "Q1-15"
+    ],
+    "ZIF36": [
+      "J1-36",
+      "Q1-4"
+    ],
+    "ZIF38": [
+      "J1-38",
+      "Q1-14"
+    ],
+    "ZIF40": [
+      "J1-40",
+      "Q1-3"
+    ],
+    "ZIF42": [
+      "J1-42",
+      "R3-2"
+    ],
+    "ZIF44": [
+      "J1-44",
+      "Q1-2"
+    ],
+    "ZIF46": [
+      "J1-46",
+      "R2-2"
+    ],
+    "ZIF48": [
+      "J1-48",
+      "R1-2"
+    ],
+    "MW3": [
+      "C3-2",
+      "Q1-1",
+      "R3-1"
+    ],
+    "MW2": [
+      "C2-2",
+      "Q1-6",
+      "R2-1"
+    ],
+    "MW1": [
+      "C1-2",
+      "Q1-9",
+      "R1-1"
+    ],
+    "MW5": [
+      "C5-2",
+      "Q1-12",
+      "R5-1"
+    ],
+    "MW6": [
+      "C6-2",
+      "Q1-18",
+      "R6-1"
+    ],
+    "MW4": [
+      "C4-2",
+      "Q1-24",
+      "R4-1"
+    ],
+    "S1": [
+      "C1-1",
+      "SMP1-1"
+    ],
+    "GND": [
+      "SMP1-2",
+      "SMP1-3",
+      "SMP1-4",
+      "SMP1-5",
+      "SMP2-2",
+      "SMP2-3",
+      "SMP2-4",
+      "SMP2-5",
+      "SMP3-2",
+      "SMP3-3",
+      "SMP3-4",
+      "SMP3-5",
+      "SMP4-2",
+      "SMP4-3",
+      "SMP4-4",
+      "SMP4-5",
+      "SMP5-2",
+      "SMP5-3",
+      "SMP5-4",
+      "SMP5-5",
+      "SMP6-2",
+      "SMP6-3",
+      "SMP6-4",
+      "SMP6-5",
+      "SMP7-2",
+      "SMP7-3",
+      "SMP7-4",
+      "SMP7-5",
+      "SMP8-2",
+      "SMP8-3",
+      "SMP8-4",
+      "SMP8-5"
+    ],
+    "S2": [
+      "C2-1",
+      "SMP2-1"
+    ],
+    "S3": [
+      "C3-1",
+      "SMP3-1"
+    ],
+    "S4": [
+      "C4-1",
+      "SMP4-1"
+    ],
+    "S5": [
+      "C5-1",
+      "SMP5-1"
+    ],
+    "S6": [
+      "C6-1",
+      "SMP6-1"
+    ]
+  },
+  "NC_pins": [
+    "J1-1",
+    "J1-11",
+    "J1-13",
+    "J1-15",
+    "J1-17",
+    "J1-19",
+    "J1-21",
+    "J1-23",
+    "J1-25",
+    "J1-27",
+    "J1-29",
+    "J1-3",
+    "J1-31",
+    "J1-33",
+    "J1-35",
+    "J1-37",
+    "J1-39",
+    "J1-41",
+    "J1-43",
+    "J1-45",
+    "J1-47",
+    "J1-49",
+    "J1-5",
+    "J1-50",
+    "J1-51",
+    "J1-52",
+    "J1-53",
+    "J1-7",
+    "J1-9",
+    "SMP7-1",
+    "SMP8-1"
+  ],
+  "models": {
+    "J1": {
+      "name": "FP-5025985193-MFG",
+      "file": "ZIF_5025985193.PcbLib"
+    },
+    "Q1": {
+      "name": "QD4",
+      "file": "QSTL_24DC_4MW_PCB.PcbLib"
+    },
+    "SMP1": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "SMP2": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "SMP3": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "SMP4": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "R1": {
+      "name": "CC1608-0603",
+      "file": "Passives_0603.PcbLib"
+    },
+    "R2": {
+      "name": "CC1608-0603",
+      "file": "Passives_0603.PcbLib"
+    },
+    "R3": {
+      "name": "CC1608-0603",
+      "file": "Passives_0603.PcbLib"
+    },
+    "R4": {
+      "name": "CC1608-0603",
+      "file": "Passives_0603.PcbLib"
+    },
+    "C1": {
+      "name": "FP-GCM155-0_05-IPC_A",
+      "file": "Capacitors_0402.PcbLib"
+    },
+    "C2": {
+      "name": "FP-GCM155-0_05-IPC_A",
+      "file": "Capacitors_0402.PcbLib"
+    },
+    "C3": {
+      "name": "FP-GCM155-0_05-IPC_A",
+      "file": "Capacitors_0402.PcbLib"
+    },
+    "C4": {
+      "name": "FP-GCM155-0_05-IPC_A",
+      "file": "Capacitors_0402.PcbLib"
+    },
+    "SMP7": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "SMP8": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "SMP5": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "R5": {
+      "name": "CC1608-0603",
+      "file": "Passives_0603.PcbLib"
+    },
+    "C5": {
+      "name": "FP-GCM155-0_05-IPC_A",
+      "file": "Capacitors_0402.PcbLib"
+    },
+    "SMP6": {
+      "name": "RF_Con",
+      "file": "Reference_Connectors.PcbLib"
+    },
+    "R6": {
+      "name": "CC1608-0603",
+      "file": "Passives_0603.PcbLib"
+    },
+    "C6": {
+      "name": "FP-GCM155-0_05-IPC_A",
+      "file": "Capacitors_0402.PcbLib"
+    }
+  },
+  "values": {
+    "R1": "10k",
+    "R2": "10k",
+    "R3": "10k",
+    "R4": "10k",
+    "C1": "1nF",
+    "C2": "1nF",
+    "C3": "1nF",
+    "C4": "1nF",
+    "R5": "10k",
+    "C5": "1nF",
+    "R6": "10k",
+    "C6": "1nF"
+  },
+  "qd_library_pins": {
+    "1": "MW3",
+    "2": "ZIF44",
+    "3": "ZIF40",
+    "4": "ZIF36",
+    "5": "ZIF32",
+    "6": "MW2",
+    "7": "ZIF28",
+    "8": "ZIF24",
+    "9": "MW1",
+    "10": "ZIF20",
+    "11": "ZIF16",
+    "12": "MW5",
+    "13": "ZIF12",
+    "14": "ZIF38",
+    "15": "ZIF34",
+    "16": "ZIF30",
+    "17": "ZIF26",
+    "18": "MW6",
+    "19": "ZIF22",
+    "20": "ZIF18",
+    "21": "ZIF14",
+    "22": "ZIF10",
+    "23": "ZIF06",
+    "24": "MW4"
+  },
+  "source_hash_checks": {
+    "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\script\\dc_even_zif_20260923\\before.PcbDoc": true,
+    "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\script\\dc_even_zif_20260923\\before.SchDoc": true,
+    "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\script\\dc_even_zif_20260923\\before.SchLib": true
+  },
+  "native_compile": null,
+  "native_reopen_compile_pending": true,
+  "PCB_comparison": null
+}

@@ -1,0 +1,63 @@
+﻿{
+    "family":  "ISO 4762",
+    "library":  "AI2027_Inventor ISO",
+    "family_id":  "9c6583ef-6f2e-42a0-aee7-94f8e9e059c5",
+    "row":  11,
+    "source":  "C:\\OneDrive_UBC\\OneDrive - UBC\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\ISO 4762(2)\\ISO 4762 - M2 x 4ISO.ipt",
+    "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\ZIF_M2_Review\\Standard_Fasteners\\ISO_4762_M2x4.ipt",
+    "sha256":  "F5D6CE40DF4006604872D9EB566F2F0CA06A4BB75B5B5C633727E4E43627D139",
+    "is_content_member":  true,
+    "values":  {
+                   "NND":  "2",
+                   "NLG":  "4",
+                   "GEL":  "3",
+                   "SW":  "1.5",
+                   "KOD":  "3.8",
+                   "KOH":  "2",
+                   "INTI":  "1",
+                   "RR":  "0.2",
+                   "GD":  "2",
+                   "E0":  "1.7325",
+                   "SPD":  "1.50924",
+                   "BDM":  "2",
+                   "SIZE":  "M2x4",
+                   "FAWI":  "45",
+                   "THREADDIA":  "2",
+                   "TPU":  "2.5",
+                   "THREADDESC":  "M2x0.4",
+                   "GD1":  "1.50924",
+                   "GUL":  "0.24538",
+                   "GAL":  "0.24538",
+                   "PTC":  "0.4",
+                   "TOA":  "30",
+                   "THREADCLASSEXT":  "6g",
+                   "THREADTYPE":  "ISO Metric profile",
+                   "DESIGNATION":  "M2 x 4",
+                   "FILENAME":  "ISO 4762 - M2 x 4ISO",
+                   "MATERIAL":  "Stainless Steel, 440C",
+                   "PARTNUMBER":  "ISO 4762 - M2 x 4",
+                   "SIZE_SEL":  "M2",
+                   "KLG":  "1"
+               },
+    "bounds_mm":  [
+                      [
+                          -1.9999999999999962,
+                          -1.9000000000000017,
+                          -1.9000000000000017
+                      ],
+                      [
+                          4.0000000000000036,
+                          1.9000000000000017,
+                          1.9000000000000017
+                      ]
+                  ],
+    "threads":  [
+                    {
+                        "internal":  false,
+                        "health":  11778,
+                        "class":  "6g",
+                        "designation":  "M2x0.4",
+                        "depth_mm":  3.0000000000000004
+                    }
+                ]
+}

@@ -1,0 +1,1145 @@
+﻿[
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3 - 4.8 - H",
+                          "NLG":  "3"
+                      },
+        "family":  "SFS EN ISO 7045 H",
+        "id":  "00fa8970-9223-4891-a7c3-56a135d38372"
+    },
+    {
+        "first_row":  {
+                          "NND":  "3",
+                          "SIZE":  "M3 x 0.5 x 3",
+                          "KOH":  "1.65",
+                          "KOD":  "5.7",
+                          "SIZE_SEL":  "M3",
+                          "THREADDESC":  "M3x0.5",
+                          "DESIGNATION":  "M3 x 0.5 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "Broached Hexagon Socket Button Head Cap Screw - Metric",
+        "id":  "04473c1e-dfe8-4a1e-ba34-2f9adc70d098"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 2.5",
+                          "KOH":  "1.2",
+                          "KOD":  "6",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 2.5",
+                          "NLG":  "2.5"
+                      },
+        "family":  "Screw GB/T 833-1988",
+        "id":  "08cb0988-ec38-4c67-a6fc-1f9cde0fac16"
+    },
+    {
+        "first_row":  {
+                          "NND":  "3",
+                          "SIZE":  "M3 x 0.5 x 3",
+                          "KOH":  "1.65",
+                          "KOD":  "5.7",
+                          "SIZE_SEL":  "M3",
+                          "THREADDESC":  "M3x0.5",
+                          "DESIGNATION":  "M3 x 0.5 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "Forged Hexagon Socket Button Head Cap Screw - Metric",
+        "id":  "0d716913-a2d5-4a80-895d-c022e93e73a8"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x  3 - 4.8 - Z",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x  3 - 4.8 - Z",
+                          "NLG":  "3"
+                      },
+        "family":  "UNI EN ISO 7045 Z",
+        "id":  "0dc206e9-8aa0-400a-9214-b8c1812c11a7"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.073",
+                          "SIZE":  "1 x 1/8",
+                          "KOH":  "0.039",
+                          "KOD":  "0.139",
+                          "SIZE_SEL":  "#1",
+                          "THREADDESC":  "1-64 UNC",
+                          "DESIGNATION":  "1 x 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Unbrako UNC Hex Socket Button Cap - Inch",
+        "id":  "0dc4a673-970c-463a-8068-c98326048ba1"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3 - 4.8 - Z",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3 - 4.8 - Z",
+                          "NLG":  "3"
+                      },
+        "family":  "DIN EN ISO 7045 Z",
+        "id":  "12786aba-8f14-4a52-9e7a-e5815bdf1f76"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "A M1.6 x 3 - H",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "A M1.6 x 3 - H",
+                          "NLG":  "3"
+                      },
+        "family":  "JIS B 1111 H - Metric",
+        "id":  "1394c443-7d6c-4caf-a783-3dd4312d828b"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "A M1.6x3 - H",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "A  M 1.6 x 3 - H",
+                          "NLG":  "3"
+                      },
+        "family":  "KS B 1023 H - Metric",
+        "id":  "13bf5883-cf51-45c7-89cd-119ab5f5d6bc"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 x 3/4",
+                          "KOH":  "0.053",
+                          "KOD":  "0.113",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 x 3/4",
+                          "NLG":  "0.75"
+                      },
+        "family":  "Slotted Round Head Machine Screw - Inch",
+        "id":  "186d75aa-4811-4793-b55e-32c221932ae8"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3 - 4.8 - H",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3 - 4.8 - H",
+                          "NLG":  "3"
+                      },
+        "family":  "NF EN ISO 7045 - H",
+        "id":  "1949d379-e529-4859-9bc7-84adef0aea29"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2.5",
+                          "KOH":  "2.1",
+                          "KOD":  "5",
+                          "SIZE_SEL":  "M2.5",
+                          "THREADDESC":  "M2.5x0.45",
+                          "DESIGNATION":  "M2.5x0.45 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "Square Recessed Pan Head Machine Screw - Type III - Metric",
+        "id":  "1a04f74e-8648-4bb3-9b9f-04137cd63f07"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "Screw GB/T 818-2000 Type Z",
+        "id":  "1b7eccf4-1ad2-4986-b2a0-e57cb31ccf83"
+    },
+    {
+        "first_row":  {
+                          "NND":  "3",
+                          "SIZE":  "M3 x 10",
+                          "KOH":  "1.8",
+                          "KOD":  "5.6",
+                          "SIZE_SEL":  "M3",
+                          "THREADDESC":  "M3x0.5",
+                          "DESIGNATION":  "M3 x 10",
+                          "NLG":  "10"
+                      },
+        "family":  "Screw GB/T 837-1988",
+        "id":  "20c63fde-6d0b-406e-93cd-cf7ccd2ad278"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6x2",
+                          "KOH":  "1",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M 1.6 x 2",
+                          "NLG":  "2"
+                      },
+        "family":  "KS B 1021 - Acc. to ISO 1580 - Metric",
+        "id":  "27224df7-422c-45ae-89d5-91d97ab29620"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3 - 4.8 - Z",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3 - 4.8 - Z",
+                          "NLG":  "3"
+                      },
+        "family":  "BS EN ISO 7045 Z - Metric",
+        "id":  "2bfac191-0b7a-45f8-9435-20b12ec4e382"
+    },
+    {
+        "first_row":  {
+                          "KOD":  "4.0",
+                          "NND":  "2",
+                          "KOH":  "1.6",
+                          "SIZE_SEL":  "2",
+                          "DESIGNATION":  "M2x3-4.8",
+                          "NLG":  "3"
+                      },
+        "family":  "Screw ISO 14583:2011(E)",
+        "id":  "35dccc23-f369-4e39-b76e-30ef466fa2fb"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2",
+                          "SIZE":  "M2 x 4",
+                          "KOH":  "1.3",
+                          "KOD":  "3.8",
+                          "SIZE_SEL":  "M2",
+                          "THREADDESC":  "M2x0.4",
+                          "DESIGNATION":  "M2 x 4",
+                          "NLG":  "4"
+                      },
+        "family":  "AS 1427 (8) - Metric",
+        "id":  "385456ce-7d16-46ce-984a-8bb0398d67c8"
+    },
+    {
+        "first_row":  {
+                          "NND":  "3",
+                          "SIZE":  "M3 x 6",
+                          "KOH":  "2.5",
+                          "KOD":  "5",
+                          "SIZE_SEL":  "M3",
+                          "THREADDESC":  "M3x0.5",
+                          "DESIGNATION":  "M3 x 6",
+                          "NLG":  "6"
+                      },
+        "family":  "CSN 02 1146",
+        "id":  "39ed1d7f-06f0-4460-8834-bd7fc01f84f8"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "No. 0-80 - 1/8",
+                          "KOH":  "0.032",
+                          "KOD":  "0.114",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "No. 0-80 - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Hexagon Socket Button Head Cap Screw - Inch",
+        "id":  "3a02be06-d4c9-4c23-baba-02b04fd6aa63"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "A M1.6 x 3 - Z",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "A M1.6 x 3 - Z",
+                          "NLG":  "3"
+                      },
+        "family":  "JIS B 1111 Z - Metric",
+        "id":  "42bb2120-2a2f-44c8-aa8a-a51078bd5b62"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "KOH":  "0.032",
+                          "KOD":  "0.114",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0-80 UNF - 0.125",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Spline Socket Button Head Cap Screw - Inch",
+        "id":  "4a52b709-2b4b-48db-9aab-6078533f4aa7"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 - 1/8",
+                          "KOH":  "0.037",
+                          "KOD":  "0.131",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Cross Recessed Truss Head Machine Screw - Type I - Inch",
+        "id":  "4bcad94c-ec43-4b82-9889-6dba9dbd586c"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 - 1/8",
+                          "KOH":  "0.032",
+                          "KOD":  "0.126",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Cross Recessed Binding Head Machine Screw - Type IA - Inch",
+        "id":  "5012b4f2-ec9e-4525-96d7-2a5756492b2a"
+    },
+    {
+        "first_row":  {
+                          "NND":  "3",
+                          "SIZE":  "M3 x 20",
+                          "KOH":  "1.65",
+                          "KOD":  "5.7",
+                          "SIZE_SEL":  "M3",
+                          "THREADDESC":  "M3x0.5",
+                          "DESIGNATION":  "M3 x 20",
+                          "NLG":  "20"
+                      },
+        "family":  "Unbrako Hex Socket Button Cap - Metric",
+        "id":  "538e4a36-16dc-42c8-9286-205081f2ef27"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2",
+                          "KOH":  "1.6",
+                          "KOD":  "4",
+                          "SIZE_SEL":  "M2",
+                          "THREADDESC":  "M2x0.4",
+                          "DESIGNATION":  "M2x0.4 x 2.5",
+                          "NLG":  "2.5"
+                      },
+        "family":  "Cross Recessed Pan Head Machine Screw - Type IA - Metric",
+        "id":  "5497ca70-5c94-4bc5-954d-15068f0229a9"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2",
+                          "KOH":  "1.3",
+                          "KOD":  "4",
+                          "SIZE_SEL":  "M2",
+                          "THREADDESC":  "M2x0.4",
+                          "DESIGNATION":  "M2x0.4 x 2.5",
+                          "NLG":  "2.5"
+                      },
+        "family":  "Slotted Pan Head Machine Screw - Metric",
+        "id":  "550ca73e-5ce2-4426-9316-4c50bb5b05c4"
+    },
+    {
+        "first_row":  {
+                          "NND":  "3",
+                          "SIZE":  "M3 x 6",
+                          "KOH":  "1.65",
+                          "KOD":  "5.7",
+                          "SIZE_SEL":  "M3",
+                          "THREADDESC":  "M3x0.5",
+                          "DESIGNATION":  "M3 x 6",
+                          "NLG":  "6"
+                      },
+        "family":  "BS 4168 : Part 6 Hexagon socket countersunk and button head screws - Metric series - Metric",
+        "id":  "5cc0f313-1e29-4737-853e-96228f22be88"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.099",
+                          "KOH":  "0.078",
+                          "KOD":  "0.193",
+                          "SIZE_SEL":  "#3",
+                          "THREADDESC":  "3-48 UNC",
+                          "DESIGNATION":  "3-48 UNC - 0.875",
+                          "NLG":  "0.875"
+                      },
+        "family":  "Square Recessed Pan Head Machine Screw - Type III - Inch (IFI)",
+        "id":  "5d8c7d7e-134b-4a78-9920-7d6b87b47a92"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "No. 0 - 80 - 3/16",
+                          "KOH":  "0.044",
+                          "KOD":  "0.116",
+                          "SIZE_SEL":  "#0 (0-80 UNF)",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "No. 0 - 80 - 3/16",
+                          "NLG":  "0.1875"
+                      },
+        "family":  "Cross Recessed Pan Head Machine Screw - Type I - Inch",
+        "id":  "5fc90f9e-0f01-4955-befe-e4aa7dfb21e5"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3 - 4.8 - Z",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3 - 4.8 - Z",
+                          "NLG":  "3"
+                      },
+        "family":  "ISO 7045 Z",
+        "id":  "6647a0af-ffd5-424f-a826-2d82d1445c59"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3 - 4.8 - H",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3 - 4.8 - H",
+                          "NLG":  "3"
+                      },
+        "family":  "ISO 7045 H",
+        "id":  "687a4f7c-d9fa-4898-b8cd-0b8ec5fade7d"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3 - 4.8 - Z",
+                          "NLG":  "3"
+                      },
+        "family":  "SFS EN ISO 7045 Z",
+        "id":  "6da3f3e1-820f-44c5-ad0a-d35d4cfdcdf5"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2",
+                          "SIZE":  "M2 x 4",
+                          "KOH":  "1.6",
+                          "KOD":  "4",
+                          "SIZE_SEL":  "M2",
+                          "THREADDESC":  "M2x0.4",
+                          "DESIGNATION":  "M2 x 4",
+                          "NLG":  "4"
+                      },
+        "family":  "NF E 25-109",
+        "id":  "7170e573-d913-40cf-8745-921730cc3718"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 - 1/8",
+                          "KOH":  "0.055",
+                          "KOD":  "0.096",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Cross Recessed Fillister Head Machine Screw - Type IA - Inch",
+        "id":  "734b35e5-6346-471d-9e43-33616b568e62"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3 - 4.8 - Z",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3 - 4.8 - Z",
+                          "NLG":  "3"
+                      },
+        "family":  "NF EN ISO 7045 - Z",
+        "id":  "77c6002a-9950-4e2b-8b82-4ab723e52ecf"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x  3 - 4.8 - H",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x  3 - 4.8 - H",
+                          "NLG":  "3"
+                      },
+        "family":  "UNI EN ISO 7045 H",
+        "id":  "79327ae0-1cf5-4598-a9a9-7fe5ebfb45b5"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2.5",
+                          "SIZE":  "M2.5 x 5",
+                          "KOH":  "1.5",
+                          "KOD":  "5",
+                          "SIZE_SEL":  "M2.5",
+                          "THREADDESC":  "M2.5x0.45",
+                          "DESIGNATION":  "M2.5 x 5",
+                          "NLG":  "5"
+                      },
+        "family":  "BS 4183 Slotted Pan Head Machine Screw - Metric",
+        "id":  "79aa0e81-e332-4aee-8225-b571fd8a6ec3"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "A M1.6x3 - Z",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "A  M 1.6 x 3 - Z",
+                          "NLG":  "3"
+                      },
+        "family":  "KS B 1023 Z - Metric",
+        "id":  "7d5aaff2-133e-44b6-915d-55b3616c58c0"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2",
+                          "SIZE":  "M2 x 3",
+                          "KOH":  "1.6",
+                          "KOD":  "4",
+                          "SIZE_SEL":  "M2",
+                          "THREADDESC":  "M2x0.4",
+                          "DESIGNATION":  "M2 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "Screw GB/T 2672-2004",
+        "id":  "7e4df15e-b5bf-4bd7-8b1f-b297f5c62bb7"
+    },
+    {
+        "first_row":  {
+                          "NND":  "3",
+                          "SIZE":  "M3x6",
+                          "KOH":  "1.65",
+                          "KOD":  "5.7",
+                          "SIZE_SEL":  "M3",
+                          "THREADDESC":  "M3x0.5",
+                          "DESIGNATION":  "M3 x 6",
+                          "NLG":  "6"
+                      },
+        "family":  "ISO 7380-1",
+        "id":  "7e948a18-7d98-46c8-9f69-82be43869b08"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.19",
+                          "KOH":  "0.114",
+                          "KOD":  "0.469",
+                          "SIZE_SEL":  "#10",
+                          "THREADDESC":  "10-24 UNC",
+                          "DESIGNATION":  "10-24 UNC - 0.25",
+                          "NLG":  "0.25"
+                      },
+        "family":  "Round Head Bolt - Inch",
+        "id":  "7ed7dc56-1057-4ad5-a82f-6a23ba8d0b61"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 2",
+                          "KOH":  "1",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 2",
+                          "NLG":  "2"
+                      },
+        "family":  "Screw GB/T 67",
+        "id":  "808bd286-cb03-46a8-9b3c-cf3ff74e9b58"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 2",
+                          "KOH":  "1",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 2",
+                          "NLG":  "2"
+                      },
+        "family":  "JIS B 1101 - Acc. to ISO 1580 - Metric",
+        "id":  "81f180b7-6343-4652-b780-eaea97ac955c"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2.5",
+                          "SIZE":  "M2.5 x 5",
+                          "KOH":  "1.75",
+                          "KOD":  "5",
+                          "SIZE_SEL":  "M2.5",
+                          "THREADDESC":  "M2.5x0.45",
+                          "DESIGNATION":  "M2.5 x 5",
+                          "NLG":  "5"
+                      },
+        "family":  "BS 4183 Specification for machine screws and machine screw nuts. Metric series - Metric",
+        "id":  "8519f130-5df3-44a2-871f-baca5fb80742"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "Screw GB/T 818-2000 Type H",
+        "id":  "884aeca5-3ff1-4135-9714-ea93d381e14d"
+    },
+    {
+        "first_row":  {
+                          "KOD":  "5.7",
+                          "NND":  "3",
+                          "KOH":  "1.65",
+                          "SIZE_SEL":  "M3",
+                          "DESIGNATION":  "M3 X 6",
+                          "NLG":  "6"
+                      },
+        "family":  "Screw GB/T 70.2-2000",
+        "id":  "898b31f1-a7fb-4dc2-a77b-8f5b88378252"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 - 1/8",
+                          "KOH":  "0.044",
+                          "KOD":  "0.116",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Cross Recessed Pan Head Machine Screw - Type II - Inch",
+        "id":  "89c108d4-b10d-4e19-b222-938fab673244"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2",
+                          "SIZE":  "M2 x 3",
+                          "KOH":  "1.4",
+                          "KOD":  "3.5",
+                          "SIZE_SEL":  "M2",
+                          "THREADDESC":  "M2x0.4",
+                          "DESIGNATION":  "M2 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "Screw GB/T 823-1988",
+        "id":  "89f390b7-82e3-4d32-8526-6b8480be3ee9"
+    },
+    {
+        "first_row":  {
+                          "NND":  "3",
+                          "SIZE":  "M3 x 6",
+                          "KOH":  "1.65",
+                          "KOD":  "5.7",
+                          "SIZE_SEL":  "M3",
+                          "THREADDESC":  "M3x0.5",
+                          "DESIGNATION":  "M3 x 6",
+                          "NLG":  "6"
+                      },
+        "family":  "JIS B 1174 - Metric",
+        "id":  "8b9c6053-ee0c-45db-ab69-e8d164982074"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1",
+                          "SIZE":  "M1x3",
+                          "KOH":  "0.65",
+                          "KOD":  "2",
+                          "SIZE_SEL":  "M1",
+                          "THREADDESC":  "M1x0.25",
+                          "DESIGNATION":  "M 1 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "KS B 1021 - Metric",
+        "id":  "93d13d9c-bf16-4c30-a07f-d9d9302e51cf"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2.5",
+                          "SIZE":  "M2.5 x 4",
+                          "KOH":  "1.5",
+                          "KOD":  "5",
+                          "SIZE_SEL":  "M2.5",
+                          "THREADDESC":  "M2.5x0.45",
+                          "DESIGNATION":  "M2.5 x 4",
+                          "NLG":  "4"
+                      },
+        "family":  "AS 1427 - Metric",
+        "id":  "964cde6b-7eba-4272-8564-b2533b1129be"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "No. 0 - 80 - 3/4",
+                          "KOH":  "0.053",
+                          "KOD":  "0.113",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "No. 0 - 80 - 3/4",
+                          "NLG":  "0.75"
+                      },
+        "family":  "Slotted Round Head Cap Screw - Inch",
+        "id":  "97c35549-8c24-470c-87d1-aa44398796c6"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 2",
+                          "KOH":  "1",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 2",
+                          "NLG":  "2"
+                      },
+        "family":  "ISO 1580",
+        "id":  "998cc39f-c6f3-4524-95b9-dbc5954e468b"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 2",
+                          "KOH":  "1.2",
+                          "KOD":  "6",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 2",
+                          "NLG":  "2"
+                      },
+        "family":  "Screw GB/T 947-1988",
+        "id":  "99f05beb-cc21-4277-b5f9-0dd07da53ff8"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1",
+                          "SIZE":  "M1 x 1.5",
+                          "KOH":  "0.7",
+                          "KOD":  "3.5",
+                          "SIZE_SEL":  "M1",
+                          "THREADDESC":  "M1x0.25",
+                          "DESIGNATION":  "M1 x 1.5",
+                          "NLG":  "1.5"
+                      },
+        "family":  "DIN 921",
+        "id":  "9a81dbab-c745-410d-851b-f9ba96599828"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "IS 7483",
+        "id":  "a23b0954-7236-4ee8-b3f4-dc88f2073db9"
+    },
+    {
+        "first_row":  {
+                          "NND":  "3",
+                          "SIZE":  "M3 x 6",
+                          "KOH":  "2.5",
+                          "KOD":  "5",
+                          "SIZE_SEL":  "M3",
+                          "THREADDESC":  "M3x0.5",
+                          "DESIGNATION":  "M3 x 6",
+                          "NLG":  "6"
+                      },
+        "family":  "STN 02 1146",
+        "id":  "ae5accd3-f1c4-4de4-92cb-346389052d68"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 - 1/8",
+                          "KOH":  "0.032",
+                          "KOD":  "0.126",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Cross Recessed Binding Head Machine Screw - Type I - Inch",
+        "id":  "b114323e-d898-4c6a-9b5e-e7b579a25d5a"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 2",
+                          "KOH":  "1",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 2",
+                          "NLG":  "2"
+                      },
+        "family":  "PN-85/M-82219",
+        "id":  "b5600595-033b-43f6-8059-4cdbed95775f"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 - 1/8",
+                          "KOH":  "0.032",
+                          "KOD":  "0.126",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Cross Recessed Binding Head Machine Screw - Type II - Inch",
+        "id":  "b915d6a6-01b3-4b9a-9adc-1c8ded8bc957"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1",
+                          "SIZE":  "M1 x 3",
+                          "KOH":  "0.8",
+                          "KOD":  "2",
+                          "SIZE_SEL":  "M1",
+                          "THREADDESC":  "M1x0.25",
+                          "DESIGNATION":  "M1 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "CNS 9671",
+        "id":  "b9815a65-411c-4360-a7fa-ebc622866666"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 - 1/8",
+                          "KOH":  "0.055",
+                          "KOD":  "0.096",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Cross Recessed Fillister Head Machine Screw - Type I - Inch",
+        "id":  "bd1ac356-5005-42b8-823e-6a69c6574872"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2",
+                          "NLG":  "4",
+                          "THREADDESC":  "M2x0.4",
+                          "SIZE_SEL":  "M2",
+                          "DESIGNATION":  "M2x4"
+                      },
+        "family":  "JIS B 1111",
+        "id":  "be9778ec-4d2f-4cf2-aa7c-fbdabc084d8b"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.021",
+                          "SIZE":  "0000 - 160 - 1/8",
+                          "KOH":  "0.014",
+                          "KOD":  "0.049",
+                          "SIZE_SEL":  "#0000",
+                          "THREADDESC":  "0000-160 NS",
+                          "DESIGNATION":  "0000-160 NS - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Slotted Truss Head Machine Screw - Inch",
+        "id":  "bedca281-4443-4adb-8840-420ca19c59c8"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2.5",
+                          "SIZE":  "M2.5 x 4",
+                          "KOH":  "1.75",
+                          "KOD":  "5",
+                          "SIZE_SEL":  "M2.5",
+                          "THREADDESC":  "M2.5x0.45",
+                          "DESIGNATION":  "M2.5 x 4",
+                          "NLG":  "4"
+                      },
+        "family":  "AS 1427 Z - Metric",
+        "id":  "c14622bf-1c22-40a8-9fd5-eaea511edca7"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3 - 4.8 - H",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3 - 4.8 - H",
+                          "NLG":  "3"
+                      },
+        "family":  "DIN EN ISO 7045 H",
+        "id":  "c41eabc5-cf6e-4ca4-aa9b-6553f9b29ae7"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 2",
+                          "KOH":  "1",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 2",
+                          "NLG":  "2"
+                      },
+        "family":  "IS 6101",
+        "id":  "c648570d-0ad5-49e5-831e-3deb39de7141"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "SS EN ISO 7045 Z",
+        "id":  "cbd37f4f-3dc0-4832-83da-be8c772ab491"
+    },
+    {
+        "first_row":  {
+                          "KOD":  "5.7",
+                          "NND":  "3",
+                          "KOH":  "1.65",
+                          "SIZE_SEL":  "M3",
+                          "DESIGNATION":  "M3 X 6",
+                          "NLG":  "6"
+                      },
+        "family":  "Screw GB/T 70.2",
+        "id":  "cc9b3b99-c692-4334-83b1-2a10a1154e8c"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 - 1/8",
+                          "KOH":  "0.044",
+                          "KOD":  "0.116",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Cross Recessed Pan Head Machine Screw - Type IA - Inch",
+        "id":  "cfb9df52-93fc-4fcb-a3a5-3466ef0e77aa"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2.5",
+                          "SIZE":  "M2.5 x 4",
+                          "KOH":  "1.75",
+                          "KOD":  "5",
+                          "SIZE_SEL":  "M2.5",
+                          "THREADDESC":  "M2.5x0.45",
+                          "DESIGNATION":  "M2.5 x 4",
+                          "NLG":  "4"
+                      },
+        "family":  "AS 1427 H - Metric",
+        "id":  "d7484f35-c420-4d5a-b24f-2163da189bc1"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1",
+                          "SIZE":  "M1 x 3",
+                          "KOH":  "0.65",
+                          "KOD":  "2",
+                          "SIZE_SEL":  "M1",
+                          "THREADDESC":  "M1x0.25",
+                          "DESIGNATION":  "M1 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "JIS B 1101 - Metric",
+        "id":  "da23bc49-122a-42a6-a2c3-9bc423f47817"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 - 1/8",
+                          "KOH":  "0.055",
+                          "KOD":  "0.096",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Cross Recessed Fillister Head Machine Screw - Type II - Inch",
+        "id":  "de4486f6-8237-452b-9155-9be91b60fe10"
+    },
+    {
+        "first_row":  {
+                          "NND":  "3",
+                          "SIZE":  "M3 x 5",
+                          "KOH":  "2.4",
+                          "KOD":  "6",
+                          "SIZE_SEL":  "M3",
+                          "THREADDESC":  "M3x0.5",
+                          "DESIGNATION":  "M3 x 5",
+                          "NLG":  "5"
+                      },
+        "family":  "SFS 2976",
+        "id":  "e0b516b4-8727-40ba-a559-001ddeda4fb6"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3",
+                          "NLG":  "3"
+                      },
+        "family":  "SS EN ISO 7045 H",
+        "id":  "e0f6376d-1a13-4692-aefe-b32755389f1c"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 - 1/8",
+                          "KOH":  "0.037",
+                          "KOD":  "0.131",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Cross Recessed Truss Head Machine Screw - Type IA - Inch",
+        "id":  "e32b86c7-b789-4434-bfba-ffda7e126eb0"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 3 - 4.8 - H",
+                          "KOH":  "1.3",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 3 - 4.8 - H",
+                          "NLG":  "3"
+                      },
+        "family":  "BS EN ISO 7045 H - Metric",
+        "id":  "e59574d2-6d1d-4d5b-84ae-6524854ac01c"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2",
+                          "KOH":  "1.6",
+                          "KOD":  "4",
+                          "SIZE_SEL":  "M2",
+                          "THREADDESC":  "M2x0.4",
+                          "DESIGNATION":  "M2x0.4 x 2.5",
+                          "NLG":  "2.5"
+                      },
+        "family":  "Cross Recessed Pan Head Machine Screw - Type I - Metric",
+        "id":  "ec9ea6bf-a29e-48c9-b786-00ec471b4f20"
+    },
+    {
+        "first_row":  {
+                          "NND":  "1.6",
+                          "SIZE":  "M1.6 x 2",
+                          "KOH":  "1",
+                          "KOD":  "3.2",
+                          "SIZE_SEL":  "M1.6",
+                          "THREADDESC":  "M1.6x0.35",
+                          "DESIGNATION":  "M1.6 x 2",
+                          "NLG":  "2"
+                      },
+        "family":  "Screw GB/T 67-2000",
+        "id":  "f12dbee5-fbf9-4a38-9b8f-b6203434c3ad"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 - 1/8",
+                          "KOH":  "0.037",
+                          "KOD":  "0.131",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 - 1/8",
+                          "NLG":  "0.125"
+                      },
+        "family":  "Cross Recessed Truss Head Machine Screw - Type II - Inch",
+        "id":  "f615f9c2-4c15-45a3-a097-9e19e00685a6"
+    },
+    {
+        "first_row":  {
+                          "NND":  "0.06",
+                          "SIZE":  "0 - 80 x 3/4",
+                          "KOH":  "0.039",
+                          "KOD":  "0.116",
+                          "SIZE_SEL":  "#0",
+                          "THREADDESC":  "0-80 UNF",
+                          "DESIGNATION":  "0 - 80 x 3/4",
+                          "NLG":  "0.75"
+                      },
+        "family":  "Slotted Pan Head Machine Screw - Inch",
+        "id":  "f68dc247-f111-47a4-a152-6a935140b521"
+    },
+    {
+        "first_row":  {
+                          "NND":  "2.9",
+                          "NLG":  "6.5",
+                          "KOD":  "5.6",
+                          "KOH":  "2.4",
+                          "DESIGNATION":  "ST2.9x6.5"
+                      },
+        "family":  "Screw ISO 14585:2011(E)",
+        "id":  "f9bfe409-c5f3-4f1e-ab6d-d593b2d31001"
+    }
+]

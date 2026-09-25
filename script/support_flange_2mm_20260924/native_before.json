@@ -1,0 +1,853 @@
+﻿[
+    {
+        "name":  "Left_Rod_Support",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Left_Rod_Support.ipt",
+        "dirty":  false,
+        "parameters":  [
+                           {
+                               "name":  "OverallWidth",
+                               "expression":  "51 mm",
+                               "value_cm":  5.1000000000000005
+                           },
+                           {
+                               "name":  "RodWidth",
+                               "expression":  "6 mm",
+                               "value_cm":  0.60000000000000009
+                           },
+                           {
+                               "name":  "ContactLength",
+                               "expression":  "80 mm",
+                               "value_cm":  8
+                           },
+                           {
+                               "name":  "BaseThickness",
+                               "expression":  "4 mm",
+                               "value_cm":  0.4
+                           },
+                           {
+                               "name":  "DropHeight",
+                               "expression":  "8.5 mm",
+                               "value_cm":  0.85000000000000009
+                           },
+                           {
+                               "name":  "WebThickness",
+                               "expression":  "6 mm",
+                               "value_cm":  0.60000000000000009
+                           },
+                           {
+                               "name":  "FingerStartX",
+                               "expression":  "19.933375831081218 mm",
+                               "value_cm":  1.9933375831081219
+                           },
+                           {
+                               "name":  "FingerWidth",
+                               "expression":  "13.5 mm",
+                               "value_cm":  1.35
+                           },
+                           {
+                               "name":  "FingerThickness",
+                               "expression":  "6 mm",
+                               "value_cm":  0.60000000000000009
+                           },
+                           {
+                               "name":  "FingerEndInset",
+                               "expression":  "4 mm",
+                               "value_cm":  0.4
+                           },
+                           {
+                               "name":  "RodClearanceDiameter",
+                               "expression":  "3.4 mm",
+                               "value_cm":  0.34
+                           },
+                           {
+                               "name":  "ClampFirstY",
+                               "expression":  "41.82802366515844 mm",
+                               "value_cm":  4.182802366515844
+                           },
+                           {
+                               "name":  "ClampPitch",
+                               "expression":  "16 mm",
+                               "value_cm":  1.6
+                           },
+                           {
+                               "name":  "ClampHeight",
+                               "expression":  "BaseThickness + FingerThickness / 2 ul",
+                               "value_cm":  0.70000000000000007
+                           },
+                           {
+                               "name":  "TapDrillDiameter",
+                               "expression":  "2.5 mm",
+                               "value_cm":  0.25
+                           },
+                           {
+                               "name":  "TapDepth",
+                               "expression":  "6 mm",
+                               "value_cm":  0.60000000000000009
+                           },
+                           {
+                               "name":  "RodHoleStart",
+                               "expression":  "5 mm",
+                               "value_cm":  0.5
+                           },
+                           {
+                               "name":  "RodScrewPitch",
+                               "expression":  "20 mm",
+                               "value_cm":  2
+                           },
+                           {
+                               "name":  "JoinLeftX",
+                               "expression":  "9.5 mm",
+                               "value_cm":  0.95000000000000007
+                           },
+                           {
+                               "name":  "JoinFirstY",
+                               "expression":  "10 mm",
+                               "value_cm":  1
+                           },
+                           {
+                               "name":  "JoinPitch",
+                               "expression":  "20 mm",
+                               "value_cm":  2
+                           },
+                           {
+                               "name":  "JoinThreadDepth",
+                               "expression":  "6.5 mm",
+                               "value_cm":  0.65
+                           },
+                           {
+                               "name":  "JoinCountersinkDiameter",
+                               "expression":  "6.2 mm",
+                               "value_cm":  0.62000000000000011
+                           }
+                       ],
+        "features":  [
+                         {
+                             "name":  "Left_Connecting_Web",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Left_Rod_Contact_Flange",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Original_Rod_Clearance_4x",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Four_Blind_M3_Tap_Bores",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Deck_M3x0_5_6H_1",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Deck_M3x0_5_6H_2",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Deck_M3x0_5_6H_3",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Deck_M3x0_5_6H_4",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         }
+                     ],
+        "extrudes":  [
+                         {
+                             "name":  "Left_Connecting_Web",
+                             "extent_type":  "20737",
+                             "distance":  "DropHeight",
+                             "sketch":  "Left_Connecting_Web_Profile",
+                             "plane":  "Left_Connecting_Web_StartPlane"
+                         },
+                         {
+                             "name":  "Left_Rod_Contact_Flange",
+                             "extent_type":  "20737",
+                             "distance":  "BaseThickness",
+                             "sketch":  "Left_Rod_Contact_Flange_Profile",
+                             "plane":  "Left_Rod_Contact_Flange_StartPlane"
+                         },
+                         {
+                             "name":  "Original_Rod_Clearance_4x",
+                             "extent_type":  "20743",
+                             "distance":  null,
+                             "sketch":  "Original_Rod_Clearance_4x_Locations",
+                             "plane":  "XY Plane"
+                         },
+                         {
+                             "name":  "Four_Blind_M3_Tap_Bores",
+                             "extent_type":  "20737",
+                             "distance":  "JoinThreadDepth",
+                             "sketch":  "Deck_Assembly_M3_Locations",
+                             "plane":  "Work Plane3"
+                         }
+                     ],
+        "planes":  [
+                       {
+                           "name":  "YZ Plane",
+                           "type":  "12041",
+                           "z":  0
+                       },
+                       {
+                           "name":  "XZ Plane",
+                           "type":  "12041",
+                           "z":  0
+                       },
+                       {
+                           "name":  "XY Plane",
+                           "type":  "12041",
+                           "z":  0
+                       },
+                       {
+                           "name":  "Left_Connecting_Web_StartPlane",
+                           "type":  "12038",
+                           "z":  0.4
+                       },
+                       {
+                           "name":  "Left_Rod_Contact_Flange_StartPlane",
+                           "type":  "12038",
+                           "z":  0.85000000000000009
+                       },
+                       {
+                           "name":  "Work Plane3",
+                           "type":  "12038",
+                           "z":  0.4
+                       }
+                   ],
+        "sketches":  [
+                         {
+                             "name":  "Left_Connecting_Web_Profile",
+                             "plane":  "Left_Connecting_Web_StartPlane",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Left_Rod_Contact_Flange_Profile",
+                             "plane":  "Left_Rod_Contact_Flange_StartPlane",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Original_Rod_Clearance_4x_Locations",
+                             "plane":  "XY Plane",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Deck_Assembly_M3_Locations",
+                             "plane":  "Work Plane3",
+                             "health":  "11778"
+                         }
+                     ],
+        "volume_mm3":  5727.1055541459109
+    },
+    {
+        "name":  "Right_Rod_Support",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Right_Rod_Support.ipt",
+        "dirty":  false,
+        "parameters":  [
+                           {
+                               "name":  "OverallWidth",
+                               "expression":  "51 mm",
+                               "value_cm":  5.1000000000000005
+                           },
+                           {
+                               "name":  "RodWidth",
+                               "expression":  "6 mm",
+                               "value_cm":  0.60000000000000009
+                           },
+                           {
+                               "name":  "ContactLength",
+                               "expression":  "80 mm",
+                               "value_cm":  8
+                           },
+                           {
+                               "name":  "BaseThickness",
+                               "expression":  "4 mm",
+                               "value_cm":  0.4
+                           },
+                           {
+                               "name":  "DropHeight",
+                               "expression":  "8.5 mm",
+                               "value_cm":  0.85000000000000009
+                           },
+                           {
+                               "name":  "WebThickness",
+                               "expression":  "6 mm",
+                               "value_cm":  0.60000000000000009
+                           },
+                           {
+                               "name":  "FingerStartX",
+                               "expression":  "19.933375831081218 mm",
+                               "value_cm":  1.9933375831081219
+                           },
+                           {
+                               "name":  "FingerWidth",
+                               "expression":  "13.5 mm",
+                               "value_cm":  1.35
+                           },
+                           {
+                               "name":  "FingerThickness",
+                               "expression":  "6 mm",
+                               "value_cm":  0.60000000000000009
+                           },
+                           {
+                               "name":  "FingerEndInset",
+                               "expression":  "4 mm",
+                               "value_cm":  0.4
+                           },
+                           {
+                               "name":  "RodClearanceDiameter",
+                               "expression":  "3.4 mm",
+                               "value_cm":  0.34
+                           },
+                           {
+                               "name":  "ClampFirstY",
+                               "expression":  "41.82802366515844 mm",
+                               "value_cm":  4.182802366515844
+                           },
+                           {
+                               "name":  "ClampPitch",
+                               "expression":  "16 mm",
+                               "value_cm":  1.6
+                           },
+                           {
+                               "name":  "ClampHeight",
+                               "expression":  "BaseThickness + FingerThickness / 2 ul",
+                               "value_cm":  0.70000000000000007
+                           },
+                           {
+                               "name":  "TapDrillDiameter",
+                               "expression":  "2.5 mm",
+                               "value_cm":  0.25
+                           },
+                           {
+                               "name":  "TapDepth",
+                               "expression":  "6 mm",
+                               "value_cm":  0.60000000000000009
+                           },
+                           {
+                               "name":  "RodHoleStart",
+                               "expression":  "5 mm",
+                               "value_cm":  0.5
+                           },
+                           {
+                               "name":  "RodScrewPitch",
+                               "expression":  "20 mm",
+                               "value_cm":  2
+                           },
+                           {
+                               "name":  "JoinLeftX",
+                               "expression":  "9.5 mm",
+                               "value_cm":  0.95000000000000007
+                           },
+                           {
+                               "name":  "JoinFirstY",
+                               "expression":  "10 mm",
+                               "value_cm":  1
+                           },
+                           {
+                               "name":  "JoinPitch",
+                               "expression":  "20 mm",
+                               "value_cm":  2
+                           },
+                           {
+                               "name":  "JoinThreadDepth",
+                               "expression":  "6.5 mm",
+                               "value_cm":  0.65
+                           },
+                           {
+                               "name":  "JoinCountersinkDiameter",
+                               "expression":  "6.2 mm",
+                               "value_cm":  0.62000000000000011
+                           }
+                       ],
+        "features":  [
+                         {
+                             "name":  "Right_Connecting_Web",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Right_Rod_Contact_Flange",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Original_Rod_Clearance_4x",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Four_Blind_M3_Tap_Bores",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Deck_M3x0_5_6H_1",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Deck_M3x0_5_6H_2",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Deck_M3x0_5_6H_3",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Deck_M3x0_5_6H_4",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         }
+                     ],
+        "extrudes":  [
+                         {
+                             "name":  "Right_Connecting_Web",
+                             "extent_type":  "20737",
+                             "distance":  "DropHeight",
+                             "sketch":  "Right_Connecting_Web_Profile",
+                             "plane":  "Right_Connecting_Web_StartPlane"
+                         },
+                         {
+                             "name":  "Right_Rod_Contact_Flange",
+                             "extent_type":  "20737",
+                             "distance":  "BaseThickness",
+                             "sketch":  "Right_Rod_Contact_Flange_Profile",
+                             "plane":  "Right_Rod_Contact_Flange_StartPlane"
+                         },
+                         {
+                             "name":  "Original_Rod_Clearance_4x",
+                             "extent_type":  "20743",
+                             "distance":  null,
+                             "sketch":  "Original_Rod_Clearance_4x_Locations",
+                             "plane":  "XY Plane"
+                         },
+                         {
+                             "name":  "Four_Blind_M3_Tap_Bores",
+                             "extent_type":  "20737",
+                             "distance":  "JoinThreadDepth",
+                             "sketch":  "Deck_Assembly_M3_Locations",
+                             "plane":  "Work Plane3"
+                         }
+                     ],
+        "planes":  [
+                       {
+                           "name":  "YZ Plane",
+                           "type":  "12041",
+                           "z":  0
+                       },
+                       {
+                           "name":  "XZ Plane",
+                           "type":  "12041",
+                           "z":  0
+                       },
+                       {
+                           "name":  "XY Plane",
+                           "type":  "12041",
+                           "z":  0
+                       },
+                       {
+                           "name":  "Right_Connecting_Web_StartPlane",
+                           "type":  "12038",
+                           "z":  0.4
+                       },
+                       {
+                           "name":  "Right_Rod_Contact_Flange_StartPlane",
+                           "type":  "12038",
+                           "z":  0.85000000000000009
+                       },
+                       {
+                           "name":  "Work Plane3",
+                           "type":  "12038",
+                           "z":  0.4
+                       }
+                   ],
+        "sketches":  [
+                         {
+                             "name":  "Right_Connecting_Web_Profile",
+                             "plane":  "Right_Connecting_Web_StartPlane",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Right_Rod_Contact_Flange_Profile",
+                             "plane":  "Right_Rod_Contact_Flange_StartPlane",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Original_Rod_Clearance_4x_Locations",
+                             "plane":  "XY Plane",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Deck_Assembly_M3_Locations",
+                             "plane":  "Work Plane3",
+                             "health":  "11778"
+                         }
+                     ],
+        "volume_mm3":  5727.1055541459091
+    },
+    {
+        "name":  "Centre_Plate",
+        "path":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Centre_Plate.ipt",
+        "dirty":  false,
+        "parameters":  [
+                           {
+                               "name":  "OverallWidth",
+                               "expression":  "51 mm",
+                               "value_cm":  5.1000000000000005
+                           },
+                           {
+                               "name":  "RodWidth",
+                               "expression":  "6 mm",
+                               "value_cm":  0.60000000000000009
+                           },
+                           {
+                               "name":  "ContactLength",
+                               "expression":  "80 mm",
+                               "value_cm":  8
+                           },
+                           {
+                               "name":  "BaseThickness",
+                               "expression":  "4 mm",
+                               "value_cm":  0.4
+                           },
+                           {
+                               "name":  "DropHeight",
+                               "expression":  "8.5 mm",
+                               "value_cm":  0.85000000000000009
+                           },
+                           {
+                               "name":  "WebThickness",
+                               "expression":  "6 mm",
+                               "value_cm":  0.60000000000000009
+                           },
+                           {
+                               "name":  "FingerStartX",
+                               "expression":  "19.933375831081218 mm",
+                               "value_cm":  1.9933375831081219
+                           },
+                           {
+                               "name":  "FingerWidth",
+                               "expression":  "13.5 mm",
+                               "value_cm":  1.35
+                           },
+                           {
+                               "name":  "FingerThickness",
+                               "expression":  "6 mm",
+                               "value_cm":  0.60000000000000009
+                           },
+                           {
+                               "name":  "FingerEndInset",
+                               "expression":  "4 mm",
+                               "value_cm":  0.4
+                           },
+                           {
+                               "name":  "RodClearanceDiameter",
+                               "expression":  "3.4 mm",
+                               "value_cm":  0.34
+                           },
+                           {
+                               "name":  "ClampFirstY",
+                               "expression":  "41.82802366515844 mm",
+                               "value_cm":  4.182802366515844
+                           },
+                           {
+                               "name":  "ClampPitch",
+                               "expression":  "16 mm",
+                               "value_cm":  1.6
+                           },
+                           {
+                               "name":  "ClampHeight",
+                               "expression":  "BaseThickness + FingerThickness / 2 ul",
+                               "value_cm":  0.70000000000000007
+                           },
+                           {
+                               "name":  "TapDrillDiameter",
+                               "expression":  "2.5 mm",
+                               "value_cm":  0.25
+                           },
+                           {
+                               "name":  "TapDepth",
+                               "expression":  "6 mm",
+                               "value_cm":  0.60000000000000009
+                           },
+                           {
+                               "name":  "RodHoleStart",
+                               "expression":  "5 mm",
+                               "value_cm":  0.5
+                           },
+                           {
+                               "name":  "RodScrewPitch",
+                               "expression":  "20 mm",
+                               "value_cm":  2
+                           },
+                           {
+                               "name":  "JoinLeftX",
+                               "expression":  "9.5 mm",
+                               "value_cm":  0.95000000000000007
+                           },
+                           {
+                               "name":  "JoinFirstY",
+                               "expression":  "10 mm",
+                               "value_cm":  1
+                           },
+                           {
+                               "name":  "JoinPitch",
+                               "expression":  "20 mm",
+                               "value_cm":  2
+                           },
+                           {
+                               "name":  "JoinThreadDepth",
+                               "expression":  "6.5 mm",
+                               "value_cm":  0.65
+                           },
+                           {
+                               "name":  "JoinCountersinkDiameter",
+                               "expression":  "6.6 mm",
+                               "value_cm":  0.66
+                           },
+                           {
+                               "name":  "DeviceLipThickness",
+                               "expression":  "3.0398406169005163 mm",
+                               "value_cm":  0.30398406169005165
+                           },
+                           {
+                               "name":  "DeviceGrooveAllowance",
+                               "expression":  "0.3 mm",
+                               "value_cm":  0.03
+                           },
+                           {
+                               "name":  "DeviceGrooveWidth",
+                               "expression":  "DeviceLipThickness + DeviceGrooveAllowance",
+                               "value_cm":  0.33398406169005168
+                           },
+                           {
+                               "name":  "DeviceGrooveDepth",
+                               "expression":  "0.5 mm",
+                               "value_cm":  0.05
+                           },
+                           {
+                               "name":  "DeviceGrooveRadius",
+                               "expression":  "0.5 mm",
+                               "value_cm":  0.05
+                           }
+                       ],
+        "features":  [
+                         {
+                             "name":  "Central_Deck",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Integral_Device_Boss",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Eight_M3_90deg_Countersunk_Clearance_Holes",
+                             "type":  "83912192",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_Tap_Drills_5x_PositiveX",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_M3x0_5_6H_PositiveX_1",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_M3x0_5_6H_PositiveX_2",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_M3x0_5_6H_PositiveX_3",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_M3x0_5_6H_PositiveX_4",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_M3x0_5_6H_PositiveX_5",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_Tap_Drills_5x_NegativeX",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_M3x0_5_6H_NegativeX_1",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_M3x0_5_6H_NegativeX_2",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_M3x0_5_6H_NegativeX_3",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_M3x0_5_6H_NegativeX_4",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_M3x0_5_6H_NegativeX_5",
+                             "type":  "83916800",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_Lip_Relief_Left",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_Lip_Relief_Right",
+                             "type":  "83910656",
+                             "health":  "11778"
+                         }
+                     ],
+        "extrudes":  [
+                         {
+                             "name":  "Central_Deck",
+                             "extent_type":  "20737",
+                             "distance":  "BaseThickness",
+                             "sketch":  "Central_Deck_Profile",
+                             "plane":  "XY Plane"
+                         },
+                         {
+                             "name":  "Integral_Device_Boss",
+                             "extent_type":  "20737",
+                             "distance":  "FingerThickness",
+                             "sketch":  "Integral_Device_Boss_Profile",
+                             "plane":  "Integral_Device_Boss_StartPlane"
+                         },
+                         {
+                             "name":  "Device_Tap_Drills_5x_PositiveX",
+                             "extent_type":  "20737",
+                             "distance":  "TapDepth",
+                             "sketch":  "M3_Side_Tap_Locations_PositiveX",
+                             "plane":  "Device_Clamp_Face_PositiveX"
+                         },
+                         {
+                             "name":  "Device_Tap_Drills_5x_NegativeX",
+                             "extent_type":  "20737",
+                             "distance":  "TapDepth",
+                             "sketch":  "M3_Side_Tap_Locations_NegativeX",
+                             "plane":  "Device_Clamp_Face_NegativeX"
+                         },
+                         {
+                             "name":  "Device_Lip_Relief_Left",
+                             "extent_type":  "20737",
+                             "distance":  "DeviceGrooveDepth",
+                             "sketch":  "Device_Lip_Left_Relief_Profile",
+                             "plane":  "Device_Relief_Deck_Surface"
+                         },
+                         {
+                             "name":  "Device_Lip_Relief_Right",
+                             "extent_type":  "20737",
+                             "distance":  "DeviceGrooveDepth",
+                             "sketch":  "Device_Lip_Right_Relief_Profile",
+                             "plane":  "Device_Relief_Deck_Surface"
+                         }
+                     ],
+        "planes":  [
+                       {
+                           "name":  "YZ Plane",
+                           "type":  "12041",
+                           "z":  0
+                       },
+                       {
+                           "name":  "XZ Plane",
+                           "type":  "12041",
+                           "z":  0
+                       },
+                       {
+                           "name":  "XY Plane",
+                           "type":  "12041",
+                           "z":  0
+                       },
+                       {
+                           "name":  "Integral_Device_Boss_StartPlane",
+                           "type":  "12038",
+                           "z":  0.4
+                       },
+                       {
+                           "name":  "Device_Clamp_Face_PositiveX",
+                           "type":  "12038",
+                           "z":  0
+                       },
+                       {
+                           "name":  "Device_Clamp_Face_NegativeX",
+                           "type":  "12038",
+                           "z":  0
+                       },
+                       {
+                           "name":  "Device_Relief_Deck_Surface",
+                           "type":  "12038",
+                           "z":  0.4
+                       }
+                   ],
+        "sketches":  [
+                         {
+                             "name":  "Central_Deck_Profile",
+                             "plane":  "XY Plane",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Integral_Device_Boss_Profile",
+                             "plane":  "Integral_Device_Boss_StartPlane",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Eight_Deck_Countersink_Locations",
+                             "plane":  "XY Plane",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "M3_Side_Tap_Locations_PositiveX",
+                             "plane":  "Device_Clamp_Face_PositiveX",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "M3_Side_Tap_Locations_NegativeX",
+                             "plane":  "Device_Clamp_Face_NegativeX",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_Lip_Left_Relief_Profile",
+                             "plane":  "Device_Relief_Deck_Surface",
+                             "health":  "11778"
+                         },
+                         {
+                             "name":  "Device_Lip_Right_Relief_Profile",
+                             "plane":  "Device_Relief_Deck_Surface",
+                             "health":  "11778"
+                         }
+                     ],
+        "volume_mm3":  17342.995018356738
+    }
+]

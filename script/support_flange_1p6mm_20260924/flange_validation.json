@@ -1,0 +1,103 @@
+{
+  "passed": true,
+  "parts": [
+    {
+      "part": "Left",
+      "flange_thickness_mm": 1.6,
+      "chamfer_leg_mm": 1.6,
+      "chamfer_angle_deg": 45,
+      "volume_difference_from_requested_cut_mm3": 8.809365681372583e-08,
+      "matching_point_classifications": 20000,
+      "rod_side_face_area_before_mm2": 923.6831889245018,
+      "rod_side_face_area_after_mm2": 923.6831889245018,
+      "removed_volume_mm3": 1167.0494556316107,
+      "bevel_bounds_mm": [
+        0.0,
+        0.0,
+        10.899999999999999,
+        1.6000000000000036,
+        80.0,
+        12.500000000000004
+      ]
+    },
+    {
+      "part": "Right",
+      "flange_thickness_mm": 1.6,
+      "chamfer_leg_mm": 1.6,
+      "chamfer_angle_deg": 45,
+      "volume_difference_from_requested_cut_mm3": 4.130015440750867e-09,
+      "matching_point_classifications": 20000,
+      "rod_side_face_area_before_mm2": 923.6831889245018,
+      "rod_side_face_area_after_mm2": 923.6831889245018,
+      "removed_volume_mm3": 1167.0494555459618,
+      "bevel_bounds_mm": [
+        49.39999999999999,
+        0.0,
+        10.899999999999999,
+        51.0,
+        80.0,
+        12.5
+      ]
+    }
+  ],
+  "central_plate_and_standard_hardware_unchanged": true,
+  "rod_screw_bearing": [
+    {
+      "screw": "Rod_Clamp_M3_X3_Y140",
+      "underhead_plane_z_mm": -1.6,
+      "bearing_face_area_mm2": 15.715817249582999,
+      "support_contact_area_mm2": 10.54614552651457,
+      "contact_fraction": 0.6710529499695219
+    },
+    {
+      "screw": "Rod_Clamp_M3_X3_Y160",
+      "underhead_plane_z_mm": -1.6,
+      "bearing_face_area_mm2": 15.715817249582999,
+      "support_contact_area_mm2": 10.546145526514566,
+      "contact_fraction": 0.6710529499695217
+    },
+    {
+      "screw": "Rod_Clamp_M3_X3_Y180",
+      "underhead_plane_z_mm": -1.6,
+      "bearing_face_area_mm2": 15.715817249582999,
+      "support_contact_area_mm2": 10.546145526514566,
+      "contact_fraction": 0.6710529499695217
+    },
+    {
+      "screw": "Rod_Clamp_M3_X3_Y200",
+      "underhead_plane_z_mm": -1.6,
+      "bearing_face_area_mm2": 15.715817249582999,
+      "support_contact_area_mm2": 10.546145526514566,
+      "contact_fraction": 0.6710529499695217
+    },
+    {
+      "screw": "Rod_Clamp_M3_X48_Y140",
+      "underhead_plane_z_mm": -1.6,
+      "bearing_face_area_mm2": 15.715817249582999,
+      "support_contact_area_mm2": 10.546145526514536,
+      "contact_fraction": 0.6710529499695198
+    },
+    {
+      "screw": "Rod_Clamp_M3_X48_Y160",
+      "underhead_plane_z_mm": -1.6,
+      "bearing_face_area_mm2": 15.715817249582999,
+      "support_contact_area_mm2": 10.546145526514547,
+      "contact_fraction": 0.6710529499695205
+    },
+    {
+      "screw": "Rod_Clamp_M3_X48_Y180",
+      "underhead_plane_z_mm": -1.6,
+      "bearing_face_area_mm2": 15.715817249582999,
+      "support_contact_area_mm2": 10.546145526514547,
+      "contact_fraction": 0.6710529499695205
+    },
+    {
+      "screw": "Rod_Clamp_M3_X48_Y200",
+      "underhead_plane_z_mm": -1.6,
+      "bearing_face_area_mm2": 15.715817249582999,
+      "support_contact_area_mm2": 10.546145526514547,
+      "contact_fraction": 0.6710529499695205
+    }
+  ],
+  "comment": "C1.6 bevel preserves the full rod contact plane but removes part of each rod-screw head bearing footprint. This report describes geometry, not preload or structural qualification."
+}

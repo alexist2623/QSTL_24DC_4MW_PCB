@@ -1,0 +1,84 @@
+{
+  "final_pcb_sha256": "4cc4626ee5a9bf4f63d474a3c31aa95e3da202f511cf1d620147b490a2115ccf",
+  "cad_source_pcb_sha256": "4cc4626ee5a9bf4f63d474a3c31aa95e3da202f511cf1d620147b490a2115ccf",
+  "connector_body_and_placement_match": true,
+  "embedded_connector_model_bytes_match": true,
+  "both_mount_locations_and_drills_match": true,
+  "standard_screw_bytes_unchanged": true,
+  "nominal_radial_shank_play_mm": 0.09999999999999998,
+  "tolerance_safe_fit_confirmed": false,
+  "cable_height_status": "0.47 mm center above PCB is a placement assumption; detailed section verification and flex deformation are not modeled.",
+  "cable_width_mm": 15.6,
+  "cable_reinforced_thickness_mm": 0.2,
+  "screw_length_status": "M1.6 x 4 used for clearance review; mating threaded support/nut and required engagement are not specified.",
+  "hardware_family": "ISO 7045 H",
+  "hardware_member": "M1.6 x 4 - H",
+  "thread_pitch_mm": 0.35,
+  "head_diameter_mm": 3.2,
+  "head_height_mm": 1.3,
+  "nominal_connector_gap_mm": 0,
+  "fit_status": "Both round screw heads intersect the ZIF housing at the existing saved hole positions.",
+  "housing_interferences": [
+    {
+      "first": "Molex_502598_5193",
+      "volume_mm3": 0.009521108130325934,
+      "second": "MH7_ISO7045H_M1p6x4"
+    },
+    {
+      "first": "Molex_502598_5193",
+      "volume_mm3": 0.009520990387637172,
+      "second": "MH8_ISO7045H_M1p6x4"
+    }
+  ],
+  "cable_hole_plan_clearance": {
+    "pcb_sha256": "4cc4626ee5a9bf4f63d474a3c31aa95e3da202f511cf1d620147b490a2115ccf",
+    "cable_width_mm": 15.6,
+    "cable_edges_x_mm": [
+      1.9500000000000002,
+      17.55
+    ],
+    "hole_centers_mm": [
+      [
+        1.5999993399999999,
+        1.20000014
+      ],
+      [
+        17.89999976,
+        1.20000014
+      ]
+    ],
+    "hole_diameters_mm": [
+      1.7999989399999998,
+      1.7999989399999998
+    ],
+    "inside_hole_edge_separation_mm": 14.50000148,
+    "signed_hole_edge_to_cable_edge_clearance_mm": [
+      -0.5499988099999995,
+      -0.5499997100000016
+    ],
+    "interpretation": "Negative clearance means overlap in XY projection. The cable is above the PCB; this is not a claim that the hole void collides with it in 3D.",
+    "cable_height_assumption_mm": 0.47
+  },
+  "unchanged_pcb_and_gerber": true,
+  "artifacts": {
+    "FPC_51_0p3_Envelope.ipt": "63d9e8526a12959776772acc7c5a37ea9ed4505c51820cf7c36496921296ed13",
+    "FPC_51_0p3_Envelope.step": "b864170a33c4221aa9958d4b73f60cffbf237b147610c712fde90cb0c6097b6f",
+    "ISO_4762_M1p6x4.step": "64e5324f9ddf5757af9b5587e697de010f60f49e7383eb6421c5aff6acb25d28",
+    "ISO_7045_H_M1p6x4.step": "e8af613cf2bb353e30d233731fdde77f986e36733a53ba1189b86e1f4911d082",
+    "J1_Current.ipt": "f609d00b396d426c55674f347e1e4712279038b6455946af23f6567fd7abc34e",
+    "J1_Current.step": "6a2bfc9f3fabcb8b4959dd746596ce82a09f65626e61f62353c20129a9fa268e",
+    "J1_embedded.step": "0f86a223e1a1920af07de0972295acb75b1658ea2ece95c59b116630a4253501",
+    "PCB_End.ipt": "e6d0ea20efe7fb1151ed200e143cdb32f4b47db2982f5f61e7b4ae54615f568f",
+    "PCB_End.step": "aaa44d6bd0cb3de563af3c53d22225ee08b74f4db550b6036fbe158a848199df",
+    "ZIF_Cable_Hole_Clearance.png": "dd752461bdf9dc016988e9fdcc302c75952be5b6b25a431ba09cc451c682c92a",
+    "ZIF_Cable_Hole_Clearance.svg": "bacc81ca0fc0e0f9dcbf6ba790463d7be15fe9a93da674b31007ae352b4fa751",
+    "ZIF_Holes_Cable_Native_Top.png": "d6578b860f56d66b8a47c31398e84586bec4add609639de803f69be6fc870714",
+    "ZIF_M1p6_Fit.iam": "cc5d6172fc3b2a25a27c0e6d75a141234f2586971ba68c2b60002ee40e8b41d7",
+    "ZIF_M1p6_Fit.step": "d76c1e2182b4e824ce7fa15299f7703e83ed9041543825d8d8d582109868af6e",
+    "ZIF_M1p6_NoCable.png": "fb67dc3526c816b32f6d5a56bf3ddfdfb9536e353de9425d4f84190961435dde",
+    "ZIF_M1p6_Oblique.png": "1e0d2f5b7a101cb46722a37cb16be7e38e7343b6b6a56c6356bf6ef830ae4e64",
+    "ZIF_M1p6_Round_Oblique.png": "912868c08d454e5b0d20d26bd2ed51ea6dce6cfbe21a26b67c83c53227487996",
+    "ZIF_M1p6_Round_Top.png": "dfa1d6cae7ac22d12c5e827834e3f2ebf1253515b97870469b037a81756add5e",
+    "ZIF_M1p6_Top.png": "bd0511b854436bf69aa74e494444f7261d6452d7595c91a8677400a2b64d486c"
+  }
+}

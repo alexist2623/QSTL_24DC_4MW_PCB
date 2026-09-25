@@ -1,0 +1,24 @@
+{
+  "pcb_sha256": "84feed018fbaf5cbfa3203201c8771711b00ffec18aa0aadaf20fdeadb99ca63",
+  "measurement": "PCB XY projection; not routed length or 3D spatial distance",
+  "milling_centre_xy_mm": [
+    9.75,
+    42.5
+  ],
+  "zif_J1_placement_origin_xy_mm": [
+    9.750000819999999,
+    4.8500004599999995
+  ],
+  "zif_J1_model_envelope_xy_mm": [
+    1.0500008199999993,
+    2.6249987199999794,
+    18.45000082,
+    6.42499872
+  ],
+  "zif_J1_model_envelope_centre_xy_mm": [
+    9.75000082,
+    4.5249987199999895
+  ],
+  "placement_origin_to_milling_centre_mm": 37.64999954000001,
+  "model_envelope_centre_to_milling_centre_mm": 37.975001280000015
+}

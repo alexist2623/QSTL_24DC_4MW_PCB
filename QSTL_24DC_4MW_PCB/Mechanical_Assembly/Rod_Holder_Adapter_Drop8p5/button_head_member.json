@@ -1,0 +1,65 @@
+﻿{
+    "family":  "ISO 7380-1",
+    "library":  "AI2027_Inventor ISO",
+    "family_id":  "7e948a18-7d98-46c8-9f69-82be43869b08",
+    "row":  2,
+    "source":  "C:\\OneDrive_UBC\\OneDrive - UBC\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\ISO 7380-1\\ISO 7380-1 - M3 x 8.ipt",
+    "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_7380_1_M3x8.ipt",
+    "sha256":  "1C98CA69EEB0EA3453674614B97D2648674203C819AAC70E8E49CEB5943D1F0B",
+    "is_content_member":  true,
+    "values":  {
+                   "NND":  "3",
+                   "NLG":  "8",
+                   "KOD":  "5.7",
+                   "KOH1":  "0.2",
+                   "KOH":  "1.65",
+                   "SW":  "2",
+                   "INTI":  "1.04",
+                   "GEL":  "6.5",
+                   "E0":  "2.303",
+                   "RR":  "1.45",
+                   "SIZE":  "M3x8",
+                   "BDM":  "3",
+                   "GD":  "3",
+                   "SPD":  "2.38655",
+                   "THREADDIA":  "3",
+                   "TPU":  "2",
+                   "THREADDESC":  "M3x0.5",
+                   "GD1":  "2.38655",
+                   "GUL":  "0.306725",
+                   "GAL":  "0.306725",
+                   "PTC":  "0.5",
+                   "TOA":  "30",
+                   "THREADCLASSEXT":  "6g",
+                   "THREADTYPE":  "ISO Metric profile",
+                   "DESIGNATION":  "M3 x 8",
+                   "FILENAME":  "ISO 7380-1 - M3 x 8",
+                   "MATERIAL":  "Steel",
+                   "PARTNUMBER":  "ISO 7380-1 - M3 x 8",
+                   "SIZE_SEL":  "M3",
+                   "NLG_SEL":  "8",
+                   "KLG":  "1.5",
+                   "R":  "0.3"
+               },
+    "bounds_mm":  [
+                      [
+                          -1.6499999999999959,
+                          -2.8500000000000023,
+                          -2.8500000000000023
+                      ],
+                      [
+                          7.9999999999999982,
+                          2.8500000000000023,
+                          2.8500000000000023
+                      ]
+                  ],
+    "threads":  [
+                    {
+                        "internal":  false,
+                        "health":  11778,
+                        "class":  "6g",
+                        "designation":  "M3x0.5",
+                        "depth_mm":  6.5
+                    }
+                ]
+}

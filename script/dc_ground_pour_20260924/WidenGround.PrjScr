@@ -1,0 +1,11 @@
+[Design]
+Version=1.0
+HierarchyMode=0
+
+[Document1]
+DocumentPath=WidenGround.pas
+AnnotationEnabled=1
+
+[Document2]
+DocumentPath=..\dwg_gerber_refresh_20260924\AuditAll.pas
+AnnotationEnabled=1

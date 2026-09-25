@@ -1,0 +1,48 @@
+{
+  "reference_pcb": "C:\\Users\\\ubc15\uc815\ud604\\Nextcloud3\\Lab\\Instruments\\CustomParts\\Carrier_8MW_24DC\\PCB\\Narrow_v4 (May2024)\\narrow_v4\\narrow_v2.PcbDoc",
+  "reference_sha256": "1356843fb56ee93ca6903493f8d44eb2924f98711d682ca023c6505e5cf13562",
+  "reference_connector": "Dsub, 581-M25-113L461; no ZIF connector on this PCB",
+  "coordinate_system": "mm relative to board lower-left; XY planar distance",
+  "Dsub_placement_origin_mm": [
+    9.750000820000004,
+    4.85000046
+  ],
+  "Sample_placement_origin_mm": [
+    9.750000820000004,
+    42.49999882000001
+  ],
+  "Mechanical_2_fill_bbox_mm": [
+    6.224998979999999,
+    38.52500042,
+    10.725000139999999,
+    43.52500057999999
+  ],
+  "Mechanical_2_fill_centre_mm": [
+    8.474999559999999,
+    41.02500049999999
+  ],
+  "Dsub_to_Mechanical_2_centre_dx_dy_mm": [
+    -1.2750012600000051,
+    36.175000039999986
+  ],
+  "Dsub_to_Mechanical_2_centre_distance_mm": 36.19746201195604,
+  "Dsub_to_Sample_placement_origin_distance_mm": 37.64999836000001,
+  "exported_GM2": "C:\\Users\\\ubc15\uc815\ud604\\Nextcloud3\\Lab\\Instruments\\CustomParts\\Carrier_8MW_24DC\\PCB\\Narrow_v4 (May2024)\\narrow_v4\\Project Outputs for narrow_v4\\narrow_v2.GM2",
+  "exported_GM2_centre_mm": [
+    8.48,
+    41.03
+  ],
+  "exported_GM2_resolution_mm": 0.01,
+  "reference_note_conflict": "Changes.txt requests a 3.5 x 4.0 mm cavity; saved PCB Mechanical 2 and exported GM2 both contain a 4.5 x 5.0 mm rectangle.",
+  "current_ZIF_origin_to_cavity_distance_mm": 37.64999954000001,
+  "current_cavity_shift_from_reference_mm": [
+    1.2750004400000012,
+    1.4749995000000098
+  ],
+  "separate_ZIF_adapter": {
+    "source": "C:\\JeonghyunPark\\Workspace\\QSTL_25P_ZIF_ZIF\\QSTL_25P_ZIF_ZIF\\QSTL_25P_ZIF_ZIF.PcbDoc",
+    "sha256": "5af0d5127303691632f4730e8d35ec6802bbb087b6375ca7c8ba0042d0ee3bc0",
+    "observation": "ZIF-to-ZIF adapter with no sample component or Mechanical 2 pocket fill."
+  },
+  "all_source_files_unchanged": true
+}

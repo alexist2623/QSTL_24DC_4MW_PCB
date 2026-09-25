@@ -1,0 +1,15 @@
+﻿[
+    {
+        "diameters_mm":  [
+                             "1.6",
+                             "2"
+                         ],
+        "family":  "ISO 4762"
+    },
+    {
+        "diameters_mm":  [
+
+                         ],
+        "family":  "ISO 7380-1"
+    }
+]

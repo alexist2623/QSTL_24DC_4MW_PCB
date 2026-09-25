@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "errors": [],
+  "minimum_mm": {
+    "track_track": 0.22499828000000036,
+    "track_via": 0.18749899000000125,
+    "track_mount": 0.36249990999999987
+  },
+  "via_minimum_mm": 0.4999990000000004
+}

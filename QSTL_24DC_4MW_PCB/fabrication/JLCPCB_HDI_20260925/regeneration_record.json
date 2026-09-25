@@ -1,0 +1,28 @@
+{
+  "export_started_utc": "2026-09-25T18:02:34.3720000Z",
+  "native_export_file_count": 21,
+  "all_export_files_refreshed": true,
+  "pcb_sha256": "8841a488c8a961dbc1d93d881ae981af0ba81006e28a80e4c08543c365c2812e",
+  "package": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\fabrication\\JLCPCB_HDI_20260925\\QSTL_24DC_6RF_HDI_Gerber_20260925.zip",
+  "package_sha256": "a2a312aed195dfd7aaf9b515a037e7267cbb140f7b1399d01e4e2b5fa4f0eaf5",
+  "bytes": 343040,
+  "cam_checks_passed": true,
+  "blind_holes": 480,
+  "blind_span": [
+    "L5",
+    "L6"
+  ],
+  "through_holes": 96,
+  "through_diameters": {
+    "0.25": 48,
+    "0.75": 40,
+    "1.2": 2,
+    "2.1": 4,
+    "4.0": 2
+  },
+  "pocket_mm": [
+    4.3,
+    4.3,
+    1.2
+  ]
+}

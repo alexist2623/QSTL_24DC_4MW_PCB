@@ -1,5 +1,7 @@
 # JLCPCB fabrication companion package
 
+Revision status (2026-09-23): the PCB DC contact map has changed to J1 contacts 2..48 even, with contact 50 unused. Pocket/RF geometry is unchanged, but these earlier package hashes and drill exports are historical. Regenerate complete CAM from the current original PCB before production.
+
 Status: saved PCB and footprint verified after reopening; 37 connected nets and zero violations across 15 enabled Altium DRC rules. This is a fabrication companion package, not a complete production CAM release. See manifest.json for the source PCB revision.
 
 ## QD cavity
@@ -29,7 +31,7 @@ Select Blind Slots = Yes, Bottom entry, non-plated, depth 1.2 mm; attach the loc
 
 > Bottom non-plated blind pocket is specified in bottom blind slots layer.gbr: 4.3 x 4.3 mm, R0.5, 1.2 mm depth from Bottom/QD face. Retain Top copper and the pocket floor. QD pad edge clearance is 0.2 mm nominal. RF is L6 50-ohm coplanar with L5 reference; GND laser vias connect L6-L5 only. Please review the combined HDI, cavity, remaining floor and bond-pad finish before production.
 
-The combined cavity/HDI process and finish suitability for the user's wire-bond material have not been accepted by JLCPCB. No files have been uploaded and no order or supplier contact has been made.
+The combined cavity/HDI process and finish suitability for the user's wire-bond material have not been accepted by JLCPCB. This companion package was superseded for quotation on 2026-09-22 by the complete native CAM ZIP in [JLCPCB_HDI_20260922](../JLCPCB_HDI_20260922/README.md), which was uploaded to the JLCPCB quote page. No order has been placed.
 
 ## Official sources checked 2026-09-20
 

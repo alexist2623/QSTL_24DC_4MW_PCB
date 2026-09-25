@@ -250,9 +250,9 @@
     {
         "sheet":  "QSTL-LS01:3",
         "view":  "VIEW7",
-        "expected_mm":  4,
-        "native_model_value_mm":  4.0000000000000036,
-        "displayed_text":  "4.00",
+        "expected_mm":  1.6,
+        "native_model_value_mm":  1.6000000000000014,
+        "displayed_text":  "1.60",
         "precision":  2
     },
     {
@@ -338,9 +338,9 @@
     {
         "sheet":  "QSTL-RS01:4",
         "view":  "VIEW11",
-        "expected_mm":  4,
-        "native_model_value_mm":  4.0000000000000036,
-        "displayed_text":  "4.00",
+        "expected_mm":  1.6,
+        "native_model_value_mm":  1.6000000000000014,
+        "displayed_text":  "1.60",
         "precision":  2
     },
     {

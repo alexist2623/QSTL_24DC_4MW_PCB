@@ -1,0 +1,64 @@
+﻿[
+    {
+        "part":  "Left",
+        "sha256":  "E4C49D3AD8CE29923A37EB606AA7D6773F7FEC32F0A26CD68AC254CBF218EADC",
+        "reopened_from_independent_saved_copy":  true,
+        "healthy":  true,
+        "flange_mm":  1.6,
+        "chamfer_mm":  1.6,
+        "native_chamfer":  "Outer_End_1p6mm_45deg",
+        "threads":  [
+                        {
+                            "designation":  "M3x0.5",
+                            "class":  "6H",
+                            "depth_mm":  6.5
+                        },
+                        {
+                            "designation":  "M3x0.5",
+                            "class":  "6H",
+                            "depth_mm":  6.5
+                        },
+                        {
+                            "designation":  "M3x0.5",
+                            "class":  "6H",
+                            "depth_mm":  6.5
+                        },
+                        {
+                            "designation":  "M3x0.5",
+                            "class":  "6H",
+                            "depth_mm":  6.5
+                        }
+                    ]
+    },
+    {
+        "part":  "Right",
+        "sha256":  "87E287E1FB9FC4BC80E88415CD2D706E2C401D3BADB6C0C586B88BD93118F518",
+        "reopened_from_independent_saved_copy":  true,
+        "healthy":  true,
+        "flange_mm":  1.6,
+        "chamfer_mm":  1.6,
+        "native_chamfer":  "Outer_End_1p6mm_45deg",
+        "threads":  [
+                        {
+                            "designation":  "M3x0.5",
+                            "class":  "6H",
+                            "depth_mm":  6.5
+                        },
+                        {
+                            "designation":  "M3x0.5",
+                            "class":  "6H",
+                            "depth_mm":  6.5
+                        },
+                        {
+                            "designation":  "M3x0.5",
+                            "class":  "6H",
+                            "depth_mm":  6.5
+                        },
+                        {
+                            "designation":  "M3x0.5",
+                            "class":  "6H",
+                            "depth_mm":  6.5
+                        }
+                    ]
+    }
+]

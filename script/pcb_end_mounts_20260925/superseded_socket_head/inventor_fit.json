@@ -1,0 +1,91 @@
+﻿{
+    "saved_and_reopened":  true,
+    "pcb_sha256":  "306a53d49bfee85d3b3776aa249cc8012ffaea3bdd0f4d14b103167de2ac51f8",
+    "hardware":  {
+                     "family":  "ISO 4762",
+                     "library":  "AI2027_Inventor ISO",
+                     "family_id":  "9c6583ef-6f2e-42a0-aee7-94f8e9e059c5",
+                     "row":  3,
+                     "source":  "C:\\OneDrive_UBC\\OneDrive - UBC\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\ISO 4762(2)\\ISO 4762 - M1.6 x 4ISO.ipt",
+                     "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\ZIF_M1p6_Review\\Standard_Fasteners\\ISO_4762_M1p6x4.ipt",
+                     "sha256":  "D314F3F8417FC7DCCB068FFEBD7CBEE30F3DB9C34F9635070413AE48B647B07A",
+                     "is_content_member":  true,
+                     "values":  {
+                                    "NND":  "1.6",
+                                    "NLG":  "4",
+                                    "GEL":  "3.125",
+                                    "SW":  "1.5",
+                                    "KOD":  "3",
+                                    "KOH":  "1.6",
+                                    "INTI":  "0.7",
+                                    "RR":  "0.16",
+                                    "GD":  "1.6",
+                                    "E0":  "1.7325",
+                                    "SPD":  "1.170585",
+                                    "BDM":  "1.6",
+                                    "SIZE":  "M1.6x4",
+                                    "FAWI":  "45",
+                                    "THREADDIA":  "1.6",
+                                    "TPU":  "2.8571429",
+                                    "THREADDESC":  "M1.6x0.35",
+                                    "GD1":  "1.170585",
+                                    "GUL":  "0.2147075",
+                                    "GAL":  "0.2147075",
+                                    "PTC":  "0.35",
+                                    "TOA":  "30",
+                                    "THREADCLASSEXT":  "6g",
+                                    "THREADTYPE":  "ISO Metric profile",
+                                    "DESIGNATION":  "M1.6 x 4",
+                                    "FILENAME":  "ISO 4762 - M1.6 x 4ISO",
+                                    "MATERIAL":  "Stainless Steel, 440C",
+                                    "PARTNUMBER":  "ISO 4762 - M1.6 x 4",
+                                    "SIZE_SEL":  "M1.6",
+                                    "KLG":  "0.875"
+                                },
+                     "bounds_mm":  [
+                                       [
+                                           -1.599999999999997,
+                                           -1.5000000000000027,
+                                           -1.5000000000000024
+                                       ],
+                                       [
+                                           4.0000000000000036,
+                                           1.5000000000000022,
+                                           1.5000000000000024
+                                       ]
+                                   ],
+                     "threads":  [
+                                     {
+                                         "internal":  false,
+                                         "health":  11778,
+                                         "class":  "6g",
+                                         "designation":  "M1.6x0.35",
+                                         "depth_mm":  3.125
+                                     }
+                                 ]
+                 },
+    "interferences":  [
+                          {
+                              "first":  "FPC_51x0p3_Dimensional_Envelope",
+                              "volume_mm3":  0.49836096654902279,
+                              "second":  "MH7_ISO4762_M1p6x4"
+                          },
+                          {
+                              "first":  "FPC_51x0p3_Dimensional_Envelope",
+                              "volume_mm3":  0.49836148559589954,
+                              "second":  "MH8_ISO4762_M1p6x4"
+                          }
+                      ],
+    "distances":  [
+                      {
+                          "screw":  "MH8_ISO4762_M1p6x4",
+                          "connector_distance_mm":  0.024998580000365967
+                      },
+                      {
+                          "screw":  "MH7_ISO4762_M1p6x4",
+                          "connector_distance_mm":  0.024998580000715871
+                      }
+                  ],
+    "cable_is_dimensional_envelope":  true,
+    "head_cable_contact_permitted":  true
+}

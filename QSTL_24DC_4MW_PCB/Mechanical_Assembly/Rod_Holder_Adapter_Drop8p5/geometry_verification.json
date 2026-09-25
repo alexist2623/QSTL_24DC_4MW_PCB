@@ -9,7 +9,7 @@
     -12.5,
     51.0,
     215.0,
-    0.0
+    3.552713678800501e-15
   ],
   "device_bounds_mm": [
     15.422898761436006,
@@ -152,11 +152,11 @@
     },
     {
       "pair": "Rod_Clamp_M3_X3_Y140 / plate",
-      "overlap_mm3": 0.0,
-      "non_thread_overlap_mm3": 0.0,
+      "overlap_mm3": 0.004918139901103308,
+      "non_thread_overlap_mm3": 0.004918139901103308,
       "cosmetic_thread_envelope_allowed": false,
-      "minimum_distance_mm": 2.220446049250313e-15,
-      "interference_free": true
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
     },
     {
       "pair": "Rod_Clamp_M3_X3_Y140 / rods",
@@ -168,11 +168,11 @@
     },
     {
       "pair": "Rod_Clamp_M3_X3_Y160 / plate",
-      "overlap_mm3": 0.0,
-      "non_thread_overlap_mm3": 0.0,
+      "overlap_mm3": 0.00491813990112013,
+      "non_thread_overlap_mm3": 0.00491813990112013,
       "cosmetic_thread_envelope_allowed": false,
-      "minimum_distance_mm": 2.220446049250313e-15,
-      "interference_free": true
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
     },
     {
       "pair": "Rod_Clamp_M3_X3_Y160 / rods",
@@ -184,11 +184,11 @@
     },
     {
       "pair": "Rod_Clamp_M3_X3_Y180 / plate",
-      "overlap_mm3": 0.0,
-      "non_thread_overlap_mm3": 0.0,
+      "overlap_mm3": 0.0049181399011087295,
+      "non_thread_overlap_mm3": 0.0049181399011087295,
       "cosmetic_thread_envelope_allowed": false,
-      "minimum_distance_mm": 2.220446049250313e-15,
-      "interference_free": true
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
     },
     {
       "pair": "Rod_Clamp_M3_X3_Y180 / rods",
@@ -200,11 +200,11 @@
     },
     {
       "pair": "Rod_Clamp_M3_X3_Y200 / plate",
-      "overlap_mm3": 0.0,
-      "non_thread_overlap_mm3": 0.0,
+      "overlap_mm3": 0.004918139901108786,
+      "non_thread_overlap_mm3": 0.004918139901108786,
       "cosmetic_thread_envelope_allowed": false,
-      "minimum_distance_mm": 2.220446049250313e-15,
-      "interference_free": true
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
     },
     {
       "pair": "Rod_Clamp_M3_X3_Y200 / rods",
@@ -216,11 +216,11 @@
     },
     {
       "pair": "Rod_Clamp_M3_X48_Y140 / plate",
-      "overlap_mm3": 0.0,
-      "non_thread_overlap_mm3": 0.0,
+      "overlap_mm3": 0.004919422661412996,
+      "non_thread_overlap_mm3": 0.004919422661412996,
       "cosmetic_thread_envelope_allowed": false,
-      "minimum_distance_mm": 2.220446049250313e-15,
-      "interference_free": true
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
     },
     {
       "pair": "Rod_Clamp_M3_X48_Y140 / rods",
@@ -232,11 +232,11 @@
     },
     {
       "pair": "Rod_Clamp_M3_X48_Y160 / plate",
-      "overlap_mm3": 0.0,
-      "non_thread_overlap_mm3": 0.0,
+      "overlap_mm3": 0.004919422661436487,
+      "non_thread_overlap_mm3": 0.004919422661436487,
       "cosmetic_thread_envelope_allowed": false,
-      "minimum_distance_mm": 2.220446049250313e-15,
-      "interference_free": true
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
     },
     {
       "pair": "Rod_Clamp_M3_X48_Y160 / rods",
@@ -248,11 +248,11 @@
     },
     {
       "pair": "Rod_Clamp_M3_X48_Y180 / plate",
-      "overlap_mm3": 0.0,
-      "non_thread_overlap_mm3": 0.0,
+      "overlap_mm3": 0.004919422661436471,
+      "non_thread_overlap_mm3": 0.004919422661436471,
       "cosmetic_thread_envelope_allowed": false,
-      "minimum_distance_mm": 2.220446049250313e-15,
-      "interference_free": true
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
     },
     {
       "pair": "Rod_Clamp_M3_X48_Y180 / rods",
@@ -264,11 +264,11 @@
     },
     {
       "pair": "Rod_Clamp_M3_X48_Y200 / plate",
-      "overlap_mm3": 0.0,
-      "non_thread_overlap_mm3": 0.0,
+      "overlap_mm3": 0.004919422661436483,
+      "non_thread_overlap_mm3": 0.004919422661436483,
       "cosmetic_thread_envelope_allowed": false,
-      "minimum_distance_mm": 2.220446049250313e-15,
-      "interference_free": true
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
     },
     {
       "pair": "Rod_Clamp_M3_X48_Y200 / rods",
@@ -570,43 +570,43 @@
     },
     {
       "component": "Rod_Clamp_M3_X3_Y140",
-      "overlap_mm3": 11.733599830200895
+      "overlap_mm3": 0.5764935715289722
     },
     {
       "component": "Rod_Clamp_M3_X3_Y160",
-      "overlap_mm3": 11.733599830244135
+      "overlap_mm3": 0.5764935715289699
     },
     {
       "component": "Rod_Clamp_M3_X3_Y180",
-      "overlap_mm3": 11.733599830244158
+      "overlap_mm3": 0.576493571528973
     },
     {
       "component": "Rod_Clamp_M3_X3_Y200",
-      "overlap_mm3": 11.733599830222655
+      "overlap_mm3": 0.5764935715289653
     },
     {
       "component": "Rod_Clamp_M3_X48_Y140",
-      "overlap_mm3": 11.73360019639494
+      "overlap_mm3": 0.5764300451804436
     },
     {
       "component": "Rod_Clamp_M3_X48_Y160",
-      "overlap_mm3": 11.73360019655316
+      "overlap_mm3": 0.5764300451804396
     },
     {
       "component": "Rod_Clamp_M3_X48_Y180",
-      "overlap_mm3": 11.733600196553178
+      "overlap_mm3": 0.5764300451804412
     },
     {
       "component": "Rod_Clamp_M3_X48_Y200",
-      "overlap_mm3": 11.733600196394796
+      "overlap_mm3": 0.5764300451804442
     },
     {
       "component": "Left_Rod_Support",
-      "overlap_mm3": 167.28316356220319
+      "overlap_mm3": 1.427308147003268
     },
     {
       "component": "Right_Rod_Support",
-      "overlap_mm3": 167.283163562203
+      "overlap_mm3": 1.4273081470033622
     },
     {
       "component": "Deck_Join_M3_X9.5_Y145",
@@ -675,7 +675,72 @@
         159.6380237651587,
         -4.430467291801225
       ]
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y140 / plate",
+      "overlap_mm3": 0.004918139901103308,
+      "non_thread_overlap_mm3": 0.004918139901103308,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y160 / plate",
+      "overlap_mm3": 0.00491813990112013,
+      "non_thread_overlap_mm3": 0.00491813990112013,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y180 / plate",
+      "overlap_mm3": 0.0049181399011087295,
+      "non_thread_overlap_mm3": 0.0049181399011087295,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
+    },
+    {
+      "pair": "Rod_Clamp_M3_X3_Y200 / plate",
+      "overlap_mm3": 0.004918139901108786,
+      "non_thread_overlap_mm3": 0.004918139901108786,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y140 / plate",
+      "overlap_mm3": 0.004919422661412996,
+      "non_thread_overlap_mm3": 0.004919422661412996,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y160 / plate",
+      "overlap_mm3": 0.004919422661436487,
+      "non_thread_overlap_mm3": 0.004919422661436487,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y180 / plate",
+      "overlap_mm3": 0.004919422661436471,
+      "non_thread_overlap_mm3": 0.004919422661436471,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
+    },
+    {
+      "pair": "Rod_Clamp_M3_X48_Y200 / plate",
+      "overlap_mm3": 0.004919422661436483,
+      "non_thread_overlap_mm3": 0.004919422661436483,
+      "cosmetic_thread_envelope_allowed": false,
+      "minimum_distance_mm": 1.7763568394002505e-15,
+      "interference_free": false
     }
   ],
-  "all_checked_interfaces_clear": false
+  "all_checked_interfaces_clear": false,
+  "rod_hardware_update": "ISO 7380-1 M3x8; rod_button_head_verification.json. Unchanged interfaces retain their prior verified geometry and transforms."
 }

@@ -1,0 +1,200 @@
+{
+  "saved_assembly_reopened": true,
+  "only_eight_rod_paths_changed": true,
+  "all_transforms_unchanged": true,
+  "protected_part_and_plate_drawing_hashes_unchanged": true,
+  "assembly_step_valid": true,
+  "assembly_volume_residual_mm3": 1.5151308616623282e-05,
+  "counts": {
+    "button_rod": 8,
+    "socket_device": 2,
+    "countersunk_deck": 8
+  },
+  "fasteners": [
+    {
+      "name": "Rod_Clamp_M3_X3_Y140",
+      "head_bearing_global_z_mm": -1.6,
+      "head_height_mm": 1.65,
+      "head_diameter_mm": 5.7,
+      "actual_bounds_mm": [
+        0.1499998999999994,
+        137.1499999,
+        -3.250000100000001,
+        5.850000100000001,
+        142.85000010000002,
+        6.4
+      ],
+      "flat_bearing_area_mm2": 15.338826131151928,
+      "supported_area_mm2": 10.844567013496317,
+      "supported_fraction": 0.7070011043069241,
+      "flange_overlap_mm3": 0.004918139901103308,
+      "rod_overlap_mm3": 0.0,
+      "old_sleeve_overlap_mm3": 3.3981615379898256,
+      "new_sleeve_overlap_mm3": 0.5764935715289722,
+      "flange_minimum_distance_mm": 0.0,
+      "tip_projection_mm": 0.4
+    },
+    {
+      "name": "Rod_Clamp_M3_X3_Y160",
+      "head_bearing_global_z_mm": -1.6,
+      "head_height_mm": 1.65,
+      "head_diameter_mm": 5.7,
+      "actual_bounds_mm": [
+        0.1499998999999994,
+        157.1499999,
+        -3.250000100000001,
+        5.850000100000001,
+        162.8500001,
+        6.4
+      ],
+      "flat_bearing_area_mm2": 15.338826131151928,
+      "supported_area_mm2": 10.844567013496317,
+      "supported_fraction": 0.7070011043069241,
+      "flange_overlap_mm3": 0.00491813990112013,
+      "rod_overlap_mm3": 0.0,
+      "old_sleeve_overlap_mm3": 3.39816153800746,
+      "new_sleeve_overlap_mm3": 0.5764935715289699,
+      "flange_minimum_distance_mm": 0.0,
+      "tip_projection_mm": 0.4
+    },
+    {
+      "name": "Rod_Clamp_M3_X3_Y180",
+      "head_bearing_global_z_mm": -1.6,
+      "head_height_mm": 1.65,
+      "head_diameter_mm": 5.7,
+      "actual_bounds_mm": [
+        0.1499998999999994,
+        177.14999989999998,
+        -3.250000100000001,
+        5.850000100000001,
+        182.8500001,
+        6.4
+      ],
+      "flat_bearing_area_mm2": 15.338826131151928,
+      "supported_area_mm2": 10.844567013496317,
+      "supported_fraction": 0.7070011043069241,
+      "flange_overlap_mm3": 0.0049181399011087295,
+      "rod_overlap_mm3": 0.0,
+      "old_sleeve_overlap_mm3": 3.398161538007444,
+      "new_sleeve_overlap_mm3": 0.576493571528973,
+      "flange_minimum_distance_mm": 0.0,
+      "tip_projection_mm": 0.4
+    },
+    {
+      "name": "Rod_Clamp_M3_X3_Y200",
+      "head_bearing_global_z_mm": -1.6,
+      "head_height_mm": 1.65,
+      "head_diameter_mm": 5.7,
+      "actual_bounds_mm": [
+        0.1499998999999994,
+        197.14999989999998,
+        -3.250000100000001,
+        5.850000100000001,
+        202.8500001,
+        6.4
+      ],
+      "flat_bearing_area_mm2": 15.338826131151928,
+      "supported_area_mm2": 10.844567013496317,
+      "supported_fraction": 0.7070011043069241,
+      "flange_overlap_mm3": 0.004918139901108786,
+      "rod_overlap_mm3": 0.0,
+      "old_sleeve_overlap_mm3": 3.398161538007437,
+      "new_sleeve_overlap_mm3": 0.5764935715289653,
+      "flange_minimum_distance_mm": 0.0,
+      "tip_projection_mm": 0.4
+    },
+    {
+      "name": "Rod_Clamp_M3_X48_Y140",
+      "head_bearing_global_z_mm": -1.6,
+      "head_height_mm": 1.65,
+      "head_diameter_mm": 5.7,
+      "actual_bounds_mm": [
+        45.14999989999998,
+        137.1499999,
+        -3.250000100000001,
+        50.85000010000001,
+        142.85000010000002,
+        6.4
+      ],
+      "flat_bearing_area_mm2": 15.338826131151928,
+      "supported_area_mm2": 10.844567013496512,
+      "supported_fraction": 0.7070011043069369,
+      "flange_overlap_mm3": 0.004919422661412996,
+      "rod_overlap_mm3": 0.0,
+      "old_sleeve_overlap_mm3": 3.398161536718313,
+      "new_sleeve_overlap_mm3": 0.5764300451804436,
+      "flange_minimum_distance_mm": 0.0,
+      "tip_projection_mm": 0.4
+    },
+    {
+      "name": "Rod_Clamp_M3_X48_Y160",
+      "head_bearing_global_z_mm": -1.6,
+      "head_height_mm": 1.65,
+      "head_diameter_mm": 5.7,
+      "actual_bounds_mm": [
+        45.14999989999998,
+        157.1499999,
+        -3.250000100000001,
+        50.85000010000001,
+        162.8500001,
+        6.4
+      ],
+      "flat_bearing_area_mm2": 15.338826131151928,
+      "supported_area_mm2": 10.844567013496512,
+      "supported_fraction": 0.7070011043069369,
+      "flange_overlap_mm3": 0.004919422661436487,
+      "rod_overlap_mm3": 0.0,
+      "old_sleeve_overlap_mm3": 3.3981615367164184,
+      "new_sleeve_overlap_mm3": 0.5764300451804396,
+      "flange_minimum_distance_mm": 0.0,
+      "tip_projection_mm": 0.4
+    },
+    {
+      "name": "Rod_Clamp_M3_X48_Y180",
+      "head_bearing_global_z_mm": -1.6,
+      "head_height_mm": 1.65,
+      "head_diameter_mm": 5.7,
+      "actual_bounds_mm": [
+        45.14999989999998,
+        177.14999989999998,
+        -3.250000100000001,
+        50.85000010000001,
+        182.8500001,
+        6.4
+      ],
+      "flat_bearing_area_mm2": 15.338826131151928,
+      "supported_area_mm2": 10.844567013496512,
+      "supported_fraction": 0.7070011043069369,
+      "flange_overlap_mm3": 0.004919422661436471,
+      "rod_overlap_mm3": 0.0,
+      "old_sleeve_overlap_mm3": 3.398161536731555,
+      "new_sleeve_overlap_mm3": 0.5764300451804412,
+      "flange_minimum_distance_mm": 0.0,
+      "tip_projection_mm": 0.4
+    },
+    {
+      "name": "Rod_Clamp_M3_X48_Y200",
+      "head_bearing_global_z_mm": -1.6,
+      "head_height_mm": 1.65,
+      "head_diameter_mm": 5.7,
+      "actual_bounds_mm": [
+        45.14999989999998,
+        197.14999989999998,
+        -3.250000100000001,
+        50.85000010000001,
+        202.8500001,
+        6.4
+      ],
+      "flat_bearing_area_mm2": 15.338826131151928,
+      "supported_area_mm2": 10.844567013496512,
+      "supported_fraction": 0.7070011043069369,
+      "flange_overlap_mm3": 0.004919422661436483,
+      "rod_overlap_mm3": 0.0,
+      "old_sleeve_overlap_mm3": 3.3981615367164024,
+      "new_sleeve_overlap_mm3": 0.5764300451804442,
+      "flange_minimum_distance_mm": 0.0,
+      "tip_projection_mm": 0.4
+    }
+  ],
+  "caveat": "Geometric bearing contact does not establish allowable preload. Existing sleeve and device reference clashes remain."
+}

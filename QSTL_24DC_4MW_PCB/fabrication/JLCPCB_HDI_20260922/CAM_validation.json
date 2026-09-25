@@ -1,0 +1,230 @@
+{
+  "passed": true,
+  "pcb_sha256": "84feed018fbaf5cbfa3203201c8771711b00ffec18aa0aadaf20fdeadb99ca63",
+  "schematic_sha256": "731542fee2b5faceb952ee9847650544a4ea3cacc52750a6749e39e6ed7c8d8d",
+  "native_export": "Altium Designer 26.10.1",
+  "gerbers": {
+    "QSTL_24DC_4MW_PCB.GTL": {
+      "objects": 228,
+      "bounds_mm": [
+        [
+          0.3,
+          0.3
+        ],
+        [
+          19.2,
+          67.6
+        ]
+      ],
+      "sha256": "df8dac3b271634e5b7ce58c9c1fa36958b314bda28049093a4c334dcafb0724f"
+    },
+    "QSTL_24DC_4MW_PCB.G1": {
+      "objects": 175,
+      "bounds_mm": [
+        [
+          0.9249999999999998,
+          0.8999999999999999
+        ],
+        [
+          18.575,
+          66.84
+        ]
+      ],
+      "sha256": "eb8ac5f73a16148b6247368cb9ec666f9483ee49614517c5dce26fc88fcbabe6"
+    },
+    "QSTL_24DC_4MW_PCB.G2": {
+      "objects": 262,
+      "bounds_mm": [
+        [
+          0.3,
+          0.3
+        ],
+        [
+          19.2,
+          67.6
+        ]
+      ],
+      "sha256": "695100e9076564ee3d0d5f4163111aea9082f6950edd6412875ef0f5c7b63334"
+    },
+    "QSTL_24DC_4MW_PCB.G3": {
+      "objects": 205,
+      "bounds_mm": [
+        [
+          0.9249999999999998,
+          0.8999999999999999
+        ],
+        [
+          18.575,
+          66.84
+        ]
+      ],
+      "sha256": "f08bf18625f62ddf83a275f1b384c3ff56d58684f0a2a156e68268f3638761a1"
+    },
+    "QSTL_24DC_4MW_PCB.G4": {
+      "objects": 742,
+      "bounds_mm": [
+        [
+          0.3,
+          0.3
+        ],
+        [
+          19.2,
+          67.6
+        ]
+      ],
+      "sha256": "d490ee1a8614a904cd92efaf077fdc7ecaf9c514f8774c42e500e3514532fc94"
+    },
+    "QSTL_24DC_4MW_PCB.GBL": {
+      "objects": 836,
+      "bounds_mm": [
+        [
+          0.25,
+          0.25
+        ],
+        [
+          19.25,
+          67.65
+        ]
+      ],
+      "sha256": "da55d9efeb8d9efda1793297374369660c0d301b268a25bd7611cda0860094af"
+    },
+    "QSTL_24DC_4MW_PCB.GTO": {
+      "objects": 253,
+      "bounds_mm": [
+        [
+          0.5499999999999996,
+          1.9449999999999998
+        ],
+        [
+          18.95,
+          60.1898
+        ]
+      ],
+      "sha256": "34168c74386e3d74ffafccedd2d577ddf36a2cc597cd4896e21ea0b7d718da31"
+    },
+    "QSTL_24DC_4MW_PCB.GBO": {
+      "objects": 195,
+      "bounds_mm": [
+        [
+          0.5499999999999999,
+          27.75
+        ],
+        [
+          18.55,
+          53.5498
+        ]
+      ],
+      "sha256": "96818d19e173861f3bb2e480865d2fe718a0a894d59f07b15d6ddd963c20f0c7"
+    },
+    "QSTL_24DC_4MW_PCB.GTS": {
+      "objects": 111,
+      "bounds_mm": [
+        [
+          -0.05,
+          -0.05
+        ],
+        [
+          19.55,
+          67.95
+        ]
+      ],
+      "sha256": "ce0784172abc31c87c07e0f88f1062339fef10dcc4cbf48b0556d1ed407d5901"
+    },
+    "QSTL_24DC_4MW_PCB.GBS": {
+      "objects": 101,
+      "bounds_mm": [
+        [
+          -0.05,
+          -0.05
+        ],
+        [
+          19.55,
+          67.95
+        ]
+      ],
+      "sha256": "ad16ee28837490efef0704c591fc8694baf11c04c6c36925b5bd0b6212681747"
+    },
+    "QSTL_24DC_4MW_PCB.GKO": {
+      "objects": 4,
+      "bounds_mm": [
+        [
+          -0.0127,
+          -0.0127
+        ],
+        [
+          19.5127,
+          67.9127
+        ]
+      ],
+      "sha256": "af28fc072d6bcbda9e69d3a0f7f1e3c3f2fd14f7a3e7e1b62f5667602de73052"
+    },
+    "bottom blind slots layer.gbr": {
+      "objects": 8,
+      "bounds_mm": [
+        [
+          7.595,
+          40.345
+        ],
+        [
+          11.905000000000001,
+          44.655
+        ]
+      ],
+      "sha256": "c5cff73ede3848367ec7a048ee6753e82863dbec8c3e586ad2e439ac51241161"
+    }
+  },
+  "blind_holes": 480,
+  "blind_span": [
+    "L5",
+    "L6"
+  ],
+  "blind_drill_max_center_error_mm": 6.662637616069104e-05,
+  "through_holes": 94,
+  "through_diameters": {
+    "0.25": 48,
+    "0.75": 40,
+    "2.1": 4,
+    "4.0": 2
+  },
+  "prior_saved_design_checks": {
+    "connectivity": true,
+    "stored_connections": 0,
+    "mask_geometry_difference_mm2": 0.0,
+    "DRC": {
+      "checked_rules": 15,
+      "violations": 0,
+      "rules": {
+        "Clearance Constraint (Gap=0.15mm) (Not (InNet('GND') And OnLayer('L6_RF_QD'))),(Not (InNet('GND') And OnLayer('L6_RF_QD')))": "0",
+        "Clearance Constraint (Gap=0.2mm) (InNet('GND') And OnLayer('L6_RF_QD')),(All)": "0",
+        "Short-Circuit Constraint (Allowed=No) (All),(All)": "0",
+        "Un-Routed Net Constraint ( (All) )": "0",
+        "Modified Polygon (Allow modified: No), (Allow shelved: No)": "0",
+        "Width Constraint (Min=0.125mm) (Max=0.254mm) (Preferred=0.15mm) (Not OnLayer('L6_RF_QD'))": "0",
+        "Width Constraint (Min=0.11mm) (Max=0.11mm) (Preferred=0.11mm) (OnLayer('L6_RF_QD'))": "0",
+        "Routing Topology Rule(Topology=Shortest) (All)": "0",
+        "Hole Size Constraint (Min=0.025mm) (Max=4.1mm) (All)": "0",
+        "Hole To Hole Clearance (Gap=0.254mm) (All),(All)": "0",
+        "Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)": "0",
+        "Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)": "0",
+        "Silk to Silk (Clearance=0.254mm) (All),(All)": "0",
+        "Net Antennae (Tolerance=0mm) (All)": "0",
+        "Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)": "0"
+      }
+    }
+  },
+  "pocket_mm": [
+    4.3,
+    4.3,
+    1.2
+  ],
+  "pocket_entry": "Bottom",
+  "pocket_non_through": true,
+  "fresh_native_reopen_20260922": {
+    "stored_connections_after_reopen": 0,
+    "stored_connections_after_DRC": 0,
+    "DRC_report": "Native_DRC.html",
+    "violations": 0,
+    "checked_rules": 15,
+    "pcb_unchanged_after_export_and_reopen": true
+  }
+}

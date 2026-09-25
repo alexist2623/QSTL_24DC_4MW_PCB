@@ -10,48 +10,48 @@
   ],
   "files": [
     {
-      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB_QSTL-CP01.dwg",
-      "sha256": "aa9ade6959985e04ca44ae5ee9306f03acda7bbbceac3876284e967c425f8401"
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevE_QSTL-CP01.dwg",
+      "sha256": "f5c7fd7165e70513a1685d16bc1071eec2854606a89d82cc6f6ba2676fbe0d6a"
     },
     {
-      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB_QSTL-CP02.dwg",
-      "sha256": "b98144b5a991471ecd2c83b9830d3d28d3e7f71decc2a42489391c75b6bc0cb2"
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevE_QSTL-CP02.dwg",
+      "sha256": "d1090b868573a9aae861cf77067425aced978064c331aaa3573bd53bccb17854"
     },
     {
-      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB_QSTL-LS01.dwg",
-      "sha256": "08f7a2fc98d68665928fcea331224213fb7d837442f49dd2ff777aebb8b0e47d"
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevE_QSTL-LS01.dwg",
+      "sha256": "2f662d826447de5c28b7adba979a0d721a34a2b1d54820e2592c37eed61f30f5"
     },
     {
-      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB_QSTL-RS01.dwg",
-      "sha256": "395037b4a347148b5b22f942e57acfcc7828acf3a77e9804f61a9f8a29d1af69"
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevE_QSTL-RS01.dwg",
+      "sha256": "e17981b9005259412312f13e0222066494716084808f9a198f7322f93a43fa61"
     },
     {
-      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB_QSTL-AS01.dwg",
-      "sha256": "78d126c8c5e3f85b51af57e23c62aa797a22581b0dabcdfd794ce505c4c137ee"
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevE_QSTL-AS01.dwg",
+      "sha256": "2846c46d15a0e6df112bc73b72b21df7a8c8f66d8b96270292f557a9f4fa1e7e"
     },
     {
-      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB_Inventor.dwg",
-      "sha256": "0f76894d925269901f9955cb9036743394f41a5781f325b1bd5653fff14066a5"
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevE_Inventor.dwg",
+      "sha256": "883672e80b14684e45c5d6b88f2f2186bdd2a07f71f520ade9326957a3207057"
     },
     {
-      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB.idw",
-      "sha256": "d96a100478526939bc4f8ff803ea40113c900ebdbd5dd26efba4ad00d6b0719a"
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevE.idw",
+      "sha256": "62e94b26a50ab166707a10c7d4ae67bf936fd4d987188574da61094298cc1b7a"
     },
     {
-      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevB.pdf",
-      "sha256": "938de60c8c7f593293b852debdf6204ca81788c5742d47ceacd4517352d42dfa"
+      "file": "Manufacturing_DWG\\QSTL_Split_Mount_RevE.pdf",
+      "sha256": "cb5bf20840ff40a1790e7fb7420de3ae12d59d447f79d3e4a8db502196c38f43"
     },
     {
       "file": "Manufacturing_DWG\\Split_Mount_Assembly.ipn",
-      "sha256": "21f404764c241741e1c6df166eadbe9e06c3322ccbef6fd6fafc1171d973c3b5"
+      "sha256": "78811eaa9c84b302da6dc84e267b1a51757294a4ea105ea77610f9766c997bac"
     },
     {
       "file": "Manufacturing_DWG\\Split_Mount_Plate_Only.iam",
-      "sha256": "bcdc534ca586cd7340a8cb8cacb9fdef3a2f98765d741149a07a9e71aa2aa667"
+      "sha256": "7bbc01fb9228e73d0ea1d7cc797df8f0dcd32948f16ea24ab35125561696482c"
     },
     {
       "file": "Manufacturing_DWG\\Split_Mount_Presentation_Source.iam",
-      "sha256": "60f9f72cd615e75047e6105681c8e69f0d3026acaa0c71bc6615e09e1b1b4459"
+      "sha256": "b5b36751b5af10b6409467182cb921a6dbf26ff0a142e00f9781cb4d8d967a0b"
     },
     {
       "file": "Manufacturing_DWG\\Eight_M3_Fasteners.iam",
@@ -63,11 +63,11 @@
     },
     {
       "file": "Left_Rod_Support.ipt",
-      "sha256": "ff73becc54ce4b1696a24b5d2b9c7b766eaa0295395262834577ff9434f0ca30"
+      "sha256": "e4c49d3ad8ce29923a37eb606aa7d6773f7fec32f0a26cd68ac254cbf218eadc"
     },
     {
       "file": "Right_Rod_Support.ipt",
-      "sha256": "fa967ed758fb5affd9d58619d554ee3b40837f6e5ab149d1ff6ea9ea6860f679"
+      "sha256": "87e287e1fb9fc4bc80e88415cd2d706e2c401d3badb6c0c586b88bd93118f518"
     },
     {
       "file": "Standard_Fasteners\\DIN_7991_M3x10.ipt",
@@ -75,7 +75,7 @@
     },
     {
       "file": "content_center_fasteners.json",
-      "sha256": "81b395bccb983e3071affe1ee19e23fc841f460a9967d7367fd7bd5ed764d2e2"
+      "sha256": "ea31eb4b57582b6c9bea0cd0d54f8725c3b739b57d88c52c4de74752924597e2"
     },
     {
       "file": "Centre_Plate.step",
@@ -83,15 +83,27 @@
     },
     {
       "file": "Left_Rod_Support.step",
-      "sha256": "da6f83436b8dc4733ef101c9c72fbdc19f5044802432b523cdde0e6cc7a8b487"
+      "sha256": "46425f5ba1c9b32e27dfe74a87826cd527813fefe3241ee2fb347c996d9fa189"
     },
     {
       "file": "Right_Rod_Support.step",
-      "sha256": "c289c1543e46aae4c007cc36d4919ecd21c64a902ea5e7311c4dc75455ad22f5"
+      "sha256": "f6ddf8a620134121896e1b1b36c1f47aa04e50e7fd7f49725a902d2d4948e99f"
     },
     {
       "file": "device_relief_grooves.json",
       "sha256": "4608d93f57622b7d64bf8662ec0494ba64648fd10519f0d081c8dca59699f93c"
+    },
+    {
+      "file": "support_flange_1p6mm_validation.json",
+      "sha256": "d944a27a5df54d4e2341a48bb6d69e392c0fd620637dad8be9364a7b54734e5b"
+    },
+    {
+      "file": "support_native_reopen.json",
+      "sha256": "ef669787453301b374ebc5a2b5c199d650549956bfeed3cf2cc11ce5442ea9d2"
+    },
+    {
+      "file": "Manufacturing_DWG\\Split_Mount_Plate_Only.step",
+      "sha256": "81d2e86666294573346eaf8bb4ae0fecf1e4ca3f05cab4cc21ccd8715c0ea700"
     }
   ]
 }

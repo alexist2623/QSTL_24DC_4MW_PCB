@@ -1,0 +1,227 @@
+{
+  "pcb_sha256": "8841a488c8a961dbc1d93d881ae981af0ba81006e28a80e4c08543c365c2812e",
+  "native_saved_and_reopened": true,
+  "standard_member_unmodified": true,
+  "hardware_family": "KS B 1021 - Metric",
+  "hardware_size": "M1 x 4",
+  "thread_pitch_mm": 0.25,
+  "head_diameter_mm": 2,
+  "head_height_mm": 0.65,
+  "washer_count": 0,
+  "hole_geometry": [
+    {
+      "name": "MH8",
+      "x": 18.4500012,
+      "y": 1.20000014,
+      "land_mm": 1.5999993399999999,
+      "drill_mm": 1.20000014
+    },
+    {
+      "name": "MH7",
+      "x": 1.05000044,
+      "y": 1.20000014,
+      "land_mm": 1.5999993399999999,
+      "drill_mm": 1.20000014
+    }
+  ],
+  "hole_center_pitch_mm": 17.4,
+  "cable_hole_plan_clearance": {
+    "pcb_sha256": "8841a488c8a961dbc1d93d881ae981af0ba81006e28a80e4c08543c365c2812e",
+    "cable_width_mm": 15.6,
+    "cable_edges_x_mm": [
+      1.9500000000000002,
+      17.55
+    ],
+    "hole_centers_mm": [
+      [
+        1.05000044,
+        1.20000014
+      ],
+      [
+        18.4500012,
+        1.20000014
+      ]
+    ],
+    "hole_diameters_mm": [
+      1.20000014,
+      1.20000014
+    ],
+    "inside_hole_edge_separation_mm": 16.200000619999997,
+    "signed_hole_edge_to_cable_edge_clearance_mm": [
+      0.29999949000000026,
+      0.3000011299999983
+    ],
+    "interpretation": "Negative clearance means overlap in XY projection. The cable is above the PCB; this is not a claim that the hole void collides with it in 3D.",
+    "cable_height_assumption_mm": 0.47
+  },
+  "nominal_connector_gap_mm": [
+    {
+      "screw": "MH8_KSB1021_M1x4",
+      "connector_distance_mm": 0.6276239085131501
+    },
+    {
+      "screw": "MH7_KSB1021_M1x4",
+      "connector_distance_mm": 0.6276239085131501
+    }
+  ],
+  "housing_interferences": [],
+  "permitted_head_cable_intersections": [
+    {
+      "first": "FPC_51x0p3_Dimensional_Envelope",
+      "volume_mm3": 0.0013981184451541773,
+      "second": "MH7_KSB1021_M1x4"
+    },
+    {
+      "first": "FPC_51x0p3_Dimensional_Envelope",
+      "volume_mm3": 0.0014179377754795328,
+      "second": "MH8_KSB1021_M1x4"
+    }
+  ],
+  "nominal_radial_hole_play_mm": 0.1,
+  "minimum_housing_gap_less_nominal_radial_play_mm": 0.5276239085131501,
+  "fit_status": "No nominal connector or PCB collision. Only the user-permitted head/cable contact remains.",
+  "limitations": [
+    "Cable width 15.6 mm and reinforced thickness 0.20 mm are a dimensional envelope.",
+    "Cable center height 0.47 mm above the PCB is an unverified placement assumption; bending and clamping are not modeled.",
+    "Full dimensional tolerance analysis and mating support/nut are outside this review. Screw length 4 mm is a review assumption."
+  ],
+  "electrical_validation": {
+    "passed": true,
+    "errors": [],
+    "pcb_sha256": "8841a488c8a961dbc1d93d881ae981af0ba81006e28a80e4c08543c365c2812e",
+    "source_sha256": "833555d572fb9945703213acef1ecd809d7eb3ce4a73d5e467c577d3ef70bc90",
+    "unchanged_streams": {
+      "Vias6/Data": true,
+      "Components6/Data": true,
+      "ComponentBodies6/Data": true,
+      "Fills6/Data": true,
+      "BoardRegions/Data": true,
+      "LayerKindMapping/Data": true
+    },
+    "mounts": [
+      {
+        "name": "MH8",
+        "x": 18.4500012,
+        "y": 1.20000014,
+        "land_mm": 1.5999993399999999,
+        "drill_mm": 1.20000014
+      },
+      {
+        "name": "MH7",
+        "x": 1.05000044,
+        "y": 1.20000014,
+        "land_mm": 1.5999993399999999,
+        "drill_mm": 1.20000014
+      }
+    ],
+    "hole_pitch_mm": 17.4,
+    "board_outline_mm": [
+      19.5,
+      67.9
+    ],
+    "nearest_drill_to_edge_mm": 0.45,
+    "mask_symmetric_difference_mm2": {
+      "35": 0.0,
+      "36": 0.0,
+      "37": 0.0,
+      "38": 0.0
+    },
+    "mechanical_solid_connection_checks": [
+      {
+        "layer": 1,
+        "pad": "MH8",
+        "missing_ground_mm2": 0.0
+      },
+      {
+        "layer": 1,
+        "pad": "MH7",
+        "missing_ground_mm2": 0.0
+      },
+      {
+        "layer": 2,
+        "pad": "MH8",
+        "missing_ground_mm2": 0.0
+      },
+      {
+        "layer": 2,
+        "pad": "MH7",
+        "missing_ground_mm2": 0.0
+      },
+      {
+        "layer": 3,
+        "pad": "MH8",
+        "missing_ground_mm2": 0.0
+      },
+      {
+        "layer": 3,
+        "pad": "MH7",
+        "missing_ground_mm2": 0.0
+      },
+      {
+        "layer": 4,
+        "pad": "MH8",
+        "missing_ground_mm2": 0.0
+      },
+      {
+        "layer": 4,
+        "pad": "MH7",
+        "missing_ground_mm2": 0.0
+      },
+      {
+        "layer": 5,
+        "pad": "MH8",
+        "missing_ground_mm2": 0.0
+      },
+      {
+        "layer": 5,
+        "pad": "MH7",
+        "missing_ground_mm2": 0.0
+      },
+      {
+        "layer": 32,
+        "pad": "MH8",
+        "missing_ground_mm2": 0.0
+      },
+      {
+        "layer": 32,
+        "pad": "MH7",
+        "missing_ground_mm2": 0.0
+      }
+    ],
+    "DRC": {
+      "report": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\fabrication\\JLCPCB_HDI_20260925\\Native_DRC.html",
+      "checked_rules": 16,
+      "violations": 0
+    },
+    "connectivity": {
+      "connected_nets": 37,
+      "stored_unrouted_connections": 0
+    },
+    "schematic_mapping_matches": true,
+    "dc_ground_clearance_mm": 0.2,
+    "paste_pad_count": 149,
+    "via_count": 528,
+    "existing_480_L5_L6_blind_vias_preserved": true,
+    "no_added_DC_vias": true
+  },
+  "cam_validation_passed": true,
+  "gerber_zip_sha256": "a2a312aed195dfd7aaf9b515a037e7267cbb140f7b1399d01e4e2b5fa4f0eaf5",
+  "artifact_sha256": {
+    "FPC_51_0p3_Envelope.ipt": "b936858b0f0f6993a15bc5739f610445ad2b76e872b5095a7e4386a2f9d13641",
+    "FPC_51_0p3_Envelope.step": "37564712071aaccdabdcff4977b2b6ac85dc85517c22b44953c7fd93f5859848",
+    "J1_Current.ipt": "6c9e296f63229ac965f7e414030fae2612af5e24cd396d954f5d88341a580bb6",
+    "J1_Current.step": "d8c2dfd4b977ac41229a124d10abb4d5387d802c24417d35a17dc34cb1e9b40f",
+    "J1_embedded.step": "0f86a223e1a1920af07de0972295acb75b1658ea2ece95c59b116630a4253501",
+    "KS_B1021_M1x4.step": "fcbdfb98d86afcfe1c0598365c97e273a33432691e28dc64897a70184b3b20c4",
+    "PCB_End.ipt": "5f95a0e3d8c6a02d7d722ab5e84800fd908c463332728f993125c2c1cd6c1408",
+    "PCB_End.step": "d9d2d6acd87f9562158e55cbb53f02f8946b3a7fce4f96cddcb1b14b43741ee0",
+    "ZIF_Cable_Hole_Clearance.png": "780dd1e2d02e05353384a0ef95ea400e88de941efa87d8f8736530e10e751e25",
+    "ZIF_Cable_Hole_Clearance.svg": "1ffdad62c8256cf1dee26b7a930644f9eb195c66f7ad0fe95075d85fa37c253a",
+    "ZIF_Holes_Cable_Native_Top.png": "64a7b10f113c09c7c4ecf0d6f15884f41fb139faea55528ba2b51e9f7809313c",
+    "ZIF_M1_Fit.iam": "57c12ee1bd8b6bc0aa35794a6c7e37ec8cb83ec9bbdc7b7531d24391c2af3ad0",
+    "ZIF_M1_Fit.step": "91c8ad568d075f43e16f4a7cb9b90b1de9b3b7a95026c39bb12eb3c9d8a67941",
+    "ZIF_M1_Round_Oblique.png": "199b2dafd2fbe66071b5f50761552ea02c08253ce355ae1c0e7bcb16d4858a26",
+    "ZIF_M1_Round_Top.png": "05c2dce26e560382348ba9fd14e35ca9c60cee82c440c2b30d7a6acaf689d493",
+    "Standard_Fasteners\\KS_B1021_M1x4.ipt": "e587c94d5c0a530a56139664bdb0b25a196d52c3af8b532233410517e7fd8571"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "pcb_sha256": "833555d572fb9945703213acef1ecd809d7eb3ce4a73d5e467c577d3ef70bc90",
+  "measurement": "Same-layer copper edge gaps; different-net traces only. Pads/via clearances are separate.",
+  "layers": [
+    {
+      "layer": "L1",
+      "trace_count": 24,
+      "minimum_trace_width_mm": 0.14999969999999999,
+      "trace_to_trace": {
+        "minimum_edge_gap_mm": 0.44999909999999976,
+        "nets": [
+          "ZIF48",
+          "ZIF46"
+        ],
+        "objects": [
+          "track:322",
+          "track:334"
+        ]
+      },
+      "trace_to_GND_pour": {
+        "minimum_edge_gap_mm": 0.15440532999999945,
+        "net": "ZIF48",
+        "object": "track:322",
+        "closest_points_mm": [
+          [
+            16.57940296,
+            6.599999499999999
+          ],
+          [
+            16.42499763,
+            6.599999499999999
+          ]
+        ]
+      }
+    },
+    {
+      "layer": "L2",
+      "trace_count": 89,
+      "minimum_trace_width_mm": 0.12500102,
+      "trace_to_trace": {
+        "minimum_edge_gap_mm": 0.22499828000000036,
+        "nets": [
+          "ZIF22",
+          "ZIF26"
+        ],
+        "objects": [
+          "track:195",
+          "track:199"
+        ]
+      },
+      "trace_to_GND_pour": {
+        "minimum_edge_gap_mm": 0.19999908561671617,
+        "net": "ZIF46",
+        "object": "track:217",
+        "closest_points_mm": [
+          [
+            14.057456007570222,
+            33.29878784778477
+          ],
+          [
+            13.861299902007474,
+            33.337806003789105
+          ]
+        ]
+      }
+    },
+    {
+      "layer": "L4",
+      "trace_count": 83,
+      "minimum_trace_width_mm": 0.12500102,
+      "trace_to_trace": {
+        "minimum_edge_gap_mm": 0.27499817999999987,
+        "nets": [
+          "ZIF24",
+          "ZIF28"
+        ],
+        "objects": [
+          "track:290",
+          "track:296"
+        ]
+      },
+      "trace_to_GND_pour": {
+        "minimum_edge_gap_mm": 0.19999908561677285,
+        "net": "ZIF44",
+        "object": "track:315",
+        "closest_points_mm": [
+          [
+            15.157456365788498,
+            37.598789499373574
+          ],
+          [
+            14.961300260225695,
+            37.63780765537792
+          ]
+        ]
+      }
+    },
+    {
+      "layer": "L6",
+      "trace_count": 52,
+      "minimum_trace_width_mm": 0.10999977999999999,
+      "trace_to_trace": {
+        "minimum_edge_gap_mm": 0.8471255599999975,
+        "nets": [
+          "MW6",
+          "S6"
+        ],
+        "objects": [
+          "track:99",
+          "track:100"
+        ]
+      },
+      "trace_to_GND_pour": {
+        "minimum_edge_gap_mm": 0.1999326715251239,
+        "net": "MW1",
+        "object": "arc:15",
+        "closest_points_mm": [
+          [
+            12.4472287667602,
+            33.09817472066255
+          ],
+          [
+            12.251137664628958,
+            33.137179243581414
+          ]
+        ]
+      }
+    }
+  ],
+  "JLCPCB_HDI_minimum_line_space_mm": 0.0762,
+  "JLCPCB_general_copper_pour_recommendation_mm": 0.2,
+  "sources": [
+    "https://jlcpcb.com/help/article/hdi-pcb-capabilities-faq",
+    "https://jlcpcb.com/blog/how-to-avoid-shorts-open-circuits"
+  ]
+}

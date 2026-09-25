@@ -1,0 +1,9 @@
+{
+  "source": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB.PcbDoc",
+  "sha256": "8841a488c8a961dbc1d93d881ae981af0ba81006e28a80e4c08543c365c2812e",
+  "image": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\docs\\PCB_Top_current.png",
+  "view": "Top L1 2D copper and solder mask, no 3D bodies",
+  "pad_aperture_expansion_mm": 0.04999989999999999,
+  "signal_through_vias_on_Top": 48,
+  "blind_vias_hidden": 480
+}

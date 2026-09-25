@@ -15,6 +15,14 @@
                                 "designation":  "M3x0.5",
                                 "unchanged_library_member":  true,
                                 "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_4762_M3x8.ipt"
+                            },
+                            {
+                                "thread_class":  "6g",
+                                "is_content_member":  true,
+                                "family":  "ISO 7380-1",
+                                "designation":  "M3x0.5",
+                                "unchanged_library_member":  true,
+                                "file":  "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Rod_Holder_Adapter_Drop8p5\\Standard_Fasteners\\ISO_7380_1_M3x8.ipt"
                             }
                         ],
     "assemblies":  [

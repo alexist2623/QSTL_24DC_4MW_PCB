@@ -1,0 +1,173 @@
+{
+  "passed": true,
+  "errors": [],
+  "pcb_sha256": "833555d572fb9945703213acef1ecd809d7eb3ce4a73d5e467c577d3ef70bc90",
+  "source_sha256": "e252bd2d1eb66c667f9d9521f6877922dba3e0579a901d9490fa90835c539c07",
+  "unchanged_streams": {
+    "Arcs6/Data": true,
+    "Vias6/Data": true,
+    "Pads6/Data": true,
+    "Components6/Data": true,
+    "Fills6/Data": true,
+    "BoardRegions/Data": true,
+    "LayerKindMapping/Data": true
+  },
+  "mask_symmetric_difference_mm2": {
+    "35": 0.0,
+    "36": 0.0,
+    "37": 0.0,
+    "38": 0.0
+  },
+  "previous_ground_layer_deltas_mm2": {
+    "1": 0.0,
+    "3": 0.0,
+    "5": 0.0,
+    "32": 0.0
+  },
+  "all_track_records_preserved": true,
+  "native_track_record_order_changed": false,
+  "existing_shape_cache_preserved": true,
+  "new_shape_cache_layers": [
+    2,
+    4
+  ],
+  "mechanical_solid_connection_checks": [
+    {
+      "layer": 2,
+      "x": 2.42499896,
+      "y": 65.33999886,
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 2,
+      "x": 17.07500014,
+      "y": 65.33999886,
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 2,
+      "x": 16.074999599999998,
+      "y": 18.08999938,
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 2,
+      "x": 17.07500014,
+      "y": 13.189999019999998,
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 2,
+      "x": 2.42499896,
+      "y": 13.189999019999998,
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 2,
+      "x": 3.4249994999999998,
+      "y": 18.08999938,
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 4,
+      "x": 2.42499896,
+      "y": 65.33999886,
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 4,
+      "x": 17.07500014,
+      "y": 65.33999886,
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 4,
+      "x": 16.074999599999998,
+      "y": 18.08999938,
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 4,
+      "x": 17.07500014,
+      "y": 13.189999019999998,
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 4,
+      "x": 2.42499896,
+      "y": 13.189999019999998,
+      "missing_ground_mm2": 0.0
+    },
+    {
+      "layer": 4,
+      "x": 3.4249994999999998,
+      "y": 18.08999938,
+      "missing_ground_mm2": 0.0
+    }
+  ],
+  "added_ground_layers": [
+    "L2_DC_A",
+    "L4_DC_B"
+  ],
+  "ground": {
+    "2": {
+      "ground_area_mm2": 900.7993906979831,
+      "grounded_regions": 1,
+      "removed_islands": 0,
+      "removed_island_area_mm2": 0,
+      "minimum_signal_clearance_mm": 0.1999970289124708,
+      "QD_excluded_ground_area_mm2": 3.6505377996588396e-06,
+      "QD_excluded_interior_ground_area_mm2": 0.0
+    },
+    "4": {
+      "ground_area_mm2": 921.4499739871552,
+      "grounded_regions": 1,
+      "removed_islands": 0,
+      "removed_island_area_mm2": 0,
+      "minimum_signal_clearance_mm": 0.1999970289124708,
+      "QD_excluded_ground_area_mm2": 3.6505377996588396e-06,
+      "QD_excluded_interior_ground_area_mm2": 0.0
+    }
+  },
+  "dc_ground_clearance_mm": 0.2,
+  "clearance_change_source_sha256": "84dcebb1a5cb88b31b997d4bbd6eb5fdd2adb6653206d6d17162d2bf9df86361",
+  "clearance_rule": {
+    "SELECTION": "FALSE",
+    "LAYER": "UNKNOWN",
+    "LOCKED": "FALSE",
+    "POLYGONOUTLINE": "FALSE",
+    "USERROUTED": "TRUE",
+    "KEEPOUT": "FALSE",
+    "UNIONINDEX": "0",
+    "RULEKIND": "Clearance",
+    "NETSCOPE": "DifferentNets",
+    "LAYERKIND": "SameLayer",
+    "SCOPE1EXPRESSION": "InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L4_DC_B'))",
+    "SCOPE2EXPRESSION": "All",
+    "NAME": "DC_GND_GAP_0P2",
+    "ENABLED": "TRUE",
+    "PRIORITY": "1",
+    "COMMENT": "L2 and L4 GND pour clearance to signal copper: 0.20 mm.",
+    "UNIQUEID": "EGQCDRGX",
+    "DEFINEDBYLOGICALDOCUMENT": "FALSE",
+    "GAP": "7.874mil",
+    "GENERICCLEARANCE": "7.874mil",
+    "IGNOREPADTOPADCLEARANCEINFOOTPRINT": "FALSE",
+    "OBJECTCLEARANCES": "",
+    "_native_kind": 0
+  },
+  "DRC": {
+    "report": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\fabrication\\JLCPCB_HDI_20260924\\Native_DRC.html",
+    "checked_rules": 16,
+    "violations": 0
+  },
+  "connectivity": {
+    "connected_nets": 37,
+    "stored_unrouted_connections": 0
+  },
+  "schematic_mapping_matches": true,
+  "native_schematic_violations": 0,
+  "native_paste_pad_count": 147,
+  "existing_480_L5_L6_blind_vias_preserved": true,
+  "no_added_DC_vias": true
+}
