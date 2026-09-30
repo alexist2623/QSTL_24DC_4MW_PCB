@@ -1,0 +1,81 @@
+{
+  "packaged_utc": "2026-09-30T00:02:21.276790+00:00",
+  "method": "Unmodified native Inventor STEP exports, matched to the Rev E delivery audit.",
+  "parts": [
+    {
+      "part_number": "CP-01",
+      "file": "CP-01_Centre_Plate.step",
+      "source_ipt": "QSTL_24DC_4MW_PCB/Mechanical_Assembly/Rod_Holder_Adapter_Drop8p5/Centre_Plate.ipt",
+      "source_ipt_sha256": "9a22e8d9a1dabff6b263a7681597ac1ec8a7105b83da472a14bb2e2bfd3f104c",
+      "step_sha256": "fa29da0907184682429d6a6e1c19c6831039096aa064a5047e680639c6a1effd",
+      "matches_rev_e_native_export": true,
+      "solid_count": 1,
+      "valid_brep": true,
+      "units": "mm",
+      "bounds_mm": [
+        6.0,
+        0.0,
+        -5.551115123125783e-16,
+        45.0,
+        80.0,
+        10.0
+      ],
+      "dimensions_mm": [
+        39.0,
+        80.0,
+        10.0
+      ],
+      "volume_mm3": 17342.995018356745
+    },
+    {
+      "part_number": "LS-01",
+      "file": "LS-01_Left_Rod_Support.step",
+      "source_ipt": "QSTL_24DC_4MW_PCB/Mechanical_Assembly/Rod_Holder_Adapter_Drop8p5/Left_Rod_Support.ipt",
+      "source_ipt_sha256": "e4c49d3ad8ce29923a37eb606aa7d6773f7fec32f0a26cd68ac254cbf218eadc",
+      "step_sha256": "46425f5ba1c9b32e27dfe74a87826cd527813fefe3241ee2fb347c996d9fa189",
+      "matches_rev_e_native_export": true,
+      "solid_count": 1,
+      "valid_brep": true,
+      "units": "mm",
+      "bounds_mm": [
+        0.0,
+        0.0,
+        4.0,
+        12.0,
+        80.0,
+        12.500000000000004
+      ],
+      "dimensions_mm": [
+        12.0,
+        80.0,
+        8.500000000000004
+      ],
+      "volume_mm3": 4560.056098514311
+    },
+    {
+      "part_number": "RS-01",
+      "file": "RS-01_Right_Rod_Support.step",
+      "source_ipt": "QSTL_24DC_4MW_PCB/Mechanical_Assembly/Rod_Holder_Adapter_Drop8p5/Right_Rod_Support.ipt",
+      "source_ipt_sha256": "87e287e1fb9fc4bc80e88415cd2d706e2c401d3badb6c0c586b88bd93118f518",
+      "step_sha256": "f6ddf8a620134121896e1b1b36c1f47aa04e50e7fd7f49725a902d2d4948e99f",
+      "matches_rev_e_native_export": true,
+      "solid_count": 1,
+      "valid_brep": true,
+      "units": "mm",
+      "bounds_mm": [
+        39.0,
+        0.0,
+        4.0,
+        51.0,
+        80.0,
+        12.5
+      ],
+      "dimensions_mm": [
+        12.0,
+        80.0,
+        8.5
+      ],
+      "volume_mm3": 4560.05609859996
+    }
+  ]
+}
