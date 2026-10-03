@@ -1,0 +1,10 @@
+{
+  "removed_layers": [
+    "Bottom Layer",
+    "Bottom Solder"
+  ],
+  "copper_mm": 0.018,
+  "base_mm": 0.045,
+  "coverlay_mm": 0.05,
+  "flex": true
+}

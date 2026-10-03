@@ -1,0 +1,18 @@
+{
+  "length_mm": 101.6,
+  "width_mm": 15.6,
+  "pitch_mm": 0.3,
+  "circuits": 51,
+  "corner_radius_mm": 0.2,
+  "copper_mm": 0.018,
+  "base_pi_adhesive_mm": 0.045,
+  "coverlay_pi_adhesive_mm": 0.05,
+  "contact_exposure_mm": 3,
+  "stiffener_length_mm": 4,
+  "stiffener_adhesive_mm": 0.15,
+  "specified_contact_thickness_mm": 0.2,
+  "contact_thickness_tolerance_mm": 0.03,
+  "body_trace_width_mm": 0.2,
+  "contact_neck_width_mm": 0.1,
+  "contact_finger_width_mm": 0.3
+}

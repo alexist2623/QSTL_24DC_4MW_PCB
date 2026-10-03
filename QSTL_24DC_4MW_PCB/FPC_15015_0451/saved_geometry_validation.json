@@ -1,0 +1,766 @@
+{
+  "checks": [
+    {
+      "check": "51 named nets",
+      "passed": true
+    },
+    {
+      "check": "102 native pads",
+      "passed": true
+    },
+    {
+      "check": "Two integral contact arrays",
+      "passed": true
+    },
+    {
+      "check": "All contacts Top, no drills",
+      "passed": true
+    },
+    {
+      "check": "No vias",
+      "passed": true
+    },
+    {
+      "check": "Saved connection count zero",
+      "passed": true
+    },
+    {
+      "check": "Copper and Top coverlay apertures only",
+      "passed": true
+    },
+    {
+      "check": "51 parallel signal tracks",
+      "passed": true
+    },
+    {
+      "check": "CH51: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH51: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH51: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH50: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH50: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH50: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH49: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH49: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH49: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH48: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH48: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH48: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH47: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH47: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH47: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH46: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH46: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH46: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH45: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH45: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH45: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH44: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH44: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH44: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH43: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH43: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH43: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH42: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH42: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH42: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH41: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH41: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH41: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH40: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH40: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH40: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH39: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH39: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH39: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH38: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH38: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH38: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH37: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH37: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH37: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH36: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH36: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH36: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH35: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH35: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH35: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH34: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH34: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH34: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH33: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH33: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH33: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH32: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH32: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH32: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH31: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH31: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH31: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH30: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH30: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH30: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH29: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH29: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH29: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH28: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH28: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH28: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH27: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH27: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH27: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH26: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH26: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH26: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH25: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH25: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH25: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH24: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH24: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH24: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH23: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH23: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH23: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH22: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH22: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH22: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH21: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH21: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH21: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH20: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH20: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH20: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH19: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH19: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH19: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH18: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH18: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH18: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH17: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH17: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH17: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH16: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH16: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH16: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH15: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH15: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH15: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH14: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH14: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH14: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH13: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH13: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH13: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH12: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH12: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH12: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH11: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH11: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH11: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH10: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH10: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH10: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH09: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH09: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH09: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH08: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH08: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH08: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH07: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH07: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH07: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH06: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH06: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH06: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH05: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH05: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH05: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH04: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH04: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH04: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH03: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH03: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH03: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH02: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH02: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH02: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "CH01: two terminals and one trace",
+      "passed": true
+    },
+    {
+      "check": "CH01: exact 0.30 mm pitch",
+      "passed": true
+    },
+    {
+      "check": "CH01: physically continuous saved copper",
+      "passed": true
+    },
+    {
+      "check": "All signal nets isolated; drawing minimum diagonal clearance",
+      "passed": true
+    },
+    {
+      "check": "Body conductors 0.20 mm wide",
+      "passed": true
+    },
+    {
+      "check": "One copper layer in stored V9 stack",
+      "passed": true
+    },
+    {
+      "check": "Native flex substack flag",
+      "passed": true
+    },
+    {
+      "check": "Outline vertex 0: exact cable dimensions",
+      "passed": true
+    },
+    {
+      "check": "Outline segment 0: native line/arc type",
+      "passed": true
+    },
+    {
+      "check": "Outline vertex 1: exact cable dimensions",
+      "passed": true
+    },
+    {
+      "check": "Outline segment 1: native line/arc type",
+      "passed": true
+    },
+    {
+      "check": "Outline corner 1: native R0.20 arc",
+      "passed": true
+    },
+    {
+      "check": "Outline vertex 2: exact cable dimensions",
+      "passed": true
+    },
+    {
+      "check": "Outline segment 2: native line/arc type",
+      "passed": true
+    },
+    {
+      "check": "Outline vertex 3: exact cable dimensions",
+      "passed": true
+    },
+    {
+      "check": "Outline segment 3: native line/arc type",
+      "passed": true
+    },
+    {
+      "check": "Outline corner 3: native R0.20 arc",
+      "passed": true
+    },
+    {
+      "check": "Outline vertex 4: exact cable dimensions",
+      "passed": true
+    },
+    {
+      "check": "Outline segment 4: native line/arc type",
+      "passed": true
+    },
+    {
+      "check": "Outline vertex 5: exact cable dimensions",
+      "passed": true
+    },
+    {
+      "check": "Outline segment 5: native line/arc type",
+      "passed": true
+    },
+    {
+      "check": "Outline corner 5: native R0.20 arc",
+      "passed": true
+    },
+    {
+      "check": "Outline vertex 6: exact cable dimensions",
+      "passed": true
+    },
+    {
+      "check": "Outline segment 6: native line/arc type",
+      "passed": true
+    },
+    {
+      "check": "Outline vertex 7: exact cable dimensions",
+      "passed": true
+    },
+    {
+      "check": "Outline segment 7: native line/arc type",
+      "passed": true
+    },
+    {
+      "check": "Outline corner 7: native R0.20 arc",
+      "passed": true
+    },
+    {
+      "check": "Two saved 3 mm full-width coverlay openings",
+      "passed": true
+    },
+    {
+      "check": "18 um copper",
+      "passed": true
+    },
+    {
+      "check": "45 um PI/adhesive base",
+      "passed": true
+    },
+    {
+      "check": "50 um PI/adhesive coverlay",
+      "passed": true
+    },
+    {
+      "check": "Original carrier unchanged",
+      "passed": true
+    }
+  ],
+  "minimum_copper_gap_mm": 0.07071053669729535,
+  "pcb_sha256": "d7ee947f16a486d31e7c8a2d6b9baf38caf888e44b5068c41a30ff06ccfbfd4b"
+}

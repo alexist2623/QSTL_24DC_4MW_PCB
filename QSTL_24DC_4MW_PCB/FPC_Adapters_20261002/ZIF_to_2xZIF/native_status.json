@@ -1,0 +1,23 @@
+{
+  "native_generation": "Altium PCB API, saved by Altium",
+  "native_reopen_verified": true,
+  "native_drc_verified": true,
+  "native_drc_violation_count": 0,
+  "native_rebuilt_connection_count": 0,
+  "requires_native_rebuild": false,
+  "native_compile_verified": false,
+  "native_compile_limitation": "Branch compile reported missing footprint models before library recovery. Component-specific libraries and explicit schematic links have now been added; native reload and recompile are pending because Altium window activation times out. Independent schematic correspondence is verified.",
+  "independent_check_count": 532,
+  "pcb_sha256": "a26d7fc5e06b75eb65dc551a60f10cff31d2c6705f321d77dc9f24ac33a4d67d",
+  "schematic_sha256": "b464cc49c28c0bf0de38f2fd43df454323ec6181ace6893c34681eed4bb0b299",
+  "native_drc_report_sha256": "6a7d7023e1312f8c468e59a2c63d69bdcf8f3ada6f8b933971a542bfacc12cd0",
+  "native_audit_sha256": "8074afbc7c0cdd4f922430a2f65396dab68b2eb2e2cdaea69092060800bdd905",
+  "review_source": "Actual saved native copper, rendered by the independent validator",
+  "mask_paste": {
+    "pad_paste_enabled_count": 0,
+    "explicit_paste_geometry_count": 0,
+    "via_apertures": "Closed by manual negative Top and Bottom mask overrides",
+    "generic_via_cache_flags": "Preserved in raw audit; not used as actual CAM aperture evidence"
+  },
+  "fabrication_released": false
+}

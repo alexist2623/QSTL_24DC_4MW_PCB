@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ReviewAdapters.pas
+[Generic_ScriptingSystem]
+StartProcName=ReviewAdapters.pas>ReviewAdapters

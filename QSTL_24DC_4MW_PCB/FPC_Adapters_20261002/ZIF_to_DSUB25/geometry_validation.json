@@ -1,0 +1,360 @@
+{
+  "checks": [
+    {
+      "check": "78 pads, two components and 51 distinct net labels",
+      "passed": true
+    },
+    {
+      "check": "Anton reference remains unchanged",
+      "passed": true
+    },
+    {
+      "check": "NC_A51: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 13 - ZIF 50",
+      "passed": true
+    },
+    {
+      "check": "DSUB_13: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A49: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 25 - ZIF 48",
+      "passed": true
+    },
+    {
+      "check": "DSUB_25: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A47: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 12 - ZIF 46",
+      "passed": true
+    },
+    {
+      "check": "DSUB_12: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A45: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 24 - ZIF 44",
+      "passed": true
+    },
+    {
+      "check": "DSUB_24: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A43: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 11 - ZIF 42",
+      "passed": true
+    },
+    {
+      "check": "DSUB_11: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A41: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 23 - ZIF 40",
+      "passed": true
+    },
+    {
+      "check": "DSUB_23: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A39: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 10 - ZIF 38",
+      "passed": true
+    },
+    {
+      "check": "DSUB_10: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A37: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 22 - ZIF 36",
+      "passed": true
+    },
+    {
+      "check": "DSUB_22: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A35: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 9 - ZIF 34",
+      "passed": true
+    },
+    {
+      "check": "DSUB_09: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A33: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 21 - ZIF 32",
+      "passed": true
+    },
+    {
+      "check": "DSUB_21: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A31: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 8 - ZIF 30",
+      "passed": true
+    },
+    {
+      "check": "DSUB_08: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A29: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 20 - ZIF 28",
+      "passed": true
+    },
+    {
+      "check": "DSUB_20: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A27: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 7 - ZIF 26",
+      "passed": true
+    },
+    {
+      "check": "DSUB_07: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A25: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 19 - ZIF 24",
+      "passed": true
+    },
+    {
+      "check": "DSUB_19: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A23: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 6 - ZIF 22",
+      "passed": true
+    },
+    {
+      "check": "DSUB_06: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A21: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 18 - ZIF 20",
+      "passed": true
+    },
+    {
+      "check": "DSUB_18: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A19: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 5 - ZIF 18",
+      "passed": true
+    },
+    {
+      "check": "DSUB_05: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A17: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 17 - ZIF 16",
+      "passed": true
+    },
+    {
+      "check": "DSUB_17: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A15: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 4 - ZIF 14",
+      "passed": true
+    },
+    {
+      "check": "DSUB_04: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A13: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 16 - ZIF 12",
+      "passed": true
+    },
+    {
+      "check": "DSUB_16: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A11: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 3 - ZIF 10",
+      "passed": true
+    },
+    {
+      "check": "DSUB_03: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A09: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 15 - ZIF 8",
+      "passed": true
+    },
+    {
+      "check": "DSUB_15: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A07: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 2 - ZIF 6",
+      "passed": true
+    },
+    {
+      "check": "DSUB_02: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A05: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 14 - ZIF 4",
+      "passed": true
+    },
+    {
+      "check": "DSUB_14: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A03: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "Anton map DSUB 1 - ZIF 2",
+      "passed": true
+    },
+    {
+      "check": "DSUB_01: all copper joined through physical plated bridges",
+      "passed": true
+    },
+    {
+      "check": "NC_A01: unconnected odd finger",
+      "passed": true
+    },
+    {
+      "check": "No same-layer signal shorts; staggered-finger minimum clearance retained",
+      "passed": true
+    },
+    {
+      "check": "Signal copper contained by board outline",
+      "passed": true
+    },
+    {
+      "check": "12 vias confined to transition row, away from mating fingers",
+      "passed": true
+    },
+    {
+      "check": "25 signal holes and two boardlock holes",
+      "passed": true
+    },
+    {
+      "check": "Native Altium DRC and rebuilt connectivity pass after save/reopen",
+      "passed": true
+    },
+    {
+      "check": "Native audit confirms all pad paste disabled",
+      "passed": true
+    },
+    {
+      "check": "No explicit paste-layer geometry including via apertures",
+      "passed": true
+    },
+    {
+      "check": "Saved via mask overrides close every aperture on both faces",
+      "passed": true
+    },
+    {
+      "check": "Saved PCB has zero outstanding connections",
+      "passed": true
+    }
+  ],
+  "minimum_gap_mm": 0.07071053669729788,
+  "minimum_pair": [
+    1,
+    "NC_A51",
+    "DSUB_13"
+  ],
+  "native_drc_performed": true,
+  "pcb_sha256": "e0ea8b86cdb8c41d04e03016387edfab7ef001672c0c1e1b34d3f27bc9932452"
+}

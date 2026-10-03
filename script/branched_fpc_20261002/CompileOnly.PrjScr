@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=CompileOnly.pas
+[Generic_ScriptingSystem]
+StartProcName=CompileOnly.pas>CompileOnly

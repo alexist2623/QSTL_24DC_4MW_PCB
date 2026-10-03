@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=BuildFPC.pas
+[Generic_ScriptingSystem]
+StartProcName=BuildFPC.pas>BuildFPC

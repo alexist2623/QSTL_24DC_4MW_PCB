@@ -1,0 +1,7 @@
+# Preserve hashed native evidence and read-only reference files byte-for-byte.
+QSTL_24DC_4MW_PCB/FPC_15015_0451/Native_DRC.html -text
+QSTL_24DC_4MW_PCB/FPC_15015_0451/native_validation.txt -text
+QSTL_24DC_4MW_PCB/FPC_Adapters_20261002/**/Native_DRC.html -text
+QSTL_24DC_4MW_PCB/FPC_Adapters_20261002/**/native_validation.txt -text
+QSTL_24DC_4MW_PCB/FPC_Adapters_20261002/**/native_compile.txt -text
+script/anton_zif_20260923/reference/DSUBtoZIF_20250306/* -text

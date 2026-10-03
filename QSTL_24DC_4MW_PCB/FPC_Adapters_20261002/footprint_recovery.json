@@ -1,0 +1,62 @@
+[
+  {
+    "design": "ZIF_to_2xZIF",
+    "component": "B",
+    "library": "B_FPC51_P030_STAGGERED.PcbLib",
+    "footprint": "FPC51_P030_STAGGERED",
+    "pad_count": 51,
+    "primitive_count": 102,
+    "native_load_verified": false,
+    "round_trip_coordinates_match": true,
+    "source_pcb_sha256": "a26d7fc5e06b75eb65dc551a60f10cff31d2c6705f321d77dc9f24ac33a4d67d",
+    "library_sha256": "4461dcb204cd637597dfde475ef03ef18fc65dcf76a2ce9e1397257f75bed67b"
+  },
+  {
+    "design": "ZIF_to_2xZIF",
+    "component": "A",
+    "library": "A_FPC51_P030_STAGGERED.PcbLib",
+    "footprint": "FPC51_P030_STAGGERED",
+    "pad_count": 51,
+    "primitive_count": 102,
+    "native_load_verified": false,
+    "round_trip_coordinates_match": true,
+    "source_pcb_sha256": "a26d7fc5e06b75eb65dc551a60f10cff31d2c6705f321d77dc9f24ac33a4d67d",
+    "library_sha256": "81b30d2114edf00cba9f82cc7affc6c648751e5fee82b04d24ae6696e377209e"
+  },
+  {
+    "design": "ZIF_to_2xZIF",
+    "component": "C",
+    "library": "C_FPC51_P030_STAGGERED.PcbLib",
+    "footprint": "FPC51_P030_STAGGERED",
+    "pad_count": 51,
+    "primitive_count": 102,
+    "native_load_verified": false,
+    "round_trip_coordinates_match": true,
+    "source_pcb_sha256": "a26d7fc5e06b75eb65dc551a60f10cff31d2c6705f321d77dc9f24ac33a4d67d",
+    "library_sha256": "c150da1ab5fd5813aab35032778d4a086e80b24caad8717a313b79cbec723ee1"
+  },
+  {
+    "design": "ZIF_to_DSUB25",
+    "component": "J1",
+    "library": "J1_NORCOMP_381_025_112L565.PcbLib",
+    "footprint": "NORCOMP_381_025_112L565",
+    "pad_count": 27,
+    "primitive_count": 27,
+    "native_load_verified": false,
+    "round_trip_coordinates_match": true,
+    "source_pcb_sha256": "8bfa2d3bbf47808adbf6a0480e03d3fda14ec0e832dfa46937f0f98a7294696f",
+    "library_sha256": "25fa9d3b84e2cd99198bc4a991a28e76a583b1cd4ed69b8cc6be7f2005798259"
+  },
+  {
+    "design": "ZIF_to_DSUB25",
+    "component": "A",
+    "library": "A_FPC51_P030_STAGGERED.PcbLib",
+    "footprint": "FPC51_P030_STAGGERED",
+    "pad_count": 51,
+    "primitive_count": 102,
+    "native_load_verified": false,
+    "round_trip_coordinates_match": true,
+    "source_pcb_sha256": "8bfa2d3bbf47808adbf6a0480e03d3fda14ec0e832dfa46937f0f98a7294696f",
+    "library_sha256": "55636c24eb033c241fd5a2cb2997dbe71794d5e5400bba5d37308fb6d2c27a9b"
+  }
+]

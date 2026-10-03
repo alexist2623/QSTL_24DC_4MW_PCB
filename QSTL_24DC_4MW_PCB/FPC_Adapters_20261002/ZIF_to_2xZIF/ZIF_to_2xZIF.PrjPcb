@@ -1,0 +1,12 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ZIF_to_2xZIF.SchDoc
+[Document2]
+DocumentPath=ZIF_to_2xZIF.PcbDoc
+[Document3]
+DocumentPath=B_FPC51_P030_STAGGERED.PcbLib
+[Document4]
+DocumentPath=A_FPC51_P030_STAGGERED.PcbLib
+[Document5]
+DocumentPath=C_FPC51_P030_STAGGERED.PcbLib

@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=FixViaFlags.pas
+[Generic_ScriptingSystem]
+StartProcName=FixViaFlags.pas>FixViaFlags

@@ -1,0 +1,2143 @@
+{
+  "checks": [
+    {
+      "check": "153 contacts, three ends and 51 nets",
+      "passed": true
+    },
+    {
+      "check": "Original carrier and straight cable remain unchanged",
+      "passed": true
+    },
+    {
+      "check": "C.51: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.50: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.49: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.48: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.47: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.46: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.45: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.44: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.43: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.42: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.41: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.40: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.39: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.38: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.37: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.36: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.35: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.34: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.33: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.32: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.31: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.30: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.29: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.28: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.27: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.26: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.25: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.24: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.23: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.22: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.21: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.20: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.19: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.18: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.17: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.16: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.15: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.14: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.13: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.12: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.11: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.10: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.9: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.8: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.7: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.6: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.5: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.4: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.3: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.2: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "C.1: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.51: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.51: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.50: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.50: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.49: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.49: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.48: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.48: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.47: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.47: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.46: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.46: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.45: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.45: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.44: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.44: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.43: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.43: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.42: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.42: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.41: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.41: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.40: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.40: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.39: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.39: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.38: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.38: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.37: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.37: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.36: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.36: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.35: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.35: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.34: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.34: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.33: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.33: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.32: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.32: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.31: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.31: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.30: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.30: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.29: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.29: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.28: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.28: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.27: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.27: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.26: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.26: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.25: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.25: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.24: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.24: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.23: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.23: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.22: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.22: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.21: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.21: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.20: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.20: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.19: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.19: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.18: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.18: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.17: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.17: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.16: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.16: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.15: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.15: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.14: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.14: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.13: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.13: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.12: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.12: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.11: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.11: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.10: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.10: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.9: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.9: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.8: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.8: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.7: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.7: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.6: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.6: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.5: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.5: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.4: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.4: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.3: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.3: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.2: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.2: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "B.1: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "A.1: correct contact face, no drill",
+      "passed": true
+    },
+    {
+      "check": "FPC_51: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_51: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_51: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_51: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_50: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_50: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_50: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_50: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_49: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_49: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_49: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_49: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_48: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_48: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_48: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_48: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_47: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_47: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_47: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_47: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_46: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_46: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_46: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_46: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_45: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_45: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_45: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_45: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_44: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_44: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_44: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_44: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_43: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_43: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_43: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_43: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_42: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_42: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_42: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_42: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_41: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_41: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_41: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_41: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_40: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_40: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_40: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_40: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_39: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_39: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_39: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_39: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_38: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_38: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_38: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_38: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_37: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_37: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_37: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_37: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_36: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_36: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_36: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_36: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_35: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_35: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_35: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_35: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_34: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_34: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_34: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_34: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_33: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_33: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_33: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_33: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_32: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_32: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_32: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_32: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_31: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_31: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_31: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_31: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_30: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_30: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_30: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_30: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_29: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_29: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_29: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_29: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_28: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_28: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_28: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_28: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_27: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_27: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_27: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_27: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_26: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_26: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_26: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_26: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_25: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_25: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_25: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_25: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_24: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_24: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_24: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_24: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_23: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_23: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_23: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_23: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_22: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_22: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_22: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_22: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_21: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_21: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_21: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_21: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_20: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_20: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_20: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_20: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_19: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_19: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_19: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_19: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_18: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_18: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_18: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_18: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_17: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_17: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_17: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_17: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_16: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_16: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_16: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_16: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_15: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_15: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_15: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_15: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_14: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_14: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_14: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_14: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_13: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_13: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_13: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_13: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_12: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_12: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_12: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_12: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_11: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_11: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_11: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_11: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_10: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_10: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_10: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_10: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_09: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_09: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_09: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_09: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_08: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_08: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_08: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_08: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_07: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_07: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_07: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_07: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_06: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_06: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_06: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_06: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_05: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_05: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_05: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_05: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_04: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_04: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_04: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_04: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_03: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_03: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_03: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_03: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_02: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_02: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_02: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_02: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "FPC_01: C.n, A.n and B.n on the same net",
+      "passed": true
+    },
+    {
+      "check": "FPC_01: continuous copper on layer 1",
+      "passed": true
+    },
+    {
+      "check": "FPC_01: continuous copper on layer 32",
+      "passed": true
+    },
+    {
+      "check": "FPC_01: one physical plated bridge joins both layers",
+      "passed": true
+    },
+    {
+      "check": "No shorts; retained minimum contact clearance above 0.0707 mm",
+      "passed": true
+    },
+    {
+      "check": "One continuous flex outline with no cutout",
+      "passed": true
+    },
+    {
+      "check": "All signal copper inside saved outline",
+      "passed": true
+    },
+    {
+      "check": "Saved overall length 420 mm",
+      "passed": true
+    },
+    {
+      "check": "Saved output-tip separation is user-specified 70 mm",
+      "passed": true
+    },
+    {
+      "check": "51 through vias in static branch zone, spanning only the two flex copper layers",
+      "passed": true
+    },
+    {
+      "check": "Drills do not intersect adjacent-net copper",
+      "passed": true
+    },
+    {
+      "check": "0.30 mm lands / 0.10 mm drills; nominal 0.10 mm annular rings",
+      "passed": true
+    },
+    {
+      "check": "Top coverlay: two 3 mm mating openings",
+      "passed": true
+    },
+    {
+      "check": "Bottom coverlay: common-end 3 mm opening only",
+      "passed": true
+    },
+    {
+      "check": "Explicit coverlay openings avoid vias",
+      "passed": true
+    },
+    {
+      "check": "No explicit paste geometry",
+      "passed": true
+    },
+    {
+      "check": "Altium confirms disabled paste on all contact pads after save/reopen",
+      "passed": true
+    },
+    {
+      "check": "All saved vias have manual negative mask expansion on both faces, closing every aperture",
+      "passed": true
+    },
+    {
+      "check": "Altium confirms zero pad mask expansion on all 153 contacts",
+      "passed": true
+    },
+    {
+      "check": "Saved two-copper flex stack",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.1",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.2",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.3",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.4",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.5",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.6",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.7",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.8",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.9",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.10",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.11",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.12",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.13",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.14",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.15",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.16",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.17",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.18",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.19",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.20",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.21",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.22",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.23",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.24",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.25",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.26",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.27",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.28",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.29",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.30",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.31",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.32",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.33",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.34",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.35",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.36",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.37",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.38",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.39",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.40",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.41",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.42",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.43",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.44",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.45",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.46",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.47",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.48",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.49",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.50",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at C.51",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.1",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.2",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.3",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.4",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.5",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.6",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.7",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.8",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.9",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.10",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.11",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.12",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.13",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.14",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.15",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.16",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.17",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.18",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.19",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.20",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.21",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.22",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.23",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.24",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.25",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.26",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.27",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.28",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.29",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.30",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.31",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.32",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.33",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.34",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.35",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.36",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.37",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.38",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.39",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.40",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.41",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.42",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.43",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.44",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.45",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.46",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.47",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.48",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.49",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.50",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at A.51",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.1",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.2",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.3",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.4",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.5",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.6",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.7",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.8",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.9",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.10",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.11",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.12",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.13",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.14",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.15",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.16",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.17",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.18",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.19",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.20",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.21",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.22",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.23",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.24",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.25",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.26",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.27",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.28",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.29",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.30",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.31",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.32",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.33",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.34",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.35",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.36",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.37",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.38",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.39",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.40",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.41",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.42",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.43",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.44",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.45",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.46",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.47",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.48",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.49",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.50",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic: exactly one wire stub at B.51",
+      "passed": true
+    },
+    {
+      "check": "Saved schematic wire/label graph exactly matches all 153 PCB pins",
+      "passed": true
+    },
+    {
+      "check": "Exactly 51 schematic signal nets",
+      "passed": true
+    },
+    {
+      "check": "Native Altium DRC and rebuilt connectivity pass after save/reopen",
+      "passed": true
+    },
+    {
+      "check": "Saved PCB has zero outstanding connections",
+      "passed": true
+    }
+  ],
+  "minimum_gap_mm": 0.07071053669729033,
+  "minimum_pair": [
+    1,
+    "FPC_51",
+    "FPC_50"
+  ],
+  "minimum_drill_to_other_net_mm": 0.19999959999999103,
+  "native_drc_performed": true,
+  "stored_connections_count": 0,
+  "stored_connections_rebuilt_by_altium": true,
+  "pcb_sha256": "a26d7fc5e06b75eb65dc551a60f10cff31d2c6705f321d77dc9f24ac33a4d67d"
+}

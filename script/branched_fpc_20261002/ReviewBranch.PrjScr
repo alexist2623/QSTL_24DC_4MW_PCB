@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ReviewBranch.pas
+[Generic_ScriptingSystem]
+StartProcName=ReviewBranch.pas>ReviewBranch

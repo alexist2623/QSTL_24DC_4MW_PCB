@@ -1,0 +1,10 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ZIF_to_DSUB25.SchDoc
+[Document2]
+DocumentPath=ZIF_to_DSUB25.PcbDoc
+[Document3]
+DocumentPath=J1_NORCOMP_381_025_112L565.PcbLib
+[Document4]
+DocumentPath=A_FPC51_P030_STAGGERED.PcbLib

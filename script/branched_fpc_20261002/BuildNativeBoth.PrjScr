@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=BuildNativeBoth.pas
+[Generic_ScriptingSystem]
+StartProcName=BuildNativeBoth.pas>BuildNativeBoth

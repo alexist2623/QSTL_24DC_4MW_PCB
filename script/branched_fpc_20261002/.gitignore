@@ -1,0 +1,9 @@
+# Local scratch copies and superseded native build documents.
+__pycache__/
+before_library_recovery/
+before_native_validation/
+native_work/
+*.SchDoc
+*.PcbLib
+*.PcbDoc
+!dsub_blank.PcbDoc

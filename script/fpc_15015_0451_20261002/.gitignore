@@ -1,0 +1,4 @@
+# Local snapshots; the final native cable lives in the design directory.
+__pycache__/
+*.PcbDoc
+blank_board_properties.txt
