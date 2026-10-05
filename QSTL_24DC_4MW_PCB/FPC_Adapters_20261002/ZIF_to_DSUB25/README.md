@@ -1,5 +1,7 @@
 # ZIF contact tail to Micro-D adapter
 
+Manufacturing documentation (reviewed 2026-10-05): [DRC and manufacturability](../../docs/FPC_DRC_AND_MANUFACTURABILITY.md) and [order specification](../../docs/FPC_ORDER_SPECIFICATION.md). The current 18 um design needs contact-spacing and signal-PTH-annulus resolution; via processing and backing also remain open. A 12 um option does not resolve the annulus. This is not a fabrication release.
+
 Open `ZIF_to_DSUB25.PrjPcb`; it references the native PCB, schematic and recovered local footprint libraries. Native PCB save/reopen and DRC pass. Native library loading and schematic compilation remain unverified because Altium window activation times out.
 
 ## Electrical mapping

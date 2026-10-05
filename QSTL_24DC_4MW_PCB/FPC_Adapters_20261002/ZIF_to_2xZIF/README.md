@@ -1,5 +1,7 @@
 # ZIF to two ZIF ends
 
+Manufacturing documentation (reviewed 2026-10-05): [DRC and manufacturability](../../docs/FPC_DRC_AND_MANUFACTURABILITY.md) and [order specification](../../docs/FPC_ORDER_SPECIFICATION.md). The current 18 um design needs contact-spacing resolution and the specified fine-via process. A 12 um option is documented but not implemented. This is not a fabrication release.
+
 Open `ZIF_to_2xZIF.PrjPcb`; it references the native PCB and schematic.
 
 ## Wiring and geometry

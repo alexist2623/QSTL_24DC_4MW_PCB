@@ -1,6 +1,15 @@
 # User design requirements
 
-Updated 2026-10-03. Later user instructions supersede earlier ones. Read this file before every design-file modification.
+Updated 2026-10-05. Later user instructions supersede earlier ones. Read this file before every design-file modification.
+
+## FPC fabrication documentation requested 2026-10-05
+
+- Latest Git delivery request: commit and push the FPC documentation and the requested ZIF-to-two-ZIF-only Altium ZIP. The archive contains only its project, PCB, schematic and required local PCB libraries. Exclude the earlier all-project ZIP and unrelated existing working changes. This supersedes the documentation task's earlier no-commit/no-push scope.
+- Terminology clarification: JLCPCB's 2/2 mil line/space at 12 um copper is its published absolute capability limit, not a verified separate orderable process name. Additional line/space charges have not been confirmed. Keep that distinct from the explicitly listed extra charge for the fine two-layer via option.
+- Maintain [FPC_DRC_AND_MANUFACTURABILITY.md](FPC_DRC_AND_MANUFACTURABILITY.md) for saved design values, Altium rule coverage, dated JLCPCB FPC limits and unresolved manufacturing issues. Maintain [FPC_ORDER_SPECIFICATION.md](FPC_ORDER_SPECIFICATION.md) for the order settings and fabrication package for the straight FPC, branched FPC and Micro-D adapter. Link both documents from the project READMEs.
+- The saved copper target remains 18 um (0.5 oz): one copper layer for the straight cable and two copper layers for each adapter. The user asked about 12 um as an alternative but has not instructed a copper change. Document it as an unimplemented option, including its resistance and mating-thickness implications and its two-/four-layer availability in JLCPCB's published options.
+- Distinguish current geometry and stored-rule DRC results from JLCPCB manufacturing compliance. In particular, preserve visibility of the approximately 0.0707105 mm finger gap, special branch drilling, the Micro-D PTH annulus and pending stack/stiffener decisions. Do not label the current files as ready to order, relax rules to claim supplier compliance, or apply the carrier HDI stack/impedance/milling requirements to these separate flex projects.
+- This request is for English Markdown documentation. Keep native designs and manufacturing outputs unchanged; do not upload, order, commit or push as part of this documentation-only task.
 
 ## Branched FPC and DSUB adapter requested 2026-10-02
 

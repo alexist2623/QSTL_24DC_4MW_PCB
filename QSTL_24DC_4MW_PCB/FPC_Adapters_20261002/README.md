@@ -1,5 +1,7 @@
 # FPC adapter designs
 
+Manufacturing documentation (reviewed 2026-10-05): [DRC and manufacturability](../docs/FPC_DRC_AND_MANUFACTURABILITY.md) and [order specification](../docs/FPC_ORDER_SPECIFICATION.md). These documents compare saved rules with supplier limits and list the unresolved order settings. Copper remains 18 um per layer; 12 um has not been selected or applied.
+
 Updated 2026-10-02. Open each `.PrjPcb` to load its PCB and schematic. These are additional designs; the original carrier, straight cable and read-only references are preserved.
 
 | Design | Wiring and geometry | Saved validation |

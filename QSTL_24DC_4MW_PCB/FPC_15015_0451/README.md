@@ -1,5 +1,7 @@
 # Molex 15015-0451 FPC reconstruction
 
+Manufacturing documentation (reviewed 2026-10-05): [DRC and manufacturability](../docs/FPC_DRC_AND_MANUFACTURABILITY.md) and [order specification](../docs/FPC_ORDER_SPECIFICATION.md). The saved copper remains 18 um; 12 um is an unimplemented alternative. The current contact gap does not meet JLCPCB's regular 18 um spacing requirement. Archived zero-violation reports are not fabrication approval.
+
 Created 2026-10-02 for the Molex 502598-5193 carrier connector. Open `FPC_15015_0451.PrjPcb` in Altium Designer. This is a separate cable project; the carrier PCB and schematic are unchanged.
 
 ## Scope and nominal dimensions
