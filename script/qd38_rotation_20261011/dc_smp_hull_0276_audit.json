@@ -1,0 +1,489 @@
+{
+  "routes": 38,
+  "clearance_mm": 0.15099999999999625,
+  "clearance_failures": [],
+  "turns_over45": [],
+  "non_H_V_45_segments": [],
+  "intermediate_vias": 0,
+  "zif_pin50_unused": true,
+  "chamfer_count": 22,
+  "minimum_chamfer_trim_mm": 0.15,
+  "raw_45_turn_equivalent_count": 1964.0,
+  "final_45_turn_count": 318,
+  "full_smp_five_pad_hull_exclusion": true,
+  "endpoint_checks": [
+    {
+      "net": "DC15",
+      "source": "R15-2",
+      "port": "J1-2",
+      "connected": true
+    },
+    {
+      "net": "DC16",
+      "source": "R16-2",
+      "port": "J1-8",
+      "connected": true
+    },
+    {
+      "net": "DC13",
+      "source": "R13-2",
+      "port": "J1-4",
+      "connected": true
+    },
+    {
+      "net": "DC12",
+      "source": "R12-2",
+      "port": "J1-6",
+      "connected": true
+    },
+    {
+      "net": "DC18",
+      "source": "Q1-18",
+      "port": "J1-12",
+      "connected": true
+    },
+    {
+      "net": "DC17",
+      "source": "Q1-17",
+      "port": "J1-10",
+      "connected": true
+    },
+    {
+      "net": "DC19",
+      "source": "Q1-19",
+      "port": "J1-11",
+      "connected": true
+    },
+    {
+      "net": "DC11",
+      "source": "R11-2",
+      "port": "J1-1",
+      "connected": true
+    },
+    {
+      "net": "DC14",
+      "source": "Q1-14",
+      "port": "J1-7",
+      "connected": true
+    },
+    {
+      "net": "DC10",
+      "source": "Q1-10",
+      "port": "J1-5",
+      "connected": true
+    },
+    {
+      "net": "DC08",
+      "source": "Q1-8",
+      "port": "J1-3",
+      "connected": true
+    },
+    {
+      "net": "DC07",
+      "source": "Q1-7",
+      "port": "J1-9",
+      "connected": true
+    },
+    {
+      "net": "DC06",
+      "source": "Q1-6",
+      "port": "J1-15",
+      "connected": true
+    },
+    {
+      "net": "DC01",
+      "source": "Q1-1",
+      "port": "J1-14",
+      "connected": true
+    },
+    {
+      "net": "DC03",
+      "source": "Q1-3",
+      "port": "J1-16",
+      "connected": true
+    },
+    {
+      "net": "DC04",
+      "source": "Q1-4",
+      "port": "J1-13",
+      "connected": true
+    },
+    {
+      "net": "DC09",
+      "source": "R09-2",
+      "port": "J1-18",
+      "connected": true
+    },
+    {
+      "net": "DC05",
+      "source": "R05-2",
+      "port": "J1-17",
+      "connected": true
+    },
+    {
+      "net": "DC02",
+      "source": "R02-2",
+      "port": "J1-19",
+      "connected": true
+    },
+    {
+      "net": "DC21",
+      "source": "R21-2",
+      "port": "J1-32",
+      "connected": true
+    },
+    {
+      "net": "DC24",
+      "source": "R24-2",
+      "port": "J1-30",
+      "connected": true
+    },
+    {
+      "net": "DC28",
+      "source": "R28-2",
+      "port": "J1-26",
+      "connected": true
+    },
+    {
+      "net": "DC20",
+      "source": "Q1-20",
+      "port": "J1-20",
+      "connected": true
+    },
+    {
+      "net": "DC23",
+      "source": "Q1-23",
+      "port": "J1-24",
+      "connected": true
+    },
+    {
+      "net": "DC22",
+      "source": "Q1-22",
+      "port": "J1-22",
+      "connected": true
+    },
+    {
+      "net": "DC25",
+      "source": "Q1-25",
+      "port": "J1-34",
+      "connected": true
+    },
+    {
+      "net": "DC26",
+      "source": "Q1-26",
+      "port": "J1-36",
+      "connected": true
+    },
+    {
+      "net": "DC27",
+      "source": "Q1-27",
+      "port": "J1-38",
+      "connected": true
+    },
+    {
+      "net": "DC29",
+      "source": "Q1-29",
+      "port": "J1-40",
+      "connected": true
+    },
+    {
+      "net": "DC30",
+      "source": "R30-2",
+      "port": "J1-46",
+      "connected": true
+    },
+    {
+      "net": "DC33",
+      "source": "Q1-33",
+      "port": "J1-42",
+      "connected": true
+    },
+    {
+      "net": "DC37",
+      "source": "Q1-37",
+      "port": "J1-25",
+      "connected": true
+    },
+    {
+      "net": "DC36",
+      "source": "Q1-36",
+      "port": "J1-28",
+      "connected": true
+    },
+    {
+      "net": "DC38",
+      "source": "Q1-38",
+      "port": "J1-27",
+      "connected": true
+    },
+    {
+      "net": "DC31",
+      "source": "R31-2",
+      "port": "J1-44",
+      "connected": true
+    },
+    {
+      "net": "DC32",
+      "source": "R32-2",
+      "port": "J1-48",
+      "connected": true
+    },
+    {
+      "net": "DC35",
+      "source": "R35-2",
+      "port": "J1-21",
+      "connected": true
+    },
+    {
+      "net": "DC34",
+      "source": "R34-2",
+      "port": "J1-23",
+      "connected": true
+    }
+  ],
+  "fixed_mapping": false,
+  "user_confirmed_contact_pool": true,
+  "used_even_pins": [
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42,
+    44,
+    46,
+    48
+  ],
+  "used_odd_pins": [
+    1,
+    3,
+    5,
+    7,
+    9,
+    11,
+    13,
+    15,
+    17,
+    19,
+    21,
+    23,
+    25,
+    27
+  ],
+  "chamfers": [
+    {
+      "net": "DC19",
+      "at": [
+        7.314,
+        39.33
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC14",
+      "at": [
+        6.486000000000001,
+        21.390000000000004
+      ],
+      "trim_mm": 0.15,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC10",
+      "at": [
+        6.210000000000001,
+        21.114000000000004
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC06",
+      "at": [
+        18.354000000000003,
+        21.942000000000004
+      ],
+      "trim_mm": 0.15,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC01",
+      "at": [
+        12.282000000000002,
+        39.606
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC01",
+      "at": [
+        13.110000000000001,
+        39.606
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC04",
+      "at": [
+        13.662,
+        44.574000000000005
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC04",
+      "at": [
+        18.078000000000003,
+        22.218000000000004
+      ],
+      "trim_mm": 0.15,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC09",
+      "at": [
+        17.802000000000003,
+        22.494000000000003
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC27",
+      "at": [
+        17.802000000000003,
+        22.494000000000003
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC29",
+      "at": [
+        18.078000000000003,
+        22.218000000000004
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC33",
+      "at": [
+        18.354000000000003,
+        21.942000000000004
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC37",
+      "at": [
+        6.210000000000001,
+        32.706
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC37",
+      "at": [
+        6.210000000000001,
+        21.114000000000004
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC37",
+      "at": [
+        1.794,
+        5.934
+      ],
+      "trim_mm": 0.15,
+      "original_turn_deg": 90.00000000000001
+    },
+    {
+      "net": "DC38",
+      "at": [
+        8.97,
+        45.678000000000004
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC38",
+      "at": [
+        7.314,
+        45.678000000000004
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC38",
+      "at": [
+        6.486000000000001,
+        21.390000000000004
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC38",
+      "at": [
+        2.0700000000000003,
+        6.210000000000001
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC31",
+      "at": [
+        13.386000000000001,
+        44.85
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC31",
+      "at": [
+        18.630000000000003,
+        21.666000000000004
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    },
+    {
+      "net": "DC35",
+      "at": [
+        1.5180000000000002,
+        44.574000000000005
+      ],
+      "trim_mm": 0.2,
+      "original_turn_deg": 90.0
+    }
+  ],
+  "passed": true
+}

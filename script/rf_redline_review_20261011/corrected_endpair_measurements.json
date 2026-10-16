@@ -1,0 +1,540 @@
+{
+  "scope": "Read-only corrected placement review, not a routed or approved native design.",
+  "topology": "Top horizontal inboard pair, three upper outer side pairs, empty QD-side centre row, three lower outer side pairs, bottom horizontal inboard pair.",
+  "interpretation": "Each half contains 8 SMP connectors. Inboard end pair positions and all proposed coordinates are review candidates. The rejected six-row 3/3/2 interpretation is excluded.",
+  "candidate": {
+    "name": "corrected_horizontal_inboard_end_pairs_and_three_outboard_pairs_each_half",
+    "centres": [
+      {
+        "name": "P1L",
+        "x": 6.875,
+        "y": 62.75,
+        "kind": "upper_inboard_end"
+      },
+      {
+        "name": "P1R",
+        "x": 12.625,
+        "y": 62.75,
+        "kind": "upper_inboard_end"
+      },
+      {
+        "name": "P2L",
+        "x": 2.75,
+        "y": 58.7,
+        "kind": "upper_outer_side"
+      },
+      {
+        "name": "P2R",
+        "x": 16.75,
+        "y": 58.7,
+        "kind": "upper_outer_side"
+      },
+      {
+        "name": "P3L",
+        "x": 2.75,
+        "y": 52.95,
+        "kind": "upper_outer_side"
+      },
+      {
+        "name": "P3R",
+        "x": 16.75,
+        "y": 52.95,
+        "kind": "upper_outer_side"
+      },
+      {
+        "name": "P4L",
+        "x": 2.75,
+        "y": 47.2,
+        "kind": "upper_outer_side"
+      },
+      {
+        "name": "P4R",
+        "x": 16.75,
+        "y": 47.2,
+        "kind": "upper_outer_side"
+      },
+      {
+        "name": "P5L",
+        "x": 2.75,
+        "y": 37.8,
+        "kind": "lower_outer_side"
+      },
+      {
+        "name": "P5R",
+        "x": 16.75,
+        "y": 37.8,
+        "kind": "lower_outer_side"
+      },
+      {
+        "name": "P6L",
+        "x": 2.75,
+        "y": 32.05,
+        "kind": "lower_outer_side"
+      },
+      {
+        "name": "P6R",
+        "x": 16.75,
+        "y": 32.05,
+        "kind": "lower_outer_side"
+      },
+      {
+        "name": "P7L",
+        "x": 2.75,
+        "y": 26.3,
+        "kind": "lower_outer_side"
+      },
+      {
+        "name": "P7R",
+        "x": 16.75,
+        "y": 26.3,
+        "kind": "lower_outer_side"
+      },
+      {
+        "name": "P8L",
+        "x": 6.875,
+        "y": 22.25,
+        "kind": "lower_inboard_end"
+      },
+      {
+        "name": "P8R",
+        "x": 12.625,
+        "y": 22.25,
+        "kind": "lower_inboard_end"
+      }
+    ],
+    "count": 16,
+    "top_count": 8,
+    "bottom_count": 8,
+    "full_body_circle_to_circle_provisional": {
+      "objects": [
+        "P6L",
+        "P7L"
+      ],
+      "gap_mm": 0.24999999999999645
+    },
+    "full_body_circle_to_mount_land_provisional": {
+      "connector": "P8R",
+      "mount_xy": [
+        16.074999599999998,
+        18.08999938
+      ],
+      "gap_mm": 0.15445201048989032
+    },
+    "full_body_circle_to_mount_drill_provisional": {
+      "connector": "P8R",
+      "mount_xy": [
+        16.074999599999998,
+        18.08999938
+      ],
+      "gap_mm": 0.6544522804898905
+    },
+    "inter_SMP_land_gap": {
+      "objects": [
+        "P7L.4",
+        "P8L.2"
+      ],
+      "gap_mm": 1.1891374181926695
+    },
+    "inter_SMP_drill_gap": {
+      "objects": [
+        "P7L.4",
+        "P8L.2"
+      ],
+      "gap_mm": 1.4391369181926694
+    },
+    "SMP_land_to_fixed_mount_land": {
+      "pad": "P8R.4",
+      "mount_xy": [
+        16.074999599999998,
+        18.08999938
+      ],
+      "gap_mm": 0.6200137162158379
+    },
+    "SMP_drill_to_fixed_mount_drill": {
+      "pad": "P8R.4",
+      "mount_xy": [
+        16.074999599999998,
+        18.08999938
+      ],
+      "gap_mm": 1.2450137362158378
+    },
+    "SMP_land_to_QD_padfield": {
+      "pad": "P5L.5",
+      "gap_mm": 2.171537879769847
+    },
+    "SMP_drill_to_cavity": {
+      "pad": "P4L.4",
+      "gap_mm": 3.2889863795398973
+    },
+    "body_board_edge_gap_nominal_mm": 0.0,
+    "land_board_edge_gap_mm": 0.979999729999997,
+    "drill_board_edge_gap_mm": 1.104999479999997,
+    "current_RC_pad_conflicts": [
+      {
+        "smp_pad": "P2L.4",
+        "rc_pad": "R02.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.002044455607642261
+      },
+      {
+        "smp_pad": "P2L.4",
+        "rc_pad": "C02.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.1544323238901713
+      },
+      {
+        "smp_pad": "P2R.3",
+        "rc_pad": "R34.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.0020443219131525987
+      },
+      {
+        "smp_pad": "P2R.3",
+        "rc_pad": "C34.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.15443264953333607
+      },
+      {
+        "smp_pad": "P3L.4",
+        "rc_pad": "R05.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.0037468603317871965
+      },
+      {
+        "smp_pad": "P3L.4",
+        "rc_pad": "C05.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.2946548232154505
+      },
+      {
+        "smp_pad": "P3R.3",
+        "rc_pad": "R32.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.003746608358313937
+      },
+      {
+        "smp_pad": "P3R.3",
+        "rc_pad": "C32.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.2946553738569604
+      },
+      {
+        "smp_pad": "P4R.3",
+        "rc_pad": "R30.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.7418914748477996
+      },
+      {
+        "smp_pad": "P5L.5",
+        "rc_pad": "R11.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.641962003752486
+      },
+      {
+        "smp_pad": "P5L.2",
+        "rc_pad": "R11.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.36606555555881487
+      },
+      {
+        "smp_pad": "P6L.5",
+        "rc_pad": "R13.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.0037468603317871965
+      },
+      {
+        "smp_pad": "P6L.5",
+        "rc_pad": "C13.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.2946549226718379
+      },
+      {
+        "smp_pad": "P6R.2",
+        "rc_pad": "R24.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.003746608358313937
+      },
+      {
+        "smp_pad": "P6R.2",
+        "rc_pad": "C24.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.29465547331351
+      },
+      {
+        "smp_pad": "P7L.5",
+        "rc_pad": "R15.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.19075236728516198
+      },
+      {
+        "smp_pad": "P7L.5",
+        "rc_pad": "R15.1",
+        "gap_mm": 0.07000028000000125,
+        "overlap_mm2": 0.0
+      },
+      {
+        "smp_pad": "P7L.5",
+        "rc_pad": "C15.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.12742553224982586
+      },
+      {
+        "smp_pad": "P7R.2",
+        "rc_pad": "R21.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.19075190009840587
+      },
+      {
+        "smp_pad": "P7R.2",
+        "rc_pad": "R21.1",
+        "gap_mm": 0.06999937999999517,
+        "overlap_mm2": 0.0
+      },
+      {
+        "smp_pad": "P7R.2",
+        "rc_pad": "C21.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.12742581289095634
+      }
+    ]
+  },
+  "rejected_initial_assumption": {
+    "name": "rejected_initial_end_pair_locations_with_unchanged_side_bank_limits",
+    "centres": [
+      {
+        "name": "P1L",
+        "x": 6.75,
+        "y": 64.5,
+        "kind": "upper_inboard_end"
+      },
+      {
+        "name": "P1R",
+        "x": 12.75,
+        "y": 64.5,
+        "kind": "upper_inboard_end"
+      },
+      {
+        "name": "P2L",
+        "x": 2.75,
+        "y": 60.5,
+        "kind": "upper_outer_side"
+      },
+      {
+        "name": "P2R",
+        "x": 16.75,
+        "y": 60.5,
+        "kind": "upper_outer_side"
+      },
+      {
+        "name": "P3L",
+        "x": 2.75,
+        "y": 54.75,
+        "kind": "upper_outer_side"
+      },
+      {
+        "name": "P3R",
+        "x": 16.75,
+        "y": 54.75,
+        "kind": "upper_outer_side"
+      },
+      {
+        "name": "P4L",
+        "x": 2.75,
+        "y": 49.0,
+        "kind": "upper_outer_side"
+      },
+      {
+        "name": "P4R",
+        "x": 16.75,
+        "y": 49.0,
+        "kind": "upper_outer_side"
+      },
+      {
+        "name": "P5L",
+        "x": 2.75,
+        "y": 36.0,
+        "kind": "lower_outer_side"
+      },
+      {
+        "name": "P5R",
+        "x": 16.75,
+        "y": 36.0,
+        "kind": "lower_outer_side"
+      },
+      {
+        "name": "P6L",
+        "x": 2.75,
+        "y": 30.25,
+        "kind": "lower_outer_side"
+      },
+      {
+        "name": "P6R",
+        "x": 16.75,
+        "y": 30.25,
+        "kind": "lower_outer_side"
+      },
+      {
+        "name": "P7L",
+        "x": 2.75,
+        "y": 24.5,
+        "kind": "lower_outer_side"
+      },
+      {
+        "name": "P7R",
+        "x": 16.75,
+        "y": 24.5,
+        "kind": "lower_outer_side"
+      },
+      {
+        "name": "P8L",
+        "x": 6.75,
+        "y": 20.5,
+        "kind": "lower_inboard_end"
+      },
+      {
+        "name": "P8R",
+        "x": 12.75,
+        "y": 20.5,
+        "kind": "lower_inboard_end"
+      }
+    ],
+    "count": 16,
+    "top_count": 8,
+    "bottom_count": 8,
+    "full_body_circle_to_circle_provisional": {
+      "objects": [
+        "P1L",
+        "P2L"
+      ],
+      "gap_mm": 0.15685424949238058
+    },
+    "full_body_circle_to_mount_land_provisional": {
+      "connector": "P8R",
+      "mount_xy": [
+        16.074999599999998,
+        18.08999938
+      ],
+      "gap_mm": -1.1434534373328868
+    },
+    "full_body_circle_to_mount_drill_provisional": {
+      "connector": "P8R",
+      "mount_xy": [
+        16.074999599999998,
+        18.08999938
+      ],
+      "gap_mm": -0.6434531673328867
+    },
+    "inter_SMP_land_gap": {
+      "objects": [
+        "P1L.3",
+        "P2L.5"
+      ],
+      "gap_mm": 1.064751261064714
+    },
+    "inter_SMP_drill_gap": {
+      "objects": [
+        "P1L.3",
+        "P2L.5"
+      ],
+      "gap_mm": 1.314750761064714
+    },
+    "SMP_land_to_fixed_mount_land": {
+      "pad": "P8R.4",
+      "mount_xy": [
+        16.074999599999998,
+        18.08999938
+      ],
+      "gap_mm": -0.6499738034264237
+    },
+    "SMP_drill_to_fixed_mount_drill": {
+      "pad": "P8R.4",
+      "mount_xy": [
+        16.074999599999998,
+        18.08999938
+      ],
+      "gap_mm": -0.024973783426423868
+    },
+    "SMP_land_to_QD_padfield": {
+      "pad": "P4L.4",
+      "gap_mm": 2.689482092923398
+    },
+    "SMP_drill_to_cavity": {
+      "pad": "P4L.4",
+      "gap_mm": 4.03779904490208
+    },
+    "body_board_edge_gap_nominal_mm": 0.0,
+    "land_board_edge_gap_mm": 0.979999729999997,
+    "drill_board_edge_gap_mm": 1.104999479999997,
+    "current_RC_pad_conflicts": [
+      {
+        "smp_pad": "P2L.4",
+        "rc_pad": "C02.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.23289671690293207
+      },
+      {
+        "smp_pad": "P2R.3",
+        "rc_pad": "C34.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.2328971685438835
+      },
+      {
+        "smp_pad": "P3L.4",
+        "rc_pad": "C05.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.0963568396696092
+      },
+      {
+        "smp_pad": "P3R.3",
+        "rc_pad": "C32.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.09635706631221536
+      },
+      {
+        "smp_pad": "P6L.5",
+        "rc_pad": "C13.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.09635674916893722
+      },
+      {
+        "smp_pad": "P6L.4",
+        "rc_pad": "R15.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.00999193316304615
+      },
+      {
+        "smp_pad": "P6R.3",
+        "rc_pad": "R21.2",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.009991870976687706
+      },
+      {
+        "smp_pad": "P6R.2",
+        "rc_pad": "C24.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.09635697581138143
+      },
+      {
+        "smp_pad": "P7L.5",
+        "rc_pad": "C15.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.26115026450589
+      },
+      {
+        "smp_pad": "P7R.2",
+        "rc_pad": "C21.1",
+        "gap_mm": 0.0,
+        "overlap_mm2": 0.2611507611488758
+      }
+    ]
+  },
+  "source_pcb_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "actual_pcb_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "limitations": [
+    "Full bodies provisionally use diameter 5.5 mm circles; exact placed STEP shape collision verification is required.",
+    "Body circle overlap does not certify a collision in irregular STEP models; positive circle gap proves body separation only if the full XY model is contained within the circle.",
+    "SMP through-pad and drill checks use the saved native footprint dimensions. Fixed mounting holes and rotated QD geometry are unchanged.",
+    "Zero body-to-board nominal margin on outer columns remains. No screw-head or mating cable envelope is included.",
+    "Existing R/C, RF/DC traces, shield vias and masks must be rearranged. This is not a complete reroute proof."
+  ]
+}

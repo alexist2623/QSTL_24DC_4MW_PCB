@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ApplyQDPadAlignmentR1.pas
+[Generic_ScriptingSystem]
+StartProcName=ApplyQDPadAlignmentR1.pas>ApplyQDPadAlignmentR1

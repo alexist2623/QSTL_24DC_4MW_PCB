@@ -1,0 +1,1556 @@
+[
+  {
+    "smp": "SMP02",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 9,
+        "rejections": [
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP05",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 9,
+        "rejections": [
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP09",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 0,
+        "rejections": [
+          [
+            67.5,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            90.0,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            112.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            135.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            157.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 2,
+        "rejections": [
+          [
+            90.0,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            120.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            150.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 2,
+        "rejections": [
+          [
+            90.0,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            120.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            150.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 2,
+        "rejections": [
+          [
+            90.0,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            120.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            150.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 1,
+        "rejections": [
+          [
+            67.5,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            112.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            135.0,
+            [
+              "signal",
+              null
+            ]
+          ],
+          [
+            157.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 3,
+        "rejections": [
+          [
+            67.5,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            112.5,
+            [
+              "signal",
+              null
+            ]
+          ],
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP11",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 9,
+        "rejections": [
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP12",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 0,
+        "rejections": [
+          [
+            67.5,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            112.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            135.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            157.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 2,
+        "rejections": [
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            120.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            150.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 2,
+        "rejections": [
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            120.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            150.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 2,
+        "rejections": [
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            120.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            150.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 0,
+        "rejections": [
+          [
+            67.5,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            112.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            135.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            157.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 0,
+        "rejections": [
+          [
+            67.5,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            112.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ],
+          [
+            157.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP13",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 9,
+        "rejections": [
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP15",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 9,
+        "rejections": [
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP16",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 9,
+        "rejections": [
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP21",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 9,
+        "rejections": [
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP24",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 9,
+        "rejections": [
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP28",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 0,
+        "rejections": [
+          [
+            67.5,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            90.0,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            112.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            135.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            157.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 2,
+        "rejections": [
+          [
+            90.0,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            120.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            150.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 2,
+        "rejections": [
+          [
+            90.0,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            120.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            150.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 2,
+        "rejections": [
+          [
+            90.0,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            120.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            150.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 1,
+        "rejections": [
+          [
+            67.5,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            112.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            135.0,
+            [
+              "signal",
+              null
+            ]
+          ],
+          [
+            157.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 3,
+        "rejections": [
+          [
+            67.5,
+            [
+              null,
+              "signal"
+            ]
+          ],
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            112.5,
+            [
+              "signal",
+              null
+            ]
+          ],
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP30",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 9,
+        "rejections": [
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP31",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 0,
+        "rejections": [
+          [
+            67.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            112.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            135.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            157.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 2,
+        "rejections": [
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            120.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            150.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 2,
+        "rejections": [
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            120.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            150.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 2,
+        "rejections": [
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            120.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            150.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 0,
+        "rejections": [
+          [
+            67.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            112.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            135.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            157.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 0,
+        "rejections": [
+          [
+            67.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            90.0,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            112.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ],
+          [
+            157.5,
+            [
+              "signal",
+              "signal"
+            ]
+          ],
+          [
+            180.0,
+            [
+              "signal"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP32",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 9,
+        "rejections": [
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP34",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 9,
+        "rejections": [
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "smp": "SMP35",
+    "choices": [
+      {
+        "radius_mm": 1.05,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.9,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 0.95,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.0,
+        "angular_grid": 12,
+        "count": 9,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.1,
+        "angular_grid": 16,
+        "count": 11,
+        "rejections": []
+      },
+      {
+        "radius_mm": 1.2,
+        "angular_grid": 16,
+        "count": 9,
+        "rejections": [
+          [
+            135.0,
+            [
+              "drill",
+              "drill"
+            ]
+          ]
+        ]
+      }
+    ]
+  }
+]

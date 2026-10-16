@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ApplyQD90SevenRows.pas
+[Generic_ScriptingSystem]
+StartProcName=ApplyQD90SevenRows.pas>ApplyQD90SevenRows

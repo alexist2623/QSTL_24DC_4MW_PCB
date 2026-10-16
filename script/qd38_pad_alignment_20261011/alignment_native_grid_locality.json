@@ -1,0 +1,105 @@
+{
+  "passed": true,
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "native_grid_mm": 2.54e-06,
+  "local_box_mm": [
+    5.5,
+    36.0,
+    14.0,
+    49.0
+  ],
+  "layers": [
+    {
+      "layer": 1,
+      "passed": true,
+      "outside_local_box_grid_area_mm2": 0.0,
+      "added_ground_grid_area_mm2": 0.0,
+      "removed_ground_grid_area_mm2": 0.6304911367861743,
+      "actual_grid_change_bounds_mm": [
+        7.663746419999999,
+        38.9525637,
+        11.591437319999999,
+        45.94769322
+      ],
+      "raw_floating_outside_area_mm2": 8.182945208300302e-14,
+      "baseline_grid_roundoff_hausdorff_mm": 7.32410687763558e-15
+    },
+    {
+      "layer": 2,
+      "passed": true,
+      "outside_local_box_grid_area_mm2": 0.0,
+      "added_ground_grid_area_mm2": 0.0,
+      "removed_ground_grid_area_mm2": 0.20877432723438155,
+      "actual_grid_change_bounds_mm": [
+        7.663850559999999,
+        45.35000074,
+        11.34995444,
+        45.952859579999995
+      ],
+      "raw_floating_outside_area_mm2": 1.503988855458871e-13,
+      "baseline_grid_roundoff_hausdorff_mm": 7.32410687763558e-15
+    },
+    {
+      "layer": 3,
+      "passed": true,
+      "outside_local_box_grid_area_mm2": 0.0,
+      "added_ground_grid_area_mm2": 0.0,
+      "removed_ground_grid_area_mm2": 0.6304987943160204,
+      "actual_grid_change_bounds_mm": [
+        7.663746419999999,
+        38.9525637,
+        11.590378139999999,
+        45.952859579999995
+      ],
+      "raw_floating_outside_area_mm2": 7.746875758682955e-14,
+      "baseline_grid_roundoff_hausdorff_mm": 7.944109290391274e-15
+    },
+    {
+      "layer": 4,
+      "passed": true,
+      "outside_local_box_grid_area_mm2": 0.0,
+      "added_ground_grid_area_mm2": 0.0,
+      "removed_ground_grid_area_mm2": 0.46555974606897066,
+      "actual_grid_change_bounds_mm": [
+        7.88796746,
+        38.24263878,
+        11.591437319999999,
+        46.75614982
+      ],
+      "raw_floating_outside_area_mm2": 1.5742802942447832e-13,
+      "baseline_grid_roundoff_hausdorff_mm": 7.32410687763558e-15
+    },
+    {
+      "layer": 5,
+      "passed": true,
+      "outside_local_box_grid_area_mm2": 0.0,
+      "added_ground_grid_area_mm2": 0.0,
+      "removed_ground_grid_area_mm2": 0.6304987943160204,
+      "actual_grid_change_bounds_mm": [
+        7.663746419999999,
+        38.9525637,
+        11.590378139999999,
+        45.952859579999995
+      ],
+      "raw_floating_outside_area_mm2": 7.746875758682955e-14,
+      "baseline_grid_roundoff_hausdorff_mm": 7.944109290391274e-15
+    },
+    {
+      "layer": 32,
+      "passed": true,
+      "outside_local_box_grid_area_mm2": 0.0,
+      "added_ground_grid_area_mm2": 0.0,
+      "removed_ground_grid_area_mm2": 0.0012675214681783635,
+      "actual_grid_change_bounds_mm": [
+        6.41331458,
+        38.85691238,
+        12.76719062,
+        46.36791844
+      ],
+      "raw_floating_outside_area_mm2": 0.0,
+      "baseline_grid_roundoff_hausdorff_mm": 7.944109290391274e-15
+    }
+  ],
+  "interpretation": "Input and output contours are compared on the same exact native integer grid. Floating differences of approximately 1e-13 square millimetres do not change stored native coordinates. No remote ground edits or ground additions are allowed."
+}

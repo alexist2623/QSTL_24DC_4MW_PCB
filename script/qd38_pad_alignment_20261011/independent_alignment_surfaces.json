@@ -1,0 +1,82 @@
+{
+  "passed": true,
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "baseline_native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "layers": [
+    {
+      "layer": 1,
+      "outside_difference_mm2": 0.0,
+      "added_GND_mm2": 0.0,
+      "minimum_new_signal_GND_mm": 0.20294711795068157,
+      "nearest": "VIA:Q1-1"
+    },
+    {
+      "layer": 2,
+      "outside_difference_mm2": 0.0,
+      "added_GND_mm2": 0.0,
+      "minimum_new_signal_GND_mm": 0.20225411877402993,
+      "nearest": "TRACK:396:DC10"
+    },
+    {
+      "layer": 3,
+      "outside_difference_mm2": 0.0,
+      "added_GND_mm2": 0.0,
+      "minimum_new_signal_GND_mm": 0.20294711795068157,
+      "nearest": "VIA:Q1-1"
+    },
+    {
+      "layer": 4,
+      "outside_difference_mm2": 0.0,
+      "added_GND_mm2": 0.0,
+      "minimum_new_signal_GND_mm": 0.202147217866662,
+      "nearest": "TRACK:134:DC35"
+    },
+    {
+      "layer": 5,
+      "outside_difference_mm2": 0.0,
+      "added_GND_mm2": 0.0,
+      "minimum_new_signal_GND_mm": 0.20294711795068157,
+      "nearest": "VIA:Q1-1"
+    },
+    {
+      "layer": 32,
+      "outside_difference_mm2": 0.0,
+      "added_GND_mm2": 0.0,
+      "minimum_new_signal_GND_mm": 0.20193139079826655,
+      "nearest": "PAD:Q1-31"
+    }
+  ],
+  "new_QD_signal_to_shield_minimum": [
+    0.2681822175723443,
+    [
+      "RF-offset",
+      "Q1-31"
+    ]
+  ],
+  "mask": {
+    "passed": true,
+    "errors": [],
+    "baseline_native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+    "baseline_candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+    "native_mask_region_count": 14,
+    "mask_region_bytes_unchanged": true,
+    "retained_bounds_mm": [
+      6.412233744369339,
+      38.47635042912807,
+      13.084447357202126,
+      46.558914674569145
+    ],
+    "new_minimum_bounds_mm": [
+      6.412232826817998,
+      38.66316489508854,
+      13.084448155404045,
+      46.33814665379929
+    ],
+    "covers_new_field_and_cavity": true,
+    "new_mask_opening_area_mm2": 0,
+    "policy": "Retain the verified larger mask field; no mask aperture enlargement or regeneration."
+  },
+  "errors": [],
+  "inherited_RF_and_shields_unchanged": true,
+  "scope": "Independent local native-grid GND subset and new-signal clearance proof; retained baseline RF geometry and mask families. Full saved connectivity, via geometry, DRC and paste remain separate."
+}

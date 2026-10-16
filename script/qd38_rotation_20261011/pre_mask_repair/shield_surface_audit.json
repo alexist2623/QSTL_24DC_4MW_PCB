@@ -1,0 +1,529 @@
+{
+  "passed": true,
+  "shield_via_count": 668,
+  "minimum_signal_clearance_mm": {
+    "5": 0.2858622982598083,
+    "32": 0.20339102694598932
+  },
+  "worst_signal_clearance": {
+    "5": {
+      "index": 285,
+      "x": 16.185,
+      "y": 59.7,
+      "gap_mm": 0.2858622982598083
+    },
+    "32": {
+      "index": 478,
+      "x": 5.661311922062029,
+      "y": 40.61560985815978,
+      "gap_mm": 0.20339102694598932
+    }
+  },
+  "signal_primitives_per_layer": {
+    "5": 92,
+    "32": 414
+  },
+  "minimum_RC_body_clearance_mm": 0.09765688663350147,
+  "minimum_foreign_drill_clearance_mm": 0.25700843937841816,
+  "grounded_on_both_layers": true,
+  "rings": {
+    "passed": true,
+    "failures": [],
+    "rings": [
+      {
+        "component": "SMP02",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          3.75,
+          60.5
+        ],
+        "axis_deg": 270.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 2.886579864025407e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP05",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          3.75,
+          54.5
+        ],
+        "axis_deg": 270.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 2.886579864025407e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP09",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          3.75,
+          48.5
+        ],
+        "axis_deg": 0.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 2.886579864025407e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP11",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          3.75,
+          42.5
+        ],
+        "axis_deg": 270.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 2.886579864025407e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP12",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          3.75,
+          36.5
+        ],
+        "axis_deg": 0.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 2.886579864025407e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP13",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          3.75,
+          30.5
+        ],
+        "axis_deg": 90.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 1.7763568394002505e-15,
+        "maximum_grid_error_deg": 8.526512829121202e-14,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP15",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          3.75,
+          24.5
+        ],
+        "axis_deg": 90.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 1.7763568394002505e-15,
+        "maximum_grid_error_deg": 8.526512829121202e-14,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP16",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          9.75,
+          24.5
+        ],
+        "axis_deg": 90.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 1.7763568394002505e-15,
+        "maximum_grid_error_deg": 8.526512829121202e-14,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP21",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          15.75,
+          24.5
+        ],
+        "axis_deg": 90.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 1.7763568394002505e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP24",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          15.75,
+          30.5
+        ],
+        "axis_deg": 90.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 1.7763568394002505e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP28",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          15.75,
+          36.5
+        ],
+        "axis_deg": 180.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 2.886579864025407e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP30",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          15.75,
+          42.5
+        ],
+        "axis_deg": 90.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 2.886579864025407e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP31",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          15.75,
+          48.5
+        ],
+        "axis_deg": 180.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 2.886579864025407e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP32",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          15.75,
+          54.5
+        ],
+        "axis_deg": 270.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 2.886579864025407e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP34",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          15.75,
+          60.5
+        ],
+        "axis_deg": 270.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 2.886579864025407e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      },
+      {
+        "component": "SMP35",
+        "count": 11,
+        "planned_count": 11,
+        "centre_mm": [
+          9.75,
+          60.5
+        ],
+        "axis_deg": 270.0,
+        "radius_mm": 1.05,
+        "grid_deg": 22.5,
+        "grid_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "symmetric": true,
+        "maximum_radius_error_mm": 2.886579864025407e-15,
+        "maximum_grid_error_deg": 1.1368683772161603e-13,
+        "minimum_required_escape_half_angle_deg": 45,
+        "nonempty": true
+      }
+    ],
+    "shield_via_count": 668,
+    "minimum_shield_pitch_mm": 0.3999999999999949,
+    "shield_span": [
+      5,
+      32
+    ],
+    "shield_land_mm": 0.25,
+    "shield_hole_mm": 0.1,
+    "note": "Every active SMP requires a nonempty ring. Saved vias must match planned ring labels, a 1.05 mm radius and a 22.5-degree grid mirrored about the planned RF escape axis. Missing rings are failures."
+  },
+  "errors": [],
+  "required_signal_clearance_mm": 0.2,
+  "arc_conservative_allowance_mm": 0.00011,
+  "candidate_sha256": "a8e96043d9dcabcbf3b855f37ff28962a55389783f7ca484c95fda7b37b253fe",
+  "candidate": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\full_copper_candidate.json"
+}

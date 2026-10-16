@@ -1,0 +1,380 @@
+{
+  "status": "PROPOSED_SMP_PLACEMENT_READ_ONLY_RC_PROJECTION_STUDY",
+  "native_sha256": "f8356dd694810d2318a51e99544ab2345f8b9996de80e9ddc4456bbc6a14c632",
+  "candidate_sha256": "fedd3f662aa536548598b1f4c5a5fdf86c8fabf913ab1eadb359fb3f9821b28e",
+  "proposed_rows": [
+    3,
+    3,
+    2,
+    2,
+    3,
+    3
+  ],
+  "proposed_connectors": [
+    {
+      "label": "ROW1_SMP1",
+      "row": 1,
+      "x": 3.75,
+      "y": 27.5
+    },
+    {
+      "label": "ROW1_SMP2",
+      "row": 1,
+      "x": 9.75,
+      "y": 27.5
+    },
+    {
+      "label": "ROW1_SMP3",
+      "row": 1,
+      "x": 15.75,
+      "y": 27.5
+    },
+    {
+      "label": "ROW2_SMP1",
+      "row": 2,
+      "x": 3.75,
+      "y": 33.5
+    },
+    {
+      "label": "ROW2_SMP2",
+      "row": 2,
+      "x": 9.75,
+      "y": 33.5
+    },
+    {
+      "label": "ROW2_SMP3",
+      "row": 2,
+      "x": 15.75,
+      "y": 33.5
+    },
+    {
+      "label": "ROW3_SMP1",
+      "row": 3,
+      "x": 3.75,
+      "y": 39.5
+    },
+    {
+      "label": "ROW3_SMP2",
+      "row": 3,
+      "x": 15.75,
+      "y": 39.5
+    },
+    {
+      "label": "ROW4_SMP1",
+      "row": 4,
+      "x": 3.75,
+      "y": 45.5
+    },
+    {
+      "label": "ROW4_SMP2",
+      "row": 4,
+      "x": 15.75,
+      "y": 45.5
+    },
+    {
+      "label": "ROW5_SMP1",
+      "row": 5,
+      "x": 3.75,
+      "y": 51.5
+    },
+    {
+      "label": "ROW5_SMP2",
+      "row": 5,
+      "x": 9.75,
+      "y": 51.5
+    },
+    {
+      "label": "ROW5_SMP3",
+      "row": 5,
+      "x": 15.75,
+      "y": 51.5
+    },
+    {
+      "label": "ROW6_SMP1",
+      "row": 6,
+      "x": 3.75,
+      "y": 57.5
+    },
+    {
+      "label": "ROW6_SMP2",
+      "row": 6,
+      "x": 9.75,
+      "y": 57.5
+    },
+    {
+      "label": "ROW6_SMP3",
+      "row": 6,
+      "x": 15.75,
+      "y": 57.5
+    }
+  ],
+  "footprint": {
+    "pads": 5,
+    "through_drill_mm": 0.75,
+    "land_mm": 1.0,
+    "corner_offset_mm": 1.27
+  },
+  "current_RC_body_projection_count": 32,
+  "drill_body_overlap_count": 10,
+  "affected_RC_bodies": [
+    "R02",
+    "R05",
+    "R12",
+    "R15",
+    "R16",
+    "R21",
+    "R24",
+    "R31",
+    "R34",
+    "R35"
+  ],
+  "drill_body_overlaps": [
+    {
+      "connector": "ROW2_SMP1",
+      "pin": "4",
+      "pin_xy_mm": [
+        5.02,
+        32.23
+      ],
+      "RC": "R24",
+      "drill_body_projection_overlap_mm2": 0.3569408200389705
+    },
+    {
+      "connector": "ROW2_SMP2",
+      "pin": "3",
+      "pin_xy_mm": [
+        8.48,
+        32.23
+      ],
+      "RC": "R31",
+      "drill_body_projection_overlap_mm2": 0.3569409374408598
+    },
+    {
+      "connector": "ROW2_SMP3",
+      "pin": "3",
+      "pin_xy_mm": [
+        14.48,
+        32.23
+      ],
+      "RC": "R34",
+      "drill_body_projection_overlap_mm2": 0.35694088608435887
+    },
+    {
+      "connector": "ROW3_SMP1",
+      "pin": "4",
+      "pin_xy_mm": [
+        5.02,
+        38.23
+      ],
+      "RC": "R21",
+      "drill_body_projection_overlap_mm2": 0.3569412726548016
+    },
+    {
+      "connector": "ROW3_SMP2",
+      "pin": "3",
+      "pin_xy_mm": [
+        14.48,
+        38.23
+      ],
+      "RC": "R35",
+      "drill_body_projection_overlap_mm2": 0.35694133870019007
+    },
+    {
+      "connector": "ROW4_SMP1",
+      "pin": "5",
+      "pin_xy_mm": [
+        5.02,
+        46.77
+      ],
+      "RC": "R16",
+      "drill_body_projection_overlap_mm2": 0.3569411562679332
+    },
+    {
+      "connector": "ROW4_SMP2",
+      "pin": "2",
+      "pin_xy_mm": [
+        14.48,
+        46.77
+      ],
+      "RC": "R02",
+      "drill_body_projection_overlap_mm2": 0.3569412223133217
+    },
+    {
+      "connector": "ROW5_SMP1",
+      "pin": "5",
+      "pin_xy_mm": [
+        5.02,
+        52.77
+      ],
+      "RC": "R15",
+      "drill_body_projection_overlap_mm2": 0.3569407036519531
+    },
+    {
+      "connector": "ROW5_SMP2",
+      "pin": "5",
+      "pin_xy_mm": [
+        11.02,
+        52.77
+      ],
+      "RC": "R12",
+      "drill_body_projection_overlap_mm2": 0.3569407550221054
+    },
+    {
+      "connector": "ROW5_SMP3",
+      "pin": "2",
+      "pin_xy_mm": [
+        14.48,
+        52.77
+      ],
+      "RC": "R05",
+      "drill_body_projection_overlap_mm2": 0.3569407696973416
+    }
+  ],
+  "pad_clearance_failure_count": 10,
+  "affected_RC_pad_components": [
+    "R02",
+    "R05",
+    "R12",
+    "R15",
+    "R16",
+    "R21",
+    "R24",
+    "R31",
+    "R34",
+    "R35"
+  ],
+  "pad_clearance_failures": [
+    {
+      "connector": "ROW2_SMP1",
+      "pin": "4",
+      "pin_xy_mm": [
+        5.02,
+        32.23
+      ],
+      "RC_pad": "R24.2",
+      "pin_net": "GND",
+      "RC_net": "DC24",
+      "center_to_pad_minus_land_radius_mm": -0.5,
+      "copper_overlap": true
+    },
+    {
+      "connector": "ROW2_SMP2",
+      "pin": "3",
+      "pin_xy_mm": [
+        8.48,
+        32.23
+      ],
+      "RC_pad": "R31.2",
+      "pin_net": "GND",
+      "RC_net": "DC31",
+      "center_to_pad_minus_land_radius_mm": -0.5,
+      "copper_overlap": true
+    },
+    {
+      "connector": "ROW2_SMP3",
+      "pin": "3",
+      "pin_xy_mm": [
+        14.48,
+        32.23
+      ],
+      "RC_pad": "R34.2",
+      "pin_net": "GND",
+      "RC_net": "DC34",
+      "center_to_pad_minus_land_radius_mm": -0.5,
+      "copper_overlap": true
+    },
+    {
+      "connector": "ROW3_SMP1",
+      "pin": "4",
+      "pin_xy_mm": [
+        5.02,
+        38.23
+      ],
+      "RC_pad": "R21.2",
+      "pin_net": "GND",
+      "RC_net": "DC21",
+      "center_to_pad_minus_land_radius_mm": -0.5,
+      "copper_overlap": true
+    },
+    {
+      "connector": "ROW3_SMP2",
+      "pin": "3",
+      "pin_xy_mm": [
+        14.48,
+        38.23
+      ],
+      "RC_pad": "R35.2",
+      "pin_net": "GND",
+      "RC_net": "DC35",
+      "center_to_pad_minus_land_radius_mm": -0.5,
+      "copper_overlap": true
+    },
+    {
+      "connector": "ROW4_SMP1",
+      "pin": "5",
+      "pin_xy_mm": [
+        5.02,
+        46.77
+      ],
+      "RC_pad": "R16.2",
+      "pin_net": "GND",
+      "RC_net": "DC16",
+      "center_to_pad_minus_land_radius_mm": -0.5,
+      "copper_overlap": true
+    },
+    {
+      "connector": "ROW4_SMP2",
+      "pin": "2",
+      "pin_xy_mm": [
+        14.48,
+        46.77
+      ],
+      "RC_pad": "R02.2",
+      "pin_net": "GND",
+      "RC_net": "DC02",
+      "center_to_pad_minus_land_radius_mm": -0.5,
+      "copper_overlap": true
+    },
+    {
+      "connector": "ROW5_SMP1",
+      "pin": "5",
+      "pin_xy_mm": [
+        5.02,
+        52.77
+      ],
+      "RC_pad": "R15.2",
+      "pin_net": "GND",
+      "RC_net": "DC15",
+      "center_to_pad_minus_land_radius_mm": -0.5,
+      "copper_overlap": true
+    },
+    {
+      "connector": "ROW5_SMP2",
+      "pin": "5",
+      "pin_xy_mm": [
+        11.02,
+        52.77
+      ],
+      "RC_pad": "R12.2",
+      "pin_net": "GND",
+      "RC_net": "DC12",
+      "center_to_pad_minus_land_radius_mm": -0.5,
+      "copper_overlap": true
+    },
+    {
+      "connector": "ROW5_SMP3",
+      "pin": "2",
+      "pin_xy_mm": [
+        14.48,
+        52.77
+      ],
+      "RC_pad": "R05.2",
+      "pin_net": "GND",
+      "RC_net": "DC05",
+      "center_to_pad_minus_land_radius_mm": -0.5,
+      "copper_overlap": true
+    }
+  ],
+  "conclusion": "Proposed SMP coordinates cannot retain all existing R/C placements. R/C relocation, via relocation and routing changes require a new complete clearance and connectivity review.",
+  "limitation": "Drill envelopes versus saved Bottom body projections are conservative 2D checks. No full 3D B-rep interference result is claimed."
+}

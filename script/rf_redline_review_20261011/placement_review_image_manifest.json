@@ -1,0 +1,10 @@
+{
+  "status": "READ_ONLY_PLACEMENT_CANDIDATE",
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "native_changed": false,
+  "placement_report_sha256": "c96ea513297db6a1bd7b6f823d7a752e242d120226a08bc633de9f99fb9e49c0",
+  "model_report_sha256": "71e7f0768f9ac6b9dd864366269f584d9b27ca5db20264e7362d4535d53df20f",
+  "rf_routing_verified": false,
+  "image": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\rf_redline_review_20261011\\SMP_outboard_no_QD_side_review.png",
+  "image_sha256": "88fea6e0d100fcb63f5974a9120453f9d3e7da094f8fd5b0763b0944fbf6d54d"
+}

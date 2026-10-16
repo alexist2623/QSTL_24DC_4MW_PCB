@@ -1,0 +1,1048 @@
+{
+  "passed": true,
+  "status": "SAVED_NATIVE_EMBEDDED_MODELS_READ_ONLY_AUDIT",
+  "native_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+  "native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "original_pcb_sha256": "8841a488c8a961dbc1d93d881ae981af0ba81006e28a80e4c08543c365c2812e",
+  "model_counts": {
+    "R": 16,
+    "C": 16,
+    "SMP": 16,
+    "J": 1
+  },
+  "models": [
+    {
+      "component": "R28",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "component_rotation_deg": 180.0,
+      "origin_mm": [
+        12.3214384,
+        37.5000012
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C28",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "component_rotation_deg": 180.0,
+      "origin_mm": [
+        13.65000064,
+        36.50000066
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R05",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        5.89999836,
+        51.92143794
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C05",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "component_rotation_deg": 270.0,
+      "origin_mm": [
+        3.7500001199999997,
+        52.399999339999994
+      ],
+      "origin_error_mm": 1.2700000056042882e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R32",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "component_rotation_deg": 180.0,
+      "origin_mm": [
+        13.600000739999999,
+        51.92143794
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C32",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "component_rotation_deg": 270.0,
+      "origin_mm": [
+        15.74999898,
+        52.399999339999994
+      ],
+      "origin_error_mm": 1.2700000056042882e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R02",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        5.89999836,
+        57.9214361
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C02",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "component_rotation_deg": 270.0,
+      "origin_mm": [
+        3.7500001199999997,
+        58.400000039999995
+      ],
+      "origin_error_mm": 1.2699999984988608e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R24",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "component_rotation_deg": 180.0,
+      "origin_mm": [
+        13.600000739999999,
+        33.07856224
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C24",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "component_rotation_deg": 90.0,
+      "origin_mm": [
+        15.74999898,
+        32.60000084
+      ],
+      "origin_error_mm": 1.2700000056042882e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R12",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        7.17856324,
+        37.5000012
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C12",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        5.850001,
+        36.50000066
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R15",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        3.7500001199999997,
+        28.049999779999997
+      ],
+      "origin_error_mm": 1.2699999998311284e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C15",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "component_rotation_deg": 90.0,
+      "origin_mm": [
+        3.7500001199999997,
+        26.550000239999996
+      ],
+      "origin_error_mm": 1.2699999984988608e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R09",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        7.17856324,
+        47.49999898
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C09",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        5.850001,
+        48.499999519999996
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R13",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        5.89999836,
+        33.07856224
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C13",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "component_rotation_deg": 90.0,
+      "origin_mm": [
+        3.7500001199999997,
+        32.60000084
+      ],
+      "origin_error_mm": 1.2700000056042882e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R34",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "component_rotation_deg": 180.0,
+      "origin_mm": [
+        13.600000739999999,
+        57.9214361
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C34",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "component_rotation_deg": 270.0,
+      "origin_mm": [
+        15.74999898,
+        58.400000039999995
+      ],
+      "origin_error_mm": 1.2699999984988608e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R16",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "component_rotation_deg": 90.0,
+      "origin_mm": [
+        9.750000819999999,
+        29.228562319999998
+      ],
+      "origin_error_mm": 1.2699999984988608e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C16",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "component_rotation_deg": 90.0,
+      "origin_mm": [
+        9.750000819999999,
+        26.600000139999995
+      ],
+      "origin_error_mm": 1.2699999984988608e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R31",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "component_rotation_deg": 180.0,
+      "origin_mm": [
+        12.3214384,
+        47.49999898
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C31",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "component_rotation_deg": 180.0,
+      "origin_mm": [
+        13.65000064,
+        48.499999519999996
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R35",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "component_rotation_deg": 270.0,
+      "origin_mm": [
+        9.750000819999999,
+        55.77143786
+      ],
+      "origin_error_mm": 1.2700000056042882e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C35",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "component_rotation_deg": 270.0,
+      "origin_mm": [
+        9.750000819999999,
+        58.400000039999995
+      ],
+      "origin_error_mm": 1.2699999984988608e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R21",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "component_rotation_deg": 180.0,
+      "origin_mm": [
+        15.74999898,
+        28.049999779999997
+      ],
+      "origin_error_mm": 1.2699999984988608e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C21",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "component_rotation_deg": 90.0,
+      "origin_mm": [
+        15.74999898,
+        26.550000239999996
+      ],
+      "origin_error_mm": 1.2699999984988608e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R30",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "component_rotation_deg": 180.0,
+      "origin_mm": [
+        14.50000148,
+        45.97856184
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C30",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "component_rotation_deg": 90.0,
+      "origin_mm": [
+        15.74999898,
+        44.4000001
+      ],
+      "origin_error_mm": 1.2700000056042882e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "R11",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "component_rotation_deg": 180.0,
+      "origin_mm": [
+        2.89999928,
+        39.121438139999995
+      ],
+      "origin_error_mm": 1.2699999998311284e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    {
+      "component": "C11",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "component_rotation_deg": 270.0,
+      "origin_mm": [
+        5.05000006,
+        39.59999954
+      ],
+      "origin_error_mm": 1.2699999984988608e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    {
+      "component": "SMP35",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        9.750000819999999,
+        60.50000092
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP34",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        15.74999898,
+        60.50000092
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP32",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        15.74999898,
+        54.50000022
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP31",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        15.74999898,
+        48.499999519999996
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP30",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        15.74999898,
+        42.499998819999995
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP28",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        15.74999898,
+        36.50000066
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP24",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        15.74999898,
+        30.499999959999997
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP21",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        15.74999898,
+        24.49999926
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP16",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        9.750000819999999,
+        24.49999926
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP15",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        3.7500001199999997,
+        24.49999926
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP13",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        3.7500001199999997,
+        30.499999959999997
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP12",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        3.7500001199999997,
+        36.50000066
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP11",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        3.7500001199999997,
+        42.499998819999995
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP09",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        3.7500001199999997,
+        48.499999519999996
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP05",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        3.7500001199999997,
+        54.50000022
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "SMP02",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        3.7500001199999997,
+        60.50000092
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    },
+    {
+      "component": "J1",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        9.750000819999999,
+        4.44999872
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.70000114,
+      "standoff_mm": 0.11000232,
+      "overall_height_mm": 1.2600000199999999,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "0f86a223e1a1920af07de0972295acb75b1658ea2ece95c59b116630a4253501"
+      ]
+    }
+  ],
+  "errors": [],
+  "original_unchanged": true,
+  "native_unchanged": true,
+  "scope": "Native model transforms and source STEP hashes; not 3D body collision certification."
+}

@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=Update16RFRules.pas
+[Generic_ScriptingSystem]
+StartProcName=Update16RFRules.pas>Update16RFRules

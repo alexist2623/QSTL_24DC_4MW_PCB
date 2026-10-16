@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=RepairQD38PadMaskSlivers.pas
+[Generic_ScriptingSystem]
+StartProcName=RepairQD38PadMaskSlivers.pas>RepairQD38PadMaskSlivers

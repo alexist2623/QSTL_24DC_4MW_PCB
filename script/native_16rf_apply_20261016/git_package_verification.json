@@ -1,0 +1,58 @@
+{
+  "passed": true,
+  "issues": [],
+  "files": 1115,
+  "MB": 355.02,
+  "largest": [
+    {
+      "MB": 33.55,
+      "path": "QSTL_QD4_2SET_38PAD/Shielded_Symmetric_RF_Plan_20261016/candidate_segments.pkl"
+    },
+    {
+      "MB": 28.45,
+      "path": "QSTL_QD4_2SET_38PAD/ZIF10mm_Reference_End_20261016/Proposed_PCB_SMP_ZIF_Envelope.step"
+    },
+    {
+      "MB": 21.89,
+      "path": "script/native_16rf_apply_20261016/candidate.json"
+    },
+    {
+      "MB": 21.88,
+      "path": "script/native_16rf_apply_20261016/before_dc_centralization/candidate.json"
+    },
+    {
+      "MB": 8.69,
+      "path": "script/reference12_fastening_20261015/Current_ZIF_Embedded.step"
+    },
+    {
+      "MB": 6.81,
+      "path": "script/qd38_rotation_20261011/before_rotation/full_copper_candidate.json"
+    },
+    {
+      "MB": 6.73,
+      "path": "QSTL_QD4_2SET_38PAD/QSTL_QD4_2SET_38PAD.PcbDoc"
+    },
+    {
+      "MB": 6.26,
+      "path": "script/qd38_pad_alignment_20261011/alignment_routed_candidate.json"
+    },
+    {
+      "MB": 6.25,
+      "path": "script/qd38_rotation_20261011/full_copper_mask_repair_candidate.json"
+    },
+    {
+      "MB": 6.25,
+      "path": "script/qd38_rotation_20261011/full_copper_candidate.json"
+    },
+    {
+      "MB": 6.25,
+      "path": "script/qd38_pad_alignment_20261011/before_alignment/full_copper_candidate.json"
+    },
+    {
+      "MB": 6.25,
+      "path": "script/qd38_pad_alignment_20261011/before_alignment/circuit_plan.json"
+    }
+  ],
+  "project_document_count": 13,
+  "verified_PCB_sha256": "0adecc99d347b092775e4fe84506e643e7af0a8ce49d43413f4dc0239a6f58de"
+}

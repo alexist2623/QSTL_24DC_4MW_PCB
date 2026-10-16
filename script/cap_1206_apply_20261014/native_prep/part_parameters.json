@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Yageo",
+  "mpn": "CC1206JKNPO9BN104",
+  "value": "100nF",
+  "package": "1206",
+  "dielectric": "C0G (NP0)",
+  "voltage": "50V",
+  "tolerance": "5%",
+  "footprint": "CAPC3216_CC1206JKNPO9BN104",
+  "footprint_library": "Capacitors_1206.PcbLib",
+  "description": "Yageo CC1206JKNPO9BN104; 100nF 50V 5% C0G (NP0); 1206",
+  "body_nominal_mm": [3.2, 1.6, 1.6],
+  "body_max_height_mm": 1.8,
+  "pad_size_local_mm": [1.0, 1.8],
+  "pad_pitch_mm": 3.0,
+  "mask_expansion_mm": 0.05,
+  "land_pattern_status": "Confirmed Yageo general reflow guide: 1.0x1.8 pads, 3.0 pitch, occupied envelope 4.4x2.5 mm",
+  "source_schematic_sha256": "c2988857ab2062b0f581f105a6cd1f93677647b3c8a3b3ad4ac0c1e570bbf45e"
+}

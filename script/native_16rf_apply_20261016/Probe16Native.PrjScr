@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=Probe16Native.pas
+[Generic_ScriptingSystem]
+StartProcName=Probe16Native.pas>Probe16Native

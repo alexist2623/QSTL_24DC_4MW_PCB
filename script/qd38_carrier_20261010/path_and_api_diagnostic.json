@@ -1,0 +1,115 @@
+{
+  "checked_at_utc": "2026-10-11T05:08:50.206868+00:00",
+  "git_root": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB",
+  "helper_root": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010",
+  "project": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PrjPcb",
+  "documents": [
+    {
+      "path": "QSTL_QD4_2SET_38PAD.SchDoc",
+      "exists": true,
+      "resolved": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.SchDoc"
+    },
+    {
+      "path": "QSTL_QD4_2SET_38PAD.PcbDoc",
+      "exists": true,
+      "resolved": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc"
+    },
+    {
+      "path": "QSTL_QD4_2SET_38PAD.PcbLib",
+      "exists": true,
+      "resolved": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbLib"
+    },
+    {
+      "path": "Reference_Connectors.SchLib",
+      "exists": true,
+      "resolved": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Reference_Connectors.SchLib"
+    },
+    {
+      "path": "Reference_Connectors.PcbLib",
+      "exists": true,
+      "resolved": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Reference_Connectors.PcbLib"
+    },
+    {
+      "path": "Passives_0603.PcbLib",
+      "exists": true,
+      "resolved": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Passives_0603.PcbLib"
+    },
+    {
+      "path": "QSTL_QD4_2SET_38PAD.SchLib",
+      "exists": true,
+      "resolved": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.SchLib"
+    },
+    {
+      "path": "ZIF_5025985193.PcbLib",
+      "exists": true,
+      "resolved": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\ZIF_5025985193.PcbLib"
+    },
+    {
+      "path": "Reference_Resistors.SchLib",
+      "exists": true,
+      "resolved": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Reference_Resistors.SchLib"
+    },
+    {
+      "path": "Reference_Capacitors.SchLib",
+      "exists": true,
+      "resolved": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Reference_Capacitors.SchLib"
+    },
+    {
+      "path": "Capacitors_0402.PcbLib",
+      "exists": true,
+      "resolved": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Capacitors_0402.PcbLib"
+    },
+    {
+      "path": "QD4_2SET_38.PcbLib",
+      "exists": true,
+      "resolved": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QD4_2SET_38.PcbLib"
+    }
+  ],
+  "changed_absolute_document_references": [
+    {
+      "before": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB.PcbDoc",
+      "after": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc"
+    },
+    {
+      "before": "C:\\JeonghyunPark\\Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB.PcbDoc",
+      "after": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc"
+    }
+  ],
+  "source_files_preserved": true,
+  "api_repair": "DM_OpenProject(ProjectPath, True)",
+  "api_documentation": "https://www.altium.com/documentation/altium-dxp-developer/workspace-manager-api",
+  "native_runtime_retest": "RESOLVED_VERIFIED",
+  "last_verified_at_utc": "2026-10-11T06:09:38.321407+00:00",
+  "runtime_evidence": {
+    "probe": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010\\probe_native_fixed.txt",
+    "probe_result": "PROJECT_OPEN_OK, PCB_OPEN_OK, COMPLETE",
+    "native_validation": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010\\native_validation.txt",
+    "native_validation_result": "REOPENED; DRC_RETURNED_TRUE; POST_DRC_SAVED_CONNECTION_COUNT=0; COMPLETE",
+    "native_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+    "native_sha256": "f8356dd694810d2318a51e99544ab2345f8b9996de80e9ddc4456bbc6a14c632",
+    "native_components": 50,
+    "native_pads": 243,
+    "native_vias": 716,
+    "native_shield_vias": 640,
+    "native_DRC_rule_instances": 21,
+    "native_DRC_violations": 0,
+    "desktop_access": "Native project open, editing, save/reopen and DRC now execute successfully in the current session.",
+    "earlier_access_denied_cause": "Not established; resolved access is confirmed by observed native execution.",
+    "native_compile_boolean": false,
+    "native_compile_reported_violations": 0,
+    "original_source_files_unchanged": {
+      "QSTL_24DC_4MW_PCB.SchDoc": true,
+      "QSTL_24DC_4MW_PCB.PcbDoc": true,
+      "QSTL_24DC_4MW_PCB.PcbLib": true,
+      "Reference_Connectors.SchLib": true,
+      "Reference_Connectors.PcbLib": true,
+      "Passives_0603.PcbLib": true,
+      "QSTL_24DC_4MW_PCB.SchLib": true,
+      "ZIF_5025985193.PcbLib": true,
+      "Reference_Resistors.SchLib": true,
+      "Reference_Capacitors.SchLib": true,
+      "Capacitors_0402.PcbLib": true,
+      "QSTL_24DC_4MW_PCB.PrjPcb": true
+    }
+  }
+}

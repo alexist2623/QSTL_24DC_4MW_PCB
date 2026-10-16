@@ -5,3 +5,15 @@ QSTL_24DC_4MW_PCB/FPC_Adapters_20261002/**/Native_DRC.html -text
 QSTL_24DC_4MW_PCB/FPC_Adapters_20261002/**/native_validation.txt -text
 QSTL_24DC_4MW_PCB/FPC_Adapters_20261002/**/native_compile.txt -text
 script/anton_zif_20260923/reference/DSUBtoZIF_20250306/* -text
+# Preserve the byte hashes recorded by the native sixteen-RF design audits.
+QSTL_QD4_2SET_38PAD/** -text
+script/native_16rf_apply_20261016/** -text
+script/rf_redline_review_20261011/** -text
+script/qd38_rotation_20261011/** -text
+script/qd38_carrier_20261010/** -text
+script/qd38_pad_alignment_20261011/** -text
+script/qd38_dual_pad_alignment_20261014/** -text
+script/qd38_copper_fit_20261014/** -text
+script/reference12_fastening_20261015/** -text
+script/cap_1206_apply_20261014/native_prep/CC1206JKNPO9BN104_OEM_MAX_Centered.step -text
+script/cap_1206_apply_20261014/native_prep/part_parameters.json -text

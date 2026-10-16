@@ -1,0 +1,1154 @@
+{
+  "passed": true,
+  "failures": [],
+  "source_routed_candidate_sha256": "c4b1f6258b0d1067db753648a478a2e3058f8fe792677fe1091533e4baee48ae",
+  "source_routed_audit_sha256": "5b4e2e7fed44baaae1ba58ba2c6347c738f1f2d8a3296860933820d21e34dba1",
+  "source_baseline_candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+  "source_native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "local_box_mm": [
+    5.5,
+    36.0,
+    14.0,
+    49.0
+  ],
+  "changed_ground_layers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    32
+  ],
+  "ground_changes": [
+    {
+      "layer": 1,
+      "changed_area_mm2": 0.6304912192432752,
+      "changed_bounds_mm": [
+        0.19999959999999997,
+        0.19999959999999997,
+        19.2999995,
+        67.69999922
+      ],
+      "outside_local_box_difference_mm2": 8.182945208300302e-14,
+      "removed_unanchored_islands": 0,
+      "removed_unanchored_area_mm2": 0.0,
+      "component_count": 1,
+      "baseline_saved_ground_area_mm2": 1201.8470411186227,
+      "new_area_mm2": 1201.2165499637301,
+      "global_simplify_would_change_outside_area_mm2": 0.0003256271261637466
+    },
+    {
+      "layer": 2,
+      "changed_area_mm2": 0.20877438959738087,
+      "changed_bounds_mm": [
+        0.19999959999999997,
+        0.19999959999999997,
+        19.2999995,
+        67.69999922
+      ],
+      "outside_local_box_difference_mm2": 1.503988855458871e-13,
+      "removed_unanchored_islands": 0,
+      "removed_unanchored_area_mm2": 0.0,
+      "component_count": 10,
+      "baseline_saved_ground_area_mm2": 813.7753204240588,
+      "new_area_mm2": 813.5665461192987,
+      "global_simplify_would_change_outside_area_mm2": 0.0021413103367313533
+    },
+    {
+      "layer": 3,
+      "changed_area_mm2": 0.6304988643825002,
+      "changed_bounds_mm": [
+        0.19999959999999997,
+        0.19999959999999997,
+        19.2999995,
+        67.69999922
+      ],
+      "outside_local_box_difference_mm2": 7.746875758682955e-14,
+      "removed_unanchored_islands": 0,
+      "removed_unanchored_area_mm2": 0.0,
+      "component_count": 1,
+      "baseline_saved_ground_area_mm2": 1200.47559168075,
+      "new_area_mm2": 1199.8450928630791,
+      "global_simplify_would_change_outside_area_mm2": 0.00028629114677140383
+    },
+    {
+      "layer": 4,
+      "changed_area_mm2": 0.46555982168861226,
+      "changed_bounds_mm": [
+        0.19999959999999997,
+        0.19999959999999997,
+        19.2999995,
+        67.69999922
+      ],
+      "outside_local_box_difference_mm2": 1.5742802942447832e-13,
+      "removed_unanchored_islands": 7,
+      "removed_unanchored_area_mm2": 0.00797285679074324,
+      "component_count": 8,
+      "baseline_saved_ground_area_mm2": 832.162395793025,
+      "new_area_mm2": 831.6968359742593,
+      "global_simplify_would_change_outside_area_mm2": 0.0003063139389808828
+    },
+    {
+      "layer": 5,
+      "changed_area_mm2": 0.6304988643825002,
+      "changed_bounds_mm": [
+        0.19999959999999997,
+        0.19999959999999997,
+        19.2999995,
+        67.69999922
+      ],
+      "outside_local_box_difference_mm2": 7.746875758682955e-14,
+      "removed_unanchored_islands": 0,
+      "removed_unanchored_area_mm2": 0.0,
+      "component_count": 1,
+      "baseline_saved_ground_area_mm2": 1200.47559168075,
+      "new_area_mm2": 1199.8450928630791,
+      "global_simplify_would_change_outside_area_mm2": 0.00028629114677140383
+    },
+    {
+      "layer": 32,
+      "changed_area_mm2": 0.0012683023065115308,
+      "changed_bounds_mm": [
+        6.3164567599999994,
+        38.20299954,
+        12.767967859999999,
+        46.36791844
+      ],
+      "outside_local_box_difference_mm2": 0.0,
+      "removed_unanchored_islands": 0,
+      "removed_unanchored_area_mm2": 0.0,
+      "component_count": 3,
+      "baseline_saved_ground_area_mm2": 1022.8160978307682,
+      "new_area_mm2": 1022.8148297855718,
+      "global_simplify_would_change_outside_area_mm2": 0.0008632559573555896
+    }
+  ],
+  "signal_audit": {
+    "passed": true,
+    "failures": [],
+    "minimum_foreign_copper_gap_mm": 0.10499999999999508,
+    "minimum_internal_DC_pair_gap_mm": 0.10499999999999508,
+    "internal_DC_pair_rule_mm": 0.1,
+    "other_pair_rule_mm": 0.15,
+    "disconnected_nets": [],
+    "invalid_turns": [],
+    "dc_via_and_layer": [
+      {
+        "net": "DC01",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC02",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC03",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC04",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC05",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC06",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC07",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC08",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC09",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC10",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC11",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC12",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC13",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC14",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC15",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC16",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC17",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC18",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC19",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC20",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC21",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC22",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC23",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC24",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC25",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC26",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC27",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC28",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC29",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC30",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC31",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC32",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC33",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC34",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC35",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC36",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC37",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC38",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      }
+    ],
+    "signal_arcs": 62,
+    "tracks": 585
+  },
+  "ground_clearance": {
+    "passed": true,
+    "failures": [],
+    "layers": [
+      {
+        "layer": 1,
+        "minimum_signal_gap_mm": 0.20146047573525228,
+        "nearest": "PAD:J1-8",
+        "passed": true
+      },
+      {
+        "layer": 2,
+        "minimum_signal_gap_mm": 0.2020287649676421,
+        "nearest": "VIA:R35-2",
+        "passed": true
+      },
+      {
+        "layer": 3,
+        "minimum_signal_gap_mm": 0.20202875082550525,
+        "nearest": "VIA:R16-2",
+        "passed": true
+      },
+      {
+        "layer": 4,
+        "minimum_signal_gap_mm": 0.20202862354628542,
+        "nearest": "VIA:R34-2",
+        "passed": true
+      },
+      {
+        "layer": 5,
+        "minimum_signal_gap_mm": 0.20202875082550525,
+        "nearest": "VIA:R16-2",
+        "passed": true
+      },
+      {
+        "layer": 32,
+        "minimum_signal_gap_mm": 0.2019066631291639,
+        "nearest": "ARC:19:MW16",
+        "passed": true
+      }
+    ]
+  },
+  "ground_connectivity": {
+    "passed": true,
+    "group_count": 1,
+    "groups": [],
+    "primitive_count": 764
+  },
+  "routing_clearance_deltas": [
+    {
+      "layer": 1,
+      "new_clearance_area_mm2": 0.0,
+      "outside_local_box_area_mm2": 0.0
+    },
+    {
+      "layer": 2,
+      "new_clearance_area_mm2": 0.2965078919906126,
+      "outside_local_box_area_mm2": 0.0
+    },
+    {
+      "layer": 3,
+      "new_clearance_area_mm2": 0.0,
+      "outside_local_box_area_mm2": 0.0
+    },
+    {
+      "layer": 4,
+      "new_clearance_area_mm2": 1.0292769718142256,
+      "outside_local_box_area_mm2": 0.0
+    },
+    {
+      "layer": 5,
+      "new_clearance_area_mm2": 0.0,
+      "outside_local_box_area_mm2": 0.0
+    },
+    {
+      "layer": 32,
+      "new_clearance_area_mm2": 0.0,
+      "outside_local_box_area_mm2": 0.0
+    }
+  ],
+  "shield_audit": {
+    "passed": true,
+    "shield_via_count": 668,
+    "minimum_signal_clearance_mm": {
+      "5": 0.2858622982598083,
+      "32": 0.20339102694598932
+    },
+    "worst_signal_clearance": {
+      "5": {
+        "index": 285,
+        "x": 16.185,
+        "y": 59.7,
+        "gap_mm": 0.2858622982598083
+      },
+      "32": {
+        "index": 478,
+        "x": 5.661311922062029,
+        "y": 40.61560985815978,
+        "gap_mm": 0.20339102694598932
+      }
+    },
+    "signal_primitives_per_layer": {
+      "5": 92,
+      "32": 414
+    },
+    "minimum_RC_body_clearance_mm": 0.09765688663350147,
+    "minimum_foreign_drill_clearance_mm": 0.25700843937841816,
+    "grounded_on_both_layers": true,
+    "rings": {
+      "passed": true,
+      "failures": [],
+      "rings": [
+        {
+          "component": "SMP02",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.75,
+            60.5
+          ],
+          "axis_deg": 270.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.886579864025407e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP05",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.75,
+            54.5
+          ],
+          "axis_deg": 270.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.886579864025407e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP09",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.75,
+            48.5
+          ],
+          "axis_deg": 0.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.886579864025407e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP11",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.75,
+            42.5
+          ],
+          "axis_deg": 270.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.886579864025407e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP12",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.75,
+            36.5
+          ],
+          "axis_deg": 0.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.886579864025407e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP13",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.75,
+            30.5
+          ],
+          "axis_deg": 90.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 1.7763568394002505e-15,
+          "maximum_grid_error_deg": 8.526512829121202e-14,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP15",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.75,
+            24.5
+          ],
+          "axis_deg": 90.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 1.7763568394002505e-15,
+          "maximum_grid_error_deg": 8.526512829121202e-14,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP16",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            9.75,
+            24.5
+          ],
+          "axis_deg": 90.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 1.7763568394002505e-15,
+          "maximum_grid_error_deg": 8.526512829121202e-14,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP21",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.75,
+            24.5
+          ],
+          "axis_deg": 90.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 1.7763568394002505e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP24",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.75,
+            30.5
+          ],
+          "axis_deg": 90.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 1.7763568394002505e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP28",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.75,
+            36.5
+          ],
+          "axis_deg": 180.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.886579864025407e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP30",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.75,
+            42.5
+          ],
+          "axis_deg": 90.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.886579864025407e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP31",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.75,
+            48.5
+          ],
+          "axis_deg": 180.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.886579864025407e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP32",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.75,
+            54.5
+          ],
+          "axis_deg": 270.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.886579864025407e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP34",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.75,
+            60.5
+          ],
+          "axis_deg": 270.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.886579864025407e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP35",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            9.75,
+            60.5
+          ],
+          "axis_deg": 270.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.886579864025407e-15,
+          "maximum_grid_error_deg": 1.1368683772161603e-13,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        }
+      ],
+      "shield_via_count": 668,
+      "minimum_shield_pitch_mm": 0.3999999999999949,
+      "shield_span": [
+        5,
+        32
+      ],
+      "shield_land_mm": 0.25,
+      "shield_hole_mm": 0.1,
+      "note": "Every active SMP requires a nonempty ring. Saved vias must match planned ring labels, a 1.05 mm radius and a 22.5-degree grid mirrored about the planned RF escape axis. Missing rings are failures."
+    },
+    "errors": [],
+    "required_signal_clearance_mm": 0.2,
+    "arc_conservative_allowance_mm": 0.00011
+  },
+  "mask_audit": {
+    "all_fields_unchanged": true,
+    "all_new_qd_pads_inside_preserved_field": true,
+    "field_open_on_bottom": true,
+    "cavity_inside_preserved_field": true,
+    "inherited_field_bounds_mm": [
+      6.412233744369339,
+      38.47635042912807,
+      13.084447357202126,
+      46.558914674569145
+    ],
+    "C_R_aperture_overrides_preserved": true,
+    "no_new_mask_opening": true,
+    "passed": true
+  },
+  "QD_ground_exclusion": [
+    {
+      "layer": 1,
+      "area_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "layer": 2,
+      "area_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "layer": 3,
+      "area_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "layer": 4,
+      "area_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "layer": 5,
+      "area_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "layer": 32,
+      "area_mm2": 0.0,
+      "passed": true
+    }
+  ],
+  "RF_2_21_overlap": [
+    {
+      "pad": 2,
+      "net": "MW02",
+      "retained_RF_overlap_mm2": 0.028952111568745886,
+      "passed": true
+    },
+    {
+      "pad": 21,
+      "net": "MW21",
+      "retained_RF_overlap_mm2": 0.029233394435699833,
+      "passed": true
+    }
+  ],
+  "inherited_mask_field_note": "The previous larger field is intentionally retained and verified to contain all new pads and the cavity; no new mask opening area is introduced.",
+  "native_export_requirement": "Export prequantized ground contours directly with NO global simplification. Leave all native mask regions and shield primitives untouched.",
+  "scope": "Offline complete signal, local GND, unchanged shield/mask geometry. Native save/reopen, paste, library correspondence and DRC remain mandatory.",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c"
+}

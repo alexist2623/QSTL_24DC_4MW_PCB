@@ -1,0 +1,182 @@
+{
+  "source_hashes": {
+    "F:\\Nextcloud\\Lab\\Instruments\\CustomParts\\Carrier_12MW_72DC\\PCB\\Sample_Holder\\Sample_Holder.step": "2b2acc725fa2c1c0c57fcaf48a8799cf6c3e1d419969b94460de1270258c2fcb",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\RC_Filter_Standalone_Holder_Concept\\Standard_Fasteners\\ISO_7045_H_M2x6.step": "d7bfb7f3461e4799ec68abbe44f28c8dd0ab171e341601aa869126c857251ec5",
+    "F:\\Nextcloud\\Lab\\Instruments\\CustomParts\\Carrier_12MW_72DC\\Mechanical\\Assembly1.stl": "419990146e4bbadd03a5b9829ed59bbb18195a2408a6853c2cf45bd69f7e7638",
+    "F:\\Nextcloud\\Lab\\Instruments\\CustomParts\\Carrier_12MW_72DC\\Mechanical\\CuBoxTop_12MW_72DC.sldprt": "35c99eca1923be0db49d192f786b5bfaa26608675795633d3cb0c65a24dd1ac4",
+    "F:\\Nextcloud\\Lab\\Instruments\\CustomParts\\Carrier_12MW_72DC\\Mechanical\\CuBoxBottom_12MW_72DC.sldprt": "2feab84eae1add0c0e4154a65a33a174cde90a79dd706467502863649d4ed954"
+  },
+  "reference_files_unchanged": true,
+  "native_sldprt_import": "Failed: zero solid bodies from both reference import and direct translator; STL fallback used",
+  "mesh_scale": 1000,
+  "mesh_scale_basis": "Matching 25.6 x 75.6 mm PCB mount pattern and twelve SMP locations",
+  "mesh_transforms_to_pcb_step_mm": {
+    "upper": [
+      [
+        0,
+        1,
+        0,
+        19.1199985743
+      ],
+      [
+        1,
+        0,
+        0,
+        -4.05668354
+      ],
+      [
+        0,
+        0,
+        -1,
+        5.9751763344
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "lower": [
+      [
+        0,
+        1,
+        0,
+        -18.5184959173
+      ],
+      [
+        1,
+        0,
+        0,
+        -4.0568763733
+      ],
+      [
+        0,
+        0,
+        -1,
+        -2.0251074466
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ]
+  },
+  "pcb_mount_axes_mm": [
+    [
+      -12.8,
+      37.8
+    ],
+    [
+      12.8,
+      37.8
+    ],
+    [
+      -12.8,
+      -37.8
+    ],
+    [
+      12.8,
+      -37.8
+    ]
+  ],
+  "additional_cad_hole_axes_mm": [
+    [
+      -12.8,
+      -45.3
+    ],
+    [
+      12.8,
+      -45.3
+    ],
+    [
+      -14.3,
+      0.7
+    ],
+    [
+      14.3,
+      0.7
+    ]
+  ],
+  "screws": [
+    {
+      "index": 1,
+      "axis_xy_mm": [
+        -12.8,
+        37.8
+      ],
+      "under_head_z_mm": 0,
+      "tip_z_mm": -6,
+      "bounds_mm": [
+        -14.8,
+        35.800000000000004,
+        -6.0,
+        -10.8,
+        39.800000000000004,
+        1.5873817452285934
+      ]
+    },
+    {
+      "index": 2,
+      "axis_xy_mm": [
+        12.8,
+        37.8
+      ],
+      "under_head_z_mm": 0,
+      "tip_z_mm": -6,
+      "bounds_mm": [
+        10.8,
+        35.800000000000004,
+        -6.0,
+        14.8,
+        39.800000000000004,
+        1.5873817452285934
+      ]
+    },
+    {
+      "index": 3,
+      "axis_xy_mm": [
+        -12.8,
+        -37.8
+      ],
+      "under_head_z_mm": 0,
+      "tip_z_mm": -6,
+      "bounds_mm": [
+        -14.8,
+        -39.79999999999999,
+        -6.0,
+        -10.8,
+        -35.79999999999999,
+        1.5873817452285934
+      ]
+    },
+    {
+      "index": 4,
+      "axis_xy_mm": [
+        12.8,
+        -37.8
+      ],
+      "under_head_z_mm": 0,
+      "tip_z_mm": -6,
+      "bounds_mm": [
+        10.8,
+        -39.79999999999999,
+        -6.0,
+        14.8,
+        -35.79999999999999,
+        1.5873817452285934
+      ]
+    }
+  ],
+  "hardware_source": "Existing unmodified Inventor Content Center ISO 7045 H M2 x 6",
+  "validated_threaded_assembly": false,
+  "findings": [
+    "PCB has diameter 3.2 mm holes; corresponding SMP-side shell has nominal diameter 3.0 mm bores.",
+    "M2 has 0.5 mm radial clearance in the 3.0 mm bore; direct M2 engagement cannot be claimed.",
+    "Additional nominal 2.0 mm shell axes at X +/-14.3, Y0.7 have no matching PCB drill.",
+    "Two additional shell axes at X +/-12.8, Y-45.3 are beyond the PCB lower edge.",
+    "Upper/lower shell mating positions inferred from matching hole and SMP patterns; no manufacturing fit or thread validation."
+  ]
+}

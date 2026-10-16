@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "status": "SAVED_NATIVE_EMBEDDED_MODELS_READ_ONLY_AUDIT",
+  "native_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "original_pcb_sha256": "8841a488c8a961dbc1d93d881ae981af0ba81006e28a80e4c08543c365c2812e",
+  "model_counts": {
+    "R": 16,
+    "C": 16,
+    "SMP": 16,
+    "J": 1
+  },
+  "errors": [],
+  "original_unchanged": true,
+  "native_unchanged": true,
+  "scope": "Native model transforms and source STEP hashes; not 3D body collision certification."
+}

@@ -1,0 +1,460 @@
+{
+  "candidate": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\rf_widened_candidate.json",
+  "scope": "Geometric proximity review. A .40 mm copper edge gap is the sum of two .20 mm coplanar clearances before allowing any intervening GND width; it is not an independently approved RF-pair rule or a measured impedance result.",
+  "QD_field_bounds_mm": [
+    6.5622337443693395,
+    38.62635042912807,
+    12.934447357202126,
+    46.40891467456915
+  ],
+  "minimum_pair": {
+    "a": "MW28",
+    "b": "MW30",
+    "min_copper_gap_mm": 0.15101262984743966,
+    "nearest_points_mm": [
+      [
+        13.25398737015256,
+        41.35503241774665
+      ],
+      [
+        13.405,
+        41.35503241774665
+      ]
+    ],
+    "nearest_within_QD_field": false,
+    "close_below_0p4mm_edge_gap_length_mm": [
+      2.05795061544209,
+      2.041947235108952
+    ],
+    "close_length_outside_QD_field_mm": [
+      2.05795061544209,
+      2.041947235108952
+    ],
+    "close_length_outside_terminal_0p3_margin_mm": [
+      1.828244963979809,
+      2.041947235108952
+    ]
+  },
+  "pairs": [
+    {
+      "a": "MW28",
+      "b": "MW30",
+      "min_copper_gap_mm": 0.15101262984743966,
+      "nearest_points_mm": [
+        [
+          13.25398737015256,
+          41.35503241774665
+        ],
+        [
+          13.405,
+          41.35503241774665
+        ]
+      ],
+      "nearest_within_QD_field": false,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        2.05795061544209,
+        2.041947235108952
+      ],
+      "close_length_outside_QD_field_mm": [
+        2.05795061544209,
+        2.041947235108952
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        1.828244963979809,
+        2.041947235108952
+      ]
+    },
+    {
+      "a": "MW11",
+      "b": "MW12",
+      "min_copper_gap_mm": 0.1559999999999997,
+      "nearest_points_mm": [
+        [
+          5.957,
+          42.8735533906
+        ],
+        [
+          5.801,
+          42.8735533906
+        ]
+      ],
+      "nearest_within_QD_field": false,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        4.732851498668521,
+        4.718873964820728
+      ],
+      "close_length_outside_QD_field_mm": [
+        4.536448918727362,
+        4.718873964820728
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        4.203924047823449,
+        4.453272567718395
+      ]
+    },
+    {
+      "a": "MW30",
+      "b": "MW31",
+      "min_copper_gap_mm": 0.15600000000000055,
+      "nearest_points_mm": [
+        [
+          13.515,
+          42.3837220877
+        ],
+        [
+          13.671000000000001,
+          42.3837220877
+        ]
+      ],
+      "nearest_within_QD_field": false,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        3.248987790601689,
+        3.4890721141687235
+      ],
+      "close_length_outside_QD_field_mm": [
+        2.902795268592594,
+        3.452956629983236
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        2.7157174135388362,
+        3.0896470822194555
+      ]
+    },
+    {
+      "a": "MW09",
+      "b": "MW11",
+      "min_copper_gap_mm": 0.15743239247448848,
+      "nearest_points_mm": [
+        [
+          6.224432392474489,
+          43.93623384315424
+        ],
+        [
+          6.067,
+          43.93623384315424
+        ]
+      ],
+      "nearest_within_QD_field": false,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        1.5108340828920912,
+        1.4686809005559918
+      ],
+      "close_length_outside_QD_field_mm": [
+        1.5108340828920912,
+        1.4686809005559918
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        1.3248409907428602,
+        1.4686809005559918
+      ]
+    },
+    {
+      "a": "MW16",
+      "b": "MW21",
+      "min_copper_gap_mm": 0.18950260832491747,
+      "nearest_points_mm": [
+        [
+          5.505813318665463,
+          34.33056731792303
+        ],
+        [
+          5.6634890197,
+          34.2254501839
+        ]
+      ],
+      "nearest_within_QD_field": false,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        1.2044227937848693,
+        1.2439498101159383
+      ],
+      "close_length_outside_QD_field_mm": [
+        1.2044227937848693,
+        1.2439498101159383
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        1.2044227937848693,
+        0.8062086029770392
+      ]
+    },
+    {
+      "a": "MW21",
+      "b": "MW24",
+      "min_copper_gap_mm": 0.19663518410000158,
+      "nearest_points_mm": [
+        [
+          10.2823648159,
+          38.04304902432048
+        ],
+        [
+          10.479000000000001,
+          38.04304902432048
+        ]
+      ],
+      "nearest_within_QD_field": false,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        1.1276522731627143,
+        1.021229051050145
+      ],
+      "close_length_outside_QD_field_mm": [
+        1.1276522731627143,
+        1.021229051050145
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        1.0726571644290008,
+        1.021229051050145
+      ]
+    },
+    {
+      "a": "MW02",
+      "b": "MW05",
+      "min_copper_gap_mm": 0.226614590547369,
+      "nearest_points_mm": [
+        [
+          9.169841484331817,
+          46.747187454750616
+        ],
+        [
+          8.964521005360313,
+          46.84309195706341
+        ]
+      ],
+      "nearest_within_QD_field": false,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        1.0084255599627154,
+        0.7844528098129535
+      ],
+      "close_length_outside_QD_field_mm": [
+        0.9433230267500918,
+        0.7844528098129535
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        0.7701052941113332,
+        0.7844528098129535
+      ]
+    },
+    {
+      "a": "MW34",
+      "b": "MW35",
+      "min_copper_gap_mm": 0.38679040078479116,
+      "nearest_points_mm": [
+        [
+          11.89453607285292,
+          45.9008907939622
+        ],
+        [
+          11.521301857968973,
+          46.00239466078126
+        ]
+      ],
+      "nearest_within_QD_field": true,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        0.026592553743953102,
+        0.23048737954610538
+      ],
+      "close_length_outside_QD_field_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "a": "MW28",
+      "b": "MW31",
+      "min_copper_gap_mm": 0.4170126298474415,
+      "nearest_points_mm": [
+        [
+          13.25398737015256,
+          41.35503241774665
+        ],
+        [
+          13.671000000000001,
+          41.35503241774665
+        ]
+      ],
+      "nearest_within_QD_field": false,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_QD_field_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "a": "MW09",
+      "b": "MW12",
+      "min_copper_gap_mm": 0.4234323924744885,
+      "nearest_points_mm": [
+        [
+          6.224432392474489,
+          43.93623384315424
+        ],
+        [
+          5.801,
+          43.93623384315424
+        ]
+      ],
+      "nearest_within_QD_field": false,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_QD_field_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "a": "MW12",
+      "b": "MW13",
+      "min_copper_gap_mm": 0.4531519088624925,
+      "nearest_points_mm": [
+        [
+          6.8380021209,
+          41.592101096
+        ],
+        [
+          6.848003446,
+          41.1390595681
+        ]
+      ],
+      "nearest_within_QD_field": true,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_QD_field_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "a": "MW31",
+      "b": "MW32",
+      "min_copper_gap_mm": 0.5137738886586692,
+      "nearest_points_mm": [
+        [
+          12.653579500060168,
+          43.83106893074635
+        ],
+        [
+          12.63466891,
+          44.3444946783
+        ]
+      ],
+      "nearest_within_QD_field": true,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_QD_field_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "a": "MW02",
+      "b": "MW35",
+      "min_copper_gap_mm": 0.5458365798126515,
+      "nearest_points_mm": [
+        [
+          10.25810044544241,
+          48.81710327105746
+        ],
+        [
+          10.7526468369,
+          48.5861023218
+        ]
+      ],
+      "nearest_within_QD_field": false,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_QD_field_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "a": "MW13",
+      "b": "S11",
+      "min_copper_gap_mm": 0.5891902254817543,
+      "nearest_points_mm": [
+        [
+          5.69203474392453,
+          40.022370583202004
+        ],
+        [
+          5.1048509751,
+          40.070953949
+        ]
+      ],
+      "nearest_within_QD_field": false,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_QD_field_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "a": "MW15",
+      "b": "MW16",
+      "min_copper_gap_mm": 0.741021877069502,
+      "nearest_points_mm": [
+        [
+          6.995249776877971,
+          39.12371155174373
+        ],
+        [
+          7.716813504701552,
+          38.955012977401964
+        ]
+      ],
+      "nearest_within_QD_field": true,
+      "close_below_0p4mm_edge_gap_length_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_QD_field_mm": [
+        0.0,
+        0.0
+      ],
+      "close_length_outside_terminal_0p3_margin_mm": [
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "status": "PREPARED_NOT_EXECUTED",
+  "pcb": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+  "pcb_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "project_sha256": "4c45713af7cdb2e06d11652b65f5760e85a7d6ff208d2b3860d4c05147e6ef98",
+  "outjob": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\Revision_Paste_Audit_Only.OutJob",
+  "cam_directory": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\review\\paste_native_cam_revision\\feac677328124dcb9c23bcf3fcc0613e",
+  "expected_cam_layers": [
+    "Top Paste",
+    "Bottom Paste"
+  ],
+  "output_layer_ids": [
+    16973832,
+    16973833
+  ],
+  "expected_automatic_pad_apertures": {
+    "Top": 53,
+    "Bottom": 64
+  },
+  "fabrication_release": false,
+  "export_script": "ExportQD38PasteAlignment",
+  "temporary_live_project_membership": true,
+  "project_file_save_requested": false,
+  "export_token": "feac677328124dcb9c23bcf3fcc0613e",
+  "prepared_utc": "2026-10-12T00:35:20.937495+00:00",
+  "candidate_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\alignment_full_candidate.json",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "candidate_audit_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\alignment_full_audit.json",
+  "candidate_audit_sha256": "20bfc0b6b47f1ad83ec8580e62e7465d29aae5c967da5b8afdd20c1c39331269",
+  "saved_revision_audit_sha256": "66ce9d76d936b07bd80372ac1c2b2975d3ca4a00ac706b75a76064efd12ff3c4",
+  "canonical_library_audit_sha256": "a2289e1a919238196f0b34c40faff3a3586bccbd15a29c83e7d0d490bcf3467d",
+  "QD_library_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QD4_2SET_38.PcbLib",
+  "QD_library_sha256": "ec4b54190f8ca7402dc81cc066efe8c18dcc453841cc93d68eaa695fe161746f",
+  "schematic_sha256": "e6d83b6a6b7d74bc14fc5d10041c3d76ee38e315133cc71012b8034f834e6249",
+  "outjob_sha256": "81537ad18d6f2c667ce92e646e17895a4b513faafaf04e0227a5edd63e50107a",
+  "export_pascal_sha256": "d8df0cedcf741358b06f41fa29d1b20b9a42fc539c7cdb2a7386b712d89a34fb"
+}

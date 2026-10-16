@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=CloseAlignmentLibrary.pas
+[Generic_ScriptingSystem]
+StartProcName=CloseAlignmentLibrary.pas>CloseAlignmentLibrary

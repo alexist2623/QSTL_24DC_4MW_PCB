@@ -1,0 +1,353 @@
+{
+  "source_sha256": "1d84af099b34d1e060e318be14c5ad27f19153d44c7ff31ca33facc0b659d668",
+  "legal_count": 115,
+  "best": [
+    {
+      "components": [
+        {
+          "ref": "C30",
+          "x": 15.75,
+          "y": 44.5,
+          "rotation": 90.0
+        },
+        {
+          "ref": "R30",
+          "x": 14.500000430000002,
+          "y": 46.07856267,
+          "rotation": 180.0
+        }
+      ],
+      "delta_after_90_SMP_rotation": {
+        "C30": [
+          0.0,
+          -0.1
+        ],
+        "R30": [
+          0.8999999999999997,
+          0.9999999999999996
+        ]
+      },
+      "adjustment_cost_mm": 1.4453624047073705,
+      "minimum_pad_fixed_copper_gap_mm": 0.2091260115637859,
+      "minimum_body_gap_mm": 0.7074228757382116,
+      "minimum_body_drill_QD_gap_mm": 0.3764373299999946,
+      "foreign_SMP_radius1p175_disk_gap_mm": 0.7464370600000053,
+      "right_edge_corridor_mm": 3.2499998299999997,
+      "capacitor_pin1": [
+        15.75,
+        44.02143733
+      ],
+      "SMP_escape_angle_deg": 90.0,
+      "R_hull_bounds_mm": [
+        13.100000690000003,
+        45.578562399999996,
+        15.90000017,
+        46.57856294
+      ]
+    },
+    {
+      "components": [
+        {
+          "ref": "C30",
+          "x": 15.75,
+          "y": 44.4,
+          "rotation": 90.0
+        },
+        {
+          "ref": "R30",
+          "x": 14.500000430000002,
+          "y": 45.978562669999995,
+          "rotation": 180.0
+        }
+      ],
+      "delta_after_90_SMP_rotation": {
+        "C30": [
+          0.0,
+          -0.2
+        ],
+        "R30": [
+          0.8999999999999997,
+          0.8999999999999997
+        ]
+      },
+      "adjustment_cost_mm": 1.472792206135785,
+      "minimum_pad_fixed_copper_gap_mm": 0.25157190267498386,
+      "minimum_body_gap_mm": 0.7074228757382116,
+      "minimum_body_drill_QD_gap_mm": 0.476437329999996,
+      "foreign_SMP_radius1p175_disk_gap_mm": 0.8458887600000011,
+      "right_edge_corridor_mm": 3.2499998299999997,
+      "capacitor_pin1": [
+        15.75,
+        43.92143733
+      ],
+      "SMP_escape_angle_deg": 90.0,
+      "R_hull_bounds_mm": [
+        13.100000690000003,
+        45.478562399999994,
+        15.90000017,
+        46.478562939999996
+      ]
+    },
+    {
+      "components": [
+        {
+          "ref": "C30",
+          "x": 15.85,
+          "y": 44.5,
+          "rotation": 90.0
+        },
+        {
+          "ref": "R30",
+          "x": 14.500000430000002,
+          "y": 46.07856267,
+          "rotation": 180.0
+        }
+      ],
+      "delta_after_90_SMP_rotation": {
+        "C30": [
+          0.1,
+          -0.1
+        ],
+        "R30": [
+          0.8999999999999997,
+          0.9999999999999996
+        ]
+      },
+      "adjustment_cost_mm": 1.48678376094468,
+      "minimum_pad_fixed_copper_gap_mm": 0.2091260115637859,
+      "minimum_body_gap_mm": 0.7419211812030447,
+      "minimum_body_drill_QD_gap_mm": 0.3764373299999946,
+      "foreign_SMP_radius1p175_disk_gap_mm": 0.7464370600000053,
+      "right_edge_corridor_mm": 3.2499998299999997,
+      "capacitor_pin1": [
+        15.85,
+        44.02143733
+      ],
+      "SMP_escape_angle_deg": 86.23951088053848,
+      "R_hull_bounds_mm": [
+        13.100000690000003,
+        45.578562399999996,
+        15.90000017,
+        46.57856294
+      ]
+    },
+    {
+      "components": [
+        {
+          "ref": "C30",
+          "x": 15.65,
+          "y": 44.5,
+          "rotation": 90.0
+        },
+        {
+          "ref": "R30",
+          "x": 14.500000430000002,
+          "y": 46.07856267,
+          "rotation": 180.0
+        }
+      ],
+      "delta_after_90_SMP_rotation": {
+        "C30": [
+          -0.1,
+          -0.1
+        ],
+        "R30": [
+          0.8999999999999997,
+          0.9999999999999996
+        ]
+      },
+      "adjustment_cost_mm": 1.48678376094468,
+      "minimum_pad_fixed_copper_gap_mm": 0.2091260115637859,
+      "minimum_body_gap_mm": 0.685891544719514,
+      "minimum_body_drill_QD_gap_mm": 0.3764373299999946,
+      "foreign_SMP_radius1p175_disk_gap_mm": 0.7464370600000053,
+      "right_edge_corridor_mm": 3.2499998299999997,
+      "capacitor_pin1": [
+        15.649999999999999,
+        44.02143733
+      ],
+      "SMP_escape_angle_deg": 93.7604891194616,
+      "R_hull_bounds_mm": [
+        13.100000690000003,
+        45.578562399999996,
+        15.90000017,
+        46.57856294
+      ]
+    },
+    {
+      "components": [
+        {
+          "ref": "C30",
+          "x": 15.85,
+          "y": 44.4,
+          "rotation": 90.0
+        },
+        {
+          "ref": "R30",
+          "x": 14.500000430000002,
+          "y": 45.978562669999995,
+          "rotation": 180.0
+        }
+      ],
+      "delta_after_90_SMP_rotation": {
+        "C30": [
+          0.1,
+          -0.2
+        ],
+        "R30": [
+          0.8999999999999997,
+          0.8999999999999997
+        ]
+      },
+      "adjustment_cost_mm": 1.496399003885764,
+      "minimum_pad_fixed_copper_gap_mm": 0.25157190267498386,
+      "minimum_body_gap_mm": 0.7419211812030447,
+      "minimum_body_drill_QD_gap_mm": 0.476437329999996,
+      "foreign_SMP_radius1p175_disk_gap_mm": 0.8458887600000011,
+      "right_edge_corridor_mm": 3.2499998299999997,
+      "capacitor_pin1": [
+        15.85,
+        43.921437329999996
+      ],
+      "SMP_escape_angle_deg": 85.97579624663439,
+      "R_hull_bounds_mm": [
+        13.100000690000003,
+        45.478562399999994,
+        15.90000017,
+        46.478562939999996
+      ]
+    },
+    {
+      "components": [
+        {
+          "ref": "C30",
+          "x": 15.65,
+          "y": 44.4,
+          "rotation": 90.0
+        },
+        {
+          "ref": "R30",
+          "x": 14.500000430000002,
+          "y": 45.978562669999995,
+          "rotation": 180.0
+        }
+      ],
+      "delta_after_90_SMP_rotation": {
+        "C30": [
+          -0.1,
+          -0.2
+        ],
+        "R30": [
+          0.8999999999999997,
+          0.8999999999999997
+        ]
+      },
+      "adjustment_cost_mm": 1.496399003885764,
+      "minimum_pad_fixed_copper_gap_mm": 0.25157190267498386,
+      "minimum_body_gap_mm": 0.685891544719514,
+      "minimum_body_drill_QD_gap_mm": 0.476437329999996,
+      "foreign_SMP_radius1p175_disk_gap_mm": 0.8458887600000011,
+      "right_edge_corridor_mm": 3.2499998299999997,
+      "capacitor_pin1": [
+        15.649999999999999,
+        43.92143733
+      ],
+      "SMP_escape_angle_deg": 94.02420375336568,
+      "R_hull_bounds_mm": [
+        13.100000690000003,
+        45.478562399999994,
+        15.90000017,
+        46.478562939999996
+      ]
+    },
+    {
+      "components": [
+        {
+          "ref": "C30",
+          "x": 15.75,
+          "y": 44.5,
+          "rotation": 90.0
+        },
+        {
+          "ref": "R30",
+          "x": 14.600000430000001,
+          "y": 46.07856267,
+          "rotation": 180.0
+        }
+      ],
+      "delta_after_90_SMP_rotation": {
+        "C30": [
+          0.0,
+          -0.1
+        ],
+        "R30": [
+          0.9999999999999996,
+          0.9999999999999996
+        ]
+      },
+      "adjustment_cost_mm": 1.5142135623730946,
+      "minimum_pad_fixed_copper_gap_mm": 0.1758895899831347,
+      "minimum_body_gap_mm": 0.685891544719514,
+      "minimum_body_drill_QD_gap_mm": 0.3764373299999946,
+      "foreign_SMP_radius1p175_disk_gap_mm": 0.7464370600000053,
+      "right_edge_corridor_mm": 3.14999983,
+      "capacitor_pin1": [
+        15.75,
+        44.02143733
+      ],
+      "SMP_escape_angle_deg": 90.0,
+      "R_hull_bounds_mm": [
+        13.200000690000003,
+        45.578562399999996,
+        16.00000017,
+        46.57856294
+      ]
+    },
+    {
+      "components": [
+        {
+          "ref": "C30",
+          "x": 15.75,
+          "y": 44.4,
+          "rotation": 90.0
+        },
+        {
+          "ref": "R30",
+          "x": 14.600000430000001,
+          "y": 45.978562669999995,
+          "rotation": 180.0
+        }
+      ],
+      "delta_after_90_SMP_rotation": {
+        "C30": [
+          0.0,
+          -0.2
+        ],
+        "R30": [
+          0.9999999999999996,
+          0.8999999999999997
+        ]
+      },
+      "adjustment_cost_mm": 1.5453624047073704,
+      "minimum_pad_fixed_copper_gap_mm": 0.27272054616684566,
+      "minimum_body_gap_mm": 0.685891544719514,
+      "minimum_body_drill_QD_gap_mm": 0.476437329999996,
+      "foreign_SMP_radius1p175_disk_gap_mm": 0.8458887600000011,
+      "right_edge_corridor_mm": 3.14999983,
+      "capacitor_pin1": [
+        15.75,
+        43.92143733
+      ],
+      "SMP_escape_angle_deg": 90.0,
+      "R_hull_bounds_mm": [
+        13.200000690000003,
+        45.478562399999994,
+        16.00000017,
+        46.478562939999996
+      ]
+    }
+  ],
+  "status": "READ_ONLY_PLACEMENT_PROPOSALS",
+  "native_changed": false,
+  "limitation": "Pad/drill and source body-outline placement checks; routing and native 3D solid verification remain required."
+}

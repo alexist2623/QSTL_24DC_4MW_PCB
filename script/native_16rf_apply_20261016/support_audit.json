@@ -1,0 +1,831 @@
+{
+  "passed": true,
+  "issues": [],
+  "source_sha256": "0adecc99d347b092775e4fe84506e643e7af0a8ce49d43413f4dc0239a6f58de",
+  "results": {
+    "compiled": {
+      "named_nets": 71,
+      "unused_ZIF_contacts": 15,
+      "native_violation_count": 0,
+      "Boolean_return": false,
+      "evidence": "Enumerated native compiled net membership and violation list."
+    },
+    "paste": {
+      "GTP": {
+        "flashes": 53,
+        "normal_SMD_pads": 53,
+        "matched": 53,
+        "max_bounds_error_mm": 3.71999999870809e-06,
+        "sha256": "67fc445fdc35fe0728fba096dd722d148bc3021bf833ef5150ad30056104e9a0"
+      },
+      "GBP": {
+        "flashes": 64,
+        "normal_SMD_pads": 64,
+        "matched": 64,
+        "max_bounds_error_mm": 5.75143057597316e-05,
+        "sha256": "ff9d7616585f664812f4cd71db84f94feef4c20705e537ee060f521968d7f3c6"
+      }
+    },
+    "models": {
+      "counts": {
+        "R": 16,
+        "C": 16,
+        "SMP": 16,
+        "J": 1
+      },
+      "bodies": [
+        {
+          "ref": "R13",
+          "origin": [
+            12.600000199999998,
+            29.69999902
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            180.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 3.552713678800501e-15
+        },
+        {
+          "ref": "C13",
+          "origin": [
+            11.74999936,
+            26.699999939999998
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            270.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 1.7763568394002505e-15
+        },
+        {
+          "ref": "SMP13",
+          "origin": [
+            16.74999952,
+            22.85000002
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 4.804164865345383e-07
+        },
+        {
+          "ref": "R15",
+          "origin": [
+            6.8999989,
+            29.69999902
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            360.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.2700000002752176e-06
+        },
+        {
+          "ref": "C15",
+          "origin": [
+            7.749999740000001,
+            26.699999939999998
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            270.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 8.881784197001252e-16
+        },
+        {
+          "ref": "SMP15",
+          "origin": [
+            2.74999958,
+            22.85000002
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 4.2047592085416924e-07
+        },
+        {
+          "ref": "R16",
+          "origin": [
+            14.73612242,
+            34.82307742
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            210.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.2700000002752176e-06
+        },
+        {
+          "ref": "C16",
+          "origin": [
+            15.499999480000001,
+            31.799999899999996
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            300.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 1.7763568394002505e-15
+        },
+        {
+          "ref": "SMP16",
+          "origin": [
+            22.75000022,
+            26.600000139999995
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 2.6076809326089196e-07
+        },
+        {
+          "ref": "R12",
+          "origin": [
+            4.76387922,
+            34.82307742
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            330.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.7960512233469733e-06
+        },
+        {
+          "ref": "C12",
+          "origin": [
+            3.9999996199999996,
+            31.799999899999996
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            240.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 0.0
+        },
+        {
+          "ref": "SMP12",
+          "origin": [
+            -3.25000112,
+            26.600000139999995
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 1.1287160838509665e-06
+        },
+        {
+          "ref": "R28",
+          "origin": [
+            14.92692468,
+            39.73612068
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            240.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.7960512246030472e-06
+        },
+        {
+          "ref": "C28",
+          "origin": [
+            17.09999882,
+            37.5000012
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            330.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 1.2699999984988608e-06
+        },
+        {
+          "ref": "SMP28",
+          "origin": [
+            22.75000022,
+            34.10000038
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 4.3908996468615976e-07
+        },
+        {
+          "ref": "R11",
+          "origin": [
+            4.57307696,
+            39.73612068
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            300.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.2699999984988608e-06
+        },
+        {
+          "ref": "C11",
+          "origin": [
+            2.40000028,
+            37.5000012
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            210.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 0.0
+        },
+        {
+          "ref": "SMP11",
+          "origin": [
+            -3.25000112,
+            34.10000038
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 1.1827087539073318e-06
+        },
+        {
+          "ref": "R24",
+          "origin": [
+            15.76500022,
+            43.39999956
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            90.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.2699999984988608e-06
+        },
+        {
+          "ref": "C24",
+          "origin": [
+            18.7649993,
+            44.2500004
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 0.0
+        },
+        {
+          "ref": "SMP24",
+          "origin": [
+            22.75000022,
+            40.10000108
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 1.102179655813713e-06
+        },
+        {
+          "ref": "R02",
+          "origin": [
+            3.73499888,
+            43.39999956
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            90.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.2699999984988608e-06
+        },
+        {
+          "ref": "C02",
+          "origin": [
+            0.7349998,
+            44.2500004
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            180.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 0.0
+        },
+        {
+          "ref": "SMP02",
+          "origin": [
+            -3.25000112,
+            40.10000108
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 1.5558920249074405e-06
+        },
+        {
+          "ref": "R21",
+          "origin": [
+            15.76500022,
+            48.900001259999996
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            270.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.2699999984988608e-06
+        },
+        {
+          "ref": "C21",
+          "origin": [
+            18.7649993,
+            48.050000419999996
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 0.0
+        },
+        {
+          "ref": "SMP21",
+          "origin": [
+            22.75000022,
+            52.19999974
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 3.405877331762722e-07
+        },
+        {
+          "ref": "R05",
+          "origin": [
+            3.73499888,
+            48.900001259999996
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            270.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.2699999984988608e-06
+        },
+        {
+          "ref": "C05",
+          "origin": [
+            0.7349998,
+            48.050000419999996
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            180.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 0.0
+        },
+        {
+          "ref": "SMP05",
+          "origin": [
+            -3.25000112,
+            52.19999974
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 1.1497825896538407e-06
+        },
+        {
+          "ref": "R30",
+          "origin": [
+            14.92692468,
+            52.5638776
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            120.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.7960512246030472e-06
+        },
+        {
+          "ref": "C30",
+          "origin": [
+            17.09999882,
+            54.79999962
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            30.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 1.7960512170666035e-06
+        },
+        {
+          "ref": "SMP30",
+          "origin": [
+            22.75000022,
+            58.20000044
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 4.919349433217132e-07
+        },
+        {
+          "ref": "R09",
+          "origin": [
+            4.57307696,
+            52.5638776
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            60.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.2699999984988608e-06
+        },
+        {
+          "ref": "C09",
+          "origin": [
+            2.40000028,
+            54.79999962
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            150.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 1.2699999913934334e-06
+        },
+        {
+          "ref": "SMP09",
+          "origin": [
+            -3.25000112,
+            58.20000044
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 1.2033287115089864e-06
+        },
+        {
+          "ref": "R31",
+          "origin": [
+            14.73612242,
+            57.4769234
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            150.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.7960512233469733e-06
+        },
+        {
+          "ref": "C31",
+          "origin": [
+            15.499999480000001,
+            60.50000092
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            60.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 1.7960512271151953e-06
+        },
+        {
+          "ref": "SMP31",
+          "origin": [
+            22.75000022,
+            65.70000068
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 7.147027214708092e-07
+        },
+        {
+          "ref": "R35",
+          "origin": [
+            4.76387922,
+            57.4769234
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            30.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.796051228371269e-06
+        },
+        {
+          "ref": "C35",
+          "origin": [
+            3.9999996199999996,
+            60.50000092
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            120.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 1.796051228371269e-06
+        },
+        {
+          "ref": "SMP35",
+          "origin": [
+            -3.25000112,
+            65.70000068
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 1.3102671405323121e-06
+        },
+        {
+          "ref": "R32",
+          "origin": [
+            12.600000199999998,
+            62.59999925999999
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            180.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 7.105427357601002e-15
+        },
+        {
+          "ref": "C32",
+          "origin": [
+            11.74999936,
+            65.60000088
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            90.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 1.2699999984988608e-06
+        },
+        {
+          "ref": "SMP32",
+          "origin": [
+            16.74999952,
+            69.4500008
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 9.329522871474063e-07
+        },
+        {
+          "ref": "R34",
+          "origin": [
+            6.8999989,
+            62.59999925999999
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+          ],
+          "origin_error_mm": 1.2700000002752176e-06
+        },
+        {
+          "ref": "C34",
+          "origin": [
+            7.749999740000001,
+            65.60000088
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            90.0
+          ],
+          "hashes": [
+            "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+          ],
+          "origin_error_mm": 1.2699999984988608e-06
+        },
+        {
+          "ref": "SMP34",
+          "origin": [
+            2.74999958,
+            69.4500008
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+          ],
+          "origin_error_mm": 9.035485430111366e-07
+        },
+        {
+          "ref": "J1",
+          "origin": [
+            9.750000819999999,
+            -7.1250022600000005
+          ],
+          "rotation": [
+            90.0,
+            0.0,
+            0.0
+          ],
+          "hashes": [
+            "0f86a223e1a1920af07de0972295acb75b1658ea2ece95c59b116630a4253501"
+          ],
+          "origin_error_mm": 9.800000011495058e-07
+        }
+      ],
+      "scope": "Saved embedded geometry and transformations; not a 3D mating certification."
+    },
+    "masks": {
+      "QD_bottom_field_open": true,
+      "QD_top_centre_exposed": true,
+      "QD_top_vias_protected": 22,
+      "mounts_open_both_sides": 6
+    }
+  }
+}

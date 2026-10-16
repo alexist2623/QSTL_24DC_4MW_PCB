@@ -1,0 +1,1488 @@
+{
+  "candidate_sha256": "1d84af099b34d1e060e318be14c5ad27f19153d44c7ff31ca33facc0b659d668",
+  "quantization_unit_mm": 2.54e-06,
+  "placement_sha256": "e7d4cb6454e6504cc67bfbc2e6fe56ae495d8942af210ebd62c93819e013146c",
+  "routes": 38,
+  "layer_net_counts": {
+    "2": 19,
+    "4": 19
+  },
+  "minimum_quantized_copper_clearance_mm": 0.0,
+  "clearance_failures": [
+    {
+      "net": "DC01",
+      "other": "C28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC01",
+      "other": "R21_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC01",
+      "other": "R24_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC01",
+      "other": "R28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC02",
+      "other": "C30_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC02",
+      "other": "R30_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC02",
+      "other": "R32_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC02",
+      "other": "R35_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC03",
+      "other": "R21_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC03",
+      "other": "R24_body_envelope",
+      "gap_mm": 0.06249923999999928,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC03",
+      "other": "R28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC04",
+      "other": "R11_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC05",
+      "other": "C28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC05",
+      "other": "R24_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC05",
+      "other": "R28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC05",
+      "other": "R31_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC06",
+      "other": "R12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC06",
+      "other": "R13_body_envelope",
+      "gap_mm": 0.1124991400000006,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC06",
+      "other": "R15_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC07",
+      "other": "R11_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC08",
+      "other": "C12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC08",
+      "other": "R12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC08",
+      "other": "R13_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC09",
+      "other": "C28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC09",
+      "other": "R21_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC09",
+      "other": "R24_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC09",
+      "other": "R28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC09",
+      "other": "R31_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC10",
+      "other": "C12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC10",
+      "other": "R12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC10",
+      "other": "R13_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC12",
+      "other": "R15_body_envelope",
+      "gap_mm": 0.11303050267404996,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC13",
+      "other": "R15_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC14",
+      "other": "R12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC14",
+      "other": "R13_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC14",
+      "other": "R15_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC16",
+      "other": "R16_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC17",
+      "other": "R12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC18",
+      "other": "R16_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC18",
+      "other": "R21_body_envelope",
+      "gap_mm": 0.06323857799798543,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC19",
+      "other": "R16_body_envelope",
+      "gap_mm": 0.1435784074662961,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC19",
+      "other": "R21_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC20",
+      "other": "R15_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC20",
+      "other": "R16_body_envelope",
+      "gap_mm": 0.10249916000000069,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC22",
+      "other": "R15_body_envelope",
+      "gap_mm": 0.11303050267404996,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC22",
+      "other": "R16_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC23",
+      "other": "R16_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC24",
+      "other": "R21_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC25",
+      "other": "R21_body_envelope",
+      "gap_mm": 0.06249923999999928,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC25",
+      "other": "R24_body_envelope",
+      "gap_mm": 0.06249923999999928,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC25",
+      "other": "R28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC26",
+      "other": "C28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC26",
+      "other": "R21_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC26",
+      "other": "R24_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC26",
+      "other": "R28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC27",
+      "other": "C28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC27",
+      "other": "R24_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC27",
+      "other": "R28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC28",
+      "other": "R28_body_envelope",
+      "gap_mm": 0.11393678000000129,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC30",
+      "other": "R30_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC31",
+      "other": "C30_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC31",
+      "other": "R30_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC31",
+      "other": "R31_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC32",
+      "other": "C31_body_envelope",
+      "gap_mm": 0.0012623800000000076,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC32",
+      "other": "R30_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC32",
+      "other": "R31_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC33",
+      "other": "C28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC33",
+      "other": "R21_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC33",
+      "other": "R24_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC33",
+      "other": "R28_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC34",
+      "other": "C09_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC34",
+      "other": "C12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC34",
+      "other": "R05_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC34",
+      "other": "R09_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC34",
+      "other": "R12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC34",
+      "other": "R13_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC34",
+      "other": "R15_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC34",
+      "other": "R35_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC35",
+      "other": "C09_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC35",
+      "other": "C12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC35",
+      "other": "R05_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC35",
+      "other": "R09_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC35",
+      "other": "R12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC35",
+      "other": "R13_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC36",
+      "other": "C30_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC36",
+      "other": "R30_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC37",
+      "other": "R12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC37",
+      "other": "R13_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC37",
+      "other": "R15_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC38",
+      "other": "C12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC38",
+      "other": "R12_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC38",
+      "other": "R13_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    },
+    {
+      "net": "DC38",
+      "other": "R15_body_envelope",
+      "gap_mm": 0.0,
+      "required_mm": 0.15
+    }
+  ],
+  "actual_minimum_dc_to_dc_mm": 0.10310085616018756,
+  "actual_minimum_dc_to_ground_mm": 0.20824620964357451,
+  "actual_minimum_dc_to_other_mm": 0.0,
+  "minimum_endpoint_via_to_foreign_pad_or_via_mm": 0.15171924777597948,
+  "minimum_endpoint_via_annular_ring_mm": 0.0999998,
+  "static_via_failures": [],
+  "top_fanout_minimum_clearance_mm": 0.3249993499999988,
+  "top_fanout_failures": [],
+  "minimum_smp_full_hull_clearance_mm": 0.20824620964357451,
+  "smp_full_hull_failures": [],
+  "minimum_rc_body_envelope_clearance_mm": 0.0,
+  "rc_body_failures": [
+    {
+      "net": "DC01",
+      "ref": "C28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC01",
+      "ref": "R21",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC01",
+      "ref": "R24",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC01",
+      "ref": "R28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC02",
+      "ref": "C30",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC02",
+      "ref": "R30",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC02",
+      "ref": "R32",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC02",
+      "ref": "R35",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC03",
+      "ref": "R21",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC03",
+      "ref": "R24",
+      "gap_mm": 0.06249923999999928
+    },
+    {
+      "net": "DC03",
+      "ref": "R28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC04",
+      "ref": "R11",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC05",
+      "ref": "C28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC05",
+      "ref": "R24",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC05",
+      "ref": "R28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC05",
+      "ref": "R31",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC06",
+      "ref": "R12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC06",
+      "ref": "R13",
+      "gap_mm": 0.1124991400000006
+    },
+    {
+      "net": "DC06",
+      "ref": "R15",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC07",
+      "ref": "R11",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC08",
+      "ref": "C12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC08",
+      "ref": "R12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC08",
+      "ref": "R13",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC09",
+      "ref": "C28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC09",
+      "ref": "R21",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC09",
+      "ref": "R24",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC09",
+      "ref": "R28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC09",
+      "ref": "R31",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC10",
+      "ref": "C12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC10",
+      "ref": "R12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC10",
+      "ref": "R13",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC12",
+      "ref": "R15",
+      "gap_mm": 0.11303050267404996
+    },
+    {
+      "net": "DC13",
+      "ref": "R15",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC14",
+      "ref": "R12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC14",
+      "ref": "R13",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC14",
+      "ref": "R15",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC16",
+      "ref": "R16",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC17",
+      "ref": "R12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC18",
+      "ref": "R16",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC18",
+      "ref": "R21",
+      "gap_mm": 0.06323857799798543
+    },
+    {
+      "net": "DC19",
+      "ref": "R16",
+      "gap_mm": 0.1435784074662961
+    },
+    {
+      "net": "DC19",
+      "ref": "R21",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC20",
+      "ref": "R15",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC20",
+      "ref": "R16",
+      "gap_mm": 0.10249916000000069
+    },
+    {
+      "net": "DC22",
+      "ref": "R15",
+      "gap_mm": 0.11303050267404996
+    },
+    {
+      "net": "DC22",
+      "ref": "R16",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC23",
+      "ref": "R16",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC24",
+      "ref": "R21",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC25",
+      "ref": "R21",
+      "gap_mm": 0.06249923999999928
+    },
+    {
+      "net": "DC25",
+      "ref": "R24",
+      "gap_mm": 0.06249923999999928
+    },
+    {
+      "net": "DC25",
+      "ref": "R28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC26",
+      "ref": "C28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC26",
+      "ref": "R21",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC26",
+      "ref": "R24",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC26",
+      "ref": "R28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC27",
+      "ref": "C28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC27",
+      "ref": "R24",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC27",
+      "ref": "R28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC28",
+      "ref": "R28",
+      "gap_mm": 0.11393678000000129
+    },
+    {
+      "net": "DC30",
+      "ref": "R30",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC31",
+      "ref": "C30",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC31",
+      "ref": "R30",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC31",
+      "ref": "R31",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC32",
+      "ref": "C31",
+      "gap_mm": 0.0012623800000000076
+    },
+    {
+      "net": "DC32",
+      "ref": "R30",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC32",
+      "ref": "R31",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC33",
+      "ref": "C28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC33",
+      "ref": "R21",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC33",
+      "ref": "R24",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC33",
+      "ref": "R28",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC34",
+      "ref": "C09",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC34",
+      "ref": "C12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC34",
+      "ref": "R05",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC34",
+      "ref": "R09",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC34",
+      "ref": "R12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC34",
+      "ref": "R13",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC34",
+      "ref": "R15",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC34",
+      "ref": "R35",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC35",
+      "ref": "C09",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC35",
+      "ref": "C12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC35",
+      "ref": "R05",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC35",
+      "ref": "R09",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC35",
+      "ref": "R12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC35",
+      "ref": "R13",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC36",
+      "ref": "C30",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC36",
+      "ref": "R30",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC37",
+      "ref": "R12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC37",
+      "ref": "R13",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC37",
+      "ref": "R15",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC38",
+      "ref": "C12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC38",
+      "ref": "R12",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC38",
+      "ref": "R13",
+      "gap_mm": 0.0
+    },
+    {
+      "net": "DC38",
+      "ref": "R15",
+      "gap_mm": 0.0
+    }
+  ],
+  "bends_per_net": {
+    "DC01": 9,
+    "DC02": 15,
+    "DC03": 10,
+    "DC04": 8,
+    "DC05": 15,
+    "DC06": 8,
+    "DC07": 11,
+    "DC08": 12,
+    "DC09": 12,
+    "DC10": 12,
+    "DC11": 2,
+    "DC12": 5,
+    "DC13": 9,
+    "DC14": 11,
+    "DC15": 4,
+    "DC16": 5,
+    "DC17": 6,
+    "DC18": 8,
+    "DC19": 7,
+    "DC20": 4,
+    "DC21": 3,
+    "DC22": 4,
+    "DC23": 4,
+    "DC24": 5,
+    "DC25": 4,
+    "DC26": 7,
+    "DC27": 12,
+    "DC28": 3,
+    "DC29": 10,
+    "DC30": 3,
+    "DC31": 11,
+    "DC32": 9,
+    "DC33": 8,
+    "DC34": 11,
+    "DC35": 15,
+    "DC36": 12,
+    "DC37": 8,
+    "DC38": 12
+  },
+  "total_bends": 314,
+  "maximum_bends": 15,
+  "route_length_mm": {
+    "DC15": 22.66886880335843,
+    "DC16": 27.052342314993858,
+    "DC13": 35.17831518959608,
+    "DC12": 32.90331978309918,
+    "DC18": 36.08392106846399,
+    "DC17": 34.35016166470002,
+    "DC19": 36.02125210856838,
+    "DC11": 38.29326782751763,
+    "DC14": 42.90311007187275,
+    "DC10": 51.095033846977294,
+    "DC08": 52.30307707061548,
+    "DC07": 54.379498263550055,
+    "DC06": 41.662821169467925,
+    "DC01": 46.59902076349583,
+    "DC03": 45.89478755338062,
+    "DC04": 50.86556823883634,
+    "DC09": 59.85074096362886,
+    "DC05": 69.23483734778948,
+    "DC02": 75.72246891643813,
+    "DC21": 21.020296861743127,
+    "DC24": 27.47179049384903,
+    "DC28": 31.275458786330468,
+    "DC20": 33.837621836944095,
+    "DC23": 34.66584540691791,
+    "DC22": 34.47029399435768,
+    "DC25": 32.85963917418003,
+    "DC26": 35.408106756910136,
+    "DC27": 42.35580302863366,
+    "DC29": 44.08784796696635,
+    "DC30": 49.029613066927055,
+    "DC33": 40.95037136682209,
+    "DC37": 43.37380121169124,
+    "DC36": 50.81455660981448,
+    "DC38": 43.80990545631765,
+    "DC31": 51.27623903639199,
+    "DC32": 59.65326846996601,
+    "DC35": 67.97762116101069,
+    "DC34": 64.69702388546072
+  },
+  "route_mean_absolute_x_offset_mm": {
+    "DC15": 3.1417199603763093,
+    "DC16": 1.219726872352129,
+    "DC13": 4.165892386665639,
+    "DC12": 2.2254386222378715,
+    "DC18": 1.0258255733581125,
+    "DC17": 1.7763979587070222,
+    "DC19": 0.9507655289155797,
+    "DC11": 9.334958784946915,
+    "DC14": 3.575711424613853,
+    "DC10": 4.995352888670992,
+    "DC08": 5.28842081638497,
+    "DC07": 6.912586485759348,
+    "DC06": 2.624415605186823,
+    "DC01": 2.324357727396552,
+    "DC03": 1.7863529936594775,
+    "DC04": 8.42160606743674,
+    "DC09": 3.3387131303744666,
+    "DC05": 3.9738373423276516,
+    "DC02": 5.317404788147142,
+    "DC21": 2.145206958804896,
+    "DC24": 2.588753097011592,
+    "DC28": 1.6376156306446032,
+    "DC20": 1.7828949501303193,
+    "DC23": 1.3156756460210093,
+    "DC22": 1.4971413537448441,
+    "DC25": 2.001490057197047,
+    "DC26": 3.2699706330188656,
+    "DC27": 4.367045691670451,
+    "DC29": 5.720266906129849,
+    "DC30": 8.446603941987673,
+    "DC33": 2.93415305302053,
+    "DC37": 2.4906837884001765,
+    "DC36": 6.1790759400878,
+    "DC38": 2.9990230553419326,
+    "DC31": 6.48409674734581,
+    "DC32": 7.377486265019518,
+    "DC35": 4.5110584718692595,
+    "DC34": 3.306979174523244
+  },
+  "total_dc_length_mm": 1662.0975175375847,
+  "length_weighted_mean_absolute_x_offset_mm": 4.094254789084044,
+  "mapping_failures": [],
+  "dc_to_dc_minimum_mm": 0.1,
+  "dc_to_other_copper_minimum_mm": 0.15,
+  "poured_ground_gap_required_mm": 0.2,
+  "direction_failures": [],
+  "turns_over45": [],
+  "connectivity": [
+    {
+      "net": "DC01",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC02",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC03",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC04",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC05",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC06",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC07",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC08",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC09",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC10",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC11",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC12",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC13",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC14",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC15",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC16",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC17",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC18",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC19",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC20",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC21",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC22",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC23",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC24",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC25",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC26",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC27",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC28",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC29",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC30",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC31",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC32",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC33",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC34",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC35",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC36",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC37",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC38",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    }
+  ],
+  "exact_even24_odd14_pool": true,
+  "pin50_unused": true,
+  "passed": false
+}

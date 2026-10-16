@@ -1,0 +1,649 @@
+{
+  "status": "READ_ONLY_REGISTRATION_TRIAL",
+  "selected_registration": {
+    "rotation_degrees": 180,
+    "translation_mm": [
+      9.75,
+      46.15
+    ],
+    "holes": [
+      {
+        "name": "P1",
+        "source_xy_mm": [
+          -12.8,
+          37.8
+        ],
+        "measured_diameter_mm": 3.2,
+        "diameter_basis": "PCB PTH",
+        "xy_mm": [
+          22.55,
+          8.350000000000001
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP13",
+          "edge_gap_mm": 10.53939866714987,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP13",
+          "edge_gap_mm": 10.13939866714987,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP13",
+          "pad": "4",
+          "edge_gap_mm": 11.884055479726376,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP13",
+          "edge_gap_mm": 13.961977940690062,
+          "overlap": false
+        },
+        "within_current_outline": true
+      },
+      {
+        "name": "P2",
+        "source_xy_mm": [
+          12.8,
+          37.8
+        ],
+        "measured_diameter_mm": 3.2,
+        "diameter_basis": "PCB PTH",
+        "xy_mm": [
+          -3.0500000000000007,
+          8.350000000000001
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP15",
+          "edge_gap_mm": 10.53939866714987,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP15",
+          "edge_gap_mm": 10.13939866714987,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP15",
+          "pad": "3",
+          "edge_gap_mm": 11.884055479726378,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP15",
+          "edge_gap_mm": 13.961977940690062,
+          "overlap": false
+        },
+        "within_current_outline": true
+      },
+      {
+        "name": "P3",
+        "source_xy_mm": [
+          -12.8,
+          -37.8
+        ],
+        "measured_diameter_mm": 3.2,
+        "diameter_basis": "PCB PTH",
+        "xy_mm": [
+          22.55,
+          83.94999999999999
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP32",
+          "edge_gap_mm": 10.539398667149856,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP32",
+          "edge_gap_mm": 10.139398667149855,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP32",
+          "pad": "5",
+          "edge_gap_mm": 11.884055479726369,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP32",
+          "edge_gap_mm": 13.96197794069005,
+          "overlap": false
+        },
+        "within_current_outline": false
+      },
+      {
+        "name": "P4",
+        "source_xy_mm": [
+          12.8,
+          -37.8
+        ],
+        "measured_diameter_mm": 3.2,
+        "diameter_basis": "PCB PTH",
+        "xy_mm": [
+          -3.0500000000000007,
+          83.94999999999999
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP34",
+          "edge_gap_mm": 10.539398667149856,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP34",
+          "edge_gap_mm": 10.139398667149855,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP34",
+          "pad": "2",
+          "edge_gap_mm": 11.88405547972637,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP34",
+          "edge_gap_mm": 13.96197794069005,
+          "overlap": false
+        },
+        "within_current_outline": false
+      },
+      {
+        "name": "A1",
+        "source_xy_mm": [
+          -12.8,
+          -45.3
+        ],
+        "measured_diameter_mm": 2.0,
+        "diameter_basis": "CAD bore, PCB drill size pending",
+        "xy_mm": [
+          22.55,
+          91.44999999999999
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP32",
+          "edge_gap_mm": 18.490125705084598,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP32",
+          "edge_gap_mm": 17.490125705084598,
+          "overlap": false
+        },
+        "trial_dia2p2_hole_nearest_body": {
+          "smp": "SMP32",
+          "edge_gap_mm": 18.390125705084596,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP32",
+          "pad": "5",
+          "edge_gap_mm": 19.719192914740184,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP32",
+          "edge_gap_mm": 21.696703232944987,
+          "overlap": false
+        },
+        "within_current_outline": false
+      },
+      {
+        "name": "A2",
+        "source_xy_mm": [
+          12.8,
+          -45.3
+        ],
+        "measured_diameter_mm": 2.0,
+        "diameter_basis": "CAD bore, PCB drill size pending",
+        "xy_mm": [
+          -3.0500000000000007,
+          91.44999999999999
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP34",
+          "edge_gap_mm": 18.490125705084598,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP34",
+          "edge_gap_mm": 17.490125705084598,
+          "overlap": false
+        },
+        "trial_dia2p2_hole_nearest_body": {
+          "smp": "SMP34",
+          "edge_gap_mm": 18.390125705084596,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP34",
+          "pad": "2",
+          "edge_gap_mm": 19.719192914740184,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP34",
+          "edge_gap_mm": 21.696703232944987,
+          "overlap": false
+        },
+        "within_current_outline": false
+      },
+      {
+        "name": "A3",
+        "source_xy_mm": [
+          -14.3,
+          0.7
+        ],
+        "measured_diameter_mm": 2.0,
+        "diameter_basis": "CAD bore, PCB drill size pending",
+        "xy_mm": [
+          24.05,
+          45.449999999999996
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP24",
+          "edge_gap_mm": 1.5999999999999943,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP24",
+          "edge_gap_mm": 0.5999999999999943,
+          "overlap": false
+        },
+        "trial_dia2p2_hole_nearest_body": {
+          "smp": "SMP24",
+          "edge_gap_mm": 1.4999999999999942,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP24",
+          "pad": "5",
+          "edge_gap_mm": 2.5801169166823157,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP24",
+          "edge_gap_mm": 1.1782913435003077,
+          "overlap": false
+        },
+        "within_current_outline": true
+      },
+      {
+        "name": "A4",
+        "source_xy_mm": [
+          14.3,
+          0.7
+        ],
+        "measured_diameter_mm": 2.0,
+        "diameter_basis": "CAD bore, PCB drill size pending",
+        "xy_mm": [
+          -4.550000000000001,
+          45.449999999999996
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP02",
+          "edge_gap_mm": 1.5999999999999943,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP02",
+          "edge_gap_mm": 0.5999999999999943,
+          "overlap": false
+        },
+        "trial_dia2p2_hole_nearest_body": {
+          "smp": "SMP02",
+          "edge_gap_mm": 1.4999999999999942,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP02",
+          "pad": "2",
+          "edge_gap_mm": 2.5801169166823157,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP02",
+          "edge_gap_mm": 1.2174351535127046,
+          "overlap": false
+        },
+        "within_current_outline": true
+      }
+    ],
+    "SMP_body_model": "Conservative 5.50 x 5.50 mm XY boxes from the existing proposal",
+    "head_model": "Illustrative unmodified ISO 7045 M2 pan head, diameter 4.00 mm",
+    "all_holes_clear_SMP_bodies": true,
+    "all_M2_heads_clear_SMP_bodies": true,
+    "outside_existing_outline": [
+      "P3",
+      "P4",
+      "A1",
+      "A2"
+    ]
+  },
+  "zero_rotation_sensitivity_check": {
+    "rotation_degrees": 0,
+    "translation_mm": [
+      9.75,
+      46.15
+    ],
+    "holes": [
+      {
+        "name": "P1",
+        "source_xy_mm": [
+          -12.8,
+          37.8
+        ],
+        "measured_diameter_mm": 3.2,
+        "diameter_basis": "PCB PTH",
+        "xy_mm": [
+          -3.0500000000000007,
+          83.94999999999999
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP34",
+          "edge_gap_mm": 10.539398667149856,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP34",
+          "edge_gap_mm": 10.139398667149855,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP34",
+          "pad": "2",
+          "edge_gap_mm": 11.88405547972637,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP34",
+          "edge_gap_mm": 13.96197794069005,
+          "overlap": false
+        },
+        "within_current_outline": false
+      },
+      {
+        "name": "P2",
+        "source_xy_mm": [
+          12.8,
+          37.8
+        ],
+        "measured_diameter_mm": 3.2,
+        "diameter_basis": "PCB PTH",
+        "xy_mm": [
+          22.55,
+          83.94999999999999
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP32",
+          "edge_gap_mm": 10.539398667149856,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP32",
+          "edge_gap_mm": 10.139398667149855,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP32",
+          "pad": "5",
+          "edge_gap_mm": 11.884055479726369,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP32",
+          "edge_gap_mm": 13.96197794069005,
+          "overlap": false
+        },
+        "within_current_outline": false
+      },
+      {
+        "name": "P3",
+        "source_xy_mm": [
+          -12.8,
+          -37.8
+        ],
+        "measured_diameter_mm": 3.2,
+        "diameter_basis": "PCB PTH",
+        "xy_mm": [
+          -3.0500000000000007,
+          8.350000000000001
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP15",
+          "edge_gap_mm": 10.53939866714987,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP15",
+          "edge_gap_mm": 10.13939866714987,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP15",
+          "pad": "3",
+          "edge_gap_mm": 11.884055479726378,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP15",
+          "edge_gap_mm": 13.961977940690062,
+          "overlap": false
+        },
+        "within_current_outline": true
+      },
+      {
+        "name": "P4",
+        "source_xy_mm": [
+          12.8,
+          -37.8
+        ],
+        "measured_diameter_mm": 3.2,
+        "diameter_basis": "PCB PTH",
+        "xy_mm": [
+          22.55,
+          8.350000000000001
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP13",
+          "edge_gap_mm": 10.53939866714987,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP13",
+          "edge_gap_mm": 10.13939866714987,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP13",
+          "pad": "4",
+          "edge_gap_mm": 11.884055479726376,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP13",
+          "edge_gap_mm": 13.961977940690062,
+          "overlap": false
+        },
+        "within_current_outline": true
+      },
+      {
+        "name": "A1",
+        "source_xy_mm": [
+          -12.8,
+          -45.3
+        ],
+        "measured_diameter_mm": 2.0,
+        "diameter_basis": "CAD bore, PCB drill size pending",
+        "xy_mm": [
+          -3.0500000000000007,
+          0.8500000000000014
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP15",
+          "edge_gap_mm": 18.490125705084612,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP15",
+          "edge_gap_mm": 17.490125705084612,
+          "overlap": false
+        },
+        "trial_dia2p2_hole_nearest_body": {
+          "smp": "SMP15",
+          "edge_gap_mm": 18.39012570508461,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP15",
+          "pad": "3",
+          "edge_gap_mm": 19.71919291474021,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP15",
+          "edge_gap_mm": 21.696703232945,
+          "overlap": false
+        },
+        "within_current_outline": false
+      },
+      {
+        "name": "A2",
+        "source_xy_mm": [
+          12.8,
+          -45.3
+        ],
+        "measured_diameter_mm": 2.0,
+        "diameter_basis": "CAD bore, PCB drill size pending",
+        "xy_mm": [
+          22.55,
+          0.8500000000000014
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP13",
+          "edge_gap_mm": 18.490125705084612,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP13",
+          "edge_gap_mm": 17.490125705084612,
+          "overlap": false
+        },
+        "trial_dia2p2_hole_nearest_body": {
+          "smp": "SMP13",
+          "edge_gap_mm": 18.39012570508461,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP13",
+          "pad": "4",
+          "edge_gap_mm": 19.719192914740205,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP13",
+          "edge_gap_mm": 21.696703232945,
+          "overlap": false
+        },
+        "within_current_outline": false
+      },
+      {
+        "name": "A3",
+        "source_xy_mm": [
+          -14.3,
+          0.7
+        ],
+        "measured_diameter_mm": 2.0,
+        "diameter_basis": "CAD bore, PCB drill size pending",
+        "xy_mm": [
+          -4.550000000000001,
+          46.85
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP05",
+          "edge_gap_mm": 1.6000000000000014,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP05",
+          "edge_gap_mm": 0.6000000000000014,
+          "overlap": false
+        },
+        "trial_dia2p2_hole_nearest_body": {
+          "smp": "SMP05",
+          "edge_gap_mm": 1.5000000000000013,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP05",
+          "pad": "3",
+          "edge_gap_mm": 2.5801169166823157,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP05",
+          "edge_gap_mm": 1.2911000216545603,
+          "overlap": false
+        },
+        "within_current_outline": true
+      },
+      {
+        "name": "A4",
+        "source_xy_mm": [
+          14.3,
+          0.7
+        ],
+        "measured_diameter_mm": 2.0,
+        "diameter_basis": "CAD bore, PCB drill size pending",
+        "xy_mm": [
+          24.05,
+          46.85
+        ],
+        "measured_hole_nearest_body": {
+          "smp": "SMP21",
+          "edge_gap_mm": 1.6000000000000014,
+          "overlap": false
+        },
+        "M2_dia4_head_nearest_body": {
+          "smp": "SMP21",
+          "edge_gap_mm": 0.6000000000000014,
+          "overlap": false
+        },
+        "trial_dia2p2_hole_nearest_body": {
+          "smp": "SMP21",
+          "edge_gap_mm": 1.5000000000000013,
+          "overlap": false
+        },
+        "nearest_SMP_pad": {
+          "smp": "SMP21",
+          "pad": "4",
+          "edge_gap_mm": 2.5801169166823157,
+          "overlap": false
+        },
+        "nearest_RF_guide": {
+          "smp": "SMP21",
+          "edge_gap_mm": 1.2501750953551583,
+          "overlap": false
+        },
+        "within_current_outline": true
+      }
+    ],
+    "SMP_body_model": "Conservative 5.50 x 5.50 mm XY boxes from the existing proposal",
+    "head_model": "Illustrative unmodified ISO 7045 M2 pan head, diameter 4.00 mm",
+    "all_holes_clear_SMP_bodies": true,
+    "all_M2_heads_clear_SMP_bodies": true,
+    "outside_existing_outline": [
+      "P1",
+      "P2",
+      "A1",
+      "A2"
+    ]
+  },
+  "source_hashes": {
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Four_End_SMP_Side_Entry_20261015\\side_entry_audit.json": "c84c6863154a6660464d1b24fdf8e26676d29c2e49aff6dc63e98b7ca517e680",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\PA_Mounting_Pattern_20261016\\pa_pattern.json": "9d03a93af68b525724ff6dec7294dd5f56baa57a88ccd1f61443b5607bae9900",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\saved_revision_snapshot.json": "59f1529af34d5fe53be259c174ae52d57879028c2e36d3cf1f3ff579a99e32b9",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351"
+  },
+  "source_and_native_files_unchanged": true,
+  "full_native_DRC_performed": false
+}

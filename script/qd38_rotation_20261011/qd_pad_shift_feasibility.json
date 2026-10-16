@@ -1,0 +1,99 @@
+{
+  "status": "OFFLINE_QD_DIRECT_PAD_SHIFT_FEASIBILITY",
+  "passed": true,
+  "attempts": [
+    {
+      "maximum_shift_mm": 0.1,
+      "passed": false,
+      "visited": 8
+    },
+    {
+      "maximum_shift_mm": 0.125,
+      "passed": false,
+      "visited": 11
+    },
+    {
+      "maximum_shift_mm": 0.15,
+      "passed": false,
+      "visited": 17
+    },
+    {
+      "maximum_shift_mm": 0.175,
+      "passed": false,
+      "visited": 28
+    },
+    {
+      "maximum_shift_mm": 0.2,
+      "passed": false,
+      "visited": 55
+    },
+    {
+      "maximum_shift_mm": 0.225,
+      "passed": true,
+      "visited": 2
+    }
+  ],
+  "changed_pads": [
+    {
+      "pin": 1,
+      "shift_mm": 0.1
+    },
+    {
+      "pin": 3,
+      "shift_mm": 0.025
+    },
+    {
+      "pin": 4,
+      "shift_mm": 0.125
+    },
+    {
+      "pin": 17,
+      "shift_mm": 0.2
+    },
+    {
+      "pin": 18,
+      "shift_mm": 0.17500000000000002
+    },
+    {
+      "pin": 19,
+      "shift_mm": 0.1
+    },
+    {
+      "pin": 20,
+      "shift_mm": 0.2
+    },
+    {
+      "pin": 23,
+      "shift_mm": 0.125
+    },
+    {
+      "pin": 36,
+      "shift_mm": 0.125
+    },
+    {
+      "pin": 37,
+      "shift_mm": 0.125
+    },
+    {
+      "pin": 38,
+      "shift_mm": 0.225
+    }
+  ],
+  "RF_pads_preserved": true,
+  "maximum_outward_shift_mm": 0.225,
+  "sum_outward_shift_mm": 1.5250000000000001,
+  "pad_array_bounds_mm": [
+    6.5622337443693395,
+    38.62635042912807,
+    12.934447357202126,
+    46.40891467456915
+  ],
+  "pad_array_span_mm": [
+    6.372213612832787,
+    7.78256424544108
+  ],
+  "minimum_QD_pad_gap_mm": 0.1600046692790747,
+  "minimum_via_pair_clearance_mm": 0.15221784256663418,
+  "minimum_via_hole_pair_clearance_mm": 0.3522178425666342,
+  "bond_crossings": []
+}

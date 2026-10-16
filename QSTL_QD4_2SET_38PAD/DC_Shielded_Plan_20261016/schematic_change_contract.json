@@ -1,0 +1,320 @@
+{
+  "status": "Proposed assignments only; native schematic unchanged",
+  "unchanged_bias_tee": "SMP -> C pad 1; C pad 2 / R pad 1 -> QD; R pad 2 -> DC; direct DC on the other 22 QD pads",
+  "assignments": [
+    {
+      "qd_pad": "1",
+      "dc_net": "DC01",
+      "old_ZIF_pin": 9,
+      "new_ZIF_pin": 15,
+      "old_layer": 4,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "2",
+      "dc_net": "DC02",
+      "old_ZIF_pin": 25,
+      "new_ZIF_pin": 19,
+      "old_layer": 4,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "3",
+      "dc_net": "DC03",
+      "old_ZIF_pin": 34,
+      "new_ZIF_pin": 17,
+      "old_layer": 4,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "4",
+      "dc_net": "DC04",
+      "old_ZIF_pin": 6,
+      "new_ZIF_pin": 18,
+      "old_layer": 4,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "5",
+      "dc_net": "DC05",
+      "old_ZIF_pin": 48,
+      "new_ZIF_pin": 11,
+      "old_layer": 4,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "6",
+      "dc_net": "DC06",
+      "old_ZIF_pin": 14,
+      "new_ZIF_pin": 13,
+      "old_layer": 2,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "7",
+      "dc_net": "DC07",
+      "old_ZIF_pin": 15,
+      "new_ZIF_pin": 6,
+      "old_layer": 4,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "8",
+      "dc_net": "DC08",
+      "old_ZIF_pin": 2,
+      "new_ZIF_pin": 4,
+      "old_layer": 4,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "9",
+      "dc_net": "DC09",
+      "old_ZIF_pin": 3,
+      "new_ZIF_pin": 9,
+      "old_layer": 2,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "10",
+      "dc_net": "DC10",
+      "old_ZIF_pin": 11,
+      "new_ZIF_pin": 10,
+      "old_layer": 2,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "11",
+      "dc_net": "DC11",
+      "old_ZIF_pin": 1,
+      "new_ZIF_pin": 1,
+      "old_layer": 2,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "12",
+      "dc_net": "DC12",
+      "old_ZIF_pin": 5,
+      "new_ZIF_pin": 3,
+      "old_layer": 4,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "13",
+      "dc_net": "DC13",
+      "old_ZIF_pin": 4,
+      "new_ZIF_pin": 5,
+      "old_layer": 2,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "14",
+      "dc_net": "DC14",
+      "old_ZIF_pin": 17,
+      "new_ZIF_pin": 8,
+      "old_layer": 2,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "15",
+      "dc_net": "DC15",
+      "old_ZIF_pin": 8,
+      "new_ZIF_pin": 7,
+      "old_layer": 2,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "16",
+      "dc_net": "DC16",
+      "old_ZIF_pin": 7,
+      "new_ZIF_pin": 2,
+      "old_layer": 2,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "17",
+      "dc_net": "DC17",
+      "old_ZIF_pin": 10,
+      "new_ZIF_pin": 12,
+      "old_layer": 4,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "18",
+      "dc_net": "DC18",
+      "old_ZIF_pin": 12,
+      "new_ZIF_pin": 14,
+      "old_layer": 4,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "19",
+      "dc_net": "DC19",
+      "old_ZIF_pin": 24,
+      "new_ZIF_pin": 16,
+      "old_layer": 2,
+      "new_layer": 2
+    },
+    {
+      "qd_pad": "20",
+      "dc_net": "DC20",
+      "old_ZIF_pin": 16,
+      "new_ZIF_pin": 24,
+      "old_layer": 4,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "21",
+      "dc_net": "DC21",
+      "old_ZIF_pin": 13,
+      "new_ZIF_pin": 38,
+      "old_layer": 4,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "22",
+      "dc_net": "DC22",
+      "old_ZIF_pin": 20,
+      "new_ZIF_pin": 28,
+      "old_layer": 2,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "23",
+      "dc_net": "DC23",
+      "old_ZIF_pin": 22,
+      "new_ZIF_pin": 30,
+      "old_layer": 4,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "24",
+      "dc_net": "DC24",
+      "old_ZIF_pin": 18,
+      "new_ZIF_pin": 46,
+      "old_layer": 2,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "25",
+      "dc_net": "DC25",
+      "old_ZIF_pin": 30,
+      "new_ZIF_pin": 32,
+      "old_layer": 4,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "26",
+      "dc_net": "DC26",
+      "old_ZIF_pin": 32,
+      "new_ZIF_pin": 34,
+      "old_layer": 2,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "27",
+      "dc_net": "DC27",
+      "old_ZIF_pin": 38,
+      "new_ZIF_pin": 26,
+      "old_layer": 2,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "28",
+      "dc_net": "DC28",
+      "old_ZIF_pin": 26,
+      "new_ZIF_pin": 48,
+      "old_layer": 4,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "29",
+      "dc_net": "DC29",
+      "old_ZIF_pin": 36,
+      "new_ZIF_pin": 36,
+      "old_layer": 4,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "30",
+      "dc_net": "DC30",
+      "old_ZIF_pin": 42,
+      "new_ZIF_pin": 25,
+      "old_layer": 2,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "31",
+      "dc_net": "DC31",
+      "old_ZIF_pin": 40,
+      "new_ZIF_pin": 44,
+      "old_layer": 4,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "32",
+      "dc_net": "DC32",
+      "old_ZIF_pin": 44,
+      "new_ZIF_pin": 27,
+      "old_layer": 2,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "33",
+      "dc_net": "DC33",
+      "old_ZIF_pin": 23,
+      "new_ZIF_pin": 40,
+      "old_layer": 2,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "34",
+      "dc_net": "DC34",
+      "old_ZIF_pin": 19,
+      "new_ZIF_pin": 42,
+      "old_layer": 2,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "35",
+      "dc_net": "DC35",
+      "old_ZIF_pin": 21,
+      "new_ZIF_pin": 21,
+      "old_layer": 4,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "36",
+      "dc_net": "DC36",
+      "old_ZIF_pin": 46,
+      "new_ZIF_pin": 22,
+      "old_layer": 4,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "37",
+      "dc_net": "DC37",
+      "old_ZIF_pin": 28,
+      "new_ZIF_pin": 23,
+      "old_layer": 2,
+      "new_layer": 3
+    },
+    {
+      "qd_pad": "38",
+      "dc_net": "DC38",
+      "old_ZIF_pin": 27,
+      "new_ZIF_pin": 20,
+      "old_layer": 2,
+      "new_layer": 3
+    }
+  ],
+  "planned_layer_roles": {
+    "1": "GND",
+    "2": "DC_A",
+    "3": "DC_B",
+    "4": "GND",
+    "5": "GND",
+    "6": "RF_QD"
+  },
+  "contact_pool_preserved": true,
+  "pin50_unused": true
+}

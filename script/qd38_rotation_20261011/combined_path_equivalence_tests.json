@@ -1,0 +1,219 @@
+{
+  "passed": true,
+  "tests": [
+    {
+      "name": "exact",
+      "expected_pass": true,
+      "actual_pass": true,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "name": "arc_split_and_reversed_tracks",
+      "expected_pass": true,
+      "actual_pass": true,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "name": "pad_covered_trim",
+      "expected_pass": true,
+      "actual_pass": true,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "name": "changed_radius",
+      "expected_pass": false,
+      "actual_pass": false,
+      "passed": true,
+      "failures": [
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "unmatched_native_arc_circle",
+          "arc": {
+            "net": "MW01",
+            "layer": 32,
+            "width": 0.11,
+            "cx": 1,
+            "cy": 1,
+            "radius": 0.251,
+            "start_angle": 270,
+            "end_angle": 360
+          }
+        },
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "missing_expected_arc_circle",
+          "arc": {
+            "net": "MW01",
+            "layer": 32,
+            "width": 0.11,
+            "cx": 1,
+            "cy": 1,
+            "radius": 0.25,
+            "start_angle": 270,
+            "end_angle": 360
+          }
+        },
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "arc_endpoint_without_tangent_neighbor",
+          "arc_index": 0,
+          "end": 0,
+          "point": [
+            1.0,
+            0.749
+          ]
+        },
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "arc_endpoint_without_tangent_neighbor",
+          "arc_index": 0,
+          "end": 1,
+          "point": [
+            1.251,
+            0.9999999999999999
+          ]
+        },
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "combined_centerline_coverage_mismatch",
+          "extra_centerline_outside_tolerance_mm": 0.39426986755973126,
+          "missing_centerline_outside_tolerance_mm": 0.39267921598942795,
+          "extra_copper_outside_tolerance_mm2": 0.0004888608252132744,
+          "missing_copper_outside_tolerance_mm2": 0.000291713159895848
+        },
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "combined_copper_coverage_mismatch",
+          "extra_centerline_outside_tolerance_mm": 0.39426986755973126,
+          "missing_centerline_outside_tolerance_mm": 0.39267921598942795,
+          "extra_copper_outside_tolerance_mm2": 0.0004888608252132744,
+          "missing_copper_outside_tolerance_mm2": 0.000291713159895848
+        }
+      ]
+    },
+    {
+      "name": "shifted_arc",
+      "expected_pass": false,
+      "actual_pass": false,
+      "passed": true,
+      "failures": [
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "unmatched_native_arc_circle",
+          "arc": {
+            "net": "MW01",
+            "layer": 32,
+            "width": 0.11,
+            "cx": 1.001,
+            "cy": 1,
+            "radius": 0.25,
+            "start_angle": 270,
+            "end_angle": 360
+          }
+        },
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "missing_expected_arc_circle",
+          "arc": {
+            "net": "MW01",
+            "layer": 32,
+            "width": 0.11,
+            "cx": 1,
+            "cy": 1,
+            "radius": 0.25,
+            "start_angle": 270,
+            "end_angle": 360
+          }
+        },
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "arc_endpoint_without_tangent_neighbor",
+          "arc_index": 0,
+          "end": 0,
+          "point": [
+            1.001,
+            0.75
+          ]
+        },
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "arc_endpoint_without_tangent_neighbor",
+          "arc_index": 0,
+          "end": 1,
+          "point": [
+            1.251,
+            0.9999999999999999
+          ]
+        },
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "combined_centerline_coverage_mismatch",
+          "extra_centerline_outside_tolerance_mm": 0.39071707505305203,
+          "missing_centerline_outside_tolerance_mm": 0.3906875358896795,
+          "extra_copper_outside_tolerance_mm2": 0.0003071329507253219,
+          "missing_copper_outside_tolerance_mm2": 0.00018580641668512917
+        },
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "combined_copper_coverage_mismatch",
+          "extra_centerline_outside_tolerance_mm": 0.39071707505305203,
+          "missing_centerline_outside_tolerance_mm": 0.3906875358896795,
+          "extra_copper_outside_tolerance_mm2": 0.0003071329507253219,
+          "missing_copper_outside_tolerance_mm2": 0.00018580641668512917
+        }
+      ]
+    },
+    {
+      "name": "shifted_external_track",
+      "expected_pass": false,
+      "actual_pass": false,
+      "passed": true,
+      "failures": [
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "arc_endpoint_without_tangent_neighbor",
+          "arc_index": 0,
+          "end": 0,
+          "point": [
+            1.0,
+            0.75
+          ]
+        },
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "combined_centerline_coverage_mismatch",
+          "extra_centerline_outside_tolerance_mm": 0.399990072355083,
+          "missing_centerline_outside_tolerance_mm": 0.3999801447337322,
+          "extra_copper_outside_tolerance_mm2": 0.00040209008038202435,
+          "missing_copper_outside_tolerance_mm2": 0.000389052540326229
+        },
+        {
+          "net": "MW01",
+          "layer": 32,
+          "kind": "combined_copper_coverage_mismatch",
+          "extra_centerline_outside_tolerance_mm": 0.399990072355083,
+          "missing_centerline_outside_tolerance_mm": 0.3999801447337322,
+          "extra_copper_outside_tolerance_mm2": 0.00040209008038202435,
+          "missing_copper_outside_tolerance_mm2": 0.000389052540326229
+        }
+      ]
+    }
+  ]
+}

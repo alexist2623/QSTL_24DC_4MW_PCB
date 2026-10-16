@@ -1,0 +1,1241 @@
+{
+  "passed": false,
+  "topology_passed": false,
+  "quality_review_required": true,
+  "failures": [
+    {
+      "kind": "RF_path_misses_resistor_pad_centre",
+      "net": "MW09",
+      "resistor": "R09",
+      "distance_mm": 0.003562669999999102
+    },
+    {
+      "kind": "RF_inline_chain_topology",
+      "net": "MW11",
+      "start": "C11-2",
+      "stop": "Q1-11",
+      "inline": "R11-1",
+      "connected": true,
+      "acyclic": false,
+      "terminal_degrees": {
+        "Q1-11": 1,
+        "C11-2": 3,
+        "R11-1": 2
+      },
+      "outside_nodes": []
+    },
+    {
+      "kind": "RF_path_misses_resistor_pad_centre",
+      "net": "MW11",
+      "resistor": "R11",
+      "distance_mm": 0.003562670000000878
+    },
+    {
+      "kind": "RF_path_misses_resistor_pad_centre",
+      "net": "MW12",
+      "resistor": "R12",
+      "distance_mm": 0.003562669999999102
+    },
+    {
+      "kind": "RF_path_misses_resistor_pad_centre",
+      "net": "MW16",
+      "resistor": "R16",
+      "distance_mm": 0.003562670000000878
+    },
+    {
+      "kind": "RF_path_misses_resistor_pad_centre",
+      "net": "MW28",
+      "resistor": "R28",
+      "distance_mm": 0.003562670000000878
+    },
+    {
+      "kind": "RF_inline_chain_topology",
+      "net": "MW30",
+      "start": "C30-2",
+      "stop": "Q1-30",
+      "inline": "R30-1",
+      "connected": true,
+      "acyclic": false,
+      "terminal_degrees": {
+        "Q1-30": 1,
+        "C30-2": 3,
+        "R30-1": 2
+      },
+      "outside_nodes": []
+    },
+    {
+      "kind": "RF_path_misses_resistor_pad_centre",
+      "net": "MW30",
+      "resistor": "R30",
+      "distance_mm": 0.003562670000000878
+    },
+    {
+      "kind": "RF_path_misses_resistor_pad_centre",
+      "net": "MW31",
+      "resistor": "R31",
+      "distance_mm": 0.003562670000000878
+    },
+    {
+      "kind": "RF_path_misses_resistor_pad_centre",
+      "net": "MW35",
+      "resistor": "R35",
+      "distance_mm": 0.003562670000000878
+    },
+    {
+      "kind": "unresolved_grid_staircase",
+      "net": "MW02",
+      "repeated_alternating_sub_width_bends": [
+        {
+          "at_order": 5,
+          "arc_indices": [
+            65,
+            64
+          ],
+          "bridge_track": 685,
+          "bridge_length_mm": 0.01362741699796765
+        },
+        {
+          "at_order": 7,
+          "arc_indices": [
+            64,
+            63
+          ],
+          "bridge_track": 684,
+          "bridge_length_mm": 0.006999999999997897
+        },
+        {
+          "at_order": 9,
+          "arc_indices": [
+            63,
+            62
+          ],
+          "bridge_track": 683,
+          "bridge_length_mm": 0.01362741699796765
+        }
+      ]
+    }
+  ],
+  "quality_flags": [
+    {
+      "kind": "sub_width_features_review",
+      "net": "MW02",
+      "short_track_count": 3,
+      "sub_width_radius_count": 4
+    },
+    {
+      "kind": "sub_width_features_review",
+      "net": "MW05",
+      "short_track_count": 3,
+      "sub_width_radius_count": 1
+    },
+    {
+      "kind": "sub_width_features_review",
+      "net": "MW09",
+      "short_track_count": 2,
+      "sub_width_radius_count": 2
+    },
+    {
+      "kind": "sub_width_features_review",
+      "net": "MW11",
+      "short_track_count": 1,
+      "sub_width_radius_count": 1
+    },
+    {
+      "kind": "sub_width_features_review",
+      "net": "MW13",
+      "short_track_count": 1,
+      "sub_width_radius_count": 1
+    },
+    {
+      "kind": "sub_width_features_review",
+      "net": "MW15",
+      "short_track_count": 2,
+      "sub_width_radius_count": 3
+    },
+    {
+      "kind": "sub_width_features_review",
+      "net": "MW16",
+      "short_track_count": 1,
+      "sub_width_radius_count": 1
+    },
+    {
+      "kind": "sub_width_features_review",
+      "net": "MW24",
+      "short_track_count": 2,
+      "sub_width_radius_count": 1
+    },
+    {
+      "kind": "sub_width_features_review",
+      "net": "MW28",
+      "short_track_count": 2,
+      "sub_width_radius_count": 2
+    },
+    {
+      "kind": "sub_width_features_review",
+      "net": "MW32",
+      "short_track_count": 1,
+      "sub_width_radius_count": 1
+    },
+    {
+      "kind": "sub_width_features_review",
+      "net": "MW34",
+      "short_track_count": 2,
+      "sub_width_radius_count": 3
+    },
+    {
+      "kind": "sub_width_features_review",
+      "net": "MW35",
+      "short_track_count": 2,
+      "sub_width_radius_count": 1
+    }
+  ],
+  "grid_staircases": [
+    {
+      "net": "MW02",
+      "repeated_alternating_sub_width_bends": [
+        {
+          "at_order": 5,
+          "arc_indices": [
+            65,
+            64
+          ],
+          "bridge_track": 685,
+          "bridge_length_mm": 0.01362741699796765
+        },
+        {
+          "at_order": 7,
+          "arc_indices": [
+            64,
+            63
+          ],
+          "bridge_track": 684,
+          "bridge_length_mm": 0.006999999999997897
+        },
+        {
+          "at_order": 9,
+          "arc_indices": [
+            63,
+            62
+          ],
+          "bridge_track": 683,
+          "bridge_length_mm": 0.01362741699796765
+        }
+      ]
+    }
+  ],
+  "net_reports": [
+    {
+      "net": "MW02",
+      "terminals": [
+        "C02-2",
+        "Q1-2",
+        "R02-1"
+      ],
+      "inline_terminal": "R02-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-2": 1,
+        "C02-2": 1,
+        "R02-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.0,
+      "track_count": 9,
+      "arc_count": 6,
+      "minimum_radius_mm": 0.021727922061355525,
+      "minimum_track_length_mm": 0.006999999999997897,
+      "short_tracks": [
+        {
+          "index": 683,
+          "length_mm": 0.01362741699796765,
+          "width_mm": 0.11
+        },
+        {
+          "index": 684,
+          "length_mm": 0.006999999999997897,
+          "width_mm": 0.11
+        },
+        {
+          "index": 685,
+          "length_mm": 0.01362741699796765,
+          "width_mm": 0.11
+        }
+      ],
+      "sub_width_arcs": [
+        {
+          "index": 62,
+          "radius_mm": 0.030727922061355654,
+          "width_mm": 0.11
+        },
+        {
+          "index": 63,
+          "radius_mm": 0.021727922061355525,
+          "width_mm": 0.11
+        },
+        {
+          "index": 64,
+          "radius_mm": 0.021727922061355525,
+          "width_mm": 0.11
+        },
+        {
+          "index": 65,
+          "radius_mm": 0.030727922061355654,
+          "width_mm": 0.11
+        }
+      ],
+      "alternating_short_bend_pairs": [
+        {
+          "at_order": 5,
+          "arc_indices": [
+            65,
+            64
+          ],
+          "bridge_track": 685,
+          "bridge_length_mm": 0.01362741699796765
+        },
+        {
+          "at_order": 7,
+          "arc_indices": [
+            64,
+            63
+          ],
+          "bridge_track": 684,
+          "bridge_length_mm": 0.006999999999997897
+        },
+        {
+          "at_order": 9,
+          "arc_indices": [
+            63,
+            62
+          ],
+          "bridge_track": 683,
+          "bridge_length_mm": 0.01362741699796765
+        }
+      ]
+    },
+    {
+      "net": "MW05",
+      "terminals": [
+        "C05-2",
+        "Q1-5",
+        "R05-1"
+      ],
+      "inline_terminal": "R05-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-5": 1,
+        "C05-2": 1,
+        "R05-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.0,
+      "track_count": 11,
+      "arc_count": 9,
+      "minimum_radius_mm": 0.06145584412271131,
+      "minimum_track_length_mm": 0.04525483399593657,
+      "short_tracks": [
+        {
+          "index": 703,
+          "length_mm": 0.04525483399593657,
+          "width_mm": 0.11
+        },
+        {
+          "index": 709,
+          "length_mm": 0.06301515190165165,
+          "width_mm": 0.11
+        },
+        {
+          "index": 710,
+          "length_mm": 0.10088311754568302,
+          "width_mm": 0.11
+        }
+      ],
+      "sub_width_arcs": [
+        {
+          "index": 75,
+          "radius_mm": 0.06145584412271131,
+          "width_mm": 0.11
+        }
+      ],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW09",
+      "terminals": [
+        "C09-2",
+        "Q1-9",
+        "R09-1"
+      ],
+      "inline_terminal": "R09-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-9": 1,
+        "C09-2": 1,
+        "R09-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.003562669999999102,
+      "track_count": 5,
+      "arc_count": 3,
+      "minimum_radius_mm": 0.06145584412271154,
+      "minimum_track_length_mm": 0.04525483399593657,
+      "short_tracks": [
+        {
+          "index": 648,
+          "length_mm": 0.047999999999999154,
+          "width_mm": 0.11
+        },
+        {
+          "index": 651,
+          "length_mm": 0.04525483399593657,
+          "width_mm": 0.11
+        }
+      ],
+      "sub_width_arcs": [
+        {
+          "index": 41,
+          "radius_mm": 0.06518376618407218,
+          "width_mm": 0.11
+        },
+        {
+          "index": 43,
+          "radius_mm": 0.06145584412271154,
+          "width_mm": 0.11
+        }
+      ],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW11",
+      "terminals": [
+        "C11-2",
+        "Q1-11",
+        "R11-1"
+      ],
+      "inline_terminal": "R11-1",
+      "chain_connected": true,
+      "chain_acyclic": false,
+      "terminal_degrees": {
+        "Q1-11": 1,
+        "C11-2": 3,
+        "R11-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.003562670000000878,
+      "track_count": 7,
+      "arc_count": 5,
+      "minimum_radius_mm": 0.10863961030679117,
+      "minimum_track_length_mm": 0.08000000000000096,
+      "short_tracks": [
+        {
+          "index": 580,
+          "length_mm": 0.08000000000000096,
+          "width_mm": 0.11
+        }
+      ],
+      "sub_width_arcs": [
+        {
+          "index": 0,
+          "radius_mm": 0.10863961030679117,
+          "width_mm": 0.11
+        }
+      ],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW12",
+      "terminals": [
+        "C12-2",
+        "Q1-12",
+        "R12-1"
+      ],
+      "inline_terminal": "R12-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-12": 1,
+        "C12-2": 1,
+        "R12-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.003562669999999102,
+      "track_count": 3,
+      "arc_count": 1,
+      "minimum_radius_mm": 0.18,
+      "minimum_track_length_mm": 0.6325483399593922,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW13",
+      "terminals": [
+        "C13-2",
+        "Q1-13",
+        "R13-1"
+      ],
+      "inline_terminal": "R13-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-13": 1,
+        "C13-2": 1,
+        "R13-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.0,
+      "track_count": 10,
+      "arc_count": 7,
+      "minimum_radius_mm": 0.06518376618407311,
+      "minimum_track_length_mm": 0.04800000000000004,
+      "short_tracks": [
+        {
+          "index": 637,
+          "length_mm": 0.04800000000000004,
+          "width_mm": 0.11
+        }
+      ],
+      "sub_width_arcs": [
+        {
+          "index": 34,
+          "radius_mm": 0.06518376618407311,
+          "width_mm": 0.11
+        }
+      ],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW15",
+      "terminals": [
+        "C15-2",
+        "Q1-15",
+        "R15-1"
+      ],
+      "inline_terminal": "R15-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-15": 1,
+        "C15-2": 1,
+        "R15-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.0,
+      "track_count": 11,
+      "arc_count": 8,
+      "minimum_radius_mm": 0.02172792206135739,
+      "minimum_track_length_mm": 0.007000000000000561,
+      "short_tracks": [
+        {
+          "index": 654,
+          "length_mm": 0.016000000000000014,
+          "width_mm": 0.11
+        },
+        {
+          "index": 658,
+          "length_mm": 0.007000000000000561,
+          "width_mm": 0.11
+        }
+      ],
+      "sub_width_arcs": [
+        {
+          "index": 44,
+          "radius_mm": 0.02172792206135767,
+          "width_mm": 0.11
+        },
+        {
+          "index": 47,
+          "radius_mm": 0.02172792206135767,
+          "width_mm": 0.11
+        },
+        {
+          "index": 48,
+          "radius_mm": 0.02172792206135739,
+          "width_mm": 0.11
+        }
+      ],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW16",
+      "terminals": [
+        "C16-2",
+        "Q1-16",
+        "R16-1"
+      ],
+      "inline_terminal": "R16-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-16": 1,
+        "C16-2": 1,
+        "R16-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.003562670000000878,
+      "track_count": 9,
+      "arc_count": 7,
+      "minimum_radius_mm": 0.09218376618407774,
+      "minimum_track_length_mm": 0.06788225099390988,
+      "short_tracks": [
+        {
+          "index": 615,
+          "length_mm": 0.06788225099390988,
+          "width_mm": 0.11
+        }
+      ],
+      "sub_width_arcs": [
+        {
+          "index": 20,
+          "radius_mm": 0.09218376618407774,
+          "width_mm": 0.11
+        }
+      ],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW21",
+      "terminals": [
+        "C21-2",
+        "Q1-21",
+        "R21-1"
+      ],
+      "inline_terminal": "R21-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-21": 1,
+        "C21-2": 1,
+        "R21-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.0,
+      "track_count": 4,
+      "arc_count": 2,
+      "minimum_radius_mm": 0.18,
+      "minimum_track_length_mm": 0.22544155877283956,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW24",
+      "terminals": [
+        "C24-2",
+        "Q1-24",
+        "R24-1"
+      ],
+      "inline_terminal": "R24-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-24": 1,
+        "C24-2": 1,
+        "R24-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.0,
+      "track_count": 11,
+      "arc_count": 9,
+      "minimum_radius_mm": 0.030727922061355654,
+      "minimum_track_length_mm": 0.022627416997968285,
+      "short_tracks": [
+        {
+          "index": 670,
+          "length_mm": 0.022627416997968285,
+          "width_mm": 0.11
+        },
+        {
+          "index": 676,
+          "length_mm": 0.06301515190165165,
+          "width_mm": 0.11
+        }
+      ],
+      "sub_width_arcs": [
+        {
+          "index": 53,
+          "radius_mm": 0.030727922061355654,
+          "width_mm": 0.11
+        }
+      ],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW28",
+      "terminals": [
+        "C28-2",
+        "Q1-28",
+        "R28-1"
+      ],
+      "inline_terminal": "R28-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-28": 1,
+        "C28-2": 1,
+        "R28-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.003562670000000878,
+      "track_count": 5,
+      "arc_count": 3,
+      "minimum_radius_mm": 0.04345584412271633,
+      "minimum_track_length_mm": 0.03200000000000003,
+      "short_tracks": [
+        {
+          "index": 715,
+          "length_mm": 0.03200000000000003,
+          "width_mm": 0.11
+        },
+        {
+          "index": 718,
+          "length_mm": 0.06788225099390988,
+          "width_mm": 0.11
+        }
+      ],
+      "sub_width_arcs": [
+        {
+          "index": 84,
+          "radius_mm": 0.04345584412271633,
+          "width_mm": 0.11
+        },
+        {
+          "index": 86,
+          "radius_mm": 0.09218376618407798,
+          "width_mm": 0.11
+        }
+      ],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW30",
+      "terminals": [
+        "C30-2",
+        "Q1-30",
+        "R30-1"
+      ],
+      "inline_terminal": "R30-1",
+      "chain_connected": true,
+      "chain_acyclic": false,
+      "terminal_degrees": {
+        "Q1-30": 1,
+        "C30-2": 3,
+        "R30-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.003562670000000878,
+      "track_count": 7,
+      "arc_count": 5,
+      "minimum_radius_mm": 0.18,
+      "minimum_track_length_mm": 0.37588311754567627,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW31",
+      "terminals": [
+        "C31-2",
+        "Q1-31",
+        "R31-1"
+      ],
+      "inline_terminal": "R31-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-31": 1,
+        "C31-2": 1,
+        "R31-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.003562670000000878,
+      "track_count": 3,
+      "arc_count": 1,
+      "minimum_radius_mm": 0.18000000000000002,
+      "minimum_track_length_mm": 0.6679036790187188,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW32",
+      "terminals": [
+        "C32-2",
+        "Q1-32",
+        "R32-1"
+      ],
+      "inline_terminal": "R32-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-32": 1,
+        "C32-2": 1,
+        "R32-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.0,
+      "track_count": 10,
+      "arc_count": 7,
+      "minimum_radius_mm": 0.0921837661840775,
+      "minimum_track_length_mm": 0.06788225099390988,
+      "short_tracks": [
+        {
+          "index": 692,
+          "length_mm": 0.06788225099390988,
+          "width_mm": 0.11
+        }
+      ],
+      "sub_width_arcs": [
+        {
+          "index": 68,
+          "radius_mm": 0.0921837661840775,
+          "width_mm": 0.11
+        }
+      ],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW34",
+      "terminals": [
+        "C34-2",
+        "Q1-34",
+        "R34-1"
+      ],
+      "inline_terminal": "R34-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-34": 1,
+        "C34-2": 1,
+        "R34-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.0,
+      "track_count": 11,
+      "arc_count": 7,
+      "minimum_radius_mm": 0.02172792206135809,
+      "minimum_track_length_mm": 0.006999999999999673,
+      "short_tracks": [
+        {
+          "index": 626,
+          "length_mm": 0.06399999999999828,
+          "width_mm": 0.11
+        },
+        {
+          "index": 629,
+          "length_mm": 0.006999999999999673,
+          "width_mm": 0.11
+        }
+      ],
+      "sub_width_arcs": [
+        {
+          "index": 27,
+          "radius_mm": 0.08691168824542801,
+          "width_mm": 0.11
+        },
+        {
+          "index": 29,
+          "radius_mm": 0.02172792206135809,
+          "width_mm": 0.11
+        },
+        {
+          "index": 30,
+          "radius_mm": 0.021727922061358162,
+          "width_mm": 0.11
+        }
+      ],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "MW35",
+      "terminals": [
+        "C35-2",
+        "Q1-35",
+        "R35-1"
+      ],
+      "inline_terminal": "R35-1",
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "Q1-35": 1,
+        "C35-2": 1,
+        "R35-1": 2
+      },
+      "resistor_centreline_distance_mm": 0.003562670000000878,
+      "track_count": 9,
+      "arc_count": 7,
+      "minimum_radius_mm": 0.09218376618407798,
+      "minimum_track_length_mm": 0.06788225099390988,
+      "short_tracks": [
+        {
+          "index": 601,
+          "length_mm": 0.06788225099390988,
+          "width_mm": 0.11
+        },
+        {
+          "index": 604,
+          "length_mm": 0.10088311754568302,
+          "width_mm": 0.11
+        }
+      ],
+      "sub_width_arcs": [
+        {
+          "index": 12,
+          "radius_mm": 0.09218376618407798,
+          "width_mm": 0.11
+        }
+      ],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S02",
+      "terminals": [
+        "C02-1",
+        "SMP02-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP02-1": 1,
+        "C02-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S05",
+      "terminals": [
+        "C05-1",
+        "SMP05-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP05-1": 1,
+        "C05-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S09",
+      "terminals": [
+        "C09-1",
+        "SMP09-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP09-1": 1,
+        "C09-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S11",
+      "terminals": [
+        "C11-1",
+        "SMP11-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP11-1": 1,
+        "C11-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S12",
+      "terminals": [
+        "C12-1",
+        "SMP12-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP12-1": 1,
+        "C12-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S13",
+      "terminals": [
+        "C13-1",
+        "SMP13-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP13-1": 1,
+        "C13-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S15",
+      "terminals": [
+        "C15-1",
+        "SMP15-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP15-1": 1,
+        "C15-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S16",
+      "terminals": [
+        "C16-1",
+        "SMP16-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP16-1": 1,
+        "C16-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S21",
+      "terminals": [
+        "C21-1",
+        "SMP21-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP21-1": 1,
+        "C21-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S24",
+      "terminals": [
+        "C24-1",
+        "SMP24-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP24-1": 1,
+        "C24-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S28",
+      "terminals": [
+        "C28-1",
+        "SMP28-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP28-1": 1,
+        "C28-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S30",
+      "terminals": [
+        "C30-1",
+        "SMP30-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP30-1": 1,
+        "C30-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S31",
+      "terminals": [
+        "C31-1",
+        "SMP31-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP31-1": 1,
+        "C31-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S32",
+      "terminals": [
+        "C32-1",
+        "SMP32-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP32-1": 1,
+        "C32-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S34",
+      "terminals": [
+        "C34-1",
+        "SMP34-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP34-1": 1,
+        "C34-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    },
+    {
+      "net": "S35",
+      "terminals": [
+        "C35-1",
+        "SMP35-1"
+      ],
+      "inline_terminal": null,
+      "chain_connected": true,
+      "chain_acyclic": true,
+      "terminal_degrees": {
+        "SMP35-1": 1,
+        "C35-1": 1
+      },
+      "resistor_centreline_distance_mm": null,
+      "track_count": 1,
+      "arc_count": 0,
+      "minimum_radius_mm": null,
+      "minimum_track_length_mm": 1.625,
+      "short_tracks": [],
+      "sub_width_arcs": [],
+      "alternating_short_bend_pairs": []
+    }
+  ],
+  "RF_QD_terminals": 16,
+  "RF_net_count": 32,
+  "arc_count": 87,
+  "minimum_RF_arc_radius_mm": 0.021727922061355525,
+  "minimum_RF_straight_length_mm": 0.006999999999997897,
+  "resistor_hull_violations": [],
+  "tangent_join_errors": [],
+  "methodology": "Analytic endpoint tangents; independently noded RF centerlines with only intended terminal pads contracted. S nets must be SMP1-to-C1 paths. MW nets must be C2-to-QD paths through inline R1, explicitly reaching its center. All RF signal copper is Bottom-only, with no signal vias. Resistor two-pad convex hulls exclude foreign Bottom signals. Sub-width radii/segments are review flags; consecutive alternating sub-width arc-track-arc pairs are unresolved grid-staircase failures, not a claimed fabrication-radius rule.",
+  "candidate": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\rf_routed_candidate.json",
+  "candidate_sha256": "7fe1cc41adcbd851e71bea852f3e40546121769a4b99919e173b606eeb0e1346"
+}

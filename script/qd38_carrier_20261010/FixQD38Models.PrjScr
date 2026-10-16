@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=FixQD38Models.pas
+[Generic_ScriptingSystem]
+StartProcName=FixQD38Models.pas>FixQD38Models

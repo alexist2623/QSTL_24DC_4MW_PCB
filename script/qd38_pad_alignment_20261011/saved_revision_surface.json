@@ -1,0 +1,1957 @@
+{
+  "passed": true,
+  "status": "SAVED_NATIVE_SURFACE_SEMANTICS_READ_ONLY",
+  "native_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "export_geometry_tolerance_mm": 0.003,
+  "coordinate_tolerance_mm": 1e-05,
+  "checks": {
+    "SMP_rings": {
+      "passed": true,
+      "failures": [],
+      "rings": [
+        {
+          "component": "SMP35",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            9.750000819999999,
+            60.50000092
+          ],
+          "axis_deg": 270.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.099999999005675e-06,
+          "maximum_grid_error_deg": 4.9259382535638e-05,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP34",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.749998979999999,
+            60.50000092
+          ],
+          "axis_deg": 270.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.100000000782032e-06,
+          "maximum_grid_error_deg": 4.9259382535638e-05,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP32",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.749998979999999,
+            54.50000022
+          ],
+          "axis_deg": 270.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.100000000782032e-06,
+          "maximum_grid_error_deg": 4.925938245037287e-05,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP31",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.749998979999999,
+            48.499999519999996
+          ],
+          "axis_deg": 180.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 7.840267655101485e-07,
+          "maximum_grid_error_deg": 3.7810783624081523e-06,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP30",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.749998979999999,
+            42.499998819999995
+          ],
+          "axis_deg": 90.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.534642180807012e-06,
+          "maximum_grid_error_deg": 0.00013183193428289997,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP28",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.749998979999999,
+            36.50000066
+          ],
+          "axis_deg": 180.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 1.5626268659030274e-06,
+          "maximum_grid_error_deg": 4.9259382535638e-05,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP24",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.749998979999999,
+            30.499999959999997
+          ],
+          "axis_deg": 90.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.100000000782032e-06,
+          "maximum_grid_error_deg": 4.925938245037287e-05,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP21",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            15.749998979999999,
+            24.49999926
+          ],
+          "axis_deg": 90.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.100000000782032e-06,
+          "maximum_grid_error_deg": 4.9259382535638e-05,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP16",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            9.750000819999999,
+            24.49999926
+          ],
+          "axis_deg": 90.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 1.5626268659030274e-06,
+          "maximum_grid_error_deg": 4.9259382535638e-05,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP15",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.7500001199999997,
+            24.49999926
+          ],
+          "axis_deg": 90.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 1.5626268656809827e-06,
+          "maximum_grid_error_deg": 4.925938247879458e-05,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP13",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.7500001199999997,
+            30.499999959999997
+          ],
+          "axis_deg": 90.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 7.840267617353902e-07,
+          "maximum_grid_error_deg": 3.781078277143024e-06,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP12",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.7500001199999997,
+            36.50000066
+          ],
+          "axis_deg": 0.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 1.5626268656809827e-06,
+          "maximum_grid_error_deg": 4.925938247879458e-05,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP11",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.7500001199999997,
+            42.499998819999995
+          ],
+          "axis_deg": 270.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 7.840267648440147e-07,
+          "maximum_grid_error_deg": 0.00013183193431132167,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP09",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.7500001199999997,
+            48.499999519999996
+          ],
+          "axis_deg": 0.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 7.840267648440147e-07,
+          "maximum_grid_error_deg": 3.7810783055647335e-06,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP05",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.7500001199999997,
+            54.50000022
+          ],
+          "axis_deg": 270.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 7.840267610692564e-07,
+          "maximum_grid_error_deg": 3.781078277143024e-06,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        },
+        {
+          "component": "SMP02",
+          "count": 11,
+          "planned_count": 11,
+          "centre_mm": [
+            3.7500001199999997,
+            60.50000092
+          ],
+          "axis_deg": 270.0,
+          "radius_mm": 1.05,
+          "grid_deg": 22.5,
+          "grid_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "symmetric": true,
+          "maximum_radius_error_mm": 2.099999999005675e-06,
+          "maximum_grid_error_deg": 4.925938247879458e-05,
+          "minimum_required_escape_half_angle_deg": 45,
+          "nonempty": true
+        }
+      ],
+      "shield_via_count": 668,
+      "minimum_shield_pitch_mm": 0.3999972948744956,
+      "shield_span": [
+        5,
+        32
+      ],
+      "shield_land_mm": 0.25,
+      "shield_hole_mm": 0.1,
+      "note": "Every active SMP requires a nonempty ring. Saved vias must match planned ring labels, a 1.05 mm radius and a 22.5-degree grid mirrored about the planned RF escape axis. Missing rings are failures."
+    },
+    "shield_geometry": {
+      "passed": true,
+      "shield_via_count": 668,
+      "minimum_signal_clearance_mm": {
+        "5": 0.2856329452141212,
+        "32": 0.2033914462843139
+      },
+      "worst_signal_clearance": {
+        "5": {
+          "index": 394,
+          "x": 4.18500052,
+          "y": 41.700000419999995,
+          "gap_mm": 0.2856329452141212
+        },
+        "32": {
+          "index": 189,
+          "x": 5.66131202,
+          "y": 40.615610919999995,
+          "gap_mm": 0.2033914462843139
+        }
+      },
+      "signal_primitives_per_layer": {
+        "5": 92,
+        "32": 418
+      },
+      "minimum_RC_body_clearance_mm": 0.0976553799999926,
+      "minimum_foreign_drill_clearance_mm": 0.25700917106024956,
+      "grounded_on_both_layers": true,
+      "rings": {
+        "passed": true,
+        "failures": [],
+        "rings": [
+          {
+            "component": "SMP35",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              9.750000819999999,
+              60.50000092
+            ],
+            "axis_deg": 270.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 2.099999999005675e-06,
+            "maximum_grid_error_deg": 4.9259382535638e-05,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP34",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              15.749998979999999,
+              60.50000092
+            ],
+            "axis_deg": 270.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 2.100000000782032e-06,
+            "maximum_grid_error_deg": 4.9259382535638e-05,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP32",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              15.749998979999999,
+              54.50000022
+            ],
+            "axis_deg": 270.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 2.100000000782032e-06,
+            "maximum_grid_error_deg": 4.925938245037287e-05,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP31",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              15.749998979999999,
+              48.499999519999996
+            ],
+            "axis_deg": 180.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 7.840267655101485e-07,
+            "maximum_grid_error_deg": 3.7810783624081523e-06,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP30",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              15.749998979999999,
+              42.499998819999995
+            ],
+            "axis_deg": 90.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 2.534642180807012e-06,
+            "maximum_grid_error_deg": 0.00013183193428289997,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP28",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              15.749998979999999,
+              36.50000066
+            ],
+            "axis_deg": 180.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 1.5626268659030274e-06,
+            "maximum_grid_error_deg": 4.9259382535638e-05,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP24",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              15.749998979999999,
+              30.499999959999997
+            ],
+            "axis_deg": 90.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 2.100000000782032e-06,
+            "maximum_grid_error_deg": 4.925938245037287e-05,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP21",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              15.749998979999999,
+              24.49999926
+            ],
+            "axis_deg": 90.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 2.100000000782032e-06,
+            "maximum_grid_error_deg": 4.9259382535638e-05,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP16",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              9.750000819999999,
+              24.49999926
+            ],
+            "axis_deg": 90.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 1.5626268659030274e-06,
+            "maximum_grid_error_deg": 4.9259382535638e-05,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP15",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              3.7500001199999997,
+              24.49999926
+            ],
+            "axis_deg": 90.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 1.5626268656809827e-06,
+            "maximum_grid_error_deg": 4.925938247879458e-05,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP13",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              3.7500001199999997,
+              30.499999959999997
+            ],
+            "axis_deg": 90.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 7.840267617353902e-07,
+            "maximum_grid_error_deg": 3.781078277143024e-06,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP12",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              3.7500001199999997,
+              36.50000066
+            ],
+            "axis_deg": 0.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 1.5626268656809827e-06,
+            "maximum_grid_error_deg": 4.925938247879458e-05,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP11",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              3.7500001199999997,
+              42.499998819999995
+            ],
+            "axis_deg": 270.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 7.840267648440147e-07,
+            "maximum_grid_error_deg": 0.00013183193431132167,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP09",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              3.7500001199999997,
+              48.499999519999996
+            ],
+            "axis_deg": 0.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 7.840267648440147e-07,
+            "maximum_grid_error_deg": 3.7810783055647335e-06,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP05",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              3.7500001199999997,
+              54.50000022
+            ],
+            "axis_deg": 270.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 7.840267610692564e-07,
+            "maximum_grid_error_deg": 3.781078277143024e-06,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          },
+          {
+            "component": "SMP02",
+            "count": 11,
+            "planned_count": 11,
+            "centre_mm": [
+              3.7500001199999997,
+              60.50000092
+            ],
+            "axis_deg": 270.0,
+            "radius_mm": 1.05,
+            "grid_deg": 22.5,
+            "grid_indices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "symmetric": true,
+            "maximum_radius_error_mm": 2.099999999005675e-06,
+            "maximum_grid_error_deg": 4.925938247879458e-05,
+            "minimum_required_escape_half_angle_deg": 45,
+            "nonempty": true
+          }
+        ],
+        "shield_via_count": 668,
+        "minimum_shield_pitch_mm": 0.3999972948744956,
+        "shield_span": [
+          5,
+          32
+        ],
+        "shield_land_mm": 0.25,
+        "shield_hole_mm": 0.1,
+        "note": "Every active SMP requires a nonempty ring. Saved vias must match planned ring labels, a 1.05 mm radius and a 22.5-degree grid mirrored about the planned RF escape axis. Missing rings are failures."
+      },
+      "errors": [],
+      "required_signal_clearance_mm": 0.2,
+      "arc_conservative_allowance_mm": 0.00011
+    },
+    "saved_candidate_region_comparison": [
+      {
+        "family": "GND",
+        "layer": 1,
+        "hausdorff_mm": 7.32410687763558e-15
+      },
+      {
+        "family": "GND",
+        "layer": 2,
+        "hausdorff_mm": 7.32410687763558e-15
+      },
+      {
+        "family": "GND",
+        "layer": 3,
+        "hausdorff_mm": 7.944109290391274e-15
+      },
+      {
+        "family": "GND",
+        "layer": 4,
+        "hausdorff_mm": 7.32410687763558e-15
+      },
+      {
+        "family": "GND",
+        "layer": 5,
+        "hausdorff_mm": 7.944109290391274e-15
+      },
+      {
+        "family": "GND",
+        "layer": 32,
+        "hausdorff_mm": 7.944109290391274e-15
+      },
+      {
+        "family": "MASK",
+        "layer": 37,
+        "hausdorff_mm": 1.6674803656737528e-06
+      },
+      {
+        "family": "MASK",
+        "layer": 38,
+        "hausdorff_mm": 1.7215675119596082e-06
+      }
+    ],
+    "mount_mask": [
+      {
+        "pin": "MH8",
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "MH7",
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "1",
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "1",
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "1",
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "1",
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "1",
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "1",
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      }
+    ],
+    "retained_mask_family": {
+      "passed": true,
+      "errors": [],
+      "baseline_native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+      "baseline_candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+      "native_mask_region_count": 14,
+      "mask_region_bytes_unchanged": true,
+      "retained_bounds_mm": [
+        6.412233744369339,
+        38.47635042912807,
+        13.084447357202126,
+        46.558914674569145
+      ],
+      "new_minimum_bounds_mm": [
+        6.412232826817998,
+        38.66316489508854,
+        13.084448155404045,
+        46.33814665379929
+      ],
+      "covers_new_field_and_cavity": true,
+      "new_mask_opening_area_mm2": 0,
+      "policy": "Retain the verified larger mask field; no mask aperture enlargement or regeneration."
+    },
+    "QD_Bottom_mask_open_missing_mm2": 0.0,
+    "QD_GND": {
+      "1": {
+        "missing_Top_mm2": 0.0
+      },
+      "2": {
+        "unwanted_GND_mm2": 0.0
+      },
+      "3": {
+        "unwanted_GND_mm2": 0.0
+      },
+      "4": {
+        "unwanted_GND_mm2": 0.0
+      },
+      "5": {
+        "unwanted_GND_mm2": 0.0
+      },
+      "32": {
+        "unwanted_GND_mm2": 0.0
+      }
+    },
+    "RC_protected_rectangles": [
+      {
+        "pair": "2",
+        "bounds_mm": [
+          2.5137625399999997,
+          56.521435829999994,
+          8.199999369999999,
+          60.13623535
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "5",
+        "bounds_mm": [
+          2.5137625399999997,
+          50.52143767,
+          8.199999369999999,
+          54.136237189999996
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "9",
+        "bounds_mm": [
+          4.11376315,
+          46.099998709999994,
+          9.478561710000001,
+          49.7362371
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "11",
+        "bounds_mm": [
+          0.6000008099999995,
+          37.721437869999995,
+          6.2862376399999995,
+          41.33623739
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "12",
+        "bounds_mm": [
+          4.11376315,
+          35.26376308,
+          9.478561710000001,
+          38.90000147
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "13",
+        "bounds_mm": [
+          2.5137625399999997,
+          30.86376299,
+          8.199999369999999,
+          34.478562509999996
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "15",
+        "bounds_mm": [
+          1.4499991099999998,
+          24.81376239,
+          6.0499985899999995,
+          29.450000049999996
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "16",
+        "bounds_mm": [
+          8.350000549999999,
+          24.86376229,
+          11.150001089999998,
+          31.528560789999997
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "21",
+        "bounds_mm": [
+          13.450000509999999,
+          24.81376239,
+          18.049999989999996,
+          29.450000049999996
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "24",
+        "bounds_mm": [
+          11.299999729999998,
+          30.86376299,
+          16.98623656,
+          34.478562509999996
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "28",
+        "bounds_mm": [
+          10.02143739,
+          35.26376308,
+          15.38623595,
+          38.90000147
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "30",
+        "bounds_mm": [
+          12.200000469999997,
+          42.66376225,
+          16.98623656,
+          47.37856211
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "31",
+        "bounds_mm": [
+          10.02143739,
+          46.099998709999994,
+          15.38623595,
+          49.7362371
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "32",
+        "bounds_mm": [
+          11.299999729999998,
+          50.52143767,
+          16.98623656,
+          54.136237189999996
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "34",
+        "bounds_mm": [
+          11.299999729999998,
+          56.521435829999994,
+          16.98623656,
+          60.13623535
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "35",
+        "bounds_mm": [
+          8.350000549999999,
+          53.47143685,
+          11.150001089999998,
+          60.13623535
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      }
+    ],
+    "ZIF_Bottom_mask": {
+      "bounds_mm": [
+        1.64999844,
+        1.98500158,
+        16.94999738,
+        7.3499988
+      ],
+      "margin_mm": 0.4,
+      "intrusion_mm2": 0.0
+    },
+    "RF_Bottom_mask": {
+      "centerline_buffer_mm": 0.71,
+      "intrusion_mm2": 0.0
+    },
+    "mount_direct_GND": [
+      {
+        "layer": 1,
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761304
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761326
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438533
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.0682637274385325
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836516
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836515
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761304
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761326
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438533
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.0682637274385325
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836516
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836515
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761304
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761326
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438533
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.0682637274385325
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836516
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836515
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761304
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761326
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438533
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.0682637274385325
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836516
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836515
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761304
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761326
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438533
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.0682637274385325
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836516
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836515
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761304
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761326
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438533
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.0682637274385325
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836516
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836515
+      }
+    ],
+    "native_DRC": {
+      "report": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\Native_DRC.html",
+      "report_sha256": "c6832f7a07fe4641057150b5995a8ad41fe194a0915b2c0953ccf0f663e9fc69",
+      "categories": 23,
+      "violation_sum": 0,
+      "via_style_rule_count": 4,
+      "component_rule_count": 1,
+      "DC_pair_clearance_rule_count": 1,
+      "early_stop": false,
+      "summary": [
+        {
+          "rule": "Clearance Constraint (Gap=0.2mm) (InNet('GND') And OnLayer('L6_RF_QD')),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Clearance Constraint (Gap=0.2mm) (InNet('GND') And (ExistsOnLayer('L2_DC_A') Or ExistsOnLayer('L4_DC_B'))),((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And (ExistsOnLayer('L2_DC_A') Or ExistsOnLayer('L4_DC_B')))",
+          "violations": 0
+        },
+        {
+          "rule": "Clearance Constraint (Gap=0.15mm) (Not (InNet('GND') And OnLayer('L6_RF_QD')) And Not (InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L4_DC_B')))),(Not (InNet('GND') And OnLayer('L6_RF_QD')) And Not (InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L4_DC_B'))))",
+          "violations": 0
+        },
+        {
+          "rule": "Clearance Constraint (Gap=0.1mm) ((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And (ExistsOnLayer('L2_DC_A') Or ExistsOnLayer('L4_DC_B'))),((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And (ExistsOnLayer('L2_DC_A') Or ExistsOnLayer('L4_DC_B')))",
+          "violations": 0
+        },
+        {
+          "rule": "Short-Circuit Constraint (Allowed=No) (All),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Un-Routed Net Constraint ( (All) )",
+          "violations": 0
+        },
+        {
+          "rule": "Modified Polygon (Allow modified: No), (Allow shelved: No)",
+          "violations": 0
+        },
+        {
+          "rule": "Width Constraint (Min=0.125mm) (Max=0.254mm) (Preferred=0.15mm) (Not (OnLayer('L6_RF_QD') And (InNet('MW02') Or InNet('MW05') Or InNet('MW09') Or InNet('MW11') Or InNet('MW12') Or InNet('MW13') Or InNet('MW15') Or InNet('MW16') Or InNet('MW21') Or InNet('MW24') Or InNet('MW28') Or InNet('MW30') Or InNet('MW31') Or InNet('MW32') Or InNet('MW34') Or InNet('MW35') Or InNet('S02') Or InNet('S05') Or InNet('S09') Or InNet('S11') Or InNet('S12') Or InNet('S13') Or InNet('S15') Or InNet('S16') Or InNet('S21') Or InNet('S24') Or InNet('S28') Or InNet('S30') Or InNet('S31') Or InNet('S32') Or InNet('S34') Or InNet('S35'))) And Not ((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38'))))",
+          "violations": 0
+        },
+        {
+          "rule": "Width Constraint (Min=0.125mm) (Max=0.254mm) (Preferred=0.254mm) ((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')))",
+          "violations": 0
+        },
+        {
+          "rule": "Width Constraint (Min=0.11mm) (Max=0.11mm) (Preferred=0.11mm) (OnLayer('L6_RF_QD') And (InNet('MW02') Or InNet('MW05') Or InNet('MW09') Or InNet('MW11') Or InNet('MW12') Or InNet('MW13') Or InNet('MW15') Or InNet('MW16') Or InNet('MW21') Or InNet('MW24') Or InNet('MW28') Or InNet('MW30') Or InNet('MW31') Or InNet('MW32') Or InNet('MW34') Or InNet('MW35') Or InNet('S02') Or InNet('S05') Or InNet('S09') Or InNet('S11') Or InNet('S12') Or InNet('S13') Or InNet('S15') Or InNet('S16') Or InNet('S21') Or InNet('S24') Or InNet('S28') Or InNet('S30') Or InNet('S31') Or InNet('S32') Or InNet('S34') Or InNet('S35')))",
+          "violations": 0
+        },
+        {
+          "rule": "Routing Topology Rule(Topology=Shortest) (All)",
+          "violations": 0
+        },
+        {
+          "rule": "Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=0.2mm) (PreferredHoleWidth=0.2mm) (MinWidth=0.4mm) (MaxWidth=0.4mm) (PreferedWidth=0.4mm) (IsVia And (InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(78.740080315,91.929137008,653.543219685,275.590562992))",
+          "violations": 0
+        },
+        {
+          "rule": "Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=0.2mm) (PreferredHoleWidth=0.2mm) (MinWidth=0.35mm) (MaxWidth=0.35mm) (PreferedWidth=0.35mm) (IsVia And (InNet('DC01') Or InNet('DC03') Or InNet('DC04') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC10') Or InNet('DC14') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC22') Or InNet('DC23') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC29') Or InNet('DC33') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(253.638545847,1515.707263466,513.740157480,1832.745540474))",
+          "violations": 0
+        },
+        {
+          "rule": "Routing Via (MinHoleWidth=0.25mm) (MaxHoleWidth=0.25mm) (PreferredHoleWidth=0.25mm) (MinWidth=0.5mm) (MaxWidth=0.5mm) (PreferedWidth=0.5mm) (Not (IsVia And InNet('GND')) And Not (IsVia And (InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(78.740080315,91.929137008,653.543219685,275.590562992)) And Not (IsVia And (InNet('DC01') Or InNet('DC03') Or InNet('DC04') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC10') Or InNet('DC14') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC22') Or InNet('DC23') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC29') Or InNet('DC33') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(253.638545847,1515.707263466,513.740157480,1832.745540474)))",
+          "violations": 0
+        },
+        {
+          "rule": "Routing Via (MinHoleWidth=0.1mm) (MaxHoleWidth=0.1mm) (PreferredHoleWidth=0.1mm) (MinWidth=0.25mm) (MaxWidth=0.25mm) (PreferedWidth=0.25mm) (IsVia And InNet('GND'))",
+          "violations": 0
+        },
+        {
+          "rule": "Hole Size Constraint (Min=0.025mm) (Max=4.1mm) (All)",
+          "violations": 0
+        },
+        {
+          "rule": "Hole To Hole Clearance (Gap=0.254mm) (All),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Silk to Silk (Clearance=0.254mm) (All),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Net Antennae (Tolerance=0mm) (All)",
+          "violations": 0
+        },
+        {
+          "rule": "Component Clearance Constraint ( Horizontal Gap = 0.254mm, Vertical Gap = 0.254mm ) (All),(All) ",
+          "violations": 0
+        },
+        {
+          "rule": "Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)",
+          "violations": 0
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "limitation": "Explicit solder-mask regions checked. Ordinary pad apertures and effective via paste require separate native/CAM verification."
+}

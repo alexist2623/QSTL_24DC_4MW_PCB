@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ProbeNativeFixed.pas
+[Generic_ScriptingSystem]
+StartProcName=ProbeNativeFixed.pas>ProbeNativeFixed

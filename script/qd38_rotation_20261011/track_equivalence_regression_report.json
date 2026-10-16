@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "input_sha256": {
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\saved_revision_snapshot.json": "72cda6cffc2840a4d88651193c924cb8c49f4a05e1b9a807e8a384f3cf6b7624",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\full_copper_candidate.json": "a8e96043d9dcabcbf3b855f37ff28962a55389783f7ca484c95fda7b37b253fe"
+  },
+  "actual_native_sha256": "c179d313dc7d7c1c5851517d779616fbe7c9c3b1e9a5f4ac565e0541c3e0a047",
+  "DC32_direction_independent_maximum_error_mm": 1.100000003972923e-06,
+  "all_endpoint_reversals_identical": true,
+  "MW32_metrics": {
+    "actual_count": 7,
+    "expected_count": 7,
+    "centerline_hausdorff_mm": 1.4243415803760567e-06,
+    "raw_centerline_union_length_difference_mm": 0.003562589576324271,
+    "centerline_union_length_difference_mm": 0.0,
+    "native_grid_centerline_hausdorff_mm": 0.0,
+    "native_grid_unit_mm": 2.54e-06,
+    "maximum_grid_snap_distance_mm": 1.5521920023723088e-06,
+    "actual_widths": [
+      0.10999977999999999
+    ],
+    "expected_widths": [
+      0.11
+    ],
+    "extra_copper_outside_tolerance_mm2": 0.0,
+    "missing_copper_outside_tolerance_mm2": 0.0,
+    "extra_centerline_outside_tolerance_mm": 0.0,
+    "missing_centerline_outside_tolerance_mm": 0.0
+  },
+  "negative_mutation_checks": {
+    "real_2um_translation_rejected": true,
+    "missing_unique_long_segment_rejected": true,
+    "real_10um_width_reduction_rejected": true
+  },
+  "input_files_unchanged": true
+}

@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "candidate": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\rf_widened_candidate.json",
+  "candidate_sha256": "1a8daecb578d5f708311ee388f1221cd238111ea655ebc8db318443bf0f8a53e",
+  "frozen_placement_sha256": "99a7cc8fef9c21e235f47fbdc24733121a37e6ddc4a939d6d92f4fbdb1d70c0e",
+  "source_geometry_preserved": true,
+  "Bottom_pad_polygons": 190,
+  "signal_via_circles": 76,
+  "RF_nets": 32,
+  "RF_signal_vias": 0,
+  "minimum_static_gap": {
+    "net": "MW28",
+    "minimum_static_gap": 0.151012627590541,
+    "nearest": "via:34:Q1-27",
+    "edge_gap": 6.246011654687414
+  },
+  "minimum_pair_gap": {
+    "a": "MW28",
+    "b": "MW30",
+    "gap": 0.1510125546626746
+  },
+  "maximum_arc_sagitta_bound": 9.61929376435956e-08,
+  "topology_passed": true,
+  "quality_flags": [],
+  "errors": []
+}

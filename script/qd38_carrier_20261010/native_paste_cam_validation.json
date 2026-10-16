@@ -1,0 +1,53 @@
+{
+  "passed": true,
+  "status": "NATIVE_PASTE_CAM_COMPARED_WITH_SAVED_PAD_GEOMETRY",
+  "native_sha256": "f8356dd694810d2318a51e99544ab2345f8b9996de80e9ddc4456bbc6a14c632",
+  "normal_pad_apertures": {
+    "35": 53,
+    "36": 64
+  },
+  "excluded_pads": {
+    "SMP": 80,
+    "MOUNT": 8,
+    "Q1": 38
+  },
+  "cam_checks": [
+    {
+      "layer": 35,
+      "file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010\\review\\paste_native_cam_linked\\QSTL_QD4_2SET_38PAD.GTP",
+      "sha256": "52f98c0d8f8da23b5e0ca7f39dfaaac7202cd9e14ced5e2083458e7e184f1fe3",
+      "expected_pad_count": 53,
+      "expected_area_mm2": 9.675982885995541,
+      "actual_area_mm2": 9.67600000000001,
+      "missing_outside_tolerance_mm2": 0.0,
+      "extra_outside_tolerance_mm2": 0.0,
+      "tolerance_mm": 5e-05,
+      "objects": 53,
+      "object_types": {
+        "Flash": 53
+      },
+      "primitive_count": 53
+    },
+    {
+      "layer": 36,
+      "file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010\\review\\paste_native_cam_linked\\QSTL_QD4_2SET_38PAD.GBP",
+      "sha256": "2ad36d9e7467d8b28fc689607c543900172e26f1753407df418d1c6988458dd7",
+      "expected_pad_count": 64,
+      "expected_area_mm2": 48.420714908002395,
+      "actual_area_mm2": 48.420650380000026,
+      "missing_outside_tolerance_mm2": 0.0,
+      "extra_outside_tolerance_mm2": 0.0,
+      "tolerance_mm": 5e-05,
+      "objects": 64,
+      "object_types": {
+        "Flash": 64
+      },
+      "primitive_count": 64
+    }
+  ],
+  "errors": [],
+  "explicit_paste_object_count": 0,
+  "via_specific_paste_absent": true,
+  "note": "No extra CAM paste beyond intended J1 and R/C SMD pads. Paste coincident with R/C via-in-pad belongs to the required SMD pad and is intentionally retained.",
+  "fabrication_release": false
+}

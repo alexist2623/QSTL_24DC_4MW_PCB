@@ -1,0 +1,97 @@
+{
+  "source": "F:\\Nextcloud\\Lab\\Instruments\\CustomParts\\Carrier_12MW_72DC\\PCB\\Sample_Holder\\Sample_Holder.PcbDoc",
+  "source_sha256": "8202d33437e9faf5d86ecb3d40f989ccf6b8abe79581ee535c5280b8149bdfdb",
+  "mounting_holes": [
+    {
+      "id": "H1",
+      "x_mm": 3.500000619999998,
+      "y_mm": 79.10000181999999,
+      "diameter_mm": 3.20000122,
+      "pad_diameter_mm": 5.49999916
+    },
+    {
+      "id": "H2",
+      "x_mm": 29.10000022,
+      "y_mm": 79.10000181999999,
+      "diameter_mm": 3.20000122,
+      "pad_diameter_mm": 5.49999916
+    },
+    {
+      "id": "H3",
+      "x_mm": 3.500000619999998,
+      "y_mm": 3.5000006200000016,
+      "diameter_mm": 3.20000122,
+      "pad_diameter_mm": 5.49999916
+    },
+    {
+      "id": "H4",
+      "x_mm": 29.10000022,
+      "y_mm": 3.5000006200000016,
+      "diameter_mm": 3.20000122,
+      "pad_diameter_mm": 5.49999916
+    }
+  ],
+  "coordinate_origin": "Lower-left PCB outline corner; saved XY projection, not mirrored",
+  "native_pad_hole_counts": {
+    "3.2": 4,
+    "0.96": 48,
+    "0.82": 12
+  },
+  "drill_archive": "F:\\Nextcloud\\Lab\\Instruments\\CustomParts\\Carrier_12MW_72DC\\PCB\\Sample_Holder\\Sample_Holder_gerbers_new_2025.08.21.zip",
+  "drill_archive_sha256": "50fe7324a8cbc09f60086317c0b07f9896523cb9e19ae6bb5a504a0a6a4b859c",
+  "drill_cross_check": {
+    "points_mm": [
+      [
+        12.8,
+        -37.8,
+        3.2
+      ],
+      [
+        -12.8,
+        -37.8,
+        3.2
+      ],
+      [
+        -12.8,
+        37.8,
+        3.2
+      ],
+      [
+        12.8,
+        37.8,
+        3.2
+      ]
+    ],
+    "normalized_points_mm": [
+      [
+        29.1,
+        3.5,
+        3.2
+      ],
+      [
+        3.5,
+        3.5,
+        3.2
+      ],
+      [
+        3.5,
+        79.1,
+        3.2
+      ],
+      [
+        29.1,
+        79.1,
+        3.2
+      ]
+    ],
+    "tool_sizes_mm": {
+      "1": 0.2,
+      "2": 0.82,
+      "3": 0.96,
+      "4": 3.2
+    },
+    "report": "----------------------------------------------------------------------------------------------------------------------------------\r\nNCDrill File Report For: Sample_Holder.PcbDoc   2025-08-21  18:28:36\r\n----------------------------------------------------------------------------------------------------------------------------------\r\n\r\nLayer Pair : Top Layer to Bottom Layer\r\nASCII RoundHoles File : Sample_Holder.TXT\r\nEIA File   : Sample_Holder.DRL\r\n\r\nTool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel\r\n----------------------------------------------------------------------------------------------------------------------------------\r\nT1      0.2mm (8mil)                                              Round             2079      PTH        2444.15mm (96.23inch)\r\nT2      0.82mm (32mil)                                            Round             12        PTH        157.09mm (6.18inch)\r\nT3      0.96mm (38mil)                                            Round             48        PTH        238.85mm (9.40inch)\r\nT4      3.2mm (126mil)                                            Round             4         PTH        126.80mm (4.99inch)\r\n----------------------------------------------------------------------------------------------------------------------------------\r\nTotals                                                                              2143\r\nLayer Pair : Top Layer to Layer 1\r\nASCII RoundHoles File : Sample_Holder.TX1\r\nEIA File   : Sample_Holder.DR1\r\n\r\nTool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel\r\n----------------------------------------------------------------------------------------------------------------------------------\r\nT1      0.2mm (8mil)                                              Round             1208      PTH        1101.54mm (43.37inch)\r\n----------------------------------------------------------------------------------------------------------------------------------\r\nTotals                                                                              1208\r\nLayer Pair : Top Layer to Layer 2\r\nASCII RoundHoles File : Sample_Holder.TX2\r\nEIA File   : Sample_Holder.DR2\r\n\r\nTool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel\r\n----------------------------------------------------------------------------------------------------------------------------------\r\nT1      0.2mm (8mil)                                              Round             200       PTH        441.42mm (17.38inch)\r\n----------------------------------------------------------------------------------------------------------------------------------\r\nTotals                                                                              200\r\n----------------------------------------------------------------------------------------------------------------------------------\r\nTotals                                                                              3551\r\n\r\nTotal Processing Time (hh:mm:ss) : 00:00:01\r\n"
+  },
+  "source_files_unchanged": true,
+  "fastener_intent": "Not encoded; do not relabel holes as M2 or M2.5 from diameter alone"
+}

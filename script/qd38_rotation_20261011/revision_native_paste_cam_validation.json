@@ -1,0 +1,58 @@
+{
+  "passed": true,
+  "status": "REVISION_NATIVE_PASTE_CAM_COMPARED_WITH_SAVED_PAD_GEOMETRY",
+  "native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "normal_pad_apertures": {
+    "35": 53,
+    "36": 64
+  },
+  "excluded_pads": {
+    "SMP": 80,
+    "MOUNT": 8,
+    "Q1": 38
+  },
+  "cam_checks": [
+    {
+      "layer": 35,
+      "file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\review\\paste_native_cam_revision\\e25cdee1823c4479b9fb6207dc1c3a80\\QSTL_QD4_2SET_38PAD.GTP",
+      "sha256": "b0bbc345a7155b415972e698c2b3541147367406d9f8597b91a3aa5dfd8d9834",
+      "expected_pad_count": 53,
+      "expected_area_mm2": 9.675982885995541,
+      "actual_area_mm2": 9.67600000000001,
+      "missing_outside_tolerance_mm2": 0.0,
+      "extra_outside_tolerance_mm2": 0.0,
+      "tolerance_mm": 5e-05,
+      "objects": 53,
+      "object_types": {
+        "Flash": 53
+      },
+      "primitive_count": 53
+    },
+    {
+      "layer": 36,
+      "file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\review\\paste_native_cam_revision\\e25cdee1823c4479b9fb6207dc1c3a80\\QSTL_QD4_2SET_38PAD.GBP",
+      "sha256": "e8754c8aa1080da3a3e5b31313a34ef66e3c9ccb1c63366093ee571eceb08820",
+      "expected_pad_count": 64,
+      "expected_area_mm2": 50.59374635873089,
+      "actual_area_mm2": 50.593874176,
+      "missing_outside_tolerance_mm2": 0.0,
+      "extra_outside_tolerance_mm2": 0.0,
+      "tolerance_mm": 5e-05,
+      "objects": 64,
+      "object_types": {
+        "Flash": 64
+      },
+      "primitive_count": 64
+    }
+  ],
+  "errors": [],
+  "explicit_paste_object_count": 0,
+  "via_specific_paste_absent": true,
+  "note": "No extra CAM paste beyond intended J1 and R/C SMD pads. Paste coincident with R/C via-in-pad belongs to the required SMD pad and is intentionally retained.",
+  "fabrication_release": false,
+  "candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+  "export_token": "e25cdee1823c4479b9fb6207dc1c3a80",
+  "source_manifest_sha256": "1984942a5f0c5098345282518fd3f0f74f8b1ce1f8bdee20b659c0aef718b87d",
+  "QD_library_sha256": "21948bf605c8762cbc141ac7bd40f55f10d5df138c5afeb757d2092a5f776e0b",
+  "native_export_log_sha256": "7ea974a7aa15e3c8536016135d883ac777f794d962b55d91da07f8be1b15d4f5"
+}

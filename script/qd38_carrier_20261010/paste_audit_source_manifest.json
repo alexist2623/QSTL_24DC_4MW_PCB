@@ -1,0 +1,24 @@
+{
+  "status": "PREPARED_NOT_EXECUTED",
+  "pcb": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+  "pcb_sha256": "f8356dd694810d2318a51e99544ab2345f8b9996de80e9ddc4456bbc6a14c632",
+  "project_sha256": "4c45713af7cdb2e06d11652b65f5760e85a7d6ff208d2b3860d4c05147e6ef98",
+  "outjob": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010\\Paste_Audit_Only.OutJob",
+  "cam_directory": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010\\review\\paste_native_cam_linked",
+  "expected_cam_layers": [
+    "Top Paste",
+    "Bottom Paste"
+  ],
+  "output_layer_ids": [
+    16973832,
+    16973833
+  ],
+  "expected_automatic_pad_apertures": {
+    "Top": 53,
+    "Bottom": 64
+  },
+  "fabrication_release": false,
+  "export_script": "ExportPasteAuditLinked",
+  "temporary_live_project_membership": true,
+  "project_file_save_requested": false
+}

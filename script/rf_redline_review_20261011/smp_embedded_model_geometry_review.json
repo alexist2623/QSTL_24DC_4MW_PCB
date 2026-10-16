@@ -1,0 +1,142 @@
+{
+  "scope": "Read-only saved embedded SMP model geometry; mechanical tolerance and mating-plug access are not certified.",
+  "source": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\SMP-FS-SBPCT.stp",
+  "step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc",
+  "saved_native_hash_matches": true,
+  "all_16_native_models_match_step": true,
+  "valid": true,
+  "raw_model_bounds_mm": [
+    -2.7500003209850017,
+    -3.8100009909008077,
+    -2.75,
+    2.7500003209850017,
+    4.800000197874639,
+    2.75
+  ],
+  "native_rotation_xyz_deg": [
+    90.0,
+    0.0,
+    0.0
+  ],
+  "rotated_local_bounds_mm": [
+    -2.7500003209850017,
+    -2.75,
+    -3.8100009909008077,
+    2.7500003209850017,
+    2.7500000000000004,
+    4.800000197874639
+  ],
+  "actual_xy_projection_span_mm": [
+    5.500000641970003,
+    5.5
+  ],
+  "native_body_outline_projection_span_mm": [
+    5.49999916,
+    5.476539719999998
+  ],
+  "translated_left_x_bounds_mm": [
+    -3.2098500168942223e-07,
+    5.500000320985002
+  ],
+  "translated_right_x_bounds_mm": [
+    13.999999679014998,
+    19.500000320985002
+  ],
+  "pitch_checks": [
+    {
+      "pitch_mm": 5.0,
+      "common_volume_mm3": 3.6571045062025025,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pitch_mm": 5.25,
+      "common_volume_mm3": 1.2895077448880112,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pitch_mm": 5.4,
+      "common_volume_mm3": 0.323540358598087,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pitch_mm": 5.45,
+      "common_volume_mm3": 0.11405320232278225,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pitch_mm": 5.5,
+      "common_volume_mm3": 0.0,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "pitch_mm": 5.55,
+      "common_volume_mm3": 0.0,
+      "minimum_distance_mm": 0.04999999999999982
+    },
+    {
+      "pitch_mm": 5.6,
+      "common_volume_mm3": 0.0,
+      "minimum_distance_mm": 0.09999999999999964
+    },
+    {
+      "pitch_mm": 5.75,
+      "common_volume_mm3": 0.0,
+      "minimum_distance_mm": 0.25
+    },
+    {
+      "pitch_mm": 6.0,
+      "common_volume_mm3": 0.0,
+      "minimum_distance_mm": 0.5
+    }
+  ],
+  "diagonal_checks": [
+    {
+      "dx_mm": 4,
+      "dy_mm": 4,
+      "centre_distance_mm": 5.656854249492381,
+      "circular_envelope_gap_mm": 0.15685424949238058,
+      "common_volume_mm3": 0.0,
+      "minimum_distance_mm": 0.1568542494923798
+    },
+    {
+      "dx_mm": 4,
+      "dy_mm": 4.25,
+      "centre_distance_mm": 5.836308764964376,
+      "circular_envelope_gap_mm": 0.3363087649643761,
+      "common_volume_mm3": 0.0,
+      "minimum_distance_mm": 0.3363087649643757
+    },
+    {
+      "dx_mm": 4,
+      "dy_mm": 3.75,
+      "centre_distance_mm": 5.482928049865327,
+      "circular_envelope_gap_mm": -0.017071950134672775,
+      "common_volume_mm3": 0.022710651003036222,
+      "minimum_distance_mm": 0.0
+    },
+    {
+      "dx_mm": 4,
+      "dy_mm": 4.5,
+      "centre_distance_mm": 6.020797289396148,
+      "circular_envelope_gap_mm": 0.5207972893961479,
+      "common_volume_mm3": 0.0,
+      "minimum_distance_mm": 0.5207972893961477
+    },
+    {
+      "dx_mm": 6,
+      "dy_mm": 0,
+      "centre_distance_mm": 6.0,
+      "circular_envelope_gap_mm": 0.5,
+      "common_volume_mm3": 0.0,
+      "minimum_distance_mm": 0.4999996790149983
+    }
+  ],
+  "maximum_meshed_xy_radius_mm": [
+    2.750000000000001,
+    1.1808102410483818,
+    2.4835835348615247,
+    4.700001246288
+  ],
+  "projection_note": "Dense STEP mesh radius check and exact STEP pair-intersection checks assess circular packing; mesh containment is approximate at 0.001 mm linear deflection.",
+  "manufacturing_note": "Zero nominal body gap is not an approved assembly spacing. Cable plug and installation tool envelopes are absent from this STEP."
+}

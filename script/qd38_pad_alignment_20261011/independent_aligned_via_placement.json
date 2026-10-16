@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "candidate_sha256": "89829a12e11b6dc548c045df0735d62824996275f4f32d5fe4379d4804b3273c",
+  "source_candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+  "native_grid_mm": 2.54e-06,
+  "pad_count": 38,
+  "QD_endpoint_count": 22,
+  "nominal_QD_land_mm": 0.35,
+  "nominal_QD_drill_mm": 0.2,
+  "minimum_foreign_pad_clearance": [
+    0.1503266936686031,
+    [
+      "Q1-1",
+      "Q1",
+      "2"
+    ]
+  ],
+  "minimum_foreign_via_land_clearance": [
+    0.15041676466961723,
+    [
+      "Q1-18",
+      "Q1-19"
+    ]
+  ],
+  "minimum_drill_clearance": [
+    0.3004164646696172,
+    [
+      "Q1-18",
+      "Q1-19"
+    ]
+  ],
+  "drill_containment_passed": true,
+  "failures": [],
+  "scope": "Offline aligned38pads/22endpointvias after native-grid quantization. Existing routes, GND/shields, masks, canonical library and actual native DRC are not certified by this report."
+}

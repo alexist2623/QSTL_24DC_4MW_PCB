@@ -1,0 +1,1949 @@
+{
+  "scope": "Offline nearest-corner alignment feasibility, not a native design or routed candidate.",
+  "source_candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+  "source_native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "cavity_mm": [
+    4.3,
+    5.3
+  ],
+  "sample_center": [
+    9.75,
+    42.5
+  ],
+  "pad_size_mm": [
+    0.8,
+    0.25
+  ],
+  "full_short_edges_collinear": false,
+  "explanation": "At preserved unequal pad rotations, common horizontal/vertical complete short edges are mathematically incompatible with fixed rectangular pads. This proposal aligns only each nearest corner while translating along the existing long-axis/bond ray.",
+  "maximum_pad_movement_mm": 0.24521066915248096,
+  "moved_rf_pad_ids": [
+    2,
+    21
+  ],
+  "pad_shifts": [
+    {
+      "pad": 1,
+      "side": "TOP",
+      "original_side": "TOP",
+      "before": [
+        9.513666814717327,
+        45.87706745372383
+      ],
+      "after": [
+        9.52125988183612,
+        45.75709683102886
+      ],
+      "displacement_mm": -0.12021066915249119,
+      "delta_mm": [
+        0.007593067118792519,
+        -0.1199706226949715
+      ],
+      "nearest_corner_before": 45.46997062269497,
+      "nearest_corner_after": 45.35,
+      "complete_end_edge_normal_span_mm": 0.015791167232337054,
+      "rf": false
+    },
+    {
+      "pad": 2,
+      "side": "TOP",
+      "original_side": "TOP",
+      "before": [
+        9.059625042191266,
+        45.799417345622615
+      ],
+      "after": [
+        9.065871595332803,
+        45.766215066489345
+      ],
+      "displacement_mm": -0.03378477121120764,
+      "delta_mm": [
+        0.0062465531415364026,
+        -0.03320227913327045
+      ],
+      "nearest_corner_before": 45.38320227913327,
+      "nearest_corner_after": 45.35,
+      "complete_end_edge_normal_span_mm": 0.046223142244220625,
+      "rf": true
+    },
+    {
+      "pad": 3,
+      "side": "TOP",
+      "original_side": "TOP",
+      "before": [
+        8.589374567491017,
+        45.80971514269835
+      ],
+      "after": [
+        8.602240787240598,
+        45.76907348117042
+      ],
+      "displacement_mm": -0.04262961719738035,
+      "delta_mm": [
+        0.012866219749580458,
+        -0.04064166152792836
+      ],
+      "nearest_corner_before": 45.39064166152793,
+      "nearest_corner_after": 45.35,
+      "complete_end_edge_normal_span_mm": 0.07545352618349987,
+      "rf": false
+    },
+    {
+      "pad": 4,
+      "side": "TOP",
+      "original_side": "TOP",
+      "before": [
+        8.073125397076264,
+        45.87986462515054
+      ],
+      "after": [
+        8.12463306317721,
+        45.76597011109112
+      ],
+      "displacement_mm": -0.12499999999998926,
+      "delta_mm": [
+        0.05150766610094541,
+        -0.11389451405941742
+      ],
+      "nearest_corner_before": 45.46389451405942,
+      "nearest_corner_after": 45.35,
+      "complete_end_edge_normal_span_mm": 0.10301533220189968,
+      "rf": false
+    },
+    {
+      "pad": 5,
+      "side": "TOP",
+      "original_side": "TOP",
+      "before": [
+        7.629418863925076,
+        45.75747084449095
+      ],
+      "after": [
+        7.629418863925071,
+        45.75747084449096
+      ],
+      "displacement_mm": 8.27811971400708e-15,
+      "delta_mm": [
+        -4.247371900986292e-15,
+        7.105427357601002e-15
+      ],
+      "nearest_corner_before": 45.349999999999994,
+      "nearest_corner_after": 45.35,
+      "complete_end_edge_normal_span_mm": 0.12827103399457612,
+      "rf": true
+    },
+    {
+      "pad": 6,
+      "side": "TOP",
+      "original_side": "CORNER",
+      "before": [
+        7.03257724187695,
+        45.74404868909703
+      ],
+      "after": [
+        7.032577241876945,
+        45.744048689097035
+      ],
+      "displacement_mm": 8.927053502727149e-15,
+      "delta_mm": [
+        -5.404182297666161e-15,
+        7.105427357601002e-15
+      ],
+      "nearest_corner_before": 45.349999999999994,
+      "nearest_corner_after": 45.35,
+      "complete_end_edge_normal_span_mm": 0.15134283378091168,
+      "rf": false
+    },
+    {
+      "pad": 7,
+      "side": "LEFT",
+      "original_side": "LEFT",
+      "before": [
+        6.996665855502501,
+        44.385792355693695
+      ],
+      "after": [
+        6.996665855502502,
+        44.385792355693695
+      ],
+      "displacement_mm": -1.0603324251586547e-15,
+      "delta_mm": [
+        8.881784197001252e-16,
+        -5.791752296341948e-16
+      ],
+      "nearest_corner_before": 7.3999999999999995,
+      "nearest_corner_after": 7.4,
+      "complete_end_edge_normal_span_mm": 0.13655510665618245,
+      "rf": false
+    },
+    {
+      "pad": 8,
+      "side": "LEFT",
+      "original_side": "LEFT",
+      "before": [
+        6.9846255135088535,
+        43.85260270177432
+      ],
+      "after": [
+        6.9846255135088535,
+        43.85260270177432
+      ],
+      "displacement_mm": -0.0,
+      "delta_mm": [
+        0.0,
+        -0.0
+      ],
+      "nearest_corner_before": 7.4,
+      "nearest_corner_after": 7.4,
+      "complete_end_edge_normal_span_mm": 0.10555651164048918,
+      "rf": false
+    },
+    {
+      "pad": 9,
+      "side": "LEFT",
+      "original_side": "LEFT",
+      "before": [
+        6.9811168721846695,
+        43.312542176048765
+      ],
+      "after": [
+        6.98111687218467,
+        43.312542176048765
+      ],
+      "displacement_mm": -9.222109621351087e-16,
+      "delta_mm": [
+        8.881784197001252e-16,
+        -2.482179555575121e-16
+      ],
+      "nearest_corner_before": 7.3999999999999995,
+      "nearest_corner_after": 7.4,
+      "complete_end_edge_normal_span_mm": 0.06728882157907674,
+      "rf": true
+    },
+    {
+      "pad": 10,
+      "side": "LEFT",
+      "original_side": "LEFT",
+      "before": [
+        6.99013007557442,
+        42.77000775631964
+      ],
+      "after": [
+        6.990130075574421,
+        42.77000775631964
+      ],
+      "displacement_mm": -8.920239346845064e-16,
+      "delta_mm": [
+        8.881784197001252e-16,
+        -8.273931851917071e-17
+      ],
+      "nearest_corner_before": 7.3999999999999995,
+      "nearest_corner_after": 7.4,
+      "complete_end_edge_normal_span_mm": 0.023188648673545455,
+      "rf": false
+    },
+    {
+      "pad": 11,
+      "side": "LEFT",
+      "original_side": "LEFT",
+      "before": [
+        6.99013007557442,
+        42.22999224368036
+      ],
+      "after": [
+        6.990130075574421,
+        42.22999224368036
+      ],
+      "displacement_mm": -8.920239346845064e-16,
+      "delta_mm": [
+        8.881784197001252e-16,
+        8.273931851917071e-17
+      ],
+      "nearest_corner_before": 7.3999999999999995,
+      "nearest_corner_after": 7.4,
+      "complete_end_edge_normal_span_mm": 0.023188648673545455,
+      "rf": true
+    },
+    {
+      "pad": 12,
+      "side": "LEFT",
+      "original_side": "LEFT",
+      "before": [
+        6.9811168721846695,
+        41.687457823951235
+      ],
+      "after": [
+        6.98111687218467,
+        41.687457823951235
+      ],
+      "displacement_mm": -9.222109621351087e-16,
+      "delta_mm": [
+        8.881784197001252e-16,
+        2.482179555575121e-16
+      ],
+      "nearest_corner_before": 7.3999999999999995,
+      "nearest_corner_after": 7.4,
+      "complete_end_edge_normal_span_mm": 0.06728882157907674,
+      "rf": true
+    },
+    {
+      "pad": 13,
+      "side": "LEFT",
+      "original_side": "LEFT",
+      "before": [
+        6.9846255135088535,
+        41.14739729822568
+      ],
+      "after": [
+        6.9846255135088535,
+        41.14739729822568
+      ],
+      "displacement_mm": -0.0,
+      "delta_mm": [
+        0.0,
+        0.0
+      ],
+      "nearest_corner_before": 7.4,
+      "nearest_corner_after": 7.4,
+      "complete_end_edge_normal_span_mm": 0.10555651164048918,
+      "rf": true
+    },
+    {
+      "pad": 14,
+      "side": "LEFT",
+      "original_side": "LEFT",
+      "before": [
+        6.996665855502501,
+        40.614207644306305
+      ],
+      "after": [
+        6.996665855502502,
+        40.614207644306305
+      ],
+      "displacement_mm": -1.0603324251586547e-15,
+      "delta_mm": [
+        8.881784197001252e-16,
+        5.791752296341948e-16
+      ],
+      "nearest_corner_before": 7.3999999999999995,
+      "nearest_corner_after": 7.4,
+      "complete_end_edge_normal_span_mm": 0.13655510665618245,
+      "rf": false
+    },
+    {
+      "pad": 15,
+      "side": "BOTTOM",
+      "original_side": "CORNER",
+      "before": [
+        7.03257724187695,
+        39.25595131090297
+      ],
+      "after": [
+        7.032577241876945,
+        39.255951310902965
+      ],
+      "displacement_mm": 8.927053502727149e-15,
+      "delta_mm": [
+        -5.404182297666161e-15,
+        -7.105427357601002e-15
+      ],
+      "nearest_corner_before": 39.650000000000006,
+      "nearest_corner_after": 39.65,
+      "complete_end_edge_normal_span_mm": 0.15134283378091168,
+      "rf": true
+    },
+    {
+      "pad": 16,
+      "side": "BOTTOM",
+      "original_side": "BOTTOM",
+      "before": [
+        7.877978008548642,
+        39.23769467872736
+      ],
+      "after": [
+        7.877978008548642,
+        39.23769467872736
+      ],
+      "displacement_mm": -0.0,
+      "delta_mm": [
+        0.0,
+        0.0
+      ],
+      "nearest_corner_before": 39.65,
+      "nearest_corner_after": 39.65,
+      "complete_end_edge_normal_span_mm": 0.11608496571297296,
+      "rf": true
+    },
+    {
+      "pad": 17,
+      "side": "BOTTOM",
+      "original_side": "BOTTOM",
+      "before": [
+        8.291957861233472,
+        39.04507861549518
+      ],
+      "after": [
+        8.363674839057262,
+        39.231778039950164
+      ],
+      "displacement_mm": -0.2000000000000025,
+      "delta_mm": [
+        0.07171697782379054,
+        0.18669942445498577
+      ],
+      "nearest_corner_before": 39.46330057554501,
+      "nearest_corner_after": 39.65,
+      "complete_end_edge_normal_span_mm": 0.08964622227973705,
+      "rf": false
+    },
+    {
+      "pad": 18,
+      "side": "BOTTOM",
+      "original_side": "BOTTOM",
+      "before": [
+        8.787816820427095,
+        39.04476783935612
+      ],
+      "after": [
+        8.834881997713563,
+        39.231582589771946
+      ],
+      "displacement_mm": -0.19265223042034707,
+      "delta_mm": [
+        0.0470651772864679,
+        0.1868147504158273
+      ],
+      "nearest_corner_before": 39.46318524958417,
+      "nearest_corner_after": 39.65,
+      "complete_end_edge_normal_span_mm": 0.0610753080612882,
+      "rf": false
+    },
+    {
+      "pad": 19,
+      "side": "BOTTOM",
+      "original_side": "BOTTOM",
+      "before": [
+        9.278846479041155,
+        39.10941221144511
+      ],
+      "after": [
+        9.29489130145988,
+        39.23757017760549
+      ],
+      "displacement_mm": -0.12915843223271772,
+      "delta_mm": [
+        0.016044822418725263,
+        0.12815796616038
+      ],
+      "nearest_corner_before": 39.52184203383962,
+      "nearest_corner_after": 39.65,
+      "complete_end_edge_normal_span_mm": 0.031056474868430762,
+      "rf": false
+    },
+    {
+      "pad": 20,
+      "side": "BOTTOM",
+      "original_side": "BOTTOM",
+      "before": [
+        9.75,
+        39.05
+      ],
+      "after": [
+        9.75,
+        39.25
+      ],
+      "displacement_mm": -0.20000000000000284,
+      "delta_mm": [
+        -4.655357041696107e-18,
+        0.20000000000000284
+      ],
+      "nearest_corner_before": 39.449999999999996,
+      "nearest_corner_after": 39.65,
+      "complete_end_edge_normal_span_mm": 5.8191963021200505e-18,
+      "rf": false
+    },
+    {
+      "pad": 21,
+      "side": "BOTTOM",
+      "original_side": "BOTTOM",
+      "before": [
+        10.208730931011473,
+        39.208637607685176
+      ],
+      "after": [
+        10.20510869854012,
+        39.23757017760549
+      ],
+      "displacement_mm": -0.0291584322327252,
+      "delta_mm": [
+        -0.00362223247135389,
+        0.028932569920314677
+      ],
+      "nearest_corner_before": 39.621067430079684,
+      "nearest_corner_after": 39.65,
+      "complete_end_edge_normal_span_mm": 0.03105647486843079,
+      "rf": true
+    },
+    {
+      "pad": 22,
+      "side": "BOTTOM",
+      "original_side": "BOTTOM",
+      "before": [
+        10.669430463930004,
+        39.21446523269248
+      ],
+      "after": [
+        10.665118002286437,
+        39.231582589771946
+      ],
+      "displacement_mm": -0.017652230420349045,
+      "delta_mm": [
+        -0.004312461643566643,
+        0.017117357079463602
+      ],
+      "nearest_corner_before": 39.632882642920535,
+      "nearest_corner_after": 39.65,
+      "complete_end_edge_normal_span_mm": 0.06107530806128819,
+      "rf": false
+    },
+    {
+      "pad": 23,
+      "side": "BOTTOM",
+      "original_side": "BOTTOM",
+      "before": [
+        11.181148272082606,
+        39.1150908996658
+      ],
+      "after": [
+        11.136325160942738,
+        39.231778039950164
+      ],
+      "displacement_mm": -0.12499999999999775,
+      "delta_mm": [
+        -0.04482311113986772,
+        0.11668714028436256
+      ],
+      "nearest_corner_before": 39.533312859715636,
+      "nearest_corner_after": 39.65,
+      "complete_end_edge_normal_span_mm": 0.08964622227973705,
+      "rf": false
+    },
+    {
+      "pad": 24,
+      "side": "BOTTOM",
+      "original_side": "BOTTOM",
+      "before": [
+        11.622021991451359,
+        39.23769467872736
+      ],
+      "after": [
+        11.622021991451359,
+        39.23769467872736
+      ],
+      "displacement_mm": -0.0,
+      "delta_mm": [
+        -0.0,
+        0.0
+      ],
+      "nearest_corner_before": 39.65,
+      "nearest_corner_after": 39.65,
+      "complete_end_edge_normal_span_mm": 0.11608496571297296,
+      "rf": true
+    },
+    {
+      "pad": 25,
+      "side": "BOTTOM",
+      "original_side": "CORNER",
+      "before": [
+        12.46742275812305,
+        39.25595131090297
+      ],
+      "after": [
+        12.467422758123055,
+        39.255951310902965
+      ],
+      "displacement_mm": 8.927053502727149e-15,
+      "delta_mm": [
+        5.404182297666161e-15,
+        -7.105427357601002e-15
+      ],
+      "nearest_corner_before": 39.650000000000006,
+      "nearest_corner_after": 39.65,
+      "complete_end_edge_normal_span_mm": 0.15134283378091168,
+      "rf": false
+    },
+    {
+      "pad": 26,
+      "side": "RIGHT",
+      "original_side": "RIGHT",
+      "before": [
+        12.50515819285184,
+        40.6804104018662
+      ],
+      "after": [
+        12.50515819285184,
+        40.6804104018662
+      ],
+      "displacement_mm": 0.0,
+      "delta_mm": [
+        0.0,
+        -0.0
+      ],
+      "nearest_corner_before": 12.1,
+      "nearest_corner_after": 12.1,
+      "complete_end_edge_normal_span_mm": 0.13307820942163326,
+      "rf": false
+    },
+    {
+      "pad": 27,
+      "side": "RIGHT",
+      "original_side": "RIGHT",
+      "before": [
+        12.517223678601063,
+        41.281882381782765
+      ],
+      "after": [
+        12.517223678601063,
+        41.281882381782765
+      ],
+      "displacement_mm": 0.0,
+      "delta_mm": [
+        0.0,
+        -0.0
+      ],
+      "nearest_corner_before": 12.1,
+      "nearest_corner_after": 12.1,
+      "complete_end_edge_normal_span_mm": 0.09665186834337658,
+      "rf": false
+    },
+    {
+      "pad": 28,
+      "side": "RIGHT",
+      "original_side": "RIGHT",
+      "before": [
+        12.517135704235606,
+        41.890959630444165
+      ],
+      "after": [
+        12.517135704235606,
+        41.890959630444165
+      ],
+      "displacement_mm": 0.0,
+      "delta_mm": [
+        0.0,
+        -0.0
+      ],
+      "nearest_corner_before": 12.1,
+      "nearest_corner_after": 12.1,
+      "complete_end_edge_normal_span_mm": 0.051285900607672956,
+      "rf": true
+    },
+    {
+      "pad": 29,
+      "side": "RIGHT",
+      "original_side": "RIGHT",
+      "before": [
+        12.5,
+        42.5
+      ],
+      "after": [
+        12.5,
+        42.5
+      ],
+      "displacement_mm": 0.0,
+      "delta_mm": [
+        0.0,
+        0.0
+      ],
+      "nearest_corner_before": 12.1,
+      "nearest_corner_after": 12.1,
+      "complete_end_edge_normal_span_mm": 0.0,
+      "rf": false
+    },
+    {
+      "pad": 30,
+      "side": "RIGHT",
+      "original_side": "RIGHT",
+      "before": [
+        12.517135704235606,
+        43.109040369555835
+      ],
+      "after": [
+        12.517135704235606,
+        43.109040369555835
+      ],
+      "displacement_mm": 0.0,
+      "delta_mm": [
+        0.0,
+        0.0
+      ],
+      "nearest_corner_before": 12.1,
+      "nearest_corner_after": 12.1,
+      "complete_end_edge_normal_span_mm": 0.051285900607672956,
+      "rf": true
+    },
+    {
+      "pad": 31,
+      "side": "RIGHT",
+      "original_side": "RIGHT",
+      "before": [
+        12.517223678601063,
+        43.718117618217235
+      ],
+      "after": [
+        12.517223678601063,
+        43.718117618217235
+      ],
+      "displacement_mm": 0.0,
+      "delta_mm": [
+        0.0,
+        0.0
+      ],
+      "nearest_corner_before": 12.1,
+      "nearest_corner_after": 12.1,
+      "complete_end_edge_normal_span_mm": 0.09665186834337658,
+      "rf": true
+    },
+    {
+      "pad": 32,
+      "side": "RIGHT",
+      "original_side": "RIGHT",
+      "before": [
+        12.50515819285184,
+        44.3195895981338
+      ],
+      "after": [
+        12.50515819285184,
+        44.3195895981338
+      ],
+      "displacement_mm": 0.0,
+      "delta_mm": [
+        0.0,
+        0.0
+      ],
+      "nearest_corner_before": 12.1,
+      "nearest_corner_after": 12.1,
+      "complete_end_edge_normal_span_mm": 0.13307820942163326,
+      "rf": true
+    },
+    {
+      "pad": 33,
+      "side": "TOP",
+      "original_side": "CORNER",
+      "before": [
+        12.46742275812305,
+        45.74404868909703
+      ],
+      "after": [
+        12.467422758123055,
+        45.744048689097035
+      ],
+      "displacement_mm": 8.927053502727149e-15,
+      "delta_mm": [
+        5.404182297666161e-15,
+        7.105427357601002e-15
+      ],
+      "nearest_corner_before": 45.349999999999994,
+      "nearest_corner_after": 45.35,
+      "complete_end_edge_normal_span_mm": 0.15134283378091168,
+      "rf": false
+    },
+    {
+      "pad": 34,
+      "side": "TOP",
+      "original_side": "TOP",
+      "before": [
+        11.870581136074925,
+        45.75747084449095
+      ],
+      "after": [
+        11.870581136074929,
+        45.75747084449096
+      ],
+      "displacement_mm": 8.278119714007082e-15,
+      "delta_mm": [
+        4.247371900986295e-15,
+        7.105427357601002e-15
+      ],
+      "nearest_corner_before": 45.349999999999994,
+      "nearest_corner_after": 45.35,
+      "complete_end_edge_normal_span_mm": 0.1282710339945762,
+      "rf": true
+    },
+    {
+      "pad": 35,
+      "side": "TOP",
+      "original_side": "TOP",
+      "before": [
+        11.375366936822786,
+        45.765970111091114
+      ],
+      "after": [
+        11.37536693682279,
+        45.76597011109112
+      ],
+      "displacement_mm": 7.798254613358259e-15,
+      "delta_mm": [
+        3.213359158360395e-15,
+        7.105427357601001e-15
+      ],
+      "nearest_corner_before": 45.349999999999994,
+      "nearest_corner_after": 45.35,
+      "complete_end_edge_normal_span_mm": 0.1030153322018998,
+      "rf": true
+    },
+    {
+      "pad": 36,
+      "side": "TOP",
+      "original_side": "TOP",
+      "before": [
+        10.940806842982386,
+        45.90505182221802
+      ],
+      "after": [
+        10.897759212759405,
+        45.76907348117042
+      ],
+      "displacement_mm": -0.1426296171973796,
+      "delta_mm": [
+        -0.04304763022298023,
+        -0.13597834104759698
+      ],
+      "nearest_corner_before": 45.4859783410476,
+      "nearest_corner_after": 45.35,
+      "complete_end_edge_normal_span_mm": 0.07545352618349996,
+      "rf": false
+    },
+    {
+      "pad": 37,
+      "side": "TOP",
+      "original_side": "TOP",
+      "before": [
+        10.463486528930844,
+        45.92226218792487
+      ],
+      "after": [
+        10.434128404667197,
+        45.766215066489345
+      ],
+      "displacement_mm": -0.15878477121120252,
+      "delta_mm": [
+        -0.029358124263645848,
+        -0.15604712143552746
+      ],
+      "nearest_corner_before": 45.50604712143553,
+      "nearest_corner_after": 45.35,
+      "complete_end_edge_normal_span_mm": 0.04622314224422075,
+      "rf": false
+    },
+    {
+      "pad": 38,
+      "side": "TOP",
+      "original_side": "TOP",
+      "before": [
+        9.994228768898841,
+        46.00181784354029
+      ],
+      "after": [
+        9.97874011816388,
+        45.75709683102886
+      ],
+      "displacement_mm": -0.24521066915248096,
+      "delta_mm": [
+        -0.015488650734960484,
+        -0.24472101251142675
+      ],
+      "nearest_corner_before": 45.59472101251143,
+      "nearest_corner_after": 45.35,
+      "complete_end_edge_normal_span_mm": 0.01579116723233714,
+      "rf": false
+    }
+  ],
+  "before": {
+    "minimum_pad_pair_gap_mm": 0.1600046692790747,
+    "nearest_pad_pair": [
+      35,
+      36
+    ],
+    "minimum_cavity_gap_mm": 0.19999999999999574,
+    "nearest_corner_boundaries": {
+      "LEFT": {
+        "minimum": 7.3999999999999995,
+        "maximum": 7.4,
+        "spread_mm": 8.881784197001252e-16,
+        "target": 7.4
+      },
+      "RIGHT": {
+        "minimum": 12.1,
+        "maximum": 12.1,
+        "spread_mm": 0.0,
+        "target": 12.1
+      },
+      "BOTTOM": {
+        "minimum": 39.449999999999996,
+        "maximum": 39.650000000000006,
+        "spread_mm": 0.20000000000000995,
+        "target": 39.65
+      },
+      "TOP": {
+        "minimum": 45.349999999999994,
+        "maximum": 45.59472101251143,
+        "spread_mm": 0.24472101251143386,
+        "target": 45.35
+      }
+    },
+    "via_checks": [
+      {
+        "pad": 10,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.24850753644001145,
+        "nearest_foreign_pad": "Q1-9",
+        "foreign_via_gap_mm": 0.7812965425719695,
+        "nearest_foreign_via": "Q1-8",
+        "passed": true
+      },
+      {
+        "pad": 8,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.17049786680235995,
+        "nearest_foreign_pad": "Q1-7",
+        "foreign_via_gap_mm": 0.17119652479187164,
+        "nearest_foreign_via": "Q1-7",
+        "passed": true
+      },
+      {
+        "pad": 14,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.2204157850251547,
+        "nearest_foreign_pad": "Q1-13",
+        "foreign_via_gap_mm": 1.8154773293733384,
+        "nearest_foreign_via": "Q1-17",
+        "passed": true
+      },
+      {
+        "pad": 7,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.2204157850251547,
+        "nearest_foreign_pad": "Q1-8",
+        "foreign_via_gap_mm": 0.17119652479187164,
+        "nearest_foreign_via": "Q1-8",
+        "passed": true
+      },
+      {
+        "pad": 6,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.26851816327638717,
+        "nearest_foreign_pad": "Q1-5",
+        "foreign_via_gap_mm": 0.7114666113465445,
+        "nearest_foreign_via": "Q1-4",
+        "passed": true
+      },
+      {
+        "pad": 4,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15267833071468584,
+        "nearest_foreign_pad": "Q1-5",
+        "foreign_via_gap_mm": 0.15221784256663418,
+        "nearest_foreign_via": "Q1-3",
+        "passed": true
+      },
+      {
+        "pad": 17,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.16573063610284322,
+        "nearest_foreign_pad": "Q1-16",
+        "foreign_via_gap_mm": 0.15356360891247467,
+        "nearest_foreign_via": "Q1-18",
+        "passed": true
+      },
+      {
+        "pad": 3,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15171359904027343,
+        "nearest_foreign_pad": "Q1-4",
+        "foreign_via_gap_mm": 0.15221784256663418,
+        "nearest_foreign_via": "Q1-4",
+        "passed": true
+      },
+      {
+        "pad": 18,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.16767679081785947,
+        "nearest_foreign_pad": "Q1-19",
+        "foreign_via_gap_mm": 0.15356360891247467,
+        "nearest_foreign_via": "Q1-17",
+        "passed": true
+      },
+      {
+        "pad": 19,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15365052391995737,
+        "nearest_foreign_pad": "Q1-18",
+        "foreign_via_gap_mm": 0.15488630276188942,
+        "nearest_foreign_via": "Q1-20",
+        "passed": true
+      },
+      {
+        "pad": 1,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15393760703739595,
+        "nearest_foreign_pad": "Q1-2",
+        "foreign_via_gap_mm": 0.1574984633456834,
+        "nearest_foreign_via": "Q1-38",
+        "passed": true
+      },
+      {
+        "pad": 20,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.16321394295540598,
+        "nearest_foreign_pad": "Q1-21",
+        "foreign_via_gap_mm": 0.15488630276188942,
+        "nearest_foreign_via": "Q1-19",
+        "passed": true
+      },
+      {
+        "pad": 38,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.17637070008202294,
+        "nearest_foreign_pad": "Q1-1",
+        "foreign_via_gap_mm": 0.15309483776313704,
+        "nearest_foreign_via": "Q1-37",
+        "passed": true
+      },
+      {
+        "pad": 37,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15330667113715724,
+        "nearest_foreign_pad": "Q1-36",
+        "foreign_via_gap_mm": 0.15309483776313704,
+        "nearest_foreign_via": "Q1-38",
+        "passed": true
+      },
+      {
+        "pad": 22,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.1528328174314187,
+        "nearest_foreign_pad": "Q1-23",
+        "foreign_via_gap_mm": 0.15302392709234713,
+        "nearest_foreign_via": "Q1-23",
+        "passed": true
+      },
+      {
+        "pad": 36,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.16349818125128224,
+        "nearest_foreign_pad": "Q1-35",
+        "foreign_via_gap_mm": 0.15309960126418287,
+        "nearest_foreign_via": "Q1-37",
+        "passed": true
+      },
+      {
+        "pad": 23,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.1570398855416879,
+        "nearest_foreign_pad": "Q1-24",
+        "foreign_via_gap_mm": 0.15302392709234713,
+        "nearest_foreign_via": "Q1-22",
+        "passed": true
+      },
+      {
+        "pad": 25,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.5339603122132988,
+        "nearest_foreign_pad": "Q1-24",
+        "foreign_via_gap_mm": 0.9721855186167806,
+        "nearest_foreign_via": "Q1-23",
+        "passed": true
+      },
+      {
+        "pad": 33,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.25157190267498136,
+        "nearest_foreign_pad": "R30-2",
+        "foreign_via_gap_mm": 0.55157809415958,
+        "nearest_foreign_via": "R30-2",
+        "passed": true
+      },
+      {
+        "pad": 26,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.2971112989799393,
+        "nearest_foreign_pad": "Q1-27",
+        "foreign_via_gap_mm": 0.24597049237729274,
+        "nearest_foreign_via": "Q1-27",
+        "passed": true
+      },
+      {
+        "pad": 27,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.2395259568622597,
+        "nearest_foreign_pad": "Q1-26",
+        "foreign_via_gap_mm": 0.24597049237729274,
+        "nearest_foreign_via": "Q1-26",
+        "passed": true
+      },
+      {
+        "pad": 29,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.32890988586229103,
+        "nearest_foreign_pad": "Q1-28",
+        "foreign_via_gap_mm": 0.9337268627061363,
+        "nearest_foreign_via": "Q1-27",
+        "passed": true
+      }
+    ],
+    "via_failure_pad_ids": [],
+    "pad_geometry_passed": true
+  },
+  "fixed_vias": {
+    "minimum_pad_pair_gap_mm": 0.1558645172644187,
+    "nearest_pad_pair": [
+      1,
+      2
+    ],
+    "minimum_cavity_gap_mm": 0.19999999999999926,
+    "nearest_corner_boundaries": {
+      "LEFT": {
+        "minimum": 7.4,
+        "maximum": 7.4,
+        "spread_mm": 0.0,
+        "target": 7.4
+      },
+      "RIGHT": {
+        "minimum": 12.1,
+        "maximum": 12.1,
+        "spread_mm": 0.0,
+        "target": 12.1
+      },
+      "BOTTOM": {
+        "minimum": 39.65,
+        "maximum": 39.65,
+        "spread_mm": 0.0,
+        "target": 39.65
+      },
+      "TOP": {
+        "minimum": 45.35,
+        "maximum": 45.35,
+        "spread_mm": 0.0,
+        "target": 45.35
+      }
+    },
+    "via_checks": [
+      {
+        "pad": 10,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.24850753644001172,
+        "nearest_foreign_pad": "Q1-9",
+        "foreign_via_gap_mm": 0.7812965425719695,
+        "nearest_foreign_via": "Q1-8",
+        "passed": true
+      },
+      {
+        "pad": 8,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.17049786680236045,
+        "nearest_foreign_pad": "Q1-7",
+        "foreign_via_gap_mm": 0.17119652479187164,
+        "nearest_foreign_via": "Q1-7",
+        "passed": true
+      },
+      {
+        "pad": 14,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.2204157850251547,
+        "nearest_foreign_pad": "Q1-13",
+        "foreign_via_gap_mm": 1.8154773293733384,
+        "nearest_foreign_via": "Q1-17",
+        "passed": true
+      },
+      {
+        "pad": 7,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.2204157850251547,
+        "nearest_foreign_pad": "Q1-8",
+        "foreign_via_gap_mm": 0.17119652479187164,
+        "nearest_foreign_via": "Q1-8",
+        "passed": true
+      },
+      {
+        "pad": 6,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.2685181632763836,
+        "nearest_foreign_pad": "Q1-5",
+        "foreign_via_gap_mm": 0.7114666113465445,
+        "nearest_foreign_via": "Q1-4",
+        "passed": true
+      },
+      {
+        "pad": 4,
+        "drill_contained": false,
+        "drill_outside_pad_area_mm2": 0.020461021848095694,
+        "foreign_pad_gap_mm": 0.15267833071468595,
+        "nearest_foreign_pad": "Q1-5",
+        "foreign_via_gap_mm": 0.15221784256663418,
+        "nearest_foreign_via": "Q1-3",
+        "passed": false
+      },
+      {
+        "pad": 17,
+        "drill_contained": false,
+        "drill_outside_pad_area_mm2": 0.03139634568718842,
+        "foreign_pad_gap_mm": 0.16573063610284322,
+        "nearest_foreign_pad": "Q1-16",
+        "foreign_via_gap_mm": 0.15356360891247467,
+        "nearest_foreign_via": "Q1-18",
+        "passed": false
+      },
+      {
+        "pad": 3,
+        "drill_contained": false,
+        "drill_outside_pad_area_mm2": 0.004735417286734463,
+        "foreign_pad_gap_mm": 0.15171359904027315,
+        "nearest_foreign_pad": "Q1-4",
+        "foreign_via_gap_mm": 0.15221784256663418,
+        "nearest_foreign_via": "Q1-4",
+        "passed": false
+      },
+      {
+        "pad": 18,
+        "drill_contained": false,
+        "drill_outside_pad_area_mm2": 0.030966190745923734,
+        "foreign_pad_gap_mm": 0.19760174508119516,
+        "nearest_foreign_pad": "Q1-17",
+        "foreign_via_gap_mm": 0.15356360891247467,
+        "nearest_foreign_via": "Q1-17",
+        "passed": false
+      },
+      {
+        "pad": 19,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15365052391995704,
+        "nearest_foreign_pad": "Q1-18",
+        "foreign_via_gap_mm": 0.15488630276188942,
+        "nearest_foreign_via": "Q1-20",
+        "passed": true
+      },
+      {
+        "pad": 1,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.1539376070373955,
+        "nearest_foreign_pad": "Q1-2",
+        "foreign_via_gap_mm": 0.1574984633456834,
+        "nearest_foreign_via": "Q1-38",
+        "passed": true
+      },
+      {
+        "pad": 20,
+        "drill_contained": false,
+        "drill_outside_pad_area_mm2": 0.031396345692812834,
+        "foreign_pad_gap_mm": 0.1643895002838494,
+        "nearest_foreign_pad": "Q1-21",
+        "foreign_via_gap_mm": 0.15488630276188942,
+        "nearest_foreign_via": "Q1-19",
+        "passed": false
+      },
+      {
+        "pad": 38,
+        "drill_contained": false,
+        "drill_outside_pad_area_mm2": 0.03141513801144292,
+        "foreign_pad_gap_mm": 0.19325603019681314,
+        "nearest_foreign_pad": "Q1-1",
+        "foreign_via_gap_mm": 0.15309483776313704,
+        "nearest_foreign_via": "Q1-37",
+        "passed": false
+      },
+      {
+        "pad": 37,
+        "drill_contained": false,
+        "drill_outside_pad_area_mm2": 0.00048433670845674176,
+        "foreign_pad_gap_mm": 0.15330667113715674,
+        "nearest_foreign_pad": "Q1-36",
+        "foreign_via_gap_mm": 0.15309483776313704,
+        "nearest_foreign_via": "Q1-38",
+        "passed": false
+      },
+      {
+        "pad": 22,
+        "drill_contained": false,
+        "drill_outside_pad_area_mm2": 0.0012486892908145965,
+        "foreign_pad_gap_mm": 0.15283281743141852,
+        "nearest_foreign_pad": "Q1-23",
+        "foreign_via_gap_mm": 0.15302392709234713,
+        "nearest_foreign_via": "Q1-23",
+        "passed": false
+      },
+      {
+        "pad": 36,
+        "drill_contained": false,
+        "drill_outside_pad_area_mm2": 0.023786226116084528,
+        "foreign_pad_gap_mm": 0.16349818125128257,
+        "nearest_foreign_pad": "Q1-35",
+        "foreign_via_gap_mm": 0.15309960126418287,
+        "nearest_foreign_via": "Q1-37",
+        "passed": false
+      },
+      {
+        "pad": 23,
+        "drill_contained": false,
+        "drill_outside_pad_area_mm2": 0.020461021385833746,
+        "foreign_pad_gap_mm": 0.1570398855416879,
+        "nearest_foreign_pad": "Q1-24",
+        "foreign_via_gap_mm": 0.15302392709234713,
+        "nearest_foreign_via": "Q1-22",
+        "passed": false
+      },
+      {
+        "pad": 25,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.5339603122132988,
+        "nearest_foreign_pad": "Q1-24",
+        "foreign_via_gap_mm": 0.9721855186167806,
+        "nearest_foreign_via": "Q1-23",
+        "passed": true
+      },
+      {
+        "pad": 33,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.25157190267498136,
+        "nearest_foreign_pad": "R30-2",
+        "foreign_via_gap_mm": 0.55157809415958,
+        "nearest_foreign_via": "R30-2",
+        "passed": true
+      },
+      {
+        "pad": 26,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.2971112989799393,
+        "nearest_foreign_pad": "Q1-27",
+        "foreign_via_gap_mm": 0.24597049237729274,
+        "nearest_foreign_via": "Q1-27",
+        "passed": true
+      },
+      {
+        "pad": 27,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.2395259568622597,
+        "nearest_foreign_pad": "Q1-26",
+        "foreign_via_gap_mm": 0.24597049237729274,
+        "nearest_foreign_via": "Q1-26",
+        "passed": true
+      },
+      {
+        "pad": 29,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.32890988586229103,
+        "nearest_foreign_pad": "Q1-28",
+        "foreign_via_gap_mm": 0.9337268627061363,
+        "nearest_foreign_via": "Q1-27",
+        "passed": true
+      }
+    ],
+    "via_failure_pad_ids": [
+      4,
+      17,
+      3,
+      18,
+      20,
+      38,
+      37,
+      22,
+      36,
+      23
+    ],
+    "pad_geometry_passed": true
+  },
+  "independent_via_search": [
+    {
+      "pad": 10,
+      "feasible_grid_count": 2278,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.2582724119751582,
+      "selected_gap_mm": 0.24868619974530037,
+      "selected_via_xy": [
+        6.691423375507816,
+        42.7978341347279
+      ],
+      "selected_movement_mm": 0.0009999999999991585,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 8,
+      "feasible_grid_count": 660,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.1953879013636458,
+      "selected_gap_mm": 0.17063933642222662,
+      "selected_via_xy": [
+        6.712678340505677,
+        43.97927051574291
+      ],
+      "selected_movement_mm": 0.0009999999999993037,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 14,
+      "feasible_grid_count": 1738,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.24385875194823564,
+      "selected_gap_mm": 0.22081280635927597,
+      "selected_via_xy": [
+        6.745373412125446,
+        40.450341516318886
+      ],
+      "selected_movement_mm": 0.0009999999999974506,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 7,
+      "feasible_grid_count": 1738,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.24385875194823564,
+      "selected_gap_mm": 0.22081280635927597,
+      "selected_via_xy": [
+        6.745373412125446,
+        44.549658483681114
+      ],
+      "selected_movement_mm": 0.0009999999999974506,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 6,
+      "feasible_grid_count": 2552,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.2906973459056073,
+      "selected_gap_mm": 0.26902737822689216,
+      "selected_via_xy": [
+        6.850965841339851,
+        45.98283164325196
+      ],
+      "selected_movement_mm": 0.0010000000000064757,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 4,
+      "feasible_grid_count": 8,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.15346821266559174,
+      "selected_gap_mm": 0.15346821266559174,
+      "selected_via_xy": [
+        8.014682006222063,
+        46.045497864765856
+      ],
+      "selected_movement_mm": 0.12490396310765459,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 17,
+      "feasible_grid_count": 19,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.1532847606778872,
+      "selected_gap_mm": 0.15260381403435191,
+      "selected_via_xy": [
+        8.265434343544328,
+        38.948143054376494
+      ],
+      "selected_movement_mm": 0.19925109786397685,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 3,
+      "feasible_grid_count": 32,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.15628340493732207,
+      "selected_gap_mm": 0.15177288209713746,
+      "selected_via_xy": [
+        8.516463389796382,
+        46.056592590253096
+      ],
+      "selected_movement_mm": 0.04192880904581994,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 18,
+      "feasible_grid_count": 56,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.1573610008838906,
+      "selected_gap_mm": 0.1523983178695263,
+      "selected_via_xy": [
+        8.77613711889742,
+        38.93700825414022
+      ],
+      "selected_movement_mm": 0.19186343430965191,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 19,
+      "feasible_grid_count": 94,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.16115477540604156,
+      "selected_gap_mm": 0.15375315065744782,
+      "selected_via_xy": [
+        9.260108049607238,
+        38.95973906813329
+      ],
+      "selected_movement_mm": 0.000841567767281803,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 1,
+      "feasible_grid_count": 121,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.16254761779841675,
+      "selected_gap_mm": 0.15391181107787438,
+      "selected_via_xy": [
+        9.504205421225196,
+        46.02655767303243
+      ],
+      "selected_movement_mm": 0.00021066915248932295,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 20,
+      "feasible_grid_count": 104,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.16230707342433148,
+      "selected_gap_mm": 0.15238453380032446,
+      "selected_via_xy": [
+        9.76,
+        38.95
+      ],
+      "selected_movement_mm": 0.19949185447030673,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 38,
+      "feasible_grid_count": 121,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.16254761779841664,
+      "selected_gap_mm": 0.15450951772727362,
+      "selected_via_xy": [
+        9.98271947206471,
+        46.05744523662232
+      ],
+      "selected_movement_mm": 0.24437645330084803,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 37,
+      "feasible_grid_count": 54,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.15721317532696766,
+      "selected_gap_mm": 0.15224951165659312,
+      "selected_via_xy": [
+        10.489596175360262,
+        46.06104268801477
+      ],
+      "selected_movement_mm": 0.008784771211202854,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 22,
+      "feasible_grid_count": 56,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.1573610008838906,
+      "selected_gap_mm": 0.15084012742641068,
+      "selected_via_xy": [
+        10.738408371959983,
+        38.94067277262389
+      ],
+      "selected_movement_mm": 0.016652230420347382,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 36,
+      "feasible_grid_count": 32,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.15628340493732562,
+      "selected_gap_mm": 0.1517728820971358,
+      "selected_via_xy": [
+        10.983536610203622,
+        46.056592590253096
+      ],
+      "selected_movement_mm": 0.14171784809076698,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 23,
+      "feasible_grid_count": 19,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.1532847606778872,
+      "selected_gap_mm": 0.15260381403435203,
+      "selected_via_xy": [
+        11.234565656455672,
+        38.948143054376494
+      ],
+      "selected_movement_mm": 0.12440257232066763,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 25,
+      "feasible_grid_count": 2651,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.5559441108544338,
+      "selected_gap_mm": 0.5344799348991298,
+      "selected_via_xy": [
+        12.649034158660148,
+        39.01716835674804
+      ],
+      "selected_movement_mm": 0.001000000000005938,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 33,
+      "feasible_grid_count": 2552,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.26538310390944714,
+      "selected_gap_mm": 0.2509665313398532,
+      "selected_via_xy": [
+        12.649034158660148,
+        45.98283164325196
+      ],
+      "selected_movement_mm": 0.001000000000005938,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 26,
+      "feasible_grid_count": 2651,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.320596164078415,
+      "selected_gap_mm": 0.2975021928312282,
+      "selected_via_xy": [
+        12.759122508957606,
+        40.52071655056024
+      ],
+      "selected_movement_mm": 0.0009999999999997827,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 27,
+      "feasible_grid_count": 2606,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.26435259726731014,
+      "selected_gap_mm": 0.239689597699888,
+      "selected_via_xy": [
+        12.793896986923095,
+        41.16590013977071
+      ],
+      "selected_movement_mm": 0.0010000000000010862,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 29,
+      "feasible_grid_count": 2651,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.329115029464722,
+      "selected_gap_mm": 0.329115029464722,
+      "selected_via_xy": [
+        12.8,
+        42.5
+      ],
+      "selected_movement_mm": 0.0010000000000012221,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    }
+  ],
+  "relocated_vias": {
+    "minimum_pad_pair_gap_mm": 0.1558645172644187,
+    "nearest_pad_pair": [
+      1,
+      2
+    ],
+    "minimum_cavity_gap_mm": 0.19999999999999926,
+    "nearest_corner_boundaries": {
+      "LEFT": {
+        "minimum": 7.4,
+        "maximum": 7.4,
+        "spread_mm": 0.0,
+        "target": 7.4
+      },
+      "RIGHT": {
+        "minimum": 12.1,
+        "maximum": 12.1,
+        "spread_mm": 0.0,
+        "target": 12.1
+      },
+      "BOTTOM": {
+        "minimum": 39.65,
+        "maximum": 39.65,
+        "spread_mm": 0.0,
+        "target": 39.65
+      },
+      "TOP": {
+        "minimum": 45.35,
+        "maximum": 45.35,
+        "spread_mm": 0.0,
+        "target": 45.35
+      }
+    },
+    "via_checks": [
+      {
+        "pad": 10,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.24868619974530037,
+        "nearest_foreign_pad": "Q1-9",
+        "foreign_via_gap_mm": 0.7816275622728622,
+        "nearest_foreign_via": "Q1-8",
+        "passed": true
+      },
+      {
+        "pad": 8,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.17063933642222656,
+        "nearest_foreign_pad": "Q1-7",
+        "foreign_via_gap_mm": 0.17132425265946294,
+        "nearest_foreign_via": "Q1-7",
+        "passed": true
+      },
+      {
+        "pad": 14,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.22081280635927597,
+        "nearest_foreign_pad": "Q1-13",
+        "foreign_via_gap_mm": 1.7370974367791772,
+        "nearest_foreign_via": "Q1-17",
+        "passed": true
+      },
+      {
+        "pad": 7,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.22081280635927597,
+        "nearest_foreign_pad": "Q1-8",
+        "foreign_via_gap_mm": 0.17132425265946294,
+        "nearest_foreign_via": "Q1-8",
+        "passed": true
+      },
+      {
+        "pad": 6,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.26902737822689216,
+        "nearest_foreign_pad": "Q1-5",
+        "foreign_via_gap_mm": 0.7654022343066765,
+        "nearest_foreign_via": "Q1-4",
+        "passed": true
+      },
+      {
+        "pad": 4,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15346821266559169,
+        "nearest_foreign_pad": "Q1-5",
+        "foreign_via_gap_mm": 0.10190402452599878,
+        "nearest_foreign_via": "Q1-3",
+        "passed": false
+      },
+      {
+        "pad": 17,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15260381403435191,
+        "nearest_foreign_pad": "Q1-16",
+        "foreign_via_gap_mm": 0.1108241463846954,
+        "nearest_foreign_via": "Q1-18",
+        "passed": false
+      },
+      {
+        "pad": 3,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15177288209713735,
+        "nearest_foreign_pad": "Q1-4",
+        "foreign_via_gap_mm": 0.10190402452599878,
+        "nearest_foreign_via": "Q1-4",
+        "passed": false
+      },
+      {
+        "pad": 18,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.1523983178695263,
+        "nearest_foreign_pad": "Q1-19",
+        "foreign_via_gap_mm": 0.08450443927472423,
+        "nearest_foreign_via": "Q1-19",
+        "passed": false
+      },
+      {
+        "pad": 19,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15375315065744782,
+        "nearest_foreign_pad": "Q1-18",
+        "foreign_via_gap_mm": 0.08450443927472423,
+        "nearest_foreign_via": "Q1-18",
+        "passed": false
+      },
+      {
+        "pad": 1,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15391181107787438,
+        "nearest_foreign_pad": "Q1-2",
+        "foreign_via_gap_mm": 0.07950989399110536,
+        "nearest_foreign_via": "Q1-38",
+        "passed": false
+      },
+      {
+        "pad": 20,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15238453380032446,
+        "nearest_foreign_pad": "Q1-21",
+        "foreign_via_gap_mm": 0.09998681134164333,
+        "nearest_foreign_via": "Q1-19",
+        "passed": false
+      },
+      {
+        "pad": 38,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15450951772727362,
+        "nearest_foreign_pad": "Q1-1",
+        "foreign_via_gap_mm": 0.07950989399110536,
+        "nearest_foreign_via": "Q1-1",
+        "passed": false
+      },
+      {
+        "pad": 37,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15224951165659312,
+        "nearest_foreign_pad": "Q1-36",
+        "foreign_via_gap_mm": 0.09396048075057162,
+        "nearest_foreign_via": "Q1-36",
+        "passed": false
+      },
+      {
+        "pad": 22,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15084012742641068,
+        "nearest_foreign_pad": "Q1-23",
+        "foreign_via_gap_mm": 0.09621351862640715,
+        "nearest_foreign_via": "Q1-23",
+        "passed": false
+      },
+      {
+        "pad": 36,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15177288209713585,
+        "nearest_foreign_pad": "Q1-35",
+        "foreign_via_gap_mm": 0.09396048075057162,
+        "nearest_foreign_via": "Q1-37",
+        "passed": false
+      },
+      {
+        "pad": 23,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.15260381403435203,
+        "nearest_foreign_pad": "Q1-24",
+        "foreign_via_gap_mm": 0.09621351862640715,
+        "nearest_foreign_via": "Q1-22",
+        "passed": false
+      },
+      {
+        "pad": 25,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.5344799348991298,
+        "nearest_foreign_pad": "Q1-24",
+        "foreign_via_gap_mm": 1.0161516995350666,
+        "nearest_foreign_via": "Q1-23",
+        "passed": true
+      },
+      {
+        "pad": 33,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.2509665313398532,
+        "nearest_foreign_pad": "R30-2",
+        "foreign_via_gap_mm": 0.5509758045646329,
+        "nearest_foreign_via": "R30-2",
+        "passed": true
+      },
+      {
+        "pad": 26,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.2975021928312282,
+        "nearest_foreign_pad": "Q1-27",
+        "foreign_via_gap_mm": 0.24612005703606166,
+        "nearest_foreign_via": "Q1-27",
+        "passed": true
+      },
+      {
+        "pad": 27,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.239689597699888,
+        "nearest_foreign_pad": "Q1-26",
+        "foreign_via_gap_mm": 0.24612005703606166,
+        "nearest_foreign_via": "Q1-26",
+        "passed": true
+      },
+      {
+        "pad": 29,
+        "drill_contained": true,
+        "drill_outside_pad_area_mm2": 0.0,
+        "foreign_pad_gap_mm": 0.329115029464722,
+        "nearest_foreign_pad": "Q1-28",
+        "foreign_via_gap_mm": 0.934113819669229,
+        "nearest_foreign_via": "Q1-27",
+        "passed": true
+      }
+    ],
+    "via_failure_pad_ids": [
+      4,
+      17,
+      3,
+      18,
+      19,
+      1,
+      20,
+      38,
+      37,
+      22,
+      36,
+      23
+    ],
+    "pad_geometry_passed": true
+  },
+  "preserved_source_hashes": true
+}

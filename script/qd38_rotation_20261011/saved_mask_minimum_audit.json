@@ -1,0 +1,437 @@
+{
+  "passed": true,
+  "native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+  "native_sliver_rule": {
+    "SELECTION": "FALSE",
+    "LAYER": "TOP",
+    "LOCKED": "FALSE",
+    "POLYGONOUTLINE": "FALSE",
+    "USERROUTED": "TRUE",
+    "KEEPOUT": "FALSE",
+    "UNIONINDEX": "0",
+    "RULEKIND": "MinimumSolderMaskSliver",
+    "NETSCOPE": "AnyNet",
+    "LAYERKIND": "SameLayer",
+    "SCOPE1EXPRESSION": "All",
+    "SCOPE2EXPRESSION": "All",
+    "NAME": "MinimumSolderMaskSliver",
+    "ENABLED": "TRUE",
+    "PRIORITY": "1",
+    "COMMENT": "",
+    "UNIQUEID": "THRMNMII",
+    "DEFINEDBYLOGICALDOCUMENT": "FALSE",
+    "MINSOLDERMASKWIDTH": "3.937mil"
+  },
+  "native_sliver_rule_minimum_mm": 0.09999979999999999,
+  "native_DRC": {
+    "rule": "Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)",
+    "violations": 0
+  },
+  "minimum_saved_critical_aperture_gap_mm": 0.10499851999999832,
+  "minimum_saved_RC_pair_gap_mm": 0.11376024999999866,
+  "critical_pairs": [
+    {
+      "pads": [
+        "R15-2",
+        "SMP13-4"
+      ],
+      "copper_gap_mm": 0.17999963999999832,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.0499999
+      ],
+      "aperture_edge_gap_mm": 0.10500019330078203,
+      "analytic_gap_mm": 0.10499851999999832,
+      "nearest_gap_segment_mm": [
+        [
+          5.020409176162092,
+          28.575001269999998
+        ],
+        [
+          5.020409176162092,
+          28.68000146330078
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.0295914238379078
+    },
+    {
+      "pads": [
+        "R15-1",
+        "SMP13-3"
+      ],
+      "copper_gap_mm": 0.17999963999999838,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.0499999
+      ],
+      "aperture_edge_gap_mm": 0.10500019330078203,
+      "analytic_gap_mm": 0.10499851999999837,
+      "nearest_gap_segment_mm": [
+        [
+          2.4804091761620923,
+          28.575001269999998
+        ],
+        [
+          2.4804091761620923,
+          28.68000146330078
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.0835272671329206
+    },
+    {
+      "pads": [
+        "R21-1",
+        "SMP24-4"
+      ],
+      "copper_gap_mm": 0.17999963999999838,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.0499999
+      ],
+      "aperture_edge_gap_mm": 0.10500019330078204,
+      "analytic_gap_mm": 0.10499851999999837,
+      "nearest_gap_segment_mm": [
+        [
+          17.02040803616209,
+          28.575001269999998
+        ],
+        [
+          17.02040803616209,
+          28.68000146330078
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.1535138864307732
+    },
+    {
+      "pads": [
+        "R21-2",
+        "SMP24-3"
+      ],
+      "copper_gap_mm": 0.17999963999999838,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.0499999
+      ],
+      "aperture_edge_gap_mm": 0.10500019330078204,
+      "analytic_gap_mm": 0.10499851999999837,
+      "nearest_gap_segment_mm": [
+        [
+          14.480408036162093,
+          28.575001269999998
+        ],
+        [
+          14.480408036162093,
+          28.68000146330078
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.0304069961620943
+    },
+    {
+      "pads": [
+        "C09-2",
+        "R09-1"
+      ],
+      "copper_gap_mm": 0.16376268999999866,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.025001219999999998
+      ],
+      "aperture_edge_gap_mm": 0.11376024999999856,
+      "analytic_gap_mm": 0.11376024999999866,
+      "nearest_gap_segment_mm": [
+        [
+          6.686236309999999,
+          48.13876071999999
+        ],
+        [
+          6.686236309999999,
+          48.025000469999995
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.4660867300000007
+    },
+    {
+      "pads": [
+        "C12-2",
+        "R12-1"
+      ],
+      "copper_gap_mm": 0.16376268999999866,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.025001219999999998
+      ],
+      "aperture_edge_gap_mm": 0.11376024999999856,
+      "analytic_gap_mm": 0.11376024999999866,
+      "nearest_gap_segment_mm": [
+        [
+          5.970888489999999,
+          36.86123946
+        ],
+        [
+          5.970888489999999,
+          36.97499971
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.564875407741973
+    },
+    {
+      "pads": [
+        "C28-2",
+        "R28-1"
+      ],
+      "copper_gap_mm": 0.16376268999999866,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.025001219999999998
+      ],
+      "aperture_edge_gap_mm": 0.11376024999999856,
+      "analytic_gap_mm": 0.11376024999999866,
+      "nearest_gap_segment_mm": [
+        [
+          12.813762789999998,
+          36.86123946
+        ],
+        [
+          12.813762789999998,
+          36.97499971
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.5013495500000007
+    },
+    {
+      "pads": [
+        "C31-2",
+        "R31-1"
+      ],
+      "copper_gap_mm": 0.16376268999999866,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.025001219999999998
+      ],
+      "aperture_edge_gap_mm": 0.11376024999999856,
+      "analytic_gap_mm": 0.11376024999999866,
+      "nearest_gap_segment_mm": [
+        [
+          13.52911061,
+          48.13876071999999
+        ],
+        [
+          13.52911061,
+          48.025000469999995
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.5320366254082716
+    },
+    {
+      "pads": [
+        "C15-2",
+        "R15-1"
+      ],
+      "copper_gap_mm": 0.16376395999999716,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.025001219999999998
+      ],
+      "aperture_edge_gap_mm": 0.11376151999999706,
+      "analytic_gap_mm": 0.11376151999999716,
+      "nearest_gap_segment_mm": [
+        [
+          3.44999945,
+          27.41123677
+        ],
+        [
+          3.44999945,
+          27.524998289999996
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.99999981
+    },
+    {
+      "pads": [
+        "C15-2",
+        "R15-2"
+      ],
+      "copper_gap_mm": 0.16376395999999716,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.025001219999999998
+      ],
+      "aperture_edge_gap_mm": 0.11376151999999705,
+      "analytic_gap_mm": 0.11376151999999716,
+      "nearest_gap_segment_mm": [
+        [
+          4.04999825,
+          27.41123677
+        ],
+        [
+          4.04999825,
+          27.524998289999996
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 2.00000235
+    },
+    {
+      "pads": [
+        "C21-2",
+        "R21-1"
+      ],
+      "copper_gap_mm": 0.16376395999999716,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.025001219999999998
+      ],
+      "aperture_edge_gap_mm": 0.11376151999999705,
+      "analytic_gap_mm": 0.11376151999999716,
+      "nearest_gap_segment_mm": [
+        [
+          16.049999649999997,
+          27.41123677
+        ],
+        [
+          16.049999649999997,
+          27.524998289999996
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.9999998100000023
+    },
+    {
+      "pads": [
+        "C21-2",
+        "R21-2"
+      ],
+      "copper_gap_mm": 0.16376395999999716,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.025001219999999998
+      ],
+      "aperture_edge_gap_mm": 0.11376151999999705,
+      "analytic_gap_mm": 0.11376151999999716,
+      "nearest_gap_segment_mm": [
+        [
+          15.413761399999999,
+          27.41123677
+        ],
+        [
+          15.413761399999999,
+          27.524998289999996
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.96376036
+    },
+    {
+      "pads": [
+        "C28-1",
+        "R28-1"
+      ],
+      "copper_gap_mm": 0.17106620283277188,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.025001219999999998
+      ],
+      "aperture_edge_gap_mm": 0.12106381910124421,
+      "analytic_gap_mm": 0.12106376283277188,
+      "nearest_gap_segment_mm": [
+        [
+          13.763630658921329,
+          36.86016291586051
+        ],
+        [
+          13.728694341078668,
+          36.976076254139485
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.598589624859416
+    },
+    {
+      "pads": [
+        "C31-1",
+        "R31-1"
+      ],
+      "copper_gap_mm": 0.17106620283277188,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.025001219999999998
+      ],
+      "aperture_edge_gap_mm": 0.12106381910124421,
+      "analytic_gap_mm": 0.12106376283277188,
+      "nearest_gap_segment_mm": [
+        [
+          13.763630658921329,
+          48.13983726413948
+        ],
+        [
+          13.728694341078668,
+          48.02392392586051
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.6004092491081374
+    },
+    {
+      "pads": [
+        "C09-1",
+        "R09-1"
+      ],
+      "copper_gap_mm": 0.1710662028327724,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.025001219999999998
+      ],
+      "aperture_edge_gap_mm": 0.12106381910124522,
+      "analytic_gap_mm": 0.12106376283277241,
+      "nearest_gap_segment_mm": [
+        [
+          5.7363684410786675,
+          48.13983726413948
+        ],
+        [
+          5.771304758921332,
+          48.02392392586051
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.5985897577413104
+    },
+    {
+      "pads": [
+        "C12-1",
+        "R12-1"
+      ],
+      "copper_gap_mm": 0.1710662028327724,
+      "saved_bottom_expansion_mm": [
+        0.025001219999999998,
+        0.025001219999999998
+      ],
+      "aperture_edge_gap_mm": 0.12106381910124522,
+      "analytic_gap_mm": 0.12106376283277241,
+      "nearest_gap_segment_mm": [
+        [
+          5.7363684410786675,
+          36.86016291586051
+        ],
+        [
+          5.771304758921332,
+          36.976076254139485
+        ]
+      ],
+      "explicit_general_opening_crosses_gap": false,
+      "gap_segment_clearance_to_general_opening_mm": 1.6314433832260826
+    }
+  ],
+  "interpretation": "Gap is between mask aperture edges, i.e. the nominal retained mask web where no explicit opening interrupts it. It is not mask expansion, copper clearance, or a guaranteed as-fabricated width. Intentional common openings in the QD/general unmasked field are not mask dams.",
+  "scope": "All 16 previously critical native pad pairs measured independently; native enabled All/All DRC checks the saved full board."
+}

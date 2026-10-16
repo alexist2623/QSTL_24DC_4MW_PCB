@@ -1,0 +1,344 @@
+{
+  "scope": "Offline nearest-corner alignment feasibility, not a native design or routed candidate.",
+  "source_candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+  "source_native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "cavity_mm": [
+    4.3,
+    5.3
+  ],
+  "sample_center": [
+    9.75,
+    42.5
+  ],
+  "pad_size_mm": [
+    0.8,
+    0.25
+  ],
+  "full_short_edges_collinear": false,
+  "explanation": "At preserved unequal pad rotations, common horizontal/vertical complete short edges are mathematically incompatible with fixed rectangular pads. This proposal aligns only each nearest corner while translating along the existing long-axis/bond ray.",
+  "maximum_pad_movement_mm": 0.24521066915248096,
+  "moved_rf_pad_ids": [
+    2,
+    21
+  ],
+  "independent_via_search": [
+    {
+      "pad": 10,
+      "feasible_grid_count": 2278,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.2582724119751582,
+      "selected_gap_mm": 0.24868619974530037,
+      "selected_via_xy": [
+        6.691423375507816,
+        42.7978341347279
+      ],
+      "selected_movement_mm": 0.0009999999999991585,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 8,
+      "feasible_grid_count": 660,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.1953879013636458,
+      "selected_gap_mm": 0.17063933642222662,
+      "selected_via_xy": [
+        6.712678340505677,
+        43.97927051574291
+      ],
+      "selected_movement_mm": 0.0009999999999993037,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 14,
+      "feasible_grid_count": 1738,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.24385875194823564,
+      "selected_gap_mm": 0.22081280635927597,
+      "selected_via_xy": [
+        6.745373412125446,
+        40.450341516318886
+      ],
+      "selected_movement_mm": 0.0009999999999974506,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 7,
+      "feasible_grid_count": 1738,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.24385875194823564,
+      "selected_gap_mm": 0.22081280635927597,
+      "selected_via_xy": [
+        6.745373412125446,
+        44.549658483681114
+      ],
+      "selected_movement_mm": 0.0009999999999974506,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 6,
+      "feasible_grid_count": 2552,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.2906973459056073,
+      "selected_gap_mm": 0.26902737822689216,
+      "selected_via_xy": [
+        6.850965841339851,
+        45.98283164325196
+      ],
+      "selected_movement_mm": 0.0010000000000064757,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 4,
+      "feasible_grid_count": 8,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.15346821266559174,
+      "selected_gap_mm": 0.15346821266559174,
+      "selected_via_xy": [
+        8.014682006222063,
+        46.045497864765856
+      ],
+      "selected_movement_mm": 0.12490396310765459,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 17,
+      "feasible_grid_count": 19,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.1532847606778872,
+      "selected_gap_mm": 0.15260381403435191,
+      "selected_via_xy": [
+        8.265434343544328,
+        38.948143054376494
+      ],
+      "selected_movement_mm": 0.19925109786397685,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 3,
+      "feasible_grid_count": 32,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.15628340493732207,
+      "selected_gap_mm": 0.15177288209713746,
+      "selected_via_xy": [
+        8.516463389796382,
+        46.056592590253096
+      ],
+      "selected_movement_mm": 0.04192880904581994,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 18,
+      "feasible_grid_count": 56,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.1573610008838906,
+      "selected_gap_mm": 0.1523983178695263,
+      "selected_via_xy": [
+        8.77613711889742,
+        38.93700825414022
+      ],
+      "selected_movement_mm": 0.19186343430965191,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 19,
+      "feasible_grid_count": 94,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.16115477540604156,
+      "selected_gap_mm": 0.15375315065744782,
+      "selected_via_xy": [
+        9.260108049607238,
+        38.95973906813329
+      ],
+      "selected_movement_mm": 0.000841567767281803,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 1,
+      "feasible_grid_count": 121,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.16254761779841675,
+      "selected_gap_mm": 0.15391181107787438,
+      "selected_via_xy": [
+        9.504205421225196,
+        46.02655767303243
+      ],
+      "selected_movement_mm": 0.00021066915248932295,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 20,
+      "feasible_grid_count": 104,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.16230707342433148,
+      "selected_gap_mm": 0.15238453380032446,
+      "selected_via_xy": [
+        9.76,
+        38.95
+      ],
+      "selected_movement_mm": 0.19949185447030673,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 38,
+      "feasible_grid_count": 121,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.16254761779841664,
+      "selected_gap_mm": 0.15450951772727362,
+      "selected_via_xy": [
+        9.98271947206471,
+        46.05744523662232
+      ],
+      "selected_movement_mm": 0.24437645330084803,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 37,
+      "feasible_grid_count": 54,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.15721317532696766,
+      "selected_gap_mm": 0.15224951165659312,
+      "selected_via_xy": [
+        10.489596175360262,
+        46.06104268801477
+      ],
+      "selected_movement_mm": 0.008784771211202854,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 22,
+      "feasible_grid_count": 56,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.1573610008838906,
+      "selected_gap_mm": 0.15084012742641068,
+      "selected_via_xy": [
+        10.738408371959983,
+        38.94067277262389
+      ],
+      "selected_movement_mm": 0.016652230420347382,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 36,
+      "feasible_grid_count": 32,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.15628340493732562,
+      "selected_gap_mm": 0.1517728820971358,
+      "selected_via_xy": [
+        10.983536610203622,
+        46.056592590253096
+      ],
+      "selected_movement_mm": 0.14171784809076698,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 23,
+      "feasible_grid_count": 19,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.1532847606778872,
+      "selected_gap_mm": 0.15260381403435203,
+      "selected_via_xy": [
+        11.234565656455672,
+        38.948143054376494
+      ],
+      "selected_movement_mm": 0.12440257232066763,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 25,
+      "feasible_grid_count": 2651,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.5559441108544338,
+      "selected_gap_mm": 0.5344799348991298,
+      "selected_via_xy": [
+        12.649034158660148,
+        39.01716835674804
+      ],
+      "selected_movement_mm": 0.001000000000005938,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 33,
+      "feasible_grid_count": 2552,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.26538310390944714,
+      "selected_gap_mm": 0.2509665313398532,
+      "selected_via_xy": [
+        12.649034158660148,
+        45.98283164325196
+      ],
+      "selected_movement_mm": 0.001000000000005938,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 26,
+      "feasible_grid_count": 2651,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.320596164078415,
+      "selected_gap_mm": 0.2975021928312282,
+      "selected_via_xy": [
+        12.759122508957606,
+        40.52071655056024
+      ],
+      "selected_movement_mm": 0.0009999999999997827,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 27,
+      "feasible_grid_count": 2606,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.26435259726731014,
+      "selected_gap_mm": 0.239689597699888,
+      "selected_via_xy": [
+        12.793896986923095,
+        41.16590013977071
+      ],
+      "selected_movement_mm": 0.0010000000000010862,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    },
+    {
+      "pad": 29,
+      "feasible_grid_count": 2651,
+      "maximum_foreign_pad_and_fixed_via_gap_mm": 0.329115029464722,
+      "selected_gap_mm": 0.329115029464722,
+      "selected_via_xy": [
+        12.8,
+        42.5
+      ],
+      "selected_movement_mm": 0.0010000000000012221,
+      "placement_feasible_individually": true,
+      "caveat": "Individual feasibility excludes movable QD-to-QD via pair constraints; grid is 2.5 um axial / 5 um lateral."
+    }
+  ],
+  "preserved_source_hashes": true
+}
+{
+  "before_min_gap": 0.1600046692790747,
+  "aligned_min_gap": 0.1558645172644187,
+  "fixed_via_failures": [
+    4,
+    17,
+    3,
+    18,
+    20,
+    38,
+    37,
+    22,
+    36,
+    23
+  ],
+  "individually_infeasible": [],
+  "relocated_via_failures": [
+    4,
+    17,
+    3,
+    18,
+    19,
+    1,
+    20,
+    38,
+    37,
+    22,
+    36,
+    23
+  ]
+}

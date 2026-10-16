@@ -1,0 +1,910 @@
+{
+  "status": "PICTURE_ONLY_CONCEPT_NOT_APPLIED",
+  "old_size_mm": [
+    19.5,
+    67.9
+  ],
+  "proposed_size_mm": [
+    19.5,
+    72.5
+  ],
+  "original": [
+    {
+      "position": "P1L",
+      "smp": "SMP34",
+      "qd_pad": 2,
+      "resistor": "R34",
+      "capacitor": "C34",
+      "chip_net": "SET_NE_PLUNGER",
+      "rf_net": "MW02",
+      "dc_net": "DC02",
+      "zif_pin": 25,
+      "start": [
+        6.875,
+        62.75
+      ],
+      "end": [
+        8.97861741380626,
+        46.23
+      ],
+      "outward": [
+        -0.18489256897689035,
+        0.982758738418095
+      ],
+      "kind": "upper_inboard_end"
+    },
+    {
+      "position": "P1R",
+      "smp": "SMP32",
+      "qd_pad": 35,
+      "resistor": "R32",
+      "capacitor": "C32",
+      "chip_net": "SET_NE_BARRIER_UPPER_L",
+      "rf_net": "MW35",
+      "dc_net": "DC35",
+      "zif_pin": 21,
+      "start": [
+        12.625,
+        62.75
+      ],
+      "end": [
+        11.58522060069111,
+        46.23
+      ],
+      "outward": [
+        0.412061328807601,
+        0.9111561124754166
+      ],
+      "kind": "upper_inboard_end"
+    },
+    {
+      "position": "P2L",
+      "smp": "SMP35",
+      "qd_pad": 5,
+      "resistor": "R35",
+      "capacitor": "C35",
+      "chip_net": "SET_NE_OHMIC_R",
+      "rf_net": "MW05",
+      "dc_net": "DC05",
+      "zif_pin": 48,
+      "start": [
+        2.75,
+        58.7
+      ],
+      "end": [
+        7.346956730629687,
+        46.23
+      ],
+      "outward": [
+        -0.513084135978301,
+        0.8583383187341692
+      ],
+      "kind": "upper_outer_side"
+    },
+    {
+      "position": "P2R",
+      "smp": "SMP31",
+      "qd_pad": 34,
+      "resistor": "R31",
+      "capacitor": "C31",
+      "chip_net": "QD_BARRIER_E",
+      "rf_net": "MW34",
+      "dc_net": "DC34",
+      "zif_pin": 19,
+      "start": [
+        16.75,
+        58.7
+      ],
+      "end": [
+        12.153042369370311,
+        46.23
+      ],
+      "outward": [
+        0.513084135978301,
+        0.8583383187341692
+      ],
+      "kind": "upper_outer_side"
+    },
+    {
+      "position": "P3L",
+      "smp": "SMP09",
+      "qd_pad": 9,
+      "resistor": "R09",
+      "capacitor": "C09",
+      "chip_net": "QD_B_NE_SET",
+      "rf_net": "MW09",
+      "dc_net": "DC09",
+      "zif_pin": 3,
+      "start": [
+        2.75,
+        52.95
+      ],
+      "end": [
+        6.52,
+        43.4414098055447
+      ],
+      "outward": [
+        -0.9630967925644799,
+        0.2691552863163034
+      ],
+      "kind": "upper_outer_side"
+    },
+    {
+      "position": "P3R",
+      "smp": "SMP30",
+      "qd_pad": 32,
+      "resistor": "R30",
+      "capacitor": "C30",
+      "chip_net": "QD_SE_P",
+      "rf_net": "MW32",
+      "dc_net": "DC32",
+      "zif_pin": 44,
+      "start": [
+        16.75,
+        52.95
+      ],
+      "end": [
+        12.98,
+        44.61817074952068
+      ],
+      "outward": [
+        0.8465477203525584,
+        0.5323128376865304
+      ],
+      "kind": "upper_outer_side"
+    },
+    {
+      "position": "P4L",
+      "smp": "SMP05",
+      "qd_pad": 11,
+      "resistor": "R05",
+      "capacitor": "C05",
+      "chip_net": "QD_NE_P",
+      "rf_net": "MW11",
+      "dc_net": "DC11",
+      "zif_pin": 1,
+      "start": [
+        2.75,
+        47.2
+      ],
+      "end": [
+        6.52,
+        42.18619614539412
+      ],
+      "outward": [
+        -0.9956890002220162,
+        -0.0927545946941805
+      ],
+      "kind": "upper_outer_side"
+    },
+    {
+      "position": "P4R",
+      "smp": "SMP21",
+      "qd_pad": 31,
+      "resistor": "R21",
+      "capacitor": "C21",
+      "chip_net": "QD_BARRIER_S",
+      "rf_net": "MW31",
+      "dc_net": "DC31",
+      "zif_pin": 40,
+      "start": [
+        16.75,
+        47.2
+      ],
+      "end": [
+        12.98,
+        43.912113743846554
+      ],
+      "outward": [
+        0.9222443610734369,
+        0.38660747337350865
+      ],
+      "kind": "upper_outer_side"
+    },
+    {
+      "position": "P5L",
+      "smp": "SMP02",
+      "qd_pad": 12,
+      "resistor": "R02",
+      "capacitor": "C02",
+      "chip_net": "QD_BARRIER_N",
+      "rf_net": "MW12",
+      "dc_net": "DC12",
+      "zif_pin": 5,
+      "start": [
+        2.75,
+        37.8
+      ],
+      "end": [
+        6.52,
+        41.55859037445529
+      ],
+      "outward": [
+        -0.9630967925644799,
+        -0.2691552863163034
+      ],
+      "kind": "lower_outer_side"
+    },
+    {
+      "position": "P5R",
+      "smp": "SMP24",
+      "qd_pad": 30,
+      "resistor": "R24",
+      "capacitor": "C24",
+      "chip_net": "QD_SW_P",
+      "rf_net": "MW30",
+      "dc_net": "DC30",
+      "zif_pin": 42,
+      "start": [
+        16.75,
+        37.8
+      ],
+      "end": [
+        12.98,
+        43.206057135490376
+      ],
+      "outward": [
+        0.9787318848294262,
+        0.20514360243068488
+      ],
+      "kind": "lower_outer_side"
+    },
+    {
+      "position": "P6L",
+      "smp": "SMP11",
+      "qd_pad": 13,
+      "resistor": "R11",
+      "capacitor": "C11",
+      "chip_net": "QD_NW_P",
+      "rf_net": "MW13",
+      "dc_net": "DC13",
+      "zif_pin": 4,
+      "start": [
+        2.75,
+        32.05
+      ],
+      "end": [
+        6.52,
+        40.93098378918788
+      ],
+      "outward": [
+        -0.9064905766772562,
+        -0.4222260465619518
+      ],
+      "kind": "lower_outer_side"
+    },
+    {
+      "position": "P6R",
+      "smp": "SMP28",
+      "qd_pad": 28,
+      "resistor": "R28",
+      "capacitor": "C28",
+      "chip_net": "QD_B_SW_SET",
+      "rf_net": "MW28",
+      "dc_net": "DC28",
+      "zif_pin": 26,
+      "start": [
+        16.75,
+        32.05
+      ],
+      "end": [
+        12.98,
+        41.79394304450962
+      ],
+      "outward": [
+        0.9787318848294262,
+        -0.20514360243068488
+      ],
+      "kind": "lower_outer_side"
+    },
+    {
+      "position": "P7L",
+      "smp": "SMP12",
+      "qd_pad": 15,
+      "resistor": "R12",
+      "capacitor": "C12",
+      "chip_net": "QD_BARRIER_W",
+      "rf_net": "MW15",
+      "dc_net": "DC15",
+      "zif_pin": 8,
+      "start": [
+        2.75,
+        26.3
+      ],
+      "end": [
+        6.662976131129137,
+        38.77
+      ],
+      "outward": [
+        -0.605371335123649,
+        -0.7959431805164301
+      ],
+      "kind": "lower_outer_side"
+    },
+    {
+      "position": "P7R",
+      "smp": "SMP16",
+      "qd_pad": 24,
+      "resistor": "R16",
+      "capacitor": "C16",
+      "chip_net": "SET_SW_OHMIC_R",
+      "rf_net": "MW24",
+      "dc_net": "DC24",
+      "zif_pin": 18,
+      "start": [
+        16.75,
+        26.3
+      ],
+      "end": [
+        11.867228031400133,
+        38.77
+      ],
+      "outward": [
+        0.46433986285189544,
+        -0.8856570960403823
+      ],
+      "kind": "lower_outer_side"
+    },
+    {
+      "position": "P8L",
+      "smp": "SMP15",
+      "qd_pad": 16,
+      "resistor": "R15",
+      "capacitor": "C15",
+      "chip_net": "SET_SW_BARRIER_UPPER_L",
+      "rf_net": "MW16",
+      "dc_net": "DC16",
+      "zif_pin": 7,
+      "start": [
+        6.875,
+        22.25
+      ],
+      "end": [
+        7.632771068599865,
+        38.77
+      ],
+      "outward": [
+        -0.46433986285189544,
+        -0.8856570960403823
+      ],
+      "kind": "lower_inboard_end"
+    },
+    {
+      "position": "P8R",
+      "smp": "SMP13",
+      "qd_pad": 21,
+      "resistor": "R13",
+      "capacitor": "C13",
+      "chip_net": "SET_SW_PLUNGER",
+      "rf_net": "MW21",
+      "dc_net": "DC21",
+      "zif_pin": 13,
+      "start": [
+        12.625,
+        22.25
+      ],
+      "end": [
+        10.263645534245132,
+        38.77
+      ],
+      "outward": [
+        0.12422589947371242,
+        -0.9922539624007288
+      ],
+      "kind": "lower_inboard_end"
+    }
+  ],
+  "proposed": [
+    {
+      "position": "P1L",
+      "smp": "SMP34",
+      "qd_pad": 2,
+      "resistor": "R34",
+      "capacitor": "C34",
+      "chip_net": "SET_NE_PLUNGER",
+      "rf_net": "MW02",
+      "dc_net": "DC02",
+      "zif_pin": 25,
+      "start": [
+        2.75,
+        64.45
+      ],
+      "end": [
+        8.97861741380626,
+        46.23
+      ],
+      "outward": [
+        -0.18489256897689035,
+        0.982758738418095
+      ],
+      "kind": "upper_inboard_end"
+    },
+    {
+      "position": "P1R",
+      "smp": "SMP32",
+      "qd_pad": 35,
+      "resistor": "R32",
+      "capacitor": "C32",
+      "chip_net": "SET_NE_BARRIER_UPPER_L",
+      "rf_net": "MW35",
+      "dc_net": "DC35",
+      "zif_pin": 21,
+      "start": [
+        16.75,
+        64.45
+      ],
+      "end": [
+        11.58522060069111,
+        46.23
+      ],
+      "outward": [
+        0.412061328807601,
+        0.9111561124754166
+      ],
+      "kind": "upper_inboard_end"
+    },
+    {
+      "position": "P2L",
+      "smp": "SMP35",
+      "qd_pad": 5,
+      "resistor": "R35",
+      "capacitor": "C35",
+      "chip_net": "SET_NE_OHMIC_R",
+      "rf_net": "MW05",
+      "dc_net": "DC05",
+      "zif_pin": 48,
+      "start": [
+        2.75,
+        58.7
+      ],
+      "end": [
+        7.346956730629687,
+        46.23
+      ],
+      "outward": [
+        -0.513084135978301,
+        0.8583383187341692
+      ],
+      "kind": "upper_outer_side"
+    },
+    {
+      "position": "P2R",
+      "smp": "SMP31",
+      "qd_pad": 34,
+      "resistor": "R31",
+      "capacitor": "C31",
+      "chip_net": "QD_BARRIER_E",
+      "rf_net": "MW34",
+      "dc_net": "DC34",
+      "zif_pin": 19,
+      "start": [
+        16.75,
+        58.7
+      ],
+      "end": [
+        12.153042369370311,
+        46.23
+      ],
+      "outward": [
+        0.513084135978301,
+        0.8583383187341692
+      ],
+      "kind": "upper_outer_side"
+    },
+    {
+      "position": "P3L",
+      "smp": "SMP09",
+      "qd_pad": 9,
+      "resistor": "R09",
+      "capacitor": "C09",
+      "chip_net": "QD_B_NE_SET",
+      "rf_net": "MW09",
+      "dc_net": "DC09",
+      "zif_pin": 3,
+      "start": [
+        2.75,
+        52.95
+      ],
+      "end": [
+        6.52,
+        43.4414098055447
+      ],
+      "outward": [
+        -0.9630967925644799,
+        0.2691552863163034
+      ],
+      "kind": "upper_outer_side"
+    },
+    {
+      "position": "P3R",
+      "smp": "SMP30",
+      "qd_pad": 32,
+      "resistor": "R30",
+      "capacitor": "C30",
+      "chip_net": "QD_SE_P",
+      "rf_net": "MW32",
+      "dc_net": "DC32",
+      "zif_pin": 44,
+      "start": [
+        16.75,
+        52.95
+      ],
+      "end": [
+        12.98,
+        44.61817074952068
+      ],
+      "outward": [
+        0.8465477203525584,
+        0.5323128376865304
+      ],
+      "kind": "upper_outer_side"
+    },
+    {
+      "position": "P4L",
+      "smp": "SMP05",
+      "qd_pad": 11,
+      "resistor": "R05",
+      "capacitor": "C05",
+      "chip_net": "QD_NE_P",
+      "rf_net": "MW11",
+      "dc_net": "DC11",
+      "zif_pin": 1,
+      "start": [
+        2.75,
+        47.2
+      ],
+      "end": [
+        6.52,
+        42.18619614539412
+      ],
+      "outward": [
+        -0.9956890002220162,
+        -0.0927545946941805
+      ],
+      "kind": "upper_outer_side"
+    },
+    {
+      "position": "P4R",
+      "smp": "SMP21",
+      "qd_pad": 31,
+      "resistor": "R21",
+      "capacitor": "C21",
+      "chip_net": "QD_BARRIER_S",
+      "rf_net": "MW31",
+      "dc_net": "DC31",
+      "zif_pin": 40,
+      "start": [
+        16.75,
+        47.2
+      ],
+      "end": [
+        12.98,
+        43.912113743846554
+      ],
+      "outward": [
+        0.9222443610734369,
+        0.38660747337350865
+      ],
+      "kind": "upper_outer_side"
+    },
+    {
+      "position": "P5L",
+      "smp": "SMP02",
+      "qd_pad": 12,
+      "resistor": "R02",
+      "capacitor": "C02",
+      "chip_net": "QD_BARRIER_N",
+      "rf_net": "MW12",
+      "dc_net": "DC12",
+      "zif_pin": 5,
+      "start": [
+        2.75,
+        39.5
+      ],
+      "end": [
+        6.52,
+        41.55859037445529
+      ],
+      "outward": [
+        -0.9630967925644799,
+        -0.2691552863163034
+      ],
+      "kind": "lower_outer_side"
+    },
+    {
+      "position": "P5R",
+      "smp": "SMP24",
+      "qd_pad": 30,
+      "resistor": "R24",
+      "capacitor": "C24",
+      "chip_net": "QD_SW_P",
+      "rf_net": "MW30",
+      "dc_net": "DC30",
+      "zif_pin": 42,
+      "start": [
+        16.75,
+        39.5
+      ],
+      "end": [
+        12.98,
+        43.206057135490376
+      ],
+      "outward": [
+        0.9787318848294262,
+        0.20514360243068488
+      ],
+      "kind": "lower_outer_side"
+    },
+    {
+      "position": "P6L",
+      "smp": "SMP11",
+      "qd_pad": 13,
+      "resistor": "R11",
+      "capacitor": "C11",
+      "chip_net": "QD_NW_P",
+      "rf_net": "MW13",
+      "dc_net": "DC13",
+      "zif_pin": 4,
+      "start": [
+        2.75,
+        33.75
+      ],
+      "end": [
+        6.52,
+        40.93098378918788
+      ],
+      "outward": [
+        -0.9064905766772562,
+        -0.4222260465619518
+      ],
+      "kind": "lower_outer_side"
+    },
+    {
+      "position": "P6R",
+      "smp": "SMP28",
+      "qd_pad": 28,
+      "resistor": "R28",
+      "capacitor": "C28",
+      "chip_net": "QD_B_SW_SET",
+      "rf_net": "MW28",
+      "dc_net": "DC28",
+      "zif_pin": 26,
+      "start": [
+        16.75,
+        33.75
+      ],
+      "end": [
+        12.98,
+        41.79394304450962
+      ],
+      "outward": [
+        0.9787318848294262,
+        -0.20514360243068488
+      ],
+      "kind": "lower_outer_side"
+    },
+    {
+      "position": "P7L",
+      "smp": "SMP12",
+      "qd_pad": 15,
+      "resistor": "R12",
+      "capacitor": "C12",
+      "chip_net": "QD_BARRIER_W",
+      "rf_net": "MW15",
+      "dc_net": "DC15",
+      "zif_pin": 8,
+      "start": [
+        2.75,
+        28.0
+      ],
+      "end": [
+        6.662976131129137,
+        38.77
+      ],
+      "outward": [
+        -0.605371335123649,
+        -0.7959431805164301
+      ],
+      "kind": "lower_outer_side"
+    },
+    {
+      "position": "P7R",
+      "smp": "SMP16",
+      "qd_pad": 24,
+      "resistor": "R16",
+      "capacitor": "C16",
+      "chip_net": "SET_SW_OHMIC_R",
+      "rf_net": "MW24",
+      "dc_net": "DC24",
+      "zif_pin": 18,
+      "start": [
+        16.75,
+        28.0
+      ],
+      "end": [
+        11.867228031400133,
+        38.77
+      ],
+      "outward": [
+        0.46433986285189544,
+        -0.8856570960403823
+      ],
+      "kind": "lower_outer_side"
+    },
+    {
+      "position": "P8L",
+      "smp": "SMP15",
+      "qd_pad": 16,
+      "resistor": "R15",
+      "capacitor": "C15",
+      "chip_net": "SET_SW_BARRIER_UPPER_L",
+      "rf_net": "MW16",
+      "dc_net": "DC16",
+      "zif_pin": 7,
+      "start": [
+        2.75,
+        22.25
+      ],
+      "end": [
+        7.632771068599865,
+        38.77
+      ],
+      "outward": [
+        -0.46433986285189544,
+        -0.8856570960403823
+      ],
+      "kind": "lower_inboard_end"
+    },
+    {
+      "position": "P8R",
+      "smp": "SMP13",
+      "qd_pad": 21,
+      "resistor": "R13",
+      "capacitor": "C13",
+      "chip_net": "SET_SW_PLUNGER",
+      "rf_net": "MW21",
+      "dc_net": "DC21",
+      "zif_pin": 13,
+      "start": [
+        16.75,
+        22.25
+      ],
+      "end": [
+        10.263645534245132,
+        38.77
+      ],
+      "outward": [
+        0.12422589947371242,
+        -0.9922539624007288
+      ],
+      "kind": "lower_inboard_end"
+    }
+  ],
+  "mount_movements": [
+    {
+      "group": "upper_M2",
+      "old_xy": [
+        2.42499896,
+        65.33999886
+      ],
+      "proposed_xy": [
+        2.42499896,
+        70.0
+      ],
+      "delta_y_mm": 4.660001140000006,
+      "retained_hole_mm": 2.10000088,
+      "retained_land_mm": 2.99999908
+    },
+    {
+      "group": "upper_M2",
+      "old_xy": [
+        17.07500014,
+        65.33999886
+      ],
+      "proposed_xy": [
+        17.07500014,
+        70.0
+      ],
+      "delta_y_mm": 4.660001140000006,
+      "retained_hole_mm": 2.10000088,
+      "retained_land_mm": 2.99999908
+    },
+    {
+      "group": "large_lower_mount",
+      "old_xy": [
+        16.074999599999998,
+        18.08999938
+      ],
+      "proposed_xy": [
+        16.074999599999998,
+        16.08999938
+      ],
+      "delta_y_mm": -2.0,
+      "retained_hole_mm": 3.9999996199999996,
+      "retained_land_mm": 5.00000016
+    },
+    {
+      "group": "dependent_lower_M2",
+      "old_xy": [
+        17.07500014,
+        13.189999019999998
+      ],
+      "proposed_xy": [
+        17.07500014,
+        11.189999019999998
+      ],
+      "delta_y_mm": -2.0,
+      "retained_hole_mm": 2.10000088,
+      "retained_land_mm": 2.99999908
+    },
+    {
+      "group": "dependent_lower_M2",
+      "old_xy": [
+        2.42499896,
+        13.189999019999998
+      ],
+      "proposed_xy": [
+        2.42499896,
+        11.189999019999998
+      ],
+      "delta_y_mm": -2.0,
+      "retained_hole_mm": 2.10000088,
+      "retained_land_mm": 2.99999908
+    },
+    {
+      "group": "large_lower_mount",
+      "old_xy": [
+        3.4249994999999998,
+        18.08999938
+      ],
+      "proposed_xy": [
+        3.4249994999999998,
+        16.08999938
+      ],
+      "delta_y_mm": -2.0,
+      "retained_hole_mm": 3.9999996199999996,
+      "retained_land_mm": 5.00000016
+    }
+  ],
+  "nominal_checks": {
+    "SMP_count": 16,
+    "minimum_SMP_bounding_box_gap_mm": [
+      0.25,
+      "SMP02",
+      "SMP11"
+    ],
+    "minimum_SMP_box_to_mount_land_gap_mm": [
+      0.9100005400000022,
+      "SMP13",
+      "large_lower_mount"
+    ],
+    "minimum_mount_land_gap_mm": [
+      1.001168529367598,
+      "dependent_lower_M2",
+      "large_lower_mount"
+    ],
+    "all_mount_drills_inside_trial_outline": true,
+    "minimum_lower_M2_land_to_ZIF_pad_gap_mm": 3.239999679999999,
+    "central_SMP_body_projection_corridor_mm": 8.5,
+    "upper_extension_beyond_existing_copper_lip_mm": 4.460000780000001,
+    "scope": "Nominal 2D envelope checks only; no screw-head, plug, tolerance, carrier, R/C or routing fit certification."
+  },
+  "preserved_source_hashes": {
+    "QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+    "QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.SchDoc": "e6d83b6a6b7d74bc14fc5d10041c3d76ee38e315133cc71012b8034f834e6249",
+    "QSTL_QD4_2SET_38PAD\\QD4_2SET_38.PcbLib": "ec4b54190f8ca7402dc81cc066efe8c18dcc453841cc93d68eaa695fe161746f",
+    "QSTL_QD4_2SET_38PAD\\pin_mapping.csv": "6ca9f71707db65fb3418abcf7f730685e450c347f0d70f42da30b12f9f3edd5f",
+    "QSTL_QD4_2SET_38PAD\\full_copper_candidate.json": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+    "QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Bottom_reference.step": "0dc1b20126b0254abd1981e1c2ab64a208465c6e5edf04fdac03b60bd79d4e51",
+    "QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Top_ForFridge_reference.step": "d32615e2d8bd89f56e25760c5204285faf08581fc8cfbdb68554d739ab81103e"
+  },
+  "source_designs_unchanged": true,
+  "linked_extra_move": "Lower M2 row is additionally proposed to move down 2 mm; not an approved native change.",
+  "limitations": [
+    "Trial dimensions and two-dimensional envelopes only.",
+    "Existing copper end lip and mounting axes are incompatible with the proposed outline/hole movement until revised.",
+    "Do not interpret the 8.5 mm SMP-body corridor as available R/C or RF routing capacity.",
+    "Screw heads, mating plugs, exact connector solid intersections, R0603/C1206 and all routing remain pending.",
+    "The previous RF connection guides are not rerouted on this new placement; circuit identities are retained."
+  ]
+}

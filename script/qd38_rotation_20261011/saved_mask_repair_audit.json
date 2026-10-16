@@ -1,0 +1,576 @@
+{
+  "passed": true,
+  "candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+  "native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "baseline_native_sha256": "c179d313dc7d7c1c5851517d779616fbe7c9c3b1e9a5f4ac565e0541c3e0a047",
+  "before_log_sha256": "b01f212ed8935ebf2bcfbd1515167a64df9faf7a341d90962bf431ce029ff00f",
+  "after_log_sha256": "926d5724ceac68659022c3ded2b83cb8687d80c06b171728299338fa43409d47",
+  "pad_count": 243,
+  "changed_pad_count": 18,
+  "positive_expansion_mm": 0.025,
+  "untouched_pad_mask_and_all_pad_paste_preserved": true,
+  "changes": [
+    {
+      "ref": "R28",
+      "pin": "1",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "C28",
+      "pin": "2",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "C28",
+      "pin": "1",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "R12",
+      "pin": "1",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "C12",
+      "pin": "2",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "C12",
+      "pin": "1",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "R15",
+      "pin": "2",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "R15",
+      "pin": "1",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "C15",
+      "pin": "2",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "R09",
+      "pin": "1",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "C09",
+      "pin": "2",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "C09",
+      "pin": "1",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "R31",
+      "pin": "1",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "C31",
+      "pin": "2",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "C31",
+      "pin": "1",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "R21",
+      "pin": "2",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "R21",
+      "pin": "1",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    },
+    {
+      "ref": "C21",
+      "pin": "2",
+      "before_coord": [
+        19685,
+        19685,
+        0,
+        1
+      ],
+      "after_coord": [
+        9843,
+        9843,
+        0,
+        1
+      ]
+    }
+  ],
+  "saved_byte_changes": [
+    {
+      "ref": "R28",
+      "pin": "1",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "C28",
+      "pin": "2",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "C28",
+      "pin": "1",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "R12",
+      "pin": "1",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "C12",
+      "pin": "2",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "C12",
+      "pin": "1",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "R15",
+      "pin": "2",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "R15",
+      "pin": "1",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "C15",
+      "pin": "2",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "R09",
+      "pin": "1",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "C09",
+      "pin": "2",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "C09",
+      "pin": "1",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "R31",
+      "pin": "1",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "C31",
+      "pin": "2",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "C31",
+      "pin": "1",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "R21",
+      "pin": "2",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "R21",
+      "pin": "1",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "ref": "C21",
+      "pin": "2",
+      "mask_fields": [
+        [
+          4,
+          90
+        ],
+        [
+          4,
+          121
+        ]
+      ],
+      "changed_bytes": 4
+    }
+  ],
+  "errors": [],
+  "native_drc_verified_separately": true
+}

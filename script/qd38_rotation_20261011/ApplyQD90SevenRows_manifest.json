@@ -1,0 +1,90 @@
+{
+  "status": "PREPARED_NOT_EXECUTED",
+  "native_pcb_modified": false,
+  "target": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+  "frozen_native_sha256": "f8356dd694810d2318a51e99544ab2345f8b9996de80e9ddc4456bbc6a14c632",
+  "candidate": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\full_copper_candidate.json",
+  "candidate_sha256": "a8e96043d9dcabcbf3b855f37ff28962a55389783f7ca484c95fda7b37b253fe",
+  "audit": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\full_copper_audit.json",
+  "audit_sha256": "1f59e60e2ccde34847969289247cb63cbb24ffa02cb5db848bd33c1632fdc8fe",
+  "schematic_validation": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\schematic_validation.json",
+  "schematic_validation_sha256": "8c6820c590cde966490dc74362078c2b201cdb27d9f804291f8ed5ce0417cf93",
+  "pascal": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\ApplyQD90SevenRows.pas",
+  "pascal_sha256": "dc8773b36f25a5b23bd688e9cc7f50dc5cb328fe63c58fd46ce2a2d3704c7399",
+  "procedure": "ApplyQD90SevenRows",
+  "counts": {
+    "components": 50,
+    "pads": 243,
+    "tracks": 582,
+    "signal_arcs": 62,
+    "signal_vias": 76,
+    "shield_vias": 668
+  },
+  "geometry_batches": 127,
+  "model_sources": {
+    "R": {
+      "component": "R02",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "component_rotation_deg": 180.0,
+      "origin_mm": [
+        14.906800259999999,
+        46.98000002
+      ],
+      "origin_error_mm": 1.2700000002752176e-06,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+      ]
+    },
+    "C": {
+      "component": "C02",
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "component_rotation_deg": 90.0,
+      "origin_mm": [
+        15.74999898,
+        48.150000219999995
+      ],
+      "origin_error_mm": 1.7763568394002505e-15,
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.55300118,
+      "board_projection": 1,
+      "embedded_step_sha256": [
+        "87aba8f59dd0a776648c0d6f799f01e81284ece312cefab9136b263b7d9b99d5"
+      ]
+    },
+    "SMP": {
+      "component": "SMP02",
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "component_rotation_deg": 0.0,
+      "origin_mm": [
+        15.74999898,
+        50.5000006
+      ],
+      "origin_error_mm": 0.0,
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "board_projection": 0,
+      "embedded_step_sha256": [
+        "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+      ]
+    }
+  },
+  "caveat": "Reopen the frozen saved PCB before execution. Runtime component/count guards are not a cryptographic live-document hash. Native save/reopen/DRC and independent saved-geometry, connectivity, mask, paste and model audits are still required."
+}

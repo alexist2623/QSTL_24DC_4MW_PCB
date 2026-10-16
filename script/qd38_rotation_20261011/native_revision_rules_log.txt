@@ -1,0 +1,46 @@
+BOARD|C:\GIT_Workspace\QSTL_24DC_4MW_PCB\QSTL_QD4_2SET_38PAD\QSTL_QD4_2SET_38PAD.PcbDoc
+RULE|QD38_DC_PAIR_GAP_0P1|(InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And (ExistsOnLayer('L2_DC_A') Or ExistsOnLayer('L4_DC_B'))|(InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And (ExistsOnLayer('L2_DC_A') Or ExistsOnLayer('L4_DC_B'))
+RULE|QD38_QD_VIA_0P4_0P2|IsVia And (InNet('DC01') Or InNet('DC03') Or InNet('DC04') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC10') Or InNet('DC14') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC22') Or InNet('DC23') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC29') Or InNet('DC33') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(253.638545847,1515.707263466,513.740157480,1832.745540474)|All
+RULE|QD38_ZIF_VIA_0P4_0P2|IsVia And (InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(78.740080315,91.929137008,653.543219685,275.590562992)|All
+RULE|QD38_DC_WIDTH|(InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38'))|All
+RULE|DC_GND_GAP_0P2|InNet('GND') And (ExistsOnLayer('L2_DC_A') Or ExistsOnLayer('L4_DC_B'))|(InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And (ExistsOnLayer('L2_DC_A') Or ExistsOnLayer('L4_DC_B'))
+RULE|RF_SHIELD_L5_L6|IsVia And InNet('GND')|All
+RULE|RF_50OHM_WIDTH|OnLayer('L6_RF_QD') And (InNet('MW02') Or InNet('MW05') Or InNet('MW09') Or InNet('MW11') Or InNet('MW12') Or InNet('MW13') Or InNet('MW15') Or InNet('MW16') Or InNet('MW21') Or InNet('MW24') Or InNet('MW28') Or InNet('MW30') Or InNet('MW31') Or InNet('MW32') Or InNet('MW34') Or InNet('MW35') Or InNet('S02') Or InNet('S05') Or InNet('S09') Or InNet('S11') Or InNet('S12') Or InNet('S13') Or InNet('S15') Or InNet('S16') Or InNet('S21') Or InNet('S24') Or InNet('S28') Or InNet('S30') Or InNet('S31') Or InNet('S32') Or InNet('S34') Or InNet('S35'))|All
+RULE|RF_CPW_GND_GAP_0P2|InNet('GND') And OnLayer('L6_RF_QD')|All
+RULE|ZIF24V2_GND_VIA_SOLID|(IsVia Or (IsPad And Not InComponent('*'))) And InNet('GND')|All
+RULE|RoutingLayers|All|All
+RULE|RoutingVias|Not (IsVia And InNet('GND')) And Not (IsVia And (InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(78.740080315,91.929137008,653.543219685,275.590562992)) And Not (IsVia And (InNet('DC01') Or InNet('DC03') Or InNet('DC04') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC10') Or InNet('DC14') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC22') Or InNet('DC23') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC29') Or InNet('DC33') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(253.638545847,1515.707263466,513.740157480,1832.745540474))|All
+RULE|Width|Not (OnLayer('L6_RF_QD') And (InNet('MW02') Or InNet('MW05') Or InNet('MW09') Or InNet('MW11') Or InNet('MW12') Or InNet('MW13') Or InNet('MW15') Or InNet('MW16') Or InNet('MW21') Or InNet('MW24') Or InNet('MW28') Or InNet('MW30') Or InNet('MW31') Or InNet('MW32') Or InNet('MW34') Or InNet('MW35') Or InNet('S02') Or InNet('S05') Or InNet('S09') Or InNet('S11') Or InNet('S12') Or InNet('S13') Or InNet('S15') Or InNet('S16') Or InNet('S21') Or InNet('S24') Or InNet('S28') Or InNet('S30') Or InNet('S31') Or InNet('S32') Or InNet('S34') Or InNet('S35'))) And Not ((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')))|All
+RULE|Clearance|Not (InNet('GND') And OnLayer('L6_RF_QD')) And Not (InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L4_DC_B')))|Not (InNet('GND') And OnLayer('L6_RF_QD')) And Not (InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L4_DC_B')))
+RULE|UnpouredPolygon|All|All
+RULE|NetAntennae|All|All
+RULE|SilkToBoardRegionClearance|All|All
+RULE|SilkToSilkClearance|All|All
+RULE|SilkToSolderMaskClearance|IsPad|All
+RULE|MinimumSolderMaskSliver|All|All
+RULE|HoleToHoleClearance|All|All
+RULE|DiffPairsRouting|All|All
+RULE|Fanout_BGA|IsBGA|All
+RULE|Fanout_LCC|IsLCC|All
+RULE|Fanout_SOIC|IsSOIC|All
+RULE|Fanout_Small|(CompPinCount < 5)|All
+RULE|Fanout_Default|All|All
+RULE|HoleSize|All|All
+RULE|LayerPairs|All|All
+RULE|Height|All|All
+RULE|ComponentClearance|All|All
+RULE|AssemblyTestpoint|All|All
+RULE|AssemblyTestPointUsage|All|All
+RULE|FabricationTestpoint|All|All
+RULE|FabricationTestPointUsage|All|All
+RULE|RoutingTopology|All|All
+RULE|SolderMaskExpansion|All|All
+RULE|PasteMaskExpansion|All|All
+RULE|RoutingCorners|All|All
+RULE|RoutingPriority|All|All
+RULE|PolygonConnect|All|All
+RULE|PlaneClearance|All|All
+RULE|PlaneConnect|All|All
+RULE|UnRoutedNet|All|All
+RULE|ShortCircuit|All|All
+COMPLETE_NOT_SAVED

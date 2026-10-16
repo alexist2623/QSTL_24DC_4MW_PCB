@@ -1,0 +1,130 @@
+{
+  "passed": true,
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "baseline_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "declaration_sha256": "f7b9873eb89c1ac30270d83d2b37790e28066f1baf7f53d897287af586a8d938",
+  "unchanged_sources": {
+    "QSTL_QD4_2SET_38PAD.SchDoc": true,
+    "QSTL_QD4_2SET_38PAD.PrjPcb": true,
+    "QSTL_QD4_2SET_38PAD.SchLib": true,
+    "pin_mapping.csv": true
+  },
+  "maximum_inner_boundary_error_mm": 1.5163191591227587e-06,
+  "minimum_cavity_clearance_mm": 0.19999848368084372,
+  "declared_QD_endpoint": {
+    "count": 22,
+    "baseline_land_mm": 0.4,
+    "land_mm": 0.35,
+    "drill_mm": 0.2,
+    "low": 1,
+    "high": 32
+  },
+  "signal_edits_confined": true,
+  "surface_edits_confined": true,
+  "all_pad_mask_paste_caches_unchanged": true,
+  "all_other_pad_bytes_unchanged": true,
+  "native_pad_record_order_changed": true,
+  "pad_XY_byte_changes": [
+    {
+      "pad": [
+        "NAZROLMU",
+        "38"
+      ],
+      "changed_bytes": 6
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "37"
+      ],
+      "changed_bytes": 5
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "36"
+      ],
+      "changed_bytes": 5
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "23"
+      ],
+      "changed_bytes": 6
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "22"
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "21"
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "20"
+      ],
+      "changed_bytes": 3
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "19"
+      ],
+      "changed_bytes": 5
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "18"
+      ],
+      "changed_bytes": 6
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "17"
+      ],
+      "changed_bytes": 6
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "4"
+      ],
+      "changed_bytes": 5
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "3"
+      ],
+      "changed_bytes": 5
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "2"
+      ],
+      "changed_bytes": 5
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "1"
+      ],
+      "changed_bytes": 5
+    }
+  ],
+  "failures": [],
+  "completion": false
+}

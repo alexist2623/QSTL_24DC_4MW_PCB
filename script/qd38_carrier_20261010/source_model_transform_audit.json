@@ -1,0 +1,2886 @@
+{
+  "source": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB.PcbDoc",
+  "source_sha256": "ba8e7b6f078765142828092b2e43591d5a7f2872cd0e26b75d4501e3576e2bba",
+  "source_unchanged": true,
+  "bodies": [
+    {
+      "component": "R6",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "BOTTOM",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "112.4724mil",
+        "Y": "1681.0474mil",
+        "PATTERN": "CC1608-0603",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 1.80000000000000E+0002",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "R6",
+        "SOURCEUNIQUEID": "FHQTZXVJ",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Passives_0603.PcbLib",
+        "UNIQUEID": "SRADVGQH",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL5",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "0mil",
+        "OVERALLHEIGHT": "17.7165mil",
+        "BODYPROJECTION": "1",
+        "BODYCOLOR3D": "4078660",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "0.0001mil",
+        "TEXTURESIZEY": "0.0001mil",
+        "TEXTUREROTATION": " 3.60000000000000E+0002",
+        "MODELID": "{9D8442FE-23F1-4E73-977B-EF0D62A6E7AB}",
+        "MODEL.CHECKSUM": "4128227720",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "R_0603_1608Metric.step",
+        "MODEL.2D.X": "112.2048mil",
+        "MODEL.2D.Y": "1681.1024mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "0.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "180.000",
+        "MODEL.3D.DZ": "0mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        2.85000192,
+        42.70000096
+      ],
+      "component_origin_mm": [
+        2.85679896,
+        42.69860396
+      ],
+      "model_origin_minus_component_mm": [
+        -0.006797039999999921,
+        0.001396999999997206
+      ],
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "body_projection": 1,
+      "outline_mm": [
+        [
+          3.65000286,
+          43.10000016
+        ],
+        [
+          2.0500009799999996,
+          43.10000016
+        ],
+        [
+          2.0500009799999996,
+          42.300001759999994
+        ],
+        [
+          3.65000286,
+          42.300001759999994
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{9D8442FE-23F1-4E73-977B-EF0D62A6E7AB}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "0",
+            "CHECKSUM": "-166739576",
+            "NAME": "R_0603_1608Metric.step"
+          },
+          "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+        }
+      ]
+    },
+    {
+      "component": "R5",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "BOTTOM",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "249.0865mil",
+        "Y": "1220.4176mil",
+        "PATTERN": "CC1608-0603",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 1.80000000000000E+0002",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "R5",
+        "SOURCEUNIQUEID": "PDGWTIKC",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Passives_0603.PcbLib",
+        "UNIQUEID": "RVGRQIWG",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL5",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "0mil",
+        "OVERALLHEIGHT": "17.7165mil",
+        "BODYPROJECTION": "1",
+        "BODYCOLOR3D": "4078660",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "0.0001mil",
+        "TEXTURESIZEY": "0.0001mil",
+        "TEXTUREROTATION": " 3.60000000000000E+0002",
+        "MODELID": "{141BEFCE-7AD2-44C1-AD94-8F46AF8574E8}",
+        "MODEL.CHECKSUM": "4128227720",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "R_0603_1608Metric.step",
+        "MODEL.2D.X": "248.8188mil",
+        "MODEL.2D.Y": "1220.4725mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "0.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "180.000",
+        "MODEL.3D.DZ": "0mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        6.31999752,
+        31.0000015
+      ],
+      "component_origin_mm": [
+        6.326797099999999,
+        30.99860704
+      ],
+      "model_origin_minus_component_mm": [
+        -0.006799579999999139,
+        0.0013944600000002083
+      ],
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "body_projection": 1,
+      "outline_mm": [
+        [
+          7.11999846,
+          31.400000699999996
+        ],
+        [
+          5.51999658,
+          31.400000699999996
+        ],
+        [
+          5.51999658,
+          30.600002299999996
+        ],
+        [
+          7.11999846,
+          30.600002299999996
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{141BEFCE-7AD2-44C1-AD94-8F46AF8574E8}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "0",
+            "CHECKSUM": "-166739576",
+            "NAME": "R_0603_1608Metric.step"
+          },
+          "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+        }
+      ]
+    },
+    {
+      "component": "R4",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "BOTTOM",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "301.4488mil",
+        "Y": "1905.4569mil",
+        "PATTERN": "CC1608-0603",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 1.80000000000000E+0002",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "R4",
+        "SOURCEUNIQUEID": "\\ZRESCHAD",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Passives_0603.PcbLib",
+        "UNIQUEID": "UFAFIEYO",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL5",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "0mil",
+        "OVERALLHEIGHT": "17.7165mil",
+        "BODYPROJECTION": "1",
+        "BODYCOLOR3D": "4078660",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "0.0001mil",
+        "TEXTURESIZEY": "0.0001mil",
+        "TEXTUREROTATION": " 1.80000000000000E+0002",
+        "MODELID": "{0B1C80EA-CF20-40E6-A6E7-E008CD7A276A}",
+        "MODEL.CHECKSUM": "4128227720",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "R_0603_1608Metric.step",
+        "MODEL.2D.X": "301.1812mil",
+        "MODEL.2D.Y": "1905.5119mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "0.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "180.000",
+        "MODEL.3D.DZ": "0mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        7.6500024799999995,
+        48.400002259999994
+      ],
+      "component_origin_mm": [
+        7.65679952,
+        48.39860526
+      ],
+      "model_origin_minus_component_mm": [
+        -0.006797040000000365,
+        0.001396999999997206
+      ],
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "body_projection": 1,
+      "outline_mm": [
+        [
+          8.45000342,
+          48.80000146
+        ],
+        [
+          6.850001539999999,
+          48.80000146
+        ],
+        [
+          6.850001539999999,
+          48.00000306
+        ],
+        [
+          8.45000342,
+          48.00000306
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{0B1C80EA-CF20-40E6-A6E7-E008CD7A276A}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "0",
+            "CHECKSUM": "-166739576",
+            "NAME": "R_0603_1608Metric.step"
+          },
+          "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+        }
+      ]
+    },
+    {
+      "component": "R3",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "BOTTOM",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "466.2678mil",
+        "Y": "1905.5668mil",
+        "PATTERN": "CC1608-0603",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 0.00000000000000E+0000",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "R3",
+        "SOURCEUNIQUEID": "\\ZRESCHAC",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Passives_0603.PcbLib",
+        "UNIQUEID": "XHQBNRPA",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL5",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "0mil",
+        "OVERALLHEIGHT": "17.7165mil",
+        "BODYPROJECTION": "1",
+        "BODYCOLOR3D": "4078660",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0.0001mil",
+        "TEXTURESIZEX": "0.0001mil",
+        "TEXTURESIZEY": "0.0001mil",
+        "TEXTUREROTATION": " 3.60000000000000E+0002",
+        "MODELID": "{E435C0C5-CE25-4BB5-B9F1-88B3775316FC}",
+        "MODEL.CHECKSUM": "4128227720",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "R_0603_1608Metric.step",
+        "MODEL.2D.X": "466.5355mil",
+        "MODEL.2D.Y": "1905.5118mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "0.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "0.000",
+        "MODEL.3D.DZ": "0mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        11.8500017,
+        48.39999972
+      ],
+      "component_origin_mm": [
+        11.84320212,
+        48.40139672
+      ],
+      "model_origin_minus_component_mm": [
+        0.006799579999999139,
+        -0.0013970000000043115
+      ],
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "body_projection": 1,
+      "outline_mm": [
+        [
+          11.05000076,
+          48.00000051999999
+        ],
+        [
+          12.650002639999999,
+          48.00000051999999
+        ],
+        [
+          12.650002639999999,
+          48.79999891999999
+        ],
+        [
+          11.05000076,
+          48.79999891999999
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E435C0C5-CE25-4BB5-B9F1-88B3775316FC}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "0",
+            "CHECKSUM": "-166739576",
+            "NAME": "R_0603_1608Metric.step"
+          },
+          "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+        }
+      ]
+    },
+    {
+      "component": "R2",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "BOTTOM",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "655.2441mil",
+        "Y": "1681.1574mil",
+        "PATTERN": "CC1608-0603",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 0.00000000000000E+0000",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "R2",
+        "SOURCEUNIQUEID": "\\ZRESCHAB",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Passives_0603.PcbLib",
+        "UNIQUEID": "BFUYQOYA",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL5",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "0mil",
+        "OVERALLHEIGHT": "17.7165mil",
+        "BODYPROJECTION": "1",
+        "BODYCOLOR3D": "4078660",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "0.0001mil",
+        "TEXTURESIZEY": "0.0001mil",
+        "TEXTUREROTATION": " 1.80000000000000E+0002",
+        "MODELID": "{3B4C613C-418D-4EC1-B181-13B53429EF60}",
+        "MODEL.CHECKSUM": "4128227720",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "R_0603_1608Metric.step",
+        "MODEL.2D.X": "655.5118mil",
+        "MODEL.2D.Y": "1681.1024mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "0.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "0.000",
+        "MODEL.3D.DZ": "0mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        16.64999972,
+        42.70000096
+      ],
+      "component_origin_mm": [
+        16.64320014,
+        42.70139796
+      ],
+      "model_origin_minus_component_mm": [
+        0.006799579999999139,
+        -0.0013970000000043115
+      ],
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "body_projection": 1,
+      "outline_mm": [
+        [
+          15.849998779999998,
+          42.300001759999994
+        ],
+        [
+          17.450000659999997,
+          42.300001759999994
+        ],
+        [
+          17.450000659999997,
+          43.10000016
+        ],
+        [
+          15.849998779999998,
+          43.10000016
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{3B4C613C-418D-4EC1-B181-13B53429EF60}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "0",
+            "CHECKSUM": "-166739576",
+            "NAME": "R_0603_1608Metric.step"
+          },
+          "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+        }
+      ]
+    },
+    {
+      "component": "R1",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "BOTTOM",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "508.9843mil",
+        "Y": "1220.5274mil",
+        "PATTERN": "CC1608-0603",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 0.00000000000000E+0000",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "R1",
+        "SOURCEUNIQUEID": "\\ZRESCHAA",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Passives_0603.PcbLib",
+        "UNIQUEID": "IRMFFWDF",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL5",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "0mil",
+        "OVERALLHEIGHT": "17.7165mil",
+        "BODYPROJECTION": "1",
+        "BODYCOLOR3D": "4078660",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "0.0001mil",
+        "TEXTURESIZEY": "0.0001mil",
+        "TEXTUREROTATION": " 1.80000000000000E+0002",
+        "MODELID": "{C7BBE07C-97B4-41FF-B67C-C5F5B8683FFD}",
+        "MODEL.CHECKSUM": "4128227720",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "R_0603_1608Metric.step",
+        "MODEL.2D.X": "509.2519mil",
+        "MODEL.2D.Y": "1220.4725mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "0.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "0.000",
+        "MODEL.3D.DZ": "0mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        12.934998259999999,
+        31.0000015
+      ],
+      "component_origin_mm": [
+        12.92820122,
+        31.001395959999996
+      ],
+      "model_origin_minus_component_mm": [
+        0.006797039999998589,
+        -0.0013944599999966556
+      ],
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 0.4499991,
+      "body_projection": 1,
+      "outline_mm": [
+        [
+          12.134997319999998,
+          30.600002299999996
+        ],
+        [
+          13.734999199999999,
+          30.600002299999996
+        ],
+        [
+          13.734999199999999,
+          31.400000699999996
+        ],
+        [
+          12.134997319999998,
+          31.400000699999996
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{C7BBE07C-97B4-41FF-B67C-C5F5B8683FFD}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "0",
+            "CHECKSUM": "-166739576",
+            "NAME": "R_0603_1608Metric.step"
+          },
+          "embedded_step_sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+        }
+      ]
+    },
+    {
+      "component": "C6",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "BOTTOM",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "145.6693mil",
+        "Y": "1570.8661mil",
+        "PATTERN": "CAPC3216_CC1206JKNPO9BN104",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 1.80000000000000E+0002",
+        "HEIGHT": "70.8661mil",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "C6",
+        "SOURCEUNIQUEID": "BIZXXOAG",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Capacitors_1206.PcbLib",
+        "SOURCECOMPONENTLIBRARY": "Reference_Capacitors.SchLib",
+        "SOURCELIBREFERENCE": "CMP-06035-056113-1",
+        "SOURCEDESCRIPTION": "Yageo CC1206JKNPO9BN104 100nF 50V C0G 5% 1206",
+        "UNIQUEID": "XQKXPQUI",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "0mil",
+        "OVERALLHEIGHT": "70.8661mil",
+        "BODYPROJECTION": "1",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "67,97,112,95,77,117,114,97,116,97,95,71,67,77,49,53,53,82,55,49,72,50,55,49,75,65,51,55,68,95,101,101,99",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "0.0001mil",
+        "TEXTURESIZEY": "0.0001mil",
+        "TEXTUREROTATION": " 1.80000000000000E+0002",
+        "MODELID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+        "MODEL.CHECKSUM": "2037117482",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step",
+        "MODEL.2D.X": "145.6693mil",
+        "MODEL.2D.Y": "1570.8661mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "0.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "180.000",
+        "MODEL.3D.DZ": "0mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        3.7000002199999997,
+        39.899998939999996
+      ],
+      "component_origin_mm": [
+        3.7000002199999997,
+        39.899998939999996
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 1.79999894,
+      "body_projection": 1,
+      "outline_mm": [
+        [
+          5.449999259999999,
+          40.79999968
+        ],
+        [
+          1.95000118,
+          40.79999968
+        ],
+        [
+          1.95000118,
+          38.9999982
+        ],
+        [
+          5.449999259999999,
+          38.9999982
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "90.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "270.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        }
+      ]
+    },
+    {
+      "component": "SMP6",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "TOP",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "122.0472mil",
+        "Y": "1351.9685mil",
+        "PATTERN": "RF_Con",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 1.80000000000000E+0002",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "SMP6",
+        "SOURCEUNIQUEID": "VLTJYUPC",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Reference_Connectors.PcbLib",
+        "UNIQUEID": "FNNHQQTX",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "-126.378mil",
+        "OVERALLHEIGHT": "212.5984mil",
+        "BODYPROJECTION": "0",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "275.5906mil",
+        "TEXTURESIZEY": "275.5906mil",
+        "TEXTUREROTATION": " 1.80000000000000E+0002",
+        "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+        "MODEL.CHECKSUM": "3679134564",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "SMP-FS-SBPCT.stp",
+        "MODEL.2D.X": "122.0472mil",
+        "MODEL.2D.Y": "1351.9685mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "90.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "180.000",
+        "MODEL.3D.DZ": "23.622mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        3.09999888,
+        34.339999899999995
+      ],
+      "component_origin_mm": [
+        3.09999888,
+        34.339999899999995
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        180.0
+      ],
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "body_projection": 0,
+      "outline_mm": [
+        [
+          5.849998459999999,
+          37.07826976
+        ],
+        [
+          0.34999929999999996,
+          37.07826976
+        ],
+        [
+          0.34999929999999996,
+          31.601730039999996
+        ],
+        [
+          5.849998459999999,
+          31.601730039999996
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        }
+      ]
+    },
+    {
+      "component": "C5",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "BOTTOM",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "282.2834mil",
+        "Y": "1098.4252mil",
+        "PATTERN": "CAPC3216_CC1206JKNPO9BN104",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 9.00000000000000E+0001",
+        "HEIGHT": "70.8661mil",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "C5",
+        "SOURCEUNIQUEID": "HLYWDMCQ",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Capacitors_1206.PcbLib",
+        "SOURCECOMPONENTLIBRARY": "Reference_Capacitors.SchLib",
+        "SOURCELIBREFERENCE": "CMP-06035-056113-1",
+        "SOURCEDESCRIPTION": "Yageo CC1206JKNPO9BN104 100nF 50V C0G 5% 1206",
+        "UNIQUEID": "YKTHRBYK",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "0mil",
+        "OVERALLHEIGHT": "70.8661mil",
+        "BODYPROJECTION": "1",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "67,97,112,95,77,117,114,97,116,97,95,71,67,77,49,53,53,82,55,49,72,50,55,49,75,65,51,55,68,95,101,101,99",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "0.0001mil",
+        "TEXTURESIZEY": "0.0001mil",
+        "TEXTUREROTATION": " 9.00000000000000E+0001",
+        "MODELID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+        "MODEL.CHECKSUM": "2037117482",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step",
+        "MODEL.2D.X": "282.2834mil",
+        "MODEL.2D.Y": "1098.4252mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "0.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "90.000",
+        "MODEL.3D.DZ": "0mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        7.169998359999999,
+        27.900000079999998
+      ],
+      "component_origin_mm": [
+        7.169998359999999,
+        27.900000079999998
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 1.79999894,
+      "body_projection": 1,
+      "outline_mm": [
+        [
+          6.26999762,
+          29.649999119999997
+        ],
+        [
+          6.26999762,
+          26.15000104
+        ],
+        [
+          8.069999099999999,
+          26.15000104
+        ],
+        [
+          8.069999099999999,
+          29.649999119999997
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "90.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "270.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        }
+      ]
+    },
+    {
+      "component": "SMP5",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "TOP",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "122.0472mil",
+        "Y": "1068.5039mil",
+        "PATTERN": "RF_Con",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 1.80000000000000E+0002",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "SMP5",
+        "SOURCEUNIQUEID": "EHYNHWUZ",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Reference_Connectors.PcbLib",
+        "UNIQUEID": "SAAPYXCJ",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "-126.378mil",
+        "OVERALLHEIGHT": "212.5984mil",
+        "BODYPROJECTION": "0",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "275.5906mil",
+        "TEXTURESIZEY": "275.5906mil",
+        "TEXTUREROTATION": " 1.80000000000000E+0002",
+        "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+        "MODEL.CHECKSUM": "3679134564",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "SMP-FS-SBPCT.stp",
+        "MODEL.2D.X": "122.0472mil",
+        "MODEL.2D.Y": "1068.5039mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "90.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "180.000",
+        "MODEL.3D.DZ": "23.622mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        3.09999888,
+        27.139999059999997
+      ],
+      "component_origin_mm": [
+        3.09999888,
+        27.139999059999997
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        180.0
+      ],
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "body_projection": 0,
+      "outline_mm": [
+        [
+          5.849998459999999,
+          29.878268919999996
+        ],
+        [
+          0.34999929999999996,
+          29.878268919999996
+        ],
+        [
+          0.34999929999999996,
+          24.4017292
+        ],
+        [
+          5.849998459999999,
+          24.4017292
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        }
+      ]
+    },
+    {
+      "component": "C4",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "BOTTOM",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "334.6457mil",
+        "Y": "2027.5591mil",
+        "PATTERN": "CAPC3216_CC1206JKNPO9BN104",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 2.70000000000000E+0002",
+        "HEIGHT": "70.8661mil",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "C4",
+        "SOURCEUNIQUEID": "\\ZCAPCHAD",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Capacitors_1206.PcbLib",
+        "SOURCECOMPONENTLIBRARY": "Reference_Capacitors.SchLib",
+        "SOURCELIBREFERENCE": "CMP-06035-056113-1",
+        "SOURCEDESCRIPTION": "Yageo CC1206JKNPO9BN104 100nF 50V C0G 5% 1206",
+        "UNIQUEID": "NYCRHMBH",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "0mil",
+        "OVERALLHEIGHT": "70.8661mil",
+        "BODYPROJECTION": "1",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "67,97,112,95,77,117,114,97,116,97,95,71,67,77,49,53,53,82,55,49,72,50,55,49,75,65,51,55,68,95,101,101,99",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "0.0001mil",
+        "TEXTURESIZEY": "0.0001mil",
+        "TEXTUREROTATION": " 2.70000000000000E+0002",
+        "MODELID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+        "MODEL.CHECKSUM": "2037117482",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step",
+        "MODEL.2D.X": "334.6457mil",
+        "MODEL.2D.Y": "2027.5591mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "0.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "270.000",
+        "MODEL.3D.DZ": "0mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        8.500000779999999,
+        51.500001139999995
+      ],
+      "component_origin_mm": [
+        8.500000779999999,
+        51.500001139999995
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 1.79999894,
+      "body_projection": 1,
+      "outline_mm": [
+        [
+          9.40000152,
+          49.750002099999996
+        ],
+        [
+          9.40000152,
+          53.250000179999994
+        ],
+        [
+          7.600000039999999,
+          53.250000179999994
+        ],
+        [
+          7.600000039999999,
+          49.750002099999996
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "90.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "270.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        }
+      ]
+    },
+    {
+      "component": "C3",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "BOTTOM",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "433.0709mil",
+        "Y": "2027.5591mil",
+        "PATTERN": "CAPC3216_CC1206JKNPO9BN104",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 2.70000000000000E+0002",
+        "HEIGHT": "70.8661mil",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "C3",
+        "SOURCEUNIQUEID": "\\ZCAPCHAC",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Capacitors_1206.PcbLib",
+        "SOURCECOMPONENTLIBRARY": "Reference_Capacitors.SchLib",
+        "SOURCELIBREFERENCE": "CMP-06035-056113-1",
+        "SOURCEDESCRIPTION": "Yageo CC1206JKNPO9BN104 100nF 50V C0G 5% 1206",
+        "UNIQUEID": "TBHAPVLJ",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "0mil",
+        "OVERALLHEIGHT": "70.8661mil",
+        "BODYPROJECTION": "1",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "67,97,112,95,77,117,114,97,116,97,95,71,67,77,49,53,53,82,55,49,72,50,55,49,75,65,51,55,68,95,101,101,99",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "0.0001mil",
+        "TEXTURESIZEY": "0.0001mil",
+        "TEXTUREROTATION": " 2.70000000000000E+0002",
+        "MODELID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+        "MODEL.CHECKSUM": "2037117482",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step",
+        "MODEL.2D.X": "433.0709mil",
+        "MODEL.2D.Y": "2027.5591mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "0.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "270.000",
+        "MODEL.3D.DZ": "0mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        11.00000086,
+        51.500001139999995
+      ],
+      "component_origin_mm": [
+        11.00000086,
+        51.500001139999995
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 1.79999894,
+      "body_projection": 1,
+      "outline_mm": [
+        [
+          11.9000016,
+          49.750002099999996
+        ],
+        [
+          11.9000016,
+          53.250000179999994
+        ],
+        [
+          10.100000119999999,
+          53.250000179999994
+        ],
+        [
+          10.100000119999999,
+          49.750002099999996
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "90.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "270.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        }
+      ]
+    },
+    {
+      "component": "C2",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "BOTTOM",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "622.0472mil",
+        "Y": "1570.8661mil",
+        "PATTERN": "CAPC3216_CC1206JKNPO9BN104",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 0.00000000000000E+0000",
+        "HEIGHT": "70.8661mil",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "C2",
+        "SOURCEUNIQUEID": "\\ZCAPCHAB",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Capacitors_1206.PcbLib",
+        "SOURCECOMPONENTLIBRARY": "Reference_Capacitors.SchLib",
+        "SOURCELIBREFERENCE": "CMP-06035-056113-1",
+        "SOURCEDESCRIPTION": "Yageo CC1206JKNPO9BN104 100nF 50V C0G 5% 1206",
+        "UNIQUEID": "AUFDICED",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "0mil",
+        "OVERALLHEIGHT": "70.8661mil",
+        "BODYPROJECTION": "1",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "67,97,112,95,77,117,114,97,116,97,95,71,67,77,49,53,53,82,55,49,72,50,55,49,75,65,51,55,68,95,101,101,99",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "0.0001mil",
+        "TEXTURESIZEY": "0.0001mil",
+        "TEXTUREROTATION": " 3.60000000000000E+0002",
+        "MODELID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+        "MODEL.CHECKSUM": "2037117482",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step",
+        "MODEL.2D.X": "622.0472mil",
+        "MODEL.2D.Y": "1570.8661mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "0.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "0.000",
+        "MODEL.3D.DZ": "0mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        15.799998879999999,
+        39.899998939999996
+      ],
+      "component_origin_mm": [
+        15.799998879999999,
+        39.899998939999996
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 1.79999894,
+      "body_projection": 1,
+      "outline_mm": [
+        [
+          14.049999839999998,
+          38.9999982
+        ],
+        [
+          17.54999792,
+          38.9999982
+        ],
+        [
+          17.54999792,
+          40.79999968
+        ],
+        [
+          14.049999839999998,
+          40.79999968
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "90.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "270.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        }
+      ]
+    },
+    {
+      "component": "C1",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "BOTTOM",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "475.7874mil",
+        "Y": "1098.4252mil",
+        "PATTERN": "CAPC3216_CC1206JKNPO9BN104",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 9.00000000000000E+0001",
+        "HEIGHT": "70.8661mil",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "C1",
+        "SOURCEUNIQUEID": "\\ZCAPCHAA",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Capacitors_1206.PcbLib",
+        "SOURCECOMPONENTLIBRARY": "Reference_Capacitors.SchLib",
+        "SOURCELIBREFERENCE": "CMP-06035-056113-1",
+        "SOURCEDESCRIPTION": "Yageo CC1206JKNPO9BN104 100nF 50V C0G 5% 1206",
+        "UNIQUEID": "PJTMMBHG",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "0mil",
+        "OVERALLHEIGHT": "70.8661mil",
+        "BODYPROJECTION": "1",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "67,97,112,95,77,117,114,97,116,97,95,71,67,77,49,53,53,82,55,49,72,50,55,49,75,65,51,55,68,95,101,101,99",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "0.0001mil",
+        "TEXTURESIZEY": "0.0001mil",
+        "TEXTUREROTATION": " 9.00000000000000E+0001",
+        "MODELID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+        "MODEL.CHECKSUM": "2037117482",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step",
+        "MODEL.2D.X": "475.7874mil",
+        "MODEL.2D.Y": "1098.4252mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "0.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "90.000",
+        "MODEL.3D.DZ": "0mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        12.08499996,
+        27.900000079999998
+      ],
+      "component_origin_mm": [
+        12.08499996,
+        27.900000079999998
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "dz_mm": 0.0,
+      "standoff_mm": 0.0,
+      "overall_height_mm": 1.79999894,
+      "body_projection": 1,
+      "outline_mm": [
+        [
+          11.18499922,
+          29.649999119999997
+        ],
+        [
+          11.18499922,
+          26.15000104
+        ],
+        [
+          12.985000699999999,
+          26.15000104
+        ],
+        [
+          12.985000699999999,
+          29.649999119999997
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "90.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "270.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{2335B6B2-D9CB-425D-B6C8-C2DC16C352A0}",
+            "ROTX": "0.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "0",
+            "CHECKSUM": "2037117482",
+            "NAME": "CC1206JKNPO9BN104_OEM_MAX_Centered.step"
+          },
+          "embedded_step_sha256": "7d4cbba8808a623b9f799621cc2d3699ed262a3958f51ef27762d51e53eb6807"
+        }
+      ]
+    },
+    {
+      "component": "SMP1",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "TOP",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "645.6693mil",
+        "Y": "1068.5039mil",
+        "PATTERN": "RF_Con",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 0.00000000000000E+0000",
+        "NAMEAUTOPOSITION": "1",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "SMP1",
+        "SOURCEUNIQUEID": "\\ZSMPCNAA",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Reference_Connectors.PcbLib",
+        "UNIQUEID": "WENBTOKR",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "-126.378mil",
+        "OVERALLHEIGHT": "212.5984mil",
+        "BODYPROJECTION": "0",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "275.5906mil",
+        "TEXTURESIZEY": "275.5906mil",
+        "TEXTUREROTATION": " 0.00000000000000E+0000",
+        "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+        "MODEL.CHECKSUM": "3679134564",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "SMP-FS-SBPCT.stp",
+        "MODEL.2D.X": "645.6693mil",
+        "MODEL.2D.Y": "1068.5039mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "90.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "0.000",
+        "MODEL.3D.DZ": "23.622mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        16.40000022,
+        27.139999059999997
+      ],
+      "component_origin_mm": [
+        16.40000022,
+        27.139999059999997
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "body_projection": 0,
+      "outline_mm": [
+        [
+          13.650000639999998,
+          24.4017292
+        ],
+        [
+          19.1499998,
+          24.4017292
+        ],
+        [
+          19.1499998,
+          29.878268919999996
+        ],
+        [
+          13.650000639999998,
+          29.878268919999996
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        }
+      ]
+    },
+    {
+      "component": "SMP2",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "TOP",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "645.6693mil",
+        "Y": "1351.9685mil",
+        "PATTERN": "RF_Con",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 0.00000000000000E+0000",
+        "NAMEAUTOPOSITION": "1",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "SMP2",
+        "SOURCEUNIQUEID": "\\ZSMPCNAB",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Reference_Connectors.PcbLib",
+        "UNIQUEID": "JOGCNVIL",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "-126.378mil",
+        "OVERALLHEIGHT": "212.5984mil",
+        "BODYPROJECTION": "0",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "275.5906mil",
+        "TEXTURESIZEY": "275.5906mil",
+        "TEXTUREROTATION": " 0.00000000000000E+0000",
+        "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+        "MODEL.CHECKSUM": "3679134564",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "SMP-FS-SBPCT.stp",
+        "MODEL.2D.X": "645.6693mil",
+        "MODEL.2D.Y": "1351.9685mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "90.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "0.000",
+        "MODEL.3D.DZ": "23.622mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        16.40000022,
+        34.339999899999995
+      ],
+      "component_origin_mm": [
+        16.40000022,
+        34.339999899999995
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "body_projection": 0,
+      "outline_mm": [
+        [
+          13.650000639999998,
+          31.601730039999996
+        ],
+        [
+          19.1499998,
+          31.601730039999996
+        ],
+        [
+          19.1499998,
+          37.07826976
+        ],
+        [
+          13.650000639999998,
+          37.07826976
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        }
+      ]
+    },
+    {
+      "component": "SMP3",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "TOP",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "645.6693mil",
+        "Y": "1922.8346mil",
+        "PATTERN": "RF_Con",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 0.00000000000000E+0000",
+        "NAMEAUTOPOSITION": "1",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "SMP3",
+        "SOURCEUNIQUEID": "\\ZSMPCNAC",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Reference_Connectors.PcbLib",
+        "UNIQUEID": "TIQARCUW",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "-126.378mil",
+        "OVERALLHEIGHT": "212.5984mil",
+        "BODYPROJECTION": "0",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "275.5906mil",
+        "TEXTURESIZEY": "275.5906mil",
+        "TEXTUREROTATION": " 0.00000000000000E+0000",
+        "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+        "MODEL.CHECKSUM": "3679134564",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "SMP-FS-SBPCT.stp",
+        "MODEL.2D.X": "645.6693mil",
+        "MODEL.2D.Y": "1922.8346mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "90.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "0.000",
+        "MODEL.3D.DZ": "23.622mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        16.40000022,
+        48.83999883999999
+      ],
+      "component_origin_mm": [
+        16.40000022,
+        48.83999883999999
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "body_projection": 0,
+      "outline_mm": [
+        [
+          13.650000639999998,
+          46.10172898
+        ],
+        [
+          19.1499998,
+          46.10172898
+        ],
+        [
+          19.1499998,
+          51.578268699999995
+        ],
+        [
+          13.650000639999998,
+          51.578268699999995
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        }
+      ]
+    },
+    {
+      "component": "SMP4",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "TOP",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "122.0472mil",
+        "Y": "1922.8346mil",
+        "PATTERN": "RF_Con",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 0.00000000000000E+0000",
+        "NAMEAUTOPOSITION": "1",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "SMP4",
+        "SOURCEUNIQUEID": "\\ZSMPCNAD",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Reference_Connectors.PcbLib",
+        "UNIQUEID": "ISPKCILJ",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "-126.378mil",
+        "OVERALLHEIGHT": "212.5984mil",
+        "BODYPROJECTION": "0",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "275.5906mil",
+        "TEXTURESIZEY": "275.5906mil",
+        "TEXTUREROTATION": " 0.00000000000000E+0000",
+        "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+        "MODEL.CHECKSUM": "3679134564",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "SMP-FS-SBPCT.stp",
+        "MODEL.2D.X": "122.0472mil",
+        "MODEL.2D.Y": "1922.8346mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "90.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "0.000",
+        "MODEL.3D.DZ": "23.622mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        3.09999888,
+        48.83999883999999
+      ],
+      "component_origin_mm": [
+        3.09999888,
+        48.83999883999999
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "body_projection": 0,
+      "outline_mm": [
+        [
+          0.34999929999999996,
+          46.10172898
+        ],
+        [
+          5.849998459999999,
+          46.10172898
+        ],
+        [
+          5.849998459999999,
+          51.578268699999995
+        ],
+        [
+          0.34999929999999996,
+          51.578268699999995
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        }
+      ]
+    },
+    {
+      "component": "SMP7",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "TOP",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "122.0472mil",
+        "Y": "2218.1102mil",
+        "PATTERN": "RF_Con",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 0.00000000000000E+0000",
+        "NAMEAUTOPOSITION": "1",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "SMP7",
+        "SOURCEUNIQUEID": "\\VTSMPSEV",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Reference_Connectors.PcbLib",
+        "UNIQUEID": "WEJYKQAX",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "-126.378mil",
+        "OVERALLHEIGHT": "212.5984mil",
+        "BODYPROJECTION": "0",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "275.5906mil",
+        "TEXTURESIZEY": "275.5906mil",
+        "TEXTUREROTATION": " 0.00000000000000E+0000",
+        "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+        "MODEL.CHECKSUM": "3679134564",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "SMP-FS-SBPCT.stp",
+        "MODEL.2D.X": "122.0472mil",
+        "MODEL.2D.Y": "2218.1102mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "90.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "0.000",
+        "MODEL.3D.DZ": "23.622mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        3.09999888,
+        56.33999908
+      ],
+      "component_origin_mm": [
+        3.09999888,
+        56.33999908
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "body_projection": 0,
+      "outline_mm": [
+        [
+          0.34999929999999996,
+          53.601729219999996
+        ],
+        [
+          5.849998459999999,
+          53.601729219999996
+        ],
+        [
+          5.849998459999999,
+          59.078268939999994
+        ],
+        [
+          0.34999929999999996,
+          59.078268939999994
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        }
+      ]
+    },
+    {
+      "component": "SMP8",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "TOP",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "645.6693mil",
+        "Y": "2218.1102mil",
+        "PATTERN": "RF_Con",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 0.00000000000000E+0000",
+        "NAMEAUTOPOSITION": "1",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "SOURCEDESIGNATOR": "SMP8",
+        "SOURCEUNIQUEID": "\\VTSMPEIG",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "Reference_Connectors.PcbLib",
+        "UNIQUEID": "XESMJOGT",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL13",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "-126.378mil",
+        "OVERALLHEIGHT": "212.5984mil",
+        "BODYPROJECTION": "0",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "83,77,80,45,70,83,45,83,66,80,67,84",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "275.5906mil",
+        "TEXTURESIZEY": "275.5906mil",
+        "TEXTUREROTATION": " 0.00000000000000E+0000",
+        "MODELID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+        "MODEL.CHECKSUM": "3679134564",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "SMP-FS-SBPCT.stp",
+        "MODEL.2D.X": "645.6693mil",
+        "MODEL.2D.Y": "2218.1102mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "90.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "0.000",
+        "MODEL.3D.DZ": "23.622mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        16.40000022,
+        56.33999908
+      ],
+      "component_origin_mm": [
+        16.40000022,
+        56.33999908
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        0.0
+      ],
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "dz_mm": 0.5999987999999999,
+      "standoff_mm": -3.2100011999999998,
+      "overall_height_mm": 5.39999936,
+      "body_projection": 0,
+      "outline_mm": [
+        [
+          13.650000639999998,
+          53.601729219999996
+        ],
+        [
+          19.1499998,
+          53.601729219999996
+        ],
+        [
+          19.1499998,
+          59.078268939999994
+        ],
+        [
+          13.650000639999998,
+          59.078268939999994
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "180.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        },
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{E897A0B7-F4CF-40BA-8C84-03B15ED648FC}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "236220",
+            "CHECKSUM": "-615832732",
+            "NAME": "SMP-FS-SBPCT.stp"
+          },
+          "embedded_step_sha256": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc"
+        }
+      ]
+    },
+    {
+      "component": "J1",
+      "component_fields": {
+        "SELECTION": "FALSE",
+        "LAYER": "TOP",
+        "LOCKED": "FALSE",
+        "POLYGONOUTLINE": "FALSE",
+        "USERROUTED": "TRUE",
+        "KEEPOUT": "FALSE",
+        "PRIMITIVELOCK": "TRUE",
+        "X": "383.8583mil",
+        "Y": "190.9449mil",
+        "PATTERN": "FP-5025985193-MFG",
+        "NAMEON": "TRUE",
+        "COMMENTON": "FALSE",
+        "GROUPNUM": "0",
+        "COUNT": "0",
+        "ROTATION": " 0.00000000000000E+0000",
+        "HEIGHT": "49.6063mil",
+        "COMMENTAUTOPOSITION": "3",
+        "UNIONINDEX": "0",
+        "CHANNELOFFSET": "0",
+        "SOURCEDESIGNATOR": "J1",
+        "SOURCEUNIQUEID": "\\GPQWNHID",
+        "SOURCEHIERARCHICALPATH": "QSTL_24DC_4MW_PCB",
+        "SOURCEFOOTPRINTLIBRARY": "ZIF_5025985193.PcbLib",
+        "SOURCECOMPONENTLIBRARY": "*",
+        "SOURCELIBREFERENCE": "ZIF_5025985193_53",
+        "SOURCEDESCRIPTION": "CONN FPC 51POS 0.30MM R/A",
+        "SOURCECOMPLIBIDENTIFIERKIND": "2",
+        "SOURCECOMPLIBRARYIDENTIFIER": "*",
+        "UNIQUEID": "OTHTIGVV",
+        "JUMPERSVISIBLE": "TRUE"
+      },
+      "body_fields": {
+        "V7_LAYER": "MECHANICAL1",
+        "NAME": " ",
+        "KIND": "0",
+        "SUBPOLYINDEX": "-1",
+        "UNIONINDEX": "0",
+        "ARCRESOLUTION": "0.5mil",
+        "ISSHAPEBASED": "FALSE",
+        "CAVITYHEIGHT": "0mil",
+        "STANDOFFHEIGHT": "4.3308mil",
+        "OVERALLHEIGHT": "49.6063mil",
+        "BODYPROJECTION": "0",
+        "BODYCOLOR3D": "8421504",
+        "BODYOPACITY3D": "1.000",
+        "IDENTIFIER": "53,48,50,53,57,56,53,49,57,51",
+        "TEXTURE": "",
+        "TEXTURECENTERX": "0mil",
+        "TEXTURECENTERY": "0mil",
+        "TEXTURESIZEX": "0mil",
+        "TEXTURESIZEY": "0mil",
+        "TEXTUREROTATION": " 1.80000000000000E+0002",
+        "MODELID": "{62B47A47-CB3F-4FB6-BAB2-2FB06AB83F54}",
+        "MODEL.CHECKSUM": "119773691",
+        "MODEL.EMBED": "TRUE",
+        "MODEL.NAME": "5025985193.stp",
+        "MODEL.2D.X": "383.8583mil",
+        "MODEL.2D.Y": "175.1968mil",
+        "MODEL.2D.ROTATION": "0.000",
+        "MODEL.3D.ROTX": "90.000",
+        "MODEL.3D.ROTY": "0.000",
+        "MODEL.3D.ROTZ": "0.000",
+        "MODEL.3D.DZ": "27.5591mil",
+        "MODEL.MODELTYPE": "1",
+        "MODEL.MODELSOURCE": "Undefined"
+      },
+      "model_origin_mm": [
+        9.750000819999999,
+        4.44999872
+      ],
+      "component_origin_mm": [
+        9.750000819999999,
+        4.8500004599999995
+      ],
+      "model_origin_minus_component_mm": [
+        0.0,
+        -0.40000173999999955
+      ],
+      "rotation_xyz_deg": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "dz_mm": 0.70000114,
+      "standoff_mm": 0.11000232,
+      "overall_height_mm": 1.2600000199999999,
+      "body_projection": 0,
+      "outline_mm": [
+        [
+          1.05000044,
+          2.62499856
+        ],
+        [
+          18.4500012,
+          2.62499856
+        ],
+        [
+          18.4500012,
+          6.42499858
+        ],
+        [
+          1.05000044,
+          6.42499858
+        ]
+      ],
+      "embedded_model_records": [
+        {
+          "metadata": {
+            "EMBED": "TRUE",
+            "MODELSOURCE": "Undefined",
+            "ID": "{62B47A47-CB3F-4FB6-BAB2-2FB06AB83F54}",
+            "ROTX": "90.000",
+            "ROTY": "0.000",
+            "ROTZ": "0.000",
+            "DZ": "275591",
+            "CHECKSUM": "119773691",
+            "NAME": "5025985193.stp"
+          },
+          "embedded_step_sha256": "0f86a223e1a1920af07de0972295acb75b1658ea2ece95c59b116630a4253501"
+        }
+      ]
+    }
+  ]
+}

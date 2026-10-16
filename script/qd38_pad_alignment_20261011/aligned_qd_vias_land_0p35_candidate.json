@@ -1,0 +1,1510 @@
+{
+  "status": "offline placement only; local routing/surfaces/native validation pending",
+  "source_candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+  "via_land_mm": 0.35,
+  "via_drill_mm": 0.2,
+  "required_land_gap_mm": 0.15,
+  "required_drill_gap_mm": 0.254,
+  "numerical_guard_mm": 2e-05,
+  "domains": [
+    {
+      "pad": 10,
+      "domain_count": 5032,
+      "old_via_legal": true,
+      "maximum_individual_gap_mm": 0.2832932527560405
+    },
+    {
+      "pad": 8,
+      "domain_count": 3128,
+      "old_via_legal": true,
+      "maximum_individual_gap_mm": 0.2202747601418928
+    },
+    {
+      "pad": 14,
+      "domain_count": 4540,
+      "old_via_legal": true,
+      "maximum_individual_gap_mm": 0.26872841290201815
+    },
+    {
+      "pad": 7,
+      "domain_count": 4540,
+      "old_via_legal": true,
+      "maximum_individual_gap_mm": 0.26872841290201815
+    },
+    {
+      "pad": 6,
+      "domain_count": 5062,
+      "old_via_legal": true,
+      "maximum_individual_gap_mm": 0.3155612859196556
+    },
+    {
+      "pad": 4,
+      "domain_count": 902,
+      "old_via_legal": false,
+      "maximum_individual_gap_mm": 0.1783972213535473
+    },
+    {
+      "pad": 17,
+      "domain_count": 1073,
+      "old_via_legal": false,
+      "maximum_individual_gap_mm": 0.18002572220827484
+    },
+    {
+      "pad": 3,
+      "domain_count": 1200,
+      "old_via_legal": false,
+      "maximum_individual_gap_mm": 0.1813110802453981
+    },
+    {
+      "pad": 18,
+      "domain_count": 1386,
+      "old_via_legal": false,
+      "maximum_individual_gap_mm": 0.18324448389747283
+    },
+    {
+      "pad": 19,
+      "domain_count": 1596,
+      "old_via_legal": true,
+      "maximum_individual_gap_mm": 0.18612272996531232
+    },
+    {
+      "pad": 1,
+      "domain_count": 1693,
+      "old_via_legal": true,
+      "maximum_individual_gap_mm": 0.18751552352613488
+    },
+    {
+      "pad": 20,
+      "domain_count": 1661,
+      "old_via_legal": false,
+      "maximum_individual_gap_mm": 0.18729465083438457
+    },
+    {
+      "pad": 38,
+      "domain_count": 1692,
+      "old_via_legal": false,
+      "maximum_individual_gap_mm": 0.18751552352613488
+    },
+    {
+      "pad": 37,
+      "domain_count": 1402,
+      "old_via_legal": false,
+      "maximum_individual_gap_mm": 0.18321126602265309
+    },
+    {
+      "pad": 22,
+      "domain_count": 1386,
+      "old_via_legal": false,
+      "maximum_individual_gap_mm": 0.1832444838974729
+    },
+    {
+      "pad": 36,
+      "domain_count": 1200,
+      "old_via_legal": false,
+      "maximum_individual_gap_mm": 0.18131108024540166
+    },
+    {
+      "pad": 23,
+      "domain_count": 1073,
+      "old_via_legal": false,
+      "maximum_individual_gap_mm": 0.180025722208275
+    },
+    {
+      "pad": 25,
+      "domain_count": 5062,
+      "old_via_legal": true,
+      "maximum_individual_gap_mm": 0.5808072851945272
+    },
+    {
+      "pad": 33,
+      "domain_count": 5062,
+      "old_via_legal": true,
+      "maximum_individual_gap_mm": 0.2902594816910091
+    },
+    {
+      "pad": 26,
+      "domain_count": 5062,
+      "old_via_legal": true,
+      "maximum_individual_gap_mm": 0.34546600223895446
+    },
+    {
+      "pad": 27,
+      "domain_count": 5062,
+      "old_via_legal": true,
+      "maximum_individual_gap_mm": 0.28923758118528065
+    },
+    {
+      "pad": 29,
+      "domain_count": 5062,
+      "old_via_legal": true,
+      "maximum_individual_gap_mm": 0.3540945151044786
+    }
+  ],
+  "neighbor_edges": [
+    [
+      8,
+      7
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      17,
+      18
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      19,
+      20
+    ],
+    [
+      1,
+      38
+    ],
+    [
+      38,
+      37
+    ],
+    [
+      37,
+      36
+    ],
+    [
+      22,
+      23
+    ],
+    [
+      26,
+      27
+    ]
+  ],
+  "discretely_impossible_pairs": [],
+  "visited_nodes": 23,
+  "joint_solution_found": true,
+  "qd_pads": [
+    {
+      "ref": "Q1",
+      "pin": "1",
+      "x": 9.52125988183612,
+      "y": 45.75709683102886,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC01",
+      "rotation": 93.62147982036534,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "2",
+      "x": 9.065871595332803,
+      "y": 45.766215066489345,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW02",
+      "rotation": 100.65486900132267,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "3",
+      "x": 8.602240787240598,
+      "y": 45.76907348117042,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC03",
+      "rotation": 107.56659508798364,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "4",
+      "x": 8.12463306317721,
+      "y": 45.76597011109112,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC04",
+      "rotation": 114.334390191473,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "5",
+      "x": 7.629418863925071,
+      "y": 45.75747084449096,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW05",
+      "rotation": 120.86948173817032,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "6",
+      "x": 7.032577241876945,
+      "y": 45.744048689097035,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC06",
+      "rotation": 127.25556760537795,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "7",
+      "x": 6.996665855502502,
+      "y": 44.385792355693695,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC07",
+      "rotation": 146.8918971699358,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "8",
+      "x": 6.9846255135088535,
+      "y": 43.85260270177432,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC08",
+      "rotation": 155.024792910786,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "9",
+      "x": 6.98111687218467,
+      "y": 43.312542176048765,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW09",
+      "rotation": 164.38599234235306,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "10",
+      "x": 6.990130075574421,
+      "y": 42.77000775631964,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC10",
+      "rotation": 174.6779031405318,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "11",
+      "x": 6.990130075574421,
+      "y": 42.22999224368036,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW11",
+      "rotation": 185.32209685946822,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "12",
+      "x": 6.98111687218467,
+      "y": 41.687457823951235,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW12",
+      "rotation": 195.61400765764694,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "13",
+      "x": 6.9846255135088535,
+      "y": 41.14739729822568,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW13",
+      "rotation": 204.975207089214,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "14",
+      "x": 6.996665855502502,
+      "y": 40.614207644306305,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC14",
+      "rotation": 213.1081028300642,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "15",
+      "x": 7.032577241876945,
+      "y": 39.255951310902965,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW15",
+      "rotation": 232.74443239462204,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "16",
+      "x": 7.877978008548642,
+      "y": 39.23769467872736,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW16",
+      "rotation": 242.33249252889922,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "17",
+      "x": 8.363674839057262,
+      "y": 39.231778039950164,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC17",
+      "rotation": 248.98668537155126,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "18",
+      "x": 8.834881997713563,
+      "y": 39.231582589771946,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC18",
+      "rotation": 255.85945750245025,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "19",
+      "x": 9.29489130145988,
+      "y": 39.23757017760549,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC19",
+      "rotation": 262.8639453388635,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "20",
+      "x": 9.75,
+      "y": 39.25,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC20",
+      "rotation": 270.0,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "21",
+      "x": 10.20510869854012,
+      "y": 39.23757017760549,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW21",
+      "rotation": 277.1360546611365,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "22",
+      "x": 10.665118002286437,
+      "y": 39.231582589771946,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC22",
+      "rotation": 284.14054249754975,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "23",
+      "x": 11.136325160942738,
+      "y": 39.231778039950164,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC23",
+      "rotation": 291.0133146284487,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "24",
+      "x": 11.622021991451359,
+      "y": 39.23769467872736,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW24",
+      "rotation": 297.66750747110075,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "25",
+      "x": 12.467422758123055,
+      "y": 39.255951310902965,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC25",
+      "rotation": 307.25556760537796,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "26",
+      "x": 12.50515819285184,
+      "y": 40.6804104018662,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC26",
+      "rotation": 327.83814244754853,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "27",
+      "x": 12.517223678601063,
+      "y": 41.281882381782765,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC27",
+      "rotation": 337.25642951092726,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "28",
+      "x": 12.517135704235606,
+      "y": 41.890959630444165,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW28",
+      "rotation": 348.16209447468384,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "29",
+      "x": 12.5,
+      "y": 42.5,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC29",
+      "rotation": 0.0,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "30",
+      "x": 12.517135704235606,
+      "y": 43.109040369555835,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW30",
+      "rotation": 11.83790552531616,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "31",
+      "x": 12.517223678601063,
+      "y": 43.718117618217235,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW31",
+      "rotation": 22.74357048907268,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "32",
+      "x": 12.50515819285184,
+      "y": 44.3195895981338,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW32",
+      "rotation": 32.161857552451465,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "33",
+      "x": 12.467422758123055,
+      "y": 45.744048689097035,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC33",
+      "rotation": 52.74443239462204,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "34",
+      "x": 11.870581136074929,
+      "y": 45.75747084449096,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW34",
+      "rotation": 59.13051826182965,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "35",
+      "x": 11.37536693682279,
+      "y": 45.76597011109112,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "MW35",
+      "rotation": 65.66560980852694,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "36",
+      "x": 10.897759212759405,
+      "y": 45.76907348117042,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC36",
+      "rotation": 72.43340491201633,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "37",
+      "x": 10.434128404667197,
+      "y": 45.766215066489345,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC37",
+      "rotation": 79.34513099867729,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    },
+    {
+      "ref": "Q1",
+      "pin": "38",
+      "x": 9.97874011816388,
+      "y": 45.75709683102886,
+      "sx": 0.8,
+      "sy": 0.25,
+      "net": "DC38",
+      "rotation": 86.37852017963462,
+      "layer": 32,
+      "hole": 0,
+      "shape": "rect"
+    }
+  ],
+  "qd_vias": [
+    {
+      "x": 6.692419064508037,
+      "y": 42.7977413801332,
+      "net": "DC10",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-10",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.299000000000001,
+      "minimum_foreign_pad_gap_mm": 0.20000000000000015,
+      "routing_layer": 2,
+      "assigned_dc_layer": 2,
+      "pad_lateral_offset_mm": 3.122502256758253e-17,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 6.713584831082355,
+      "y": 43.97884828969635,
+      "net": "DC08",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-8",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.2990000000000011,
+      "minimum_foreign_pad_gap_mm": 0.19999999999999926,
+      "routing_layer": 4,
+      "assigned_dc_layer": 4,
+      "pad_lateral_offset_mm": -3.1225022567582528e-15,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 6.746211053603369,
+      "y": 40.45088773674551,
+      "net": "DC14",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-14",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.2990000000000026,
+      "minimum_foreign_pad_gap_mm": 0.1830844702062547,
+      "routing_layer": 2,
+      "assigned_dc_layer": 2,
+      "pad_lateral_offset_mm": 2.3592239273284576e-15,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 6.746211053603369,
+      "y": 44.54911226325449,
+      "net": "DC07",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-7",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.2990000000000026,
+      "minimum_foreign_pad_gap_mm": 0.20000000000000015,
+      "routing_layer": 4,
+      "assigned_dc_layer": 4,
+      "pad_lateral_offset_mm": -2.275957200481571e-15,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 6.85157121267498,
+      "y": 45.98203570007144,
+      "net": "DC06",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-6",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.29899999999999244,
+      "minimum_foreign_pad_gap_mm": 0.2254633214728589,
+      "routing_layer": 2,
+      "assigned_dc_layer": 2,
+      "pad_lateral_offset_mm": -6.106226635438361e-16,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 8.00105587066781,
+      "y": 46.0392258292225,
+      "net": "DC04",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-4",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.29990000000000305,
+      "minimum_foreign_pad_gap_mm": 0.15270135930377202,
+      "routing_layer": 4,
+      "assigned_dc_layer": 4,
+      "pad_lateral_offset_mm": -6.245004513516506e-16,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 8.25613523081049,
+      "y": 38.951822252979916,
+      "net": "DC17",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-17",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.2999000000000007,
+      "minimum_foreign_pad_gap_mm": 0.16063671729787132,
+      "routing_layer": 4,
+      "assigned_dc_layer": 4,
+      "pad_lateral_offset_mm": -2.220446049250313e-16,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 8.511726737230871,
+      "y": 46.054988183049915,
+      "net": "DC03",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-3",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.29990000000000294,
+      "minimum_foreign_pad_gap_mm": 0.1630111801958256,
+      "routing_layer": 4,
+      "assigned_dc_layer": 4,
+      "pad_lateral_offset_mm": -5.551115123125783e-16,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 8.78576157298653,
+      "y": 38.934686641880035,
+      "net": "DC18",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-18",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.29990000000000133,
+      "minimum_foreign_pad_gap_mm": 0.38681475041583013,
+      "routing_layer": 4,
+      "assigned_dc_layer": 4,
+      "pad_lateral_offset_mm": 0.02490000000000049,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 9.285447690142503,
+      "y": 38.961698069661615,
+      "net": "DC19",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-19",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.2749083333333334,
+      "minimum_foreign_pad_gap_mm": 0.3281579661603829,
+      "routing_layer": 2,
+      "assigned_dc_layer": 2,
+      "pad_lateral_offset_mm": 0.024899999999999225,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 9.500152496079941,
+      "y": 45.8934901178892,
+      "net": "DC01",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-1",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.13745416666666424,
+      "minimum_foreign_pad_gap_mm": 0.15394839590775586,
+      "routing_layer": 4,
+      "assigned_dc_layer": 4,
+      "pad_lateral_offset_mm": 0.012449999999998611,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 9.76992,
+      "y": 39.08755416666666,
+      "net": "DC20",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-20",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.1624458333333365,
+      "minimum_foreign_pad_gap_mm": 0.16321796715530296,
+      "routing_layer": 4,
+      "assigned_dc_layer": 4,
+      "pad_lateral_offset_mm": 0.019920000000000857,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 9.972832924724353,
+      "y": 46.05797076653287,
+      "net": "DC38",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-38",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.29990000000000305,
+      "minimum_foreign_pad_gap_mm": 0.4447210125114296,
+      "routing_layer": 2,
+      "assigned_dc_layer": 2,
+      "pad_lateral_offset_mm": 0.02490000000000011,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 10.487130616844704,
+      "y": 46.06140479463769,
+      "net": "DC37",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-37",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.2999000000000045,
+      "minimum_foreign_pad_gap_mm": 0.3560471214355303,
+      "routing_layer": 2,
+      "assigned_dc_layer": 2,
+      "pad_lateral_offset_mm": 0.0024900000000001865,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 10.738383941836759,
+      "y": 38.94076974256294,
+      "net": "DC22",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-22",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.29989999999999817,
+      "minimum_foreign_pad_gap_mm": 0.16000896892920316,
+      "routing_layer": 2,
+      "assigned_dc_layer": 2,
+      "pad_lateral_offset_mm": 5.828670879282072e-16,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 10.988273262769132,
+      "y": 46.054988183049915,
+      "net": "DC36",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-36",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.29990000000000294,
+      "minimum_foreign_pad_gap_mm": 0.1600046692790747,
+      "routing_layer": 4,
+      "assigned_dc_layer": 4,
+      "pad_lateral_offset_mm": 7.494005416219807e-16,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 11.24386476918951,
+      "y": 38.951822252979916,
+      "net": "DC23",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-23",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.2999000000000007,
+      "minimum_foreign_pad_gap_mm": 0.157046261132559,
+      "routing_layer": 4,
+      "assigned_dc_layer": 4,
+      "pad_lateral_offset_mm": 3.3306690738754696e-16,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 12.64842878732502,
+      "y": 39.01796429992856,
+      "net": "DC25",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-25",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.29899999999999244,
+      "minimum_foreign_pad_gap_mm": 0.41633047564599773,
+      "routing_layer": 4,
+      "assigned_dc_layer": 4,
+      "pad_lateral_offset_mm": -5.551115123125783e-16,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 12.64842878732502,
+      "y": 45.98203570007144,
+      "net": "DC33",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-33",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.2989999999999925,
+      "minimum_foreign_pad_gap_mm": 0.22546332147285741,
+      "routing_layer": 2,
+      "assigned_dc_layer": 2,
+      "pad_lateral_offset_mm": 7.216449660063518e-16,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 12.758275961237253,
+      "y": 40.52124886339792,
+      "net": "DC26",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-26",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.2990000000000003,
+      "minimum_foreign_pad_gap_mm": 0.19999999999999926,
+      "routing_layer": 2,
+      "assigned_dc_layer": 2,
+      "pad_lateral_offset_mm": -1.9984014443252818e-15,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 12.79297474256202,
+      "y": 41.16628674724409,
+      "net": "DC27",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-27",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.2989999999999992,
+      "minimum_foreign_pad_gap_mm": 0.19999999999999926,
+      "routing_layer": 2,
+      "assigned_dc_layer": 2,
+      "pad_lateral_offset_mm": -6.938893903907228e-17,
+      "drill_fully_in_original_pad": true
+    },
+    {
+      "x": 12.799,
+      "y": 42.5,
+      "net": "DC29",
+      "diameter": 0.35,
+      "hole": 0.2,
+      "low": 1,
+      "high": 32,
+      "label": "Q1-29",
+      "via_in_pad": true,
+      "pad_axis_offset_mm": 0.2989999999999995,
+      "minimum_foreign_pad_gap_mm": 0.19999999999999926,
+      "routing_layer": 4,
+      "assigned_dc_layer": 4,
+      "pad_lateral_offset_mm": 0.0,
+      "drill_fully_in_original_pad": true
+    }
+  ],
+  "via_movements": [
+    {
+      "pad": 10,
+      "old_xy": [
+        6.692419064508037,
+        42.7977413801332
+      ],
+      "new_xy": [
+        6.692419064508037,
+        42.7977413801332
+      ],
+      "movement_mm": 0.0
+    },
+    {
+      "pad": 8,
+      "old_xy": [
+        6.713584831082355,
+        43.97884828969635
+      ],
+      "new_xy": [
+        6.713584831082355,
+        43.97884828969635
+      ],
+      "movement_mm": 0.0
+    },
+    {
+      "pad": 14,
+      "old_xy": [
+        6.746211053603369,
+        40.45088773674551
+      ],
+      "new_xy": [
+        6.746211053603369,
+        40.45088773674551
+      ],
+      "movement_mm": 0.0
+    },
+    {
+      "pad": 7,
+      "old_xy": [
+        6.746211053603369,
+        44.54911226325449
+      ],
+      "new_xy": [
+        6.746211053603369,
+        44.54911226325449
+      ],
+      "movement_mm": 0.0
+    },
+    {
+      "pad": 6,
+      "old_xy": [
+        6.85157121267498,
+        45.98203570007144
+      ],
+      "new_xy": [
+        6.85157121267498,
+        45.98203570007144
+      ],
+      "movement_mm": 0.0
+    },
+    {
+      "pad": 4,
+      "old_xy": [
+        7.9499190597627925,
+        46.15230030278069
+      ],
+      "new_xy": [
+        8.00105587066781,
+        46.0392258292225
+      ],
+      "movement_mm": 0.12409999999998562
+    },
+    {
+      "pad": 17,
+      "old_xy": [
+        8.184740979386907,
+        38.765962975934976
+      ],
+      "new_xy": [
+        8.25613523081049,
+        38.951822252979916
+      ],
+      "movement_mm": 0.19910000000000408
+    },
+    {
+      "pad": 3,
+      "old_xy": [
+        8.499132150175551,
+        46.09477181446216
+      ],
+      "new_xy": [
+        8.511726737230871,
+        46.054988183049915
+      ],
+      "movement_mm": 0.041729617197377764
+    },
+    {
+      "pad": 18,
+      "old_xy": [
+        8.738043537357639,
+        38.748964492024676
+      ],
+      "new_xy": [
+        8.78576157298653,
+        38.934686641880035
+      ],
+      "movement_mm": 0.19175434250930642
+    },
+    {
+      "pad": 19,
+      "old_xy": [
+        9.260212594120096,
+        38.960574117085
+      ],
+      "new_xy": [
+        9.285447690142503,
+        38.961698069661615
+      ],
+      "movement_mm": 0.025260113631069524
+    },
+    {
+      "pad": 1,
+      "old_xy": [
+        9.504192114377926,
+        46.02676792150359
+      ],
+      "new_xy": [
+        9.500152496079941,
+        45.8934901178892
+      ],
+      "movement_mm": 0.13333900949185687
+    },
+    {
+      "pad": 20,
+      "old_xy": [
+        9.774,
+        38.751
+      ],
+      "new_xy": [
+        9.76992,
+        39.08755416666666
+      ],
+      "movement_mm": 0.3365788963982945
+    },
+    {
+      "pad": 38,
+      "old_xy": [
+        9.989162930063955,
+        46.30173672803558
+      ],
+      "new_xy": [
+        9.972832924724353,
+        46.05797076653287
+      ],
+      "movement_mm": 0.2443123268722481
+    },
+    {
+      "pad": 37,
+      "old_xy": [
+        10.491220414277375,
+        46.069675998687586
+      ],
+      "new_xy": [
+        10.487130616844704,
+        46.06140479463769
+      ],
+      "movement_mm": 0.009227093771894155
+    },
+    {
+      "pad": 22,
+      "old_xy": [
+        10.742476532371304,
+        38.92452511493492
+      ],
+      "new_xy": [
+        10.738383941836759,
+        38.94076974256294
+      ],
+      "movement_mm": 0.016752230420348797
+    },
+    {
+      "pad": 36,
+      "old_xy": [
+        11.031049260297852,
+        46.19010849398183
+      ],
+      "new_xy": [
+        10.988273262769132,
+        46.054988183049915
+      ],
+      "movement_mm": 0.14172961719737706
+    },
+    {
+      "pad": 23,
+      "old_xy": [
+        11.28836515392917,
+        38.8359752601056
+      ],
+      "new_xy": [
+        11.24386476918951,
+        38.951822252979916
+      ],
+      "movement_mm": 0.12409999999999953
+    },
+    {
+      "pad": 25,
+      "old_xy": [
+        12.64842878732502,
+        39.01796429992856
+      ],
+      "new_xy": [
+        12.64842878732502,
+        39.01796429992856
+      ],
+      "movement_mm": 0.0
+    },
+    {
+      "pad": 33,
+      "old_xy": [
+        12.64842878732502,
+        45.98203570007144
+      ],
+      "new_xy": [
+        12.64842878732502,
+        45.98203570007144
+      ],
+      "movement_mm": 0.0
+    },
+    {
+      "pad": 26,
+      "old_xy": [
+        12.758275961237253,
+        40.52124886339792
+      ],
+      "new_xy": [
+        12.758275961237253,
+        40.52124886339792
+      ],
+      "movement_mm": 0.0
+    },
+    {
+      "pad": 27,
+      "old_xy": [
+        12.79297474256202,
+        41.16628674724409
+      ],
+      "new_xy": [
+        12.79297474256202,
+        41.16628674724409
+      ],
+      "movement_mm": 0.0
+    },
+    {
+      "pad": 29,
+      "old_xy": [
+        12.799,
+        42.5
+      ],
+      "new_xy": [
+        12.799,
+        42.5
+      ],
+      "movement_mm": 0.0
+    }
+  ],
+  "checks": [
+    {
+      "pad": 10,
+      "drill_containment_margin_mm": 0.0009999999999984743,
+      "foreign_pad_gap_mm": 0.27350753644001174,
+      "foreign_via_gap_mm": 0.8312965425719695,
+      "hole_gap_mm": 0.9812965425719695,
+      "passed": true
+    },
+    {
+      "pad": 8,
+      "drill_containment_margin_mm": 0.0009999999999996956,
+      "foreign_pad_gap_mm": 0.19549786680236048,
+      "foreign_via_gap_mm": 0.22119652479187168,
+      "hole_gap_mm": 0.37119652479187165,
+      "passed": true
+    },
+    {
+      "pad": 14,
+      "drill_containment_margin_mm": 0.0009999999999967119,
+      "foreign_pad_gap_mm": 0.2454157850251547,
+      "foreign_via_gap_mm": 1.7776908482042137,
+      "hole_gap_mm": 1.9276908482042139,
+      "passed": true
+    },
+    {
+      "pad": 7,
+      "drill_containment_margin_mm": 0.0009999999999967257,
+      "foreign_pad_gap_mm": 0.2454157850251547,
+      "foreign_via_gap_mm": 0.22119652479187168,
+      "hole_gap_mm": 0.37119652479187165,
+      "passed": true
+    },
+    {
+      "pad": 6,
+      "drill_containment_margin_mm": 0.0010000000000093406,
+      "foreign_pad_gap_mm": 0.29351816327638364,
+      "foreign_via_gap_mm": 0.8009064644154237,
+      "hole_gap_mm": 0.9509064644154237,
+      "passed": true
+    },
+    {
+      "pad": 4,
+      "drill_containment_margin_mm": 9.999999999669995e-05,
+      "foreign_pad_gap_mm": 0.16355429644552366,
+      "foreign_via_gap_mm": 0.160914068855466,
+      "hole_gap_mm": 0.31091406885546596,
+      "passed": true
+    },
+    {
+      "pad": 17,
+      "drill_containment_margin_mm": 9.999999999683873e-05,
+      "foreign_pad_gap_mm": 0.16765959027983057,
+      "foreign_via_gap_mm": 0.1799034737520967,
+      "hole_gap_mm": 0.32990347375209667,
+      "passed": true
+    },
+    {
+      "pad": 3,
+      "drill_containment_margin_mm": 9.999999999421583e-05,
+      "foreign_pad_gap_mm": 0.1717959379953088,
+      "foreign_via_gap_mm": 0.160914068855466,
+      "hole_gap_mm": 0.31091406885546596,
+      "passed": true
+    },
+    {
+      "pad": 18,
+      "drill_containment_margin_mm": 9.999999999849019e-05,
+      "foreign_pad_gap_mm": 0.16756001079241267,
+      "foreign_via_gap_mm": 0.15041566013586338,
+      "hole_gap_mm": 0.30041566013586335,
+      "passed": true
+    },
+    {
+      "pad": 19,
+      "drill_containment_margin_mm": 0.00010000000000083553,
+      "foreign_pad_gap_mm": 0.1645523098574973,
+      "foreign_via_gap_mm": 0.15041566013586338,
+      "hole_gap_mm": 0.30041566013586335,
+      "passed": true
+    },
+    {
+      "pad": 1,
+      "drill_containment_margin_mm": 0.01255000000000199,
+      "foreign_pad_gap_mm": 0.15032556135731673,
+      "foreign_via_gap_mm": 0.15048044057855636,
+      "hole_gap_mm": 0.30048044057855633,
+      "passed": true
+    },
+    {
+      "pad": 20,
+      "drill_containment_margin_mm": 0.0050799999999991685,
+      "foreign_pad_gap_mm": 0.1504535844127839,
+      "foreign_via_gap_mm": 0.15055287050620714,
+      "hole_gap_mm": 0.3005528705062071,
+      "passed": true
+    },
+    {
+      "pad": 38,
+      "drill_containment_margin_mm": 9.999999999832365e-05,
+      "foreign_pad_gap_mm": 0.16967590757289724,
+      "foreign_via_gap_mm": 0.15048044057855636,
+      "hole_gap_mm": 0.30048044057855633,
+      "passed": true
+    },
+    {
+      "pad": 37,
+      "drill_containment_margin_mm": 9.999999999209253e-05,
+      "foreign_pad_gap_mm": 0.1797093821631544,
+      "foreign_via_gap_mm": 0.15118372326763108,
+      "hole_gap_mm": 0.30118372326763104,
+      "passed": true
+    },
+    {
+      "pad": 22,
+      "drill_containment_margin_mm": 0.00010000000000140452,
+      "foreign_pad_gap_mm": 0.1758281609212946,
+      "foreign_via_gap_mm": 0.15560164636573326,
+      "hole_gap_mm": 0.3056016463657332,
+      "passed": true
+    },
+    {
+      "pad": 36,
+      "drill_containment_margin_mm": 9.999999999421583e-05,
+      "foreign_pad_gap_mm": 0.17179593799530718,
+      "foreign_via_gap_mm": 0.15118372326763108,
+      "hole_gap_mm": 0.30118372326763104,
+      "passed": true
+    },
+    {
+      "pad": 23,
+      "drill_containment_margin_mm": 9.999999999683873e-05,
+      "foreign_pad_gap_mm": 0.16765959027983063,
+      "foreign_via_gap_mm": 0.15560164636573326,
+      "hole_gap_mm": 0.3056016463657332,
+      "passed": true
+    },
+    {
+      "pad": 25,
+      "drill_containment_margin_mm": 0.001000000000009868,
+      "foreign_pad_gap_mm": 0.5589603122132987,
+      "foreign_via_gap_mm": 1.0561204967624662,
+      "hole_gap_mm": 1.2061204967624661,
+      "passed": true
+    },
+    {
+      "pad": 33,
+      "drill_containment_margin_mm": 0.001000000000009868,
+      "foreign_pad_gap_mm": 0.2765719026749814,
+      "foreign_via_gap_mm": 0.57657809415958,
+      "hole_gap_mm": 0.77657809415958,
+      "passed": true
+    },
+    {
+      "pad": 26,
+      "drill_containment_margin_mm": 0.0009999999999998066,
+      "foreign_pad_gap_mm": 0.32211129897993934,
+      "foreign_via_gap_mm": 0.2959704923772928,
+      "hole_gap_mm": 0.44597049237729275,
+      "passed": true
+    },
+    {
+      "pad": 27,
+      "drill_containment_margin_mm": 0.0010000000000020964,
+      "foreign_pad_gap_mm": 0.2645259568622597,
+      "foreign_via_gap_mm": 0.2959704923772928,
+      "hole_gap_mm": 0.44597049237729275,
+      "passed": true
+    },
+    {
+      "pad": 29,
+      "drill_containment_margin_mm": 0.0010000000000008613,
+      "foreign_pad_gap_mm": 0.35390988586229105,
+      "foreign_via_gap_mm": 0.9837268627061363,
+      "hole_gap_mm": 1.1337268627061363,
+      "passed": true
+    }
+  ],
+  "all_static_checks_passed": true,
+  "minimum_foreign_pad_gap_mm": 0.15032556135731673,
+  "minimum_foreign_via_gap_mm": 0.15041566013586338,
+  "minimum_hole_gap_mm": 0.30041566013586335,
+  "maximum_via_movement_mm": 0.3365788963982945,
+  "preserved_via_xy_count": 10
+}

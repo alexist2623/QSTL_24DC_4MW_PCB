@@ -1,0 +1,3858 @@
+{
+  "vias": [
+    {
+      "label": "Q1-1",
+      "net": "DC01",
+      "x": 9.495539593327598,
+      "y": 49.61639292,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 1,
+      "port": false
+    },
+    {
+      "label": "J1-9",
+      "net": "PORT9",
+      "x": 4.64999832,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 9
+    },
+    {
+      "label": "R34-2",
+      "net": "DC02",
+      "x": 6.050000000000001,
+      "y": 62.599999999999994,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 2,
+      "port": false
+    },
+    {
+      "label": "J1-25",
+      "net": "PORT25",
+      "x": 9.449998879999999,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 25
+    },
+    {
+      "label": "Q1-3",
+      "net": "DC03",
+      "x": 8.492439803107397,
+      "y": 49.76591510000001,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 3,
+      "port": false
+    },
+    {
+      "label": "J1-34",
+      "net": "PORT34",
+      "x": 12.149998559999998,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 34
+    },
+    {
+      "label": "Q1-4",
+      "net": "DC04",
+      "x": 7.97209845816138,
+      "y": 49.75325573999999,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 4,
+      "port": false
+    },
+    {
+      "label": "J1-6",
+      "net": "PORT6",
+      "x": 3.7499975799999996,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 6
+    },
+    {
+      "label": "R35-2",
+      "net": "DC05",
+      "x": 4.027756813566455,
+      "y": 57.05192378864669,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 5,
+      "port": false
+    },
+    {
+      "label": "J1-48",
+      "net": "PORT48",
+      "x": 16.34999778,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 48
+    },
+    {
+      "label": "Q1-6",
+      "net": "DC06",
+      "x": 6.834628912116956,
+      "y": 49.65431238555869,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 6,
+      "port": false
+    },
+    {
+      "label": "J1-14",
+      "net": "PORT14",
+      "x": 6.149997859999999,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 14
+    },
+    {
+      "label": "Q1-7",
+      "net": "DC07",
+      "x": 6.66954584,
+      "y": 48.249106871241935,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 7,
+      "port": false
+    },
+    {
+      "label": "J1-15",
+      "net": "PORT15",
+      "x": 6.44999726,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 15
+    },
+    {
+      "label": "Q1-8",
+      "net": "DC08",
+      "x": 6.64895914,
+      "y": 47.65894962878621,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 8,
+      "port": false
+    },
+    {
+      "label": "J1-2",
+      "net": "PORT2",
+      "x": 2.54999744,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 2
+    },
+    {
+      "label": "R09-2",
+      "net": "DC09",
+      "x": 4.148076211353317,
+      "y": 51.82775681356645,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 9,
+      "port": false
+    },
+    {
+      "label": "J1-3",
+      "net": "PORT3",
+      "x": 2.8499968399999998,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 3
+    },
+    {
+      "label": "Q1-10",
+      "net": "DC10",
+      "x": 6.65215981000666,
+      "y": 46.45149064035988,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 10,
+      "port": false
+    },
+    {
+      "label": "J1-11",
+      "net": "PORT11",
+      "x": 5.24999712,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 11
+    },
+    {
+      "label": "R05-2",
+      "net": "DC11",
+      "x": 3.7349999999999994,
+      "y": 49.75,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 11,
+      "port": false
+    },
+    {
+      "label": "J1-1",
+      "net": "PORT1",
+      "x": 2.24999804,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 1
+    },
+    {
+      "label": "R02-2",
+      "net": "DC12",
+      "x": 3.7349999999999994,
+      "y": 42.55,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 12,
+      "port": false
+    },
+    {
+      "label": "J1-5",
+      "net": "PORT5",
+      "x": 3.4499981799999997,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 5
+    },
+    {
+      "label": "R11-2",
+      "net": "DC13",
+      "x": 4.148076211353317,
+      "y": 40.472243186433545,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 13,
+      "port": false
+    },
+    {
+      "label": "J1-4",
+      "net": "PORT4",
+      "x": 3.1499987799999998,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 4
+    },
+    {
+      "label": "Q1-14",
+      "net": "DC14",
+      "x": 6.66954584,
+      "y": 44.05089330875807,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 14,
+      "port": false
+    },
+    {
+      "label": "J1-17",
+      "net": "PORT17",
+      "x": 7.0499985999999994,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 17
+    },
+    {
+      "label": "R12-2",
+      "net": "DC15",
+      "x": 4.027756813566455,
+      "y": 35.24807621135331,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 15,
+      "port": false
+    },
+    {
+      "label": "J1-8",
+      "net": "PORT8",
+      "x": 4.34999892,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 8
+    },
+    {
+      "label": "R15-2",
+      "net": "DC16",
+      "x": 6.050000000000001,
+      "y": 29.7,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 16,
+      "port": false
+    },
+    {
+      "label": "J1-7",
+      "net": "PORT7",
+      "x": 4.0499969799999995,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 7
+    },
+    {
+      "label": "Q1-17",
+      "net": "DC17",
+      "x": 8.238679682538843,
+      "y": 42.55637993963981,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 17,
+      "port": false
+    },
+    {
+      "label": "J1-10",
+      "net": "PORT10",
+      "x": 4.94999772,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 10
+    },
+    {
+      "label": "Q1-18",
+      "net": "DC18",
+      "x": 8.770246101440263,
+      "y": 42.52310448000001,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 18,
+      "port": false
+    },
+    {
+      "label": "J1-12",
+      "net": "PORT12",
+      "x": 5.549999059999999,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 12
+    },
+    {
+      "label": "Q1-19",
+      "net": "DC19",
+      "x": 9.27698811369069,
+      "y": 42.54412806000001,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 19,
+      "port": false
+    },
+    {
+      "label": "J1-24",
+      "net": "PORT24",
+      "x": 9.14999694,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 24
+    },
+    {
+      "label": "Q1-20",
+      "net": "DC20",
+      "x": 9.769919499999999,
+      "y": 42.65755430000001,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 20,
+      "port": false
+    },
+    {
+      "label": "J1-16",
+      "net": "PORT16",
+      "x": 6.74999666,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 16
+    },
+    {
+      "label": "R13-2",
+      "net": "DC21",
+      "x": 13.45,
+      "y": 29.7,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 21,
+      "port": false
+    },
+    {
+      "label": "J1-13",
+      "net": "PORT13",
+      "x": 5.849998459999999,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 13
+    },
+    {
+      "label": "Q1-22",
+      "net": "DC22",
+      "x": 10.753898238559739,
+      "y": 42.52918778000001,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 22,
+      "port": false
+    },
+    {
+      "label": "J1-20",
+      "net": "PORT20",
+      "x": 7.949996799999999,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 20
+    },
+    {
+      "label": "Q1-23",
+      "net": "DC23",
+      "x": 11.261319417461157,
+      "y": 42.55637993963981,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 23,
+      "port": false
+    },
+    {
+      "label": "J1-22",
+      "net": "PORT22",
+      "x": 8.54999814,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 22
+    },
+    {
+      "label": "R16-2",
+      "net": "DC24",
+      "x": 15.472243186433545,
+      "y": 35.24807621135331,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 24,
+      "port": false
+    },
+    {
+      "label": "J1-18",
+      "net": "PORT18",
+      "x": 7.349997999999999,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 18
+    },
+    {
+      "label": "Q1-25",
+      "net": "DC25",
+      "x": 12.691098606528579,
+      "y": 42.61186002926938,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 25,
+      "port": false
+    },
+    {
+      "label": "J1-30",
+      "net": "PORT30",
+      "x": 10.94999842,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 30
+    },
+    {
+      "label": "Q1-26",
+      "net": "DC26",
+      "x": 12.83311608,
+      "y": 44.124189666214306,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 26,
+      "port": false
+    },
+    {
+      "label": "J1-32",
+      "net": "PORT32",
+      "x": 11.54999722,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 32
+    },
+    {
+      "label": "Q1-27",
+      "net": "DC27",
+      "x": 12.855750019999999,
+      "y": 44.78997217997676,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 27,
+      "port": false
+    },
+    {
+      "label": "J1-38",
+      "net": "PORT38",
+      "x": 13.349998699999999,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 38
+    },
+    {
+      "label": "R28-2",
+      "net": "DC28",
+      "x": 15.351923788646687,
+      "y": 40.472243186433545,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 28,
+      "port": false
+    },
+    {
+      "label": "J1-26",
+      "net": "PORT26",
+      "x": 9.74999828,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 26
+    },
+    {
+      "label": "Q1-29",
+      "net": "DC29",
+      "x": 12.878998639999997,
+      "y": 46.14999882,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 29,
+      "port": false
+    },
+    {
+      "label": "J1-36",
+      "net": "PORT36",
+      "x": 12.749997359999998,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 36
+    },
+    {
+      "label": "R24-2",
+      "net": "DC30",
+      "x": 15.765,
+      "y": 42.55,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 30,
+      "port": false
+    },
+    {
+      "label": "J1-42",
+      "net": "PORT42",
+      "x": 14.549998839999999,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 42
+    },
+    {
+      "label": "R21-2",
+      "net": "DC31",
+      "x": 15.765,
+      "y": 49.75,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 31,
+      "port": false
+    },
+    {
+      "label": "J1-40",
+      "net": "PORT40",
+      "x": 13.949997499999998,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 40
+    },
+    {
+      "label": "R30-2",
+      "net": "DC32",
+      "x": 15.351923788646687,
+      "y": 51.82775681356645,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 32,
+      "port": false
+    },
+    {
+      "label": "J1-44",
+      "net": "PORT44",
+      "x": 15.149997639999999,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 44
+    },
+    {
+      "label": "Q1-33",
+      "net": "DC33",
+      "x": 12.713799894692935,
+      "y": 49.717987840000006,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 33,
+      "port": false
+    },
+    {
+      "label": "J1-23",
+      "net": "PORT23",
+      "x": 8.849997539999999,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 23
+    },
+    {
+      "label": "R31-2",
+      "net": "DC34",
+      "x": 15.472243186433545,
+      "y": 57.05192378864669,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 34,
+      "port": false
+    },
+    {
+      "label": "J1-19",
+      "net": "PORT19",
+      "x": 7.649997399999999,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 19
+    },
+    {
+      "label": "R32-2",
+      "net": "DC35",
+      "x": 13.45,
+      "y": 62.599999999999994,
+      "diameter": 0.5,
+      "hole": 0.25,
+      "kind": "resistor DC terminal",
+      "qd_pad": 35,
+      "port": false
+    },
+    {
+      "label": "J1-21",
+      "net": "PORT21",
+      "x": 8.249998739999999,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 21
+    },
+    {
+      "label": "Q1-36",
+      "net": "DC36",
+      "x": 11.0075618368926,
+      "y": 49.76591510000001,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 36,
+      "port": false
+    },
+    {
+      "label": "J1-46",
+      "net": "PORT46",
+      "x": 15.749998979999999,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 46
+    },
+    {
+      "label": "Q1-37",
+      "net": "DC37",
+      "x": 10.499131895905892,
+      "y": 49.77518864000001,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 37,
+      "port": false
+    },
+    {
+      "label": "J1-28",
+      "net": "PORT28",
+      "x": 10.34999708,
+      "y": -4.8250008,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 28
+    },
+    {
+      "label": "Q1-38",
+      "net": "DC38",
+      "x": 9.977446606672398,
+      "y": 49.780873160000006,
+      "diameter": 0.35,
+      "hole": 0.2,
+      "kind": "direct QD terminal",
+      "qd_pad": 38,
+      "port": false
+    },
+    {
+      "label": "J1-27",
+      "net": "PORT27",
+      "x": 10.049997679999999,
+      "y": -8.98999882,
+      "diameter": 0.4,
+      "hole": 0.2,
+      "kind": "ZIF terminal",
+      "port": true,
+      "pin": 27
+    }
+  ],
+  "top_fanout": [
+    {
+      "port": "J1-9",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          4.64999832,
+          -8.98999882
+        ],
+        [
+          4.64999832,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-25",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          9.449998879999999,
+          -8.98999882
+        ],
+        [
+          9.449998879999999,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-34",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          12.149998559999998,
+          -5.3749997
+        ],
+        [
+          12.149998559999998,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-6",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          3.7499975799999996,
+          -5.3749997
+        ],
+        [
+          3.7499975799999996,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-48",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          16.34999778,
+          -5.3749997
+        ],
+        [
+          16.34999778,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-14",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          6.149997859999999,
+          -5.3749997
+        ],
+        [
+          6.149997859999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-15",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          6.44999726,
+          -8.98999882
+        ],
+        [
+          6.44999726,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-2",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          2.54999744,
+          -5.3749997
+        ],
+        [
+          2.54999744,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-3",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          2.8499968399999998,
+          -8.98999882
+        ],
+        [
+          2.8499968399999998,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-11",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          5.24999712,
+          -8.98999882
+        ],
+        [
+          5.24999712,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-1",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          2.24999804,
+          -8.98999882
+        ],
+        [
+          2.24999804,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-5",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          3.4499981799999997,
+          -8.98999882
+        ],
+        [
+          3.4499981799999997,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-4",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          3.1499987799999998,
+          -5.3749997
+        ],
+        [
+          3.1499987799999998,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-17",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          7.0499985999999994,
+          -8.98999882
+        ],
+        [
+          7.0499985999999994,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-8",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          4.34999892,
+          -5.3749997
+        ],
+        [
+          4.34999892,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-7",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          4.0499969799999995,
+          -8.98999882
+        ],
+        [
+          4.0499969799999995,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-10",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          4.94999772,
+          -5.3749997
+        ],
+        [
+          4.94999772,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-12",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          5.549999059999999,
+          -5.3749997
+        ],
+        [
+          5.549999059999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-24",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          9.14999694,
+          -5.3749997
+        ],
+        [
+          9.14999694,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-16",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          6.74999666,
+          -5.3749997
+        ],
+        [
+          6.74999666,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-13",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          5.849998459999999,
+          -8.98999882
+        ],
+        [
+          5.849998459999999,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-20",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          7.949996799999999,
+          -5.3749997
+        ],
+        [
+          7.949996799999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-22",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          8.54999814,
+          -5.3749997
+        ],
+        [
+          8.54999814,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-18",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          7.349997999999999,
+          -5.3749997
+        ],
+        [
+          7.349997999999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-30",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          10.94999842,
+          -5.3749997
+        ],
+        [
+          10.94999842,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-32",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          11.54999722,
+          -5.3749997
+        ],
+        [
+          11.54999722,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-38",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          13.349998699999999,
+          -5.3749997
+        ],
+        [
+          13.349998699999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-26",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          9.74999828,
+          -5.3749997
+        ],
+        [
+          9.74999828,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-36",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          12.749997359999998,
+          -5.3749997
+        ],
+        [
+          12.749997359999998,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-42",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          14.549998839999999,
+          -5.3749997
+        ],
+        [
+          14.549998839999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-40",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          13.949997499999998,
+          -5.3749997
+        ],
+        [
+          13.949997499999998,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-44",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          15.149997639999999,
+          -5.3749997
+        ],
+        [
+          15.149997639999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-23",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          8.849997539999999,
+          -8.98999882
+        ],
+        [
+          8.849997539999999,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-19",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          7.649997399999999,
+          -8.98999882
+        ],
+        [
+          7.649997399999999,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-21",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          8.249998739999999,
+          -8.98999882
+        ],
+        [
+          8.249998739999999,
+          -8.43999992
+        ]
+      ]
+    },
+    {
+      "port": "J1-46",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          15.749998979999999,
+          -5.3749997
+        ],
+        [
+          15.749998979999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-28",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          10.34999708,
+          -5.3749997
+        ],
+        [
+          10.34999708,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "port": "J1-27",
+      "width": 0.14999969999999999,
+      "points": [
+        [
+          10.049997679999999,
+          -8.98999882
+        ],
+        [
+          10.049997679999999,
+          -8.43999992
+        ]
+      ]
+    }
+  ],
+  "mapping": [
+    {
+      "qd_pad": "1",
+      "chip_net": "SET_NE_BARRIER_L",
+      "zif_pin": "9",
+      "dc_net": "DC01",
+      "dc_layer": "4",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "2",
+      "chip_net": "SET_NE_PLUNGER",
+      "zif_pin": "25",
+      "dc_net": "DC02",
+      "dc_layer": "4",
+      "rf": "True",
+      "rf_net": "MW02",
+      "smp": "SMP34",
+      "resistor": "R34",
+      "capacitor": "C34"
+    },
+    {
+      "qd_pad": "3",
+      "chip_net": "SET_NE_SCREEN",
+      "zif_pin": "34",
+      "dc_net": "DC03",
+      "dc_layer": "4",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "4",
+      "chip_net": "SET_NE_BARRIER_R",
+      "zif_pin": "6",
+      "dc_net": "DC04",
+      "dc_layer": "4",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "5",
+      "chip_net": "SET_NE_OHMIC_R",
+      "zif_pin": "48",
+      "dc_net": "DC05",
+      "dc_layer": "4",
+      "rf": "True",
+      "rf_net": "MW05",
+      "smp": "SMP35",
+      "resistor": "R35",
+      "capacitor": "C35"
+    },
+    {
+      "qd_pad": "6",
+      "chip_net": "SET_NE_SCREEN_AUX_R",
+      "zif_pin": "14",
+      "dc_net": "DC06",
+      "dc_layer": "2",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "7",
+      "chip_net": "SET_NE_ACC_R",
+      "zif_pin": "15",
+      "dc_net": "DC07",
+      "dc_layer": "4",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "8",
+      "chip_net": "SET_NE_SCREEN_QD",
+      "zif_pin": "2",
+      "dc_net": "DC08",
+      "dc_layer": "4",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "9",
+      "chip_net": "QD_B_NE_SET",
+      "zif_pin": "3",
+      "dc_net": "DC09",
+      "dc_layer": "2",
+      "rf": "True",
+      "rf_net": "MW09",
+      "smp": "SMP09",
+      "resistor": "R09",
+      "capacitor": "C09"
+    },
+    {
+      "qd_pad": "10",
+      "chip_net": "QD_SCREEN_NE",
+      "zif_pin": "11",
+      "dc_net": "DC10",
+      "dc_layer": "2",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "11",
+      "chip_net": "QD_NE_P",
+      "zif_pin": "1",
+      "dc_net": "DC11",
+      "dc_layer": "2",
+      "rf": "True",
+      "rf_net": "MW11",
+      "smp": "SMP05",
+      "resistor": "R05",
+      "capacitor": "C05"
+    },
+    {
+      "qd_pad": "12",
+      "chip_net": "QD_BARRIER_N",
+      "zif_pin": "5",
+      "dc_net": "DC12",
+      "dc_layer": "4",
+      "rf": "True",
+      "rf_net": "MW12",
+      "smp": "SMP02",
+      "resistor": "R02",
+      "capacitor": "C02"
+    },
+    {
+      "qd_pad": "13",
+      "chip_net": "QD_NW_P",
+      "zif_pin": "4",
+      "dc_net": "DC13",
+      "dc_layer": "2",
+      "rf": "True",
+      "rf_net": "MW13",
+      "smp": "SMP11",
+      "resistor": "R11",
+      "capacitor": "C11"
+    },
+    {
+      "qd_pad": "14",
+      "chip_net": "QD_SCREEN_NW",
+      "zif_pin": "17",
+      "dc_net": "DC14",
+      "dc_layer": "2",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "15",
+      "chip_net": "QD_BARRIER_W",
+      "zif_pin": "8",
+      "dc_net": "DC15",
+      "dc_layer": "2",
+      "rf": "True",
+      "rf_net": "MW15",
+      "smp": "SMP12",
+      "resistor": "R12",
+      "capacitor": "C12"
+    },
+    {
+      "qd_pad": "16",
+      "chip_net": "SET_SW_BARRIER_UPPER_L",
+      "zif_pin": "7",
+      "dc_net": "DC16",
+      "dc_layer": "2",
+      "rf": "True",
+      "rf_net": "MW16",
+      "smp": "SMP15",
+      "resistor": "R15",
+      "capacitor": "C15"
+    },
+    {
+      "qd_pad": "17",
+      "chip_net": "SET_SW_ACC_L",
+      "zif_pin": "10",
+      "dc_net": "DC17",
+      "dc_layer": "4",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "18",
+      "chip_net": "SET_SW_SCREEN_AUX_L",
+      "zif_pin": "12",
+      "dc_net": "DC18",
+      "dc_layer": "4",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "19",
+      "chip_net": "SET_SW_OHMIC_L",
+      "zif_pin": "24",
+      "dc_net": "DC19",
+      "dc_layer": "2",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "20",
+      "chip_net": "SET_SW_BARRIER_L",
+      "zif_pin": "16",
+      "dc_net": "DC20",
+      "dc_layer": "4",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "21",
+      "chip_net": "SET_SW_PLUNGER",
+      "zif_pin": "13",
+      "dc_net": "DC21",
+      "dc_layer": "4",
+      "rf": "True",
+      "rf_net": "MW21",
+      "smp": "SMP13",
+      "resistor": "R13",
+      "capacitor": "C13"
+    },
+    {
+      "qd_pad": "22",
+      "chip_net": "SET_SW_SCREEN",
+      "zif_pin": "20",
+      "dc_net": "DC22",
+      "dc_layer": "2",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "23",
+      "chip_net": "SET_SW_BARRIER_R",
+      "zif_pin": "22",
+      "dc_net": "DC23",
+      "dc_layer": "4",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "24",
+      "chip_net": "SET_SW_OHMIC_R",
+      "zif_pin": "18",
+      "dc_net": "DC24",
+      "dc_layer": "2",
+      "rf": "True",
+      "rf_net": "MW24",
+      "smp": "SMP16",
+      "resistor": "R16",
+      "capacitor": "C16"
+    },
+    {
+      "qd_pad": "25",
+      "chip_net": "SET_SW_SCREEN_AUX_R",
+      "zif_pin": "30",
+      "dc_net": "DC25",
+      "dc_layer": "4",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "26",
+      "chip_net": "SET_SW_ACC_R",
+      "zif_pin": "32",
+      "dc_net": "DC26",
+      "dc_layer": "2",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "27",
+      "chip_net": "SET_SW_SCREEN_QD",
+      "zif_pin": "38",
+      "dc_net": "DC27",
+      "dc_layer": "2",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "28",
+      "chip_net": "QD_B_SW_SET",
+      "zif_pin": "26",
+      "dc_net": "DC28",
+      "dc_layer": "4",
+      "rf": "True",
+      "rf_net": "MW28",
+      "smp": "SMP28",
+      "resistor": "R28",
+      "capacitor": "C28"
+    },
+    {
+      "qd_pad": "29",
+      "chip_net": "QD_SCREEN_SW",
+      "zif_pin": "36",
+      "dc_net": "DC29",
+      "dc_layer": "4",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "30",
+      "chip_net": "QD_SW_P",
+      "zif_pin": "42",
+      "dc_net": "DC30",
+      "dc_layer": "2",
+      "rf": "True",
+      "rf_net": "MW30",
+      "smp": "SMP24",
+      "resistor": "R24",
+      "capacitor": "C24"
+    },
+    {
+      "qd_pad": "31",
+      "chip_net": "QD_BARRIER_S",
+      "zif_pin": "40",
+      "dc_net": "DC31",
+      "dc_layer": "4",
+      "rf": "True",
+      "rf_net": "MW31",
+      "smp": "SMP21",
+      "resistor": "R21",
+      "capacitor": "C21"
+    },
+    {
+      "qd_pad": "32",
+      "chip_net": "QD_SE_P",
+      "zif_pin": "44",
+      "dc_net": "DC32",
+      "dc_layer": "2",
+      "rf": "True",
+      "rf_net": "MW32",
+      "smp": "SMP30",
+      "resistor": "R30",
+      "capacitor": "C30"
+    },
+    {
+      "qd_pad": "33",
+      "chip_net": "QD_SCREEN_SE",
+      "zif_pin": "23",
+      "dc_net": "DC33",
+      "dc_layer": "2",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "34",
+      "chip_net": "QD_BARRIER_E",
+      "zif_pin": "19",
+      "dc_net": "DC34",
+      "dc_layer": "2",
+      "rf": "True",
+      "rf_net": "MW34",
+      "smp": "SMP31",
+      "resistor": "R31",
+      "capacitor": "C31"
+    },
+    {
+      "qd_pad": "35",
+      "chip_net": "SET_NE_BARRIER_UPPER_L",
+      "zif_pin": "21",
+      "dc_net": "DC35",
+      "dc_layer": "4",
+      "rf": "True",
+      "rf_net": "MW35",
+      "smp": "SMP32",
+      "resistor": "R32",
+      "capacitor": "C32"
+    },
+    {
+      "qd_pad": "36",
+      "chip_net": "SET_NE_ACC_L",
+      "zif_pin": "46",
+      "dc_net": "DC36",
+      "dc_layer": "4",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "37",
+      "chip_net": "SET_NE_SCREEN_AUX_L",
+      "zif_pin": "28",
+      "dc_net": "DC37",
+      "dc_layer": "2",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    },
+    {
+      "qd_pad": "38",
+      "chip_net": "SET_NE_OHMIC_L",
+      "zif_pin": "27",
+      "dc_net": "DC38",
+      "dc_layer": "2",
+      "rf": "False",
+      "rf_net": "",
+      "smp": "",
+      "resistor": "",
+      "capacitor": ""
+    }
+  ],
+  "source_geometry_SHA256": "c4d07b8a4017170a910ed7e2a7f791fcc5fea7d4f98c42897d67abb3774135cd",
+  "rf_geometry_SHA256": "6ad262bcbc736dfd160ced4e456cdd5975e012a7e8a1807a12869e6adaed9395",
+  "scope": "Offline routed proposal; native PCB/schematic unchanged",
+  "QD_terminal_shifts_within_unchanged_pads": [
+    {
+      "terminal": "Q1-6",
+      "old_mm": [
+        6.786199205307064,
+        49.717987840000006
+      ],
+      "new_mm": [
+        6.834628912116956,
+        49.65431238555869
+      ],
+      "shift_mm": 0.08000000000000171
+    },
+    {
+      "terminal": "Q1-10",
+      "old_mm": [
+        6.6222891399999995,
+        46.4542732782007
+      ],
+      "new_mm": [
+        6.65215981000666,
+        46.45149064035988
+      ],
+      "shift_mm": 0.03
+    },
+    {
+      "terminal": "Q1-17",
+      "old_mm": [
+        8.232404446979261,
+        42.54004374
+      ],
+      "new_mm": [
+        8.238679682538843,
+        42.55637993963981
+      ],
+      "shift_mm": 0.017499999999998392
+    },
+    {
+      "terminal": "Q1-23",
+      "old_mm": [
+        11.267594653020739,
+        42.54004374
+      ],
+      "new_mm": [
+        11.261319417461157,
+        42.55637993963981
+      ],
+      "shift_mm": 0.017499999999998392
+    },
+    {
+      "terminal": "Q1-25",
+      "old_mm": [
+        12.713800031595715,
+        42.58201216000001
+      ],
+      "new_mm": [
+        12.691098606528579,
+        42.61186002926938
+      ],
+      "shift_mm": 0.03750000000000121
+    }
+  ],
+  "routes": [
+    {
+      "net": "DC16",
+      "source": "R15-2",
+      "port": "J1-2",
+      "qd_pad": 16,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          6.050000000000001,
+          29.7
+        ],
+        [
+          6.050000000000001,
+          28.490000000000126
+        ],
+        [
+          8.33999999999999,
+          26.200000000000138
+        ],
+        [
+          8.33999999999999,
+          0.9650017599999892
+        ],
+        [
+          2.54999744,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC15",
+      "source": "R12-2",
+      "port": "J1-7",
+      "qd_pad": 15,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          4.027756813566455,
+          35.24807621135331
+        ],
+        [
+          4.027756813566455,
+          27.90724318643351
+        ],
+        [
+          5.73999999999999,
+          26.194999999999975
+        ],
+        [
+          5.73999999999999,
+          1.2349999999999905
+        ],
+        [
+          1.319999999999994,
+          -3.185000000000006
+        ],
+        [
+          1.319999999999994,
+          -6.260001839999995
+        ],
+        [
+          4.0499969799999995,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC13",
+      "source": "R11-2",
+      "port": "J1-5",
+      "qd_pad": 13,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          4.148076211353317,
+          40.472243186433545
+        ],
+        [
+          2.879999999999993,
+          39.20416697508022
+        ],
+        [
+          2.879999999999993,
+          28.534999999999968
+        ],
+        [
+          5.479999999999991,
+          25.93499999999997
+        ],
+        [
+          5.479999999999991,
+          1.4949999999999903
+        ],
+        [
+          1.0599999999999943,
+          -2.925000000000006
+        ],
+        [
+          1.0599999999999943,
+          -6.600000639999995
+        ],
+        [
+          3.4499981799999997,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC18",
+      "source": "Q1-18",
+      "port": "J1-14",
+      "qd_pad": 18,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          8.770246101440263,
+          42.52310448000001
+        ],
+        [
+          9.899999999999988,
+          41.39335058144028
+        ],
+        [
+          9.899999999999988,
+          -1.074998660000011
+        ],
+        [
+          6.149997859999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC19",
+      "source": "Q1-19",
+      "port": "J1-16",
+      "qd_pad": 19,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          9.27698811369069,
+          42.54412806000001
+        ],
+        [
+          10.15999999999999,
+          41.661116173690715
+        ],
+        [
+          10.15999999999999,
+          -3.5650000000000053
+        ],
+        [
+          9.75999999999999,
+          -3.9650000000000056
+        ],
+        [
+          7.609997459999994,
+          -3.965000000000005
+        ],
+        [
+          6.74999666,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC12",
+      "source": "R02-2",
+      "port": "J1-3",
+      "qd_pad": 12,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          3.7349999999999994,
+          42.55
+        ],
+        [
+          2.619999999999993,
+          41.43499999999999
+        ],
+        [
+          2.619999999999993,
+          28.27499999999997
+        ],
+        [
+          5.219999999999991,
+          25.674999999999972
+        ],
+        [
+          5.219999999999991,
+          1.7549999999999901
+        ],
+        [
+          0.7999999999999945,
+          -2.6650000000000063
+        ],
+        [
+          0.7999999999999945,
+          -6.940001979999995
+        ],
+        [
+          2.8499968399999998,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC17",
+      "source": "Q1-17",
+      "port": "J1-12",
+      "qd_pad": 17,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          8.238679682538843,
+          42.55637993963981
+        ],
+        [
+          8.238679682538843,
+          42.4163203174611
+        ],
+        [
+          9.639999999999986,
+          41.01499999999996
+        ],
+        [
+          9.639999999999986,
+          -0.7349998600000127
+        ],
+        [
+          5.549999059999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC14",
+      "source": "Q1-14",
+      "port": "J1-8",
+      "qd_pad": 14,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          6.66954584,
+          44.05089330875807
+        ],
+        [
+          6.66954584,
+          42.68545415999995
+        ],
+        [
+          9.119999999999987,
+          40.234999999999964
+        ],
+        [
+          9.119999999999987,
+          -0.054999720000012964
+        ],
+        [
+          4.34999892,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC10",
+      "source": "Q1-10",
+      "port": "J1-10",
+      "qd_pad": 10,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          6.65215981000666,
+          46.45149064035988
+        ],
+        [
+          7.039999999999987,
+          46.06365045036655
+        ],
+        [
+          7.039999999999989,
+          42.83499999999996
+        ],
+        [
+          9.379999999999988,
+          40.49499999999996
+        ],
+        [
+          9.379999999999988,
+          -0.39499852000001123
+        ],
+        [
+          4.94999772,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC08",
+      "source": "Q1-8",
+      "port": "J1-4",
+      "qd_pad": 8,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          6.64895914,
+          47.65894962878621
+        ],
+        [
+          6.403949628786248,
+          47.65894962878621
+        ],
+        [
+          5.99999999999999,
+          47.25499999999995
+        ],
+        [
+          5.99999999999999,
+          41.79499999999996
+        ],
+        [
+          8.599999999999987,
+          39.194999999999965
+        ],
+        [
+          8.599999999999987,
+          0.6250004199999877
+        ],
+        [
+          3.1499987799999998,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC07",
+      "source": "Q1-7",
+      "port": "J1-6",
+      "qd_pad": 7,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          6.66954584,
+          48.249106871241935
+        ],
+        [
+          7.039999999999989,
+          47.87865271124195
+        ],
+        [
+          7.039999999999989,
+          47.30699999999995
+        ],
+        [
+          6.727999999999991,
+          46.994999999999955
+        ],
+        [
+          6.447199999999991,
+          46.994999999999955
+        ],
+        [
+          6.259999999999992,
+          46.80779999999996
+        ],
+        [
+          6.25999999999999,
+          42.57499999999997
+        ],
+        [
+          8.859999999999989,
+          39.974999999999966
+        ],
+        [
+          8.859999999999989,
+          0.2850016199999894
+        ],
+        [
+          3.7499975799999996,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC01",
+      "source": "Q1-1",
+      "port": "J1-15",
+      "qd_pad": 1,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          9.495539593327598,
+          49.61639292
+        ],
+        [
+          10.036932513327647,
+          49.07499999999995
+        ],
+        [
+          11.939999999999987,
+          49.07499999999995
+        ],
+        [
+          12.239999999999986,
+          48.774999999999956
+        ],
+        [
+          12.239999999999988,
+          42.57499999999996
+        ],
+        [
+          10.679999999999986,
+          41.01499999999996
+        ],
+        [
+          10.679999999999986,
+          1.494999999999994
+        ],
+        [
+          16.91999999999998,
+          -4.745000000000001
+        ],
+        [
+          16.91999999999998,
+          -5.057000000000003
+        ],
+        [
+          16.71199999999998,
+          -5.265000000000004
+        ],
+        [
+          10.174996079999996,
+          -5.265000000000004
+        ],
+        [
+          6.44999726,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC06",
+      "source": "Q1-6",
+      "port": "J1-13",
+      "qd_pad": 6,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          6.834628912116956,
+          49.65431238555869
+        ],
+        [
+          6.25999999999999,
+          49.079683473441726
+        ],
+        [
+          6.25999999999999,
+          48.034999999999954
+        ],
+        [
+          5.479999999999991,
+          47.25499999999995
+        ],
+        [
+          5.479999999999991,
+          41.79499999999996
+        ],
+        [
+          7.039999999999989,
+          40.23499999999996
+        ],
+        [
+          7.039999999999989,
+          32.43499999999997
+        ],
+        [
+          4.959999999999991,
+          30.35499999999997
+        ],
+        [
+          4.959999999999991,
+          28.534999999999968
+        ],
+        [
+          6.51999999999999,
+          26.97499999999997
+        ],
+        [
+          6.51999999999999,
+          0.1949999999999914
+        ],
+        [
+          2.0999999999999934,
+          -4.225000000000005
+        ],
+        [
+          2.0999999999999934,
+          -5.2400003599999945
+        ],
+        [
+          5.849998459999999,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC11",
+      "source": "R05-2",
+      "port": "J1-1",
+      "qd_pad": 11,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          3.7349999999999994,
+          49.75
+        ],
+        [
+          2.7750000000000368,
+          49.75
+        ],
+        [
+          0.5399999999999947,
+          47.51499999999996
+        ],
+        [
+          0.5399999999999947,
+          -7.280000779999995
+        ],
+        [
+          2.24999804,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC04",
+      "source": "Q1-4",
+      "port": "J1-18",
+      "qd_pad": 4,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          7.97209845816138,
+          49.75325573999999
+        ],
+        [
+          7.299999999999989,
+          49.0811572818386
+        ],
+        [
+          7.299999999999989,
+          43.494999999999955
+        ],
+        [
+          7.699999999999989,
+          43.094999999999956
+        ],
+        [
+          9.951999999999991,
+          43.094999999999956
+        ],
+        [
+          10.15999999999999,
+          42.88699999999996
+        ],
+        [
+          10.15999999999999,
+          42.57499999999996
+        ],
+        [
+          10.419999999999987,
+          42.31499999999996
+        ],
+        [
+          10.419999999999987,
+          -3.825000000000005
+        ],
+        [
+          10.019999999999987,
+          -4.225000000000005
+        ],
+        [
+          7.949998799999994,
+          -4.225000000000005
+        ],
+        [
+          7.349997999999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC03",
+      "source": "Q1-3",
+      "port": "J1-17",
+      "qd_pad": 3,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          8.492439803107397,
+          49.76591510000001
+        ],
+        [
+          9.101524703107339,
+          50.37499999999995
+        ],
+        [
+          11.459999999999987,
+          50.37499999999995
+        ],
+        [
+          13.279999999999987,
+          48.55499999999995
+        ],
+        [
+          13.279999999999987,
+          42.57499999999996
+        ],
+        [
+          10.939999999999987,
+          40.234999999999964
+        ],
+        [
+          10.939999999999987,
+          1.7549999999999901
+        ],
+        [
+          17.179999999999982,
+          -4.485000000000005
+        ],
+        [
+          17.179999999999982,
+          -5.1250000000000036
+        ],
+        [
+          16.779999999999983,
+          -5.525000000000003
+        ],
+        [
+          10.514997419999997,
+          -5.525000000000004
+        ],
+        [
+          7.0499985999999994,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC09",
+      "source": "R09-2",
+      "port": "J1-9",
+      "qd_pad": 9,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          4.148076211353317,
+          51.82775681356645
+        ],
+        [
+          3.9199999999999937,
+          51.59968060221313
+        ],
+        [
+          3.9199999999999937,
+          51.15499999999995
+        ],
+        [
+          4.959999999999991,
+          50.11499999999995
+        ],
+        [
+          4.959999999999991,
+          41.27499999999996
+        ],
+        [
+          6.51999999999999,
+          39.71499999999996
+        ],
+        [
+          6.51999999999999,
+          32.95499999999997
+        ],
+        [
+          4.4399999999999915,
+          30.87499999999997
+        ],
+        [
+          4.4399999999999915,
+          28.014999999999972
+        ],
+        [
+          5.99999999999999,
+          26.454999999999973
+        ],
+        [
+          5.99999999999999,
+          0.714999999999991
+        ],
+        [
+          1.5799999999999939,
+          -3.7050000000000054
+        ],
+        [
+          1.5799999999999939,
+          -5.920000499999994
+        ],
+        [
+          4.64999832,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC05",
+      "source": "R35-2",
+      "port": "J1-11",
+      "qd_pad": 5,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          4.027756813566455,
+          57.05192378864669
+        ],
+        [
+          3.5414213562373016,
+          56.565588331317535
+        ],
+        [
+          3.5414213562373016,
+          56.28274561884292
+        ],
+        [
+          5.99999999999999,
+          53.82416697508023
+        ],
+        [
+          5.99999999999999,
+          48.29499999999995
+        ],
+        [
+          5.219999999999991,
+          47.51499999999995
+        ],
+        [
+          5.219999999999991,
+          41.53499999999996
+        ],
+        [
+          6.77999999999999,
+          39.974999999999966
+        ],
+        [
+          6.77999999999999,
+          32.694999999999965
+        ],
+        [
+          4.699999999999991,
+          30.614999999999966
+        ],
+        [
+          4.699999999999991,
+          28.27499999999997
+        ],
+        [
+          6.25999999999999,
+          26.71499999999997
+        ],
+        [
+          6.25999999999999,
+          0.4549999999999912
+        ],
+        [
+          1.8399999999999936,
+          -3.965000000000005
+        ],
+        [
+          1.8399999999999936,
+          -5.580001699999994
+        ],
+        [
+          5.24999712,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC02",
+      "source": "R34-2",
+      "port": "J1-19",
+      "qd_pad": 2,
+      "layer": 2,
+      "width_mm": 0.125,
+      "points": [
+        [
+          6.050000000000001,
+          62.599999999999994
+        ],
+        [
+          5.99999999999999,
+          62.650000000000006
+        ],
+        [
+          5.99999999999999,
+          63.084999999999965
+        ],
+        [
+          6.289999999999962,
+          63.374999999999936
+        ],
+        [
+          9.239999999999986,
+          63.374999999999936
+        ],
+        [
+          9.639999999999986,
+          62.97499999999994
+        ],
+        [
+          9.639999999999986,
+          53.75499999999995
+        ],
+        [
+          13.539999999999985,
+          49.854999999999954
+        ],
+        [
+          13.539999999999985,
+          42.314999999999955
+        ],
+        [
+          13.019999999999985,
+          41.79499999999996
+        ],
+        [
+          13.019999999999985,
+          31.914999999999967
+        ],
+        [
+          14.319999999999986,
+          30.614999999999966
+        ],
+        [
+          14.319999999999986,
+          -0.8450000000000095
+        ],
+        [
+          17.439999999999984,
+          -3.965000000000007
+        ],
+        [
+          17.439999999999984,
+          -5.385000000000003
+        ],
+        [
+          17.039999999999985,
+          -5.785000000000003
+        ],
+        [
+          10.854996219999997,
+          -5.785000000000004
+        ],
+        [
+          7.649997399999999,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC21",
+      "source": "R13-2",
+      "port": "J1-38",
+      "qd_pad": 21,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          13.45,
+          29.7
+        ],
+        [
+          13.45,
+          28.03000000000012
+        ],
+        [
+          11.199999999999989,
+          25.780000000000108
+        ],
+        [
+          11.199999999999989,
+          -2.6750020999999897
+        ],
+        [
+          13.349998699999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC24",
+      "source": "R16-2",
+      "port": "J1-46",
+      "qd_pad": 24,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          15.472243186433545,
+          35.24807621135331
+        ],
+        [
+          15.472243186433545,
+          27.867243186433534
+        ],
+        [
+          13.799999999999983,
+          26.194999999999972
+        ],
+        [
+          13.799999999999983,
+          -2.8750018199999836
+        ],
+        [
+          15.749998979999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC28",
+      "source": "R28-2",
+      "port": "J1-48",
+      "qd_pad": 28,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          15.351923788646687,
+          40.472243186433545
+        ],
+        [
+          16.659999999999982,
+          39.16416697508025
+        ],
+        [
+          16.659999999999982,
+          28.534999999999968
+        ],
+        [
+          14.059999999999985,
+          25.93499999999997
+        ],
+        [
+          14.059999999999985,
+          -2.5350030199999853
+        ],
+        [
+          16.34999778,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC22",
+      "source": "Q1-22",
+      "port": "J1-28",
+      "qd_pad": 22,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          10.753898238559739,
+          42.52918778000001
+        ],
+        [
+          9.899999999999988,
+          41.67528954144026
+        ],
+        [
+          9.899999999999988,
+          -4.375003719999988
+        ],
+        [
+          10.34999708,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC30",
+      "source": "R24-2",
+      "port": "J1-25",
+      "qd_pad": 30,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          15.765,
+          42.55
+        ],
+        [
+          16.91999999999998,
+          41.39500000000002
+        ],
+        [
+          16.91999999999998,
+          28.27499999999997
+        ],
+        [
+          14.319999999999986,
+          25.674999999999976
+        ],
+        [
+          14.319999999999986,
+          -1.6250000000000089
+        ],
+        [
+          16.91999999999998,
+          -4.225000000000003
+        ],
+        [
+          16.91999999999998,
+          -4.865000000000004
+        ],
+        [
+          16.519999999999982,
+          -5.265000000000003
+        ],
+        [
+          13.174997699999995,
+          -5.265000000000004
+        ],
+        [
+          9.449998879999999,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC23",
+      "source": "Q1-23",
+      "port": "J1-30",
+      "qd_pad": 23,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          11.261319417461157,
+          42.55637993963981
+        ],
+        [
+          11.261319417461157,
+          42.116319417461135
+        ],
+        [
+          10.15999999999999,
+          41.014999999999965
+        ],
+        [
+          10.15999999999999,
+          -4.035002379999989
+        ],
+        [
+          10.94999842,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC25",
+      "source": "Q1-25",
+      "port": "J1-32",
+      "qd_pad": 25,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          12.691098606528579,
+          42.61186002926938
+        ],
+        [
+          10.41999999999999,
+          40.34076142274079
+        ],
+        [
+          10.419999999999987,
+          -3.6950035799999874
+        ],
+        [
+          11.54999722,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC20",
+      "source": "Q1-20",
+      "port": "J1-24",
+      "qd_pad": 20,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          9.769919499999999,
+          42.65755430000001
+        ],
+        [
+          9.769919499999999,
+          42.44491949999997
+        ],
+        [
+          9.379999999999988,
+          42.05499999999996
+        ],
+        [
+          9.379999999999988,
+          -4.594997740000011
+        ],
+        [
+          9.14999694,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC26",
+      "source": "Q1-26",
+      "port": "J1-34",
+      "qd_pad": 26,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          12.83311608,
+          44.124189666214306
+        ],
+        [
+          13.279999999999987,
+          43.677305746214316
+        ],
+        [
+          13.279999999999987,
+          42.05499999999996
+        ],
+        [
+          10.679999999999986,
+          39.454999999999956
+        ],
+        [
+          10.679999999999986,
+          -3.355002239999987
+        ],
+        [
+          12.149998559999998,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC27",
+      "source": "Q1-27",
+      "port": "J1-26",
+      "qd_pad": 27,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          12.855750019999999,
+          44.78997217997676
+        ],
+        [
+          12.239999999999988,
+          44.17422215997675
+        ],
+        [
+          12.239999999999988,
+          43.494999999999955
+        ],
+        [
+          11.83999999999999,
+          43.094999999999956
+        ],
+        [
+          10.471999999999987,
+          43.094999999999956
+        ],
+        [
+          10.15999999999999,
+          42.78299999999996
+        ],
+        [
+          10.15999999999999,
+          42.31499999999996
+        ],
+        [
+          9.639999999999986,
+          41.79499999999996
+        ],
+        [
+          9.639999999999986,
+          -4.715002519999986
+        ],
+        [
+          9.74999828,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC29",
+      "source": "Q1-29",
+      "port": "J1-36",
+      "qd_pad": 29,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          12.878998639999997,
+          46.14999882
+        ],
+        [
+          12.878998639999997,
+          45.57600135999994
+        ],
+        [
+          13.539999999999985,
+          44.91499999999996
+        ],
+        [
+          13.539999999999985,
+          41.79499999999996
+        ],
+        [
+          10.939999999999987,
+          39.194999999999965
+        ],
+        [
+          10.939999999999987,
+          -3.0150034399999885
+        ],
+        [
+          12.749997359999998,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC33",
+      "source": "Q1-33",
+      "port": "J1-40",
+      "qd_pad": 33,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          12.713799894692935,
+          49.717987840000006
+        ],
+        [
+          13.279999999999987,
+          49.15178773469295
+        ],
+        [
+          13.279999999999987,
+          45.69499999999995
+        ],
+        [
+          14.059999999999985,
+          44.91499999999995
+        ],
+        [
+          14.059999999999985,
+          41.79499999999996
+        ],
+        [
+          12.499999999999986,
+          40.23499999999996
+        ],
+        [
+          12.499999999999986,
+          32.43499999999997
+        ],
+        [
+          14.579999999999984,
+          30.35499999999997
+        ],
+        [
+          14.579999999999984,
+          28.534999999999968
+        ],
+        [
+          11.459999999999987,
+          25.41499999999997
+        ],
+        [
+          11.459999999999987,
+          -2.335003299999988
+        ],
+        [
+          13.949997499999998,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC31",
+      "source": "R21-2",
+      "port": "J1-44",
+      "qd_pad": 31,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          15.765,
+          49.75
+        ],
+        [
+          14.595000000000212,
+          49.75
+        ],
+        [
+          14.579999999999984,
+          49.73499999999977
+        ],
+        [
+          14.579999999999984,
+          41.01499999999996
+        ],
+        [
+          13.019999999999985,
+          39.454999999999956
+        ],
+        [
+          13.019999999999985,
+          32.95499999999997
+        ],
+        [
+          15.099999999999984,
+          30.87499999999997
+        ],
+        [
+          15.099999999999984,
+          28.014999999999972
+        ],
+        [
+          13.539999999999985,
+          26.454999999999973
+        ],
+        [
+          13.539999999999985,
+          -3.215003159999986
+        ],
+        [
+          15.149997639999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC36",
+      "source": "Q1-36",
+      "port": "J1-22",
+      "qd_pad": 36,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          11.0075618368926,
+          49.76591510000001
+        ],
+        [
+          10.316646736892546,
+          49.07499999999995
+        ],
+        [
+          7.499999999999989,
+          49.07499999999995
+        ],
+        [
+          7.299999999999987,
+          48.87499999999995
+        ],
+        [
+          7.299999999999989,
+          42.57499999999996
+        ],
+        [
+          9.119999999999987,
+          40.75499999999996
+        ],
+        [
+          9.119999999999987,
+          -4.2549989400000126
+        ],
+        [
+          8.54999814,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC37",
+      "source": "Q1-37",
+      "port": "J1-23",
+      "qd_pad": 37,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          10.499131895905892,
+          49.77518864000001
+        ],
+        [
+          10.499131895905892,
+          50.24359631845643
+        ],
+        [
+          10.186860110268274,
+          50.55586810409405
+        ],
+        [
+          6.96086810409409,
+          50.55586810409405
+        ],
+        [
+          6.25999999999999,
+          49.854999999999954
+        ],
+        [
+          6.25999999999999,
+          43.61499999999996
+        ],
+        [
+          6.77999999999999,
+          43.094999999999956
+        ],
+        [
+          6.77999999999999,
+          42.054999999999964
+        ],
+        [
+          8.599999999999987,
+          40.234999999999964
+        ],
+        [
+          8.599999999999987,
+          1.7549999999999892
+        ],
+        [
+          2.0999999999999934,
+          -4.7450000000000045
+        ],
+        [
+          2.0999999999999934,
+          -5.057000000000004
+        ],
+        [
+          2.307999999999993,
+          -5.265000000000004
+        ],
+        [
+          5.1249987200000025,
+          -5.265000000000004
+        ],
+        [
+          8.849997539999999,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC38",
+      "source": "Q1-38",
+      "port": "J1-20",
+      "qd_pad": 38,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          9.977446606672398,
+          49.780873160000006
+        ],
+        [
+          9.643319766672452,
+          50.11499999999995
+        ],
+        [
+          9.329327906668972,
+          50.11499999999995
+        ],
+        [
+          9.119999999999985,
+          49.90567209333096
+        ],
+        [
+          9.119999999999987,
+          49.56326883733236
+        ],
+        [
+          8.89173116266758,
+          49.33499999999995
+        ],
+        [
+          7.339999999999989,
+          49.33499999999995
+        ],
+        [
+          7.03999999999999,
+          49.034999999999954
+        ],
+        [
+          7.039999999999989,
+          42.31499999999996
+        ],
+        [
+          8.859999999999989,
+          40.49499999999996
+        ],
+        [
+          8.859999999999989,
+          -3.91499760000001
+        ],
+        [
+          7.949996799999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC32",
+      "source": "R30-2",
+      "port": "J1-27",
+      "qd_pad": 32,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          15.351923788646687,
+          51.82775681356645
+        ],
+        [
+          17.17999999999998,
+          49.99968060221316
+        ],
+        [
+          17.179999999999982,
+          28.014999999999972
+        ],
+        [
+          14.579999999999984,
+          25.414999999999974
+        ],
+        [
+          14.579999999999984,
+          -1.3650000000000055
+        ],
+        [
+          17.179999999999982,
+          -3.9650000000000034
+        ],
+        [
+          17.179999999999982,
+          -5.525000000000004
+        ],
+        [
+          13.715001179999986,
+          -8.98999882
+        ],
+        [
+          10.049997679999999,
+          -8.98999882
+        ]
+      ]
+    },
+    {
+      "net": "DC34",
+      "source": "R31-2",
+      "port": "J1-42",
+      "qd_pad": 34,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          15.472243186433545,
+          57.05192378864669
+        ],
+        [
+          15.927867965644019,
+          56.596299009436215
+        ],
+        [
+          15.927867965644017,
+          56.17203494072428
+        ],
+        [
+          13.539999999999985,
+          53.784166975080254
+        ],
+        [
+          13.539999999999985,
+          45.954999999999956
+        ],
+        [
+          14.319999999999986,
+          45.174999999999955
+        ],
+        [
+          14.319999999999986,
+          41.534999999999954
+        ],
+        [
+          12.759999999999984,
+          39.97499999999995
+        ],
+        [
+          12.759999999999984,
+          32.694999999999965
+        ],
+        [
+          14.839999999999982,
+          30.614999999999966
+        ],
+        [
+          14.839999999999982,
+          28.27499999999997
+        ],
+        [
+          13.019999999999985,
+          26.454999999999973
+        ],
+        [
+          13.019999999999985,
+          -3.2950019599999862
+        ],
+        [
+          14.549998839999999,
+          -4.8250008
+        ]
+      ]
+    },
+    {
+      "net": "DC35",
+      "source": "R32-2",
+      "port": "J1-21",
+      "qd_pad": 35,
+      "layer": 3,
+      "width_mm": 0.125,
+      "points": [
+        [
+          13.45,
+          62.599999999999994
+        ],
+        [
+          13.539999999999985,
+          62.68999999999998
+        ],
+        [
+          13.539999999999985,
+          63.10099999999996
+        ],
+        [
+          13.266000000000005,
+          63.374999999999936
+        ],
+        [
+          10.039999999999987,
+          63.374999999999936
+        ],
+        [
+          9.639999999999986,
+          62.97499999999994
+        ],
+        [
+          9.639999999999986,
+          53.754999999999946
+        ],
+        [
+          5.99999999999999,
+          50.11499999999995
+        ],
+        [
+          5.99999999999999,
+          43.354999999999954
+        ],
+        [
+          6.51999999999999,
+          42.83499999999995
+        ],
+        [
+          6.51999999999999,
+          31.914999999999964
+        ],
+        [
+          5.219999999999991,
+          30.614999999999966
+        ],
+        [
+          5.219999999999991,
+          -0.8450000000000077
+        ],
+        [
+          1.8399999999999936,
+          -4.225000000000005
+        ],
+        [
+          1.8399999999999936,
+          -5.1250000000000036
+        ],
+        [
+          2.2399999999999936,
+          -5.525000000000004
+        ],
+        [
+          4.784999920000002,
+          -5.525000000000004
+        ],
+        [
+          8.249998739999999,
+          -8.98999882
+        ]
+      ]
+    }
+  ],
+  "chamfers": [
+    {
+      "net": "DC19",
+      "at_mm": [
+        10.15999999999999,
+        -3.965000000000005
+      ],
+      "trim_mm": 0.4
+    },
+    {
+      "net": "DC07",
+      "at_mm": [
+        7.039999999999989,
+        46.994999999999955
+      ],
+      "trim_mm": 0.3119999999999998
+    },
+    {
+      "net": "DC07",
+      "at_mm": [
+        6.25999999999999,
+        46.994999999999955
+      ],
+      "trim_mm": 0.18720000000000037
+    },
+    {
+      "net": "DC01",
+      "at_mm": [
+        12.239999999999988,
+        49.07499999999995
+      ],
+      "trim_mm": 0.3
+    },
+    {
+      "net": "DC01",
+      "at_mm": [
+        16.91999999999998,
+        -5.265000000000004
+      ],
+      "trim_mm": 0.20800000000000127
+    },
+    {
+      "net": "DC04",
+      "at_mm": [
+        7.299999999999989,
+        43.094999999999956
+      ],
+      "trim_mm": 0.4
+    },
+    {
+      "net": "DC04",
+      "at_mm": [
+        10.15999999999999,
+        43.094999999999956
+      ],
+      "trim_mm": 0.2079999999999984
+    },
+    {
+      "net": "DC04",
+      "at_mm": [
+        10.419999999999987,
+        -4.225000000000005
+      ],
+      "trim_mm": 0.4
+    },
+    {
+      "net": "DC03",
+      "at_mm": [
+        17.179999999999982,
+        -5.525000000000004
+      ],
+      "trim_mm": 0.4
+    },
+    {
+      "net": "DC05",
+      "at_mm": [
+        3.3999999999999924,
+        56.424166975080226
+      ],
+      "trim_mm": 0.2
+    },
+    {
+      "net": "DC02",
+      "at_mm": [
+        5.99999999999999,
+        63.374999999999936
+      ],
+      "trim_mm": 0.28999999999997217
+    },
+    {
+      "net": "DC02",
+      "at_mm": [
+        9.639999999999986,
+        63.374999999999936
+      ],
+      "trim_mm": 0.4
+    },
+    {
+      "net": "DC02",
+      "at_mm": [
+        17.439999999999984,
+        -5.785000000000004
+      ],
+      "trim_mm": 0.4
+    },
+    {
+      "net": "DC30",
+      "at_mm": [
+        16.91999999999998,
+        -5.265000000000004
+      ],
+      "trim_mm": 0.4
+    },
+    {
+      "net": "DC27",
+      "at_mm": [
+        12.239999999999988,
+        43.094999999999956
+      ],
+      "trim_mm": 0.4
+    },
+    {
+      "net": "DC27",
+      "at_mm": [
+        10.15999999999999,
+        43.094999999999956
+      ],
+      "trim_mm": 0.3119999999999976
+    },
+    {
+      "net": "DC36",
+      "at_mm": [
+        7.299999999999989,
+        49.07499999999995
+      ],
+      "trim_mm": 0.2
+    },
+    {
+      "net": "DC37",
+      "at_mm": [
+        10.499131895905892,
+        50.55586810409405
+      ],
+      "trim_mm": 0.312271785637617
+    },
+    {
+      "net": "DC37",
+      "at_mm": [
+        2.0999999999999934,
+        -5.265000000000004
+      ],
+      "trim_mm": 0.20799999999999985
+    },
+    {
+      "net": "DC38",
+      "at_mm": [
+        9.119999999999987,
+        50.11499999999995
+      ],
+      "trim_mm": 0.20932790666898599
+    },
+    {
+      "net": "DC38",
+      "at_mm": [
+        9.119999999999987,
+        49.33499999999995
+      ],
+      "trim_mm": 0.22826883733240494
+    },
+    {
+      "net": "DC38",
+      "at_mm": [
+        7.039999999999989,
+        49.33499999999995
+      ],
+      "trim_mm": 0.3
+    },
+    {
+      "net": "DC34",
+      "at_mm": [
+        16.139999999999983,
+        56.38416697508025
+      ],
+      "trim_mm": 0.3
+    },
+    {
+      "net": "DC35",
+      "at_mm": [
+        13.539999999999985,
+        63.374999999999936
+      ],
+      "trim_mm": 0.27399999999998104
+    },
+    {
+      "net": "DC35",
+      "at_mm": [
+        9.639999999999986,
+        63.374999999999936
+      ],
+      "trim_mm": 0.4
+    },
+    {
+      "net": "DC35",
+      "at_mm": [
+        1.8399999999999936,
+        -5.525000000000004
+      ],
+      "trim_mm": 0.4
+    }
+  ],
+  "planned_layer_roles": {
+    "1": "GND",
+    "2": "DC_A",
+    "3": "DC_B",
+    "4": "GND",
+    "5": "GND",
+    "6": "RF_QD"
+  },
+  "layer_assignment_note": "User L3/L4 exchange: L2/L3 DC, L4 GND. Native source mapping remains historical."
+}

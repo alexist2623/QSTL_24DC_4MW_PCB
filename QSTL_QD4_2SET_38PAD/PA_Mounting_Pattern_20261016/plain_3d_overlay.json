@@ -1,0 +1,20 @@
+{
+  "source_hashes": {
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Four_End_SMP_Side_Entry_20261015\\side_entry_audit.json": "c84c6863154a6660464d1b24fdf8e26676d29c2e49aff6dc63e98b7ca517e680",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\SMP-FS-SBPCT.stp": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Reference12_Fastening_20261015\\SMP_Side_Shell.vtp": "cfa02c885ada6b0557ab3472aa84c4fc98d1c2feb64a800c15d92ccc1fa6009f",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Reference12_Fastening_20261015\\Component_Side_Shell.vtp": "208e070a326879f8c6a42cf5c7bb4df0723ce641139925aaa9cd294e08e5d9c6",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351"
+  },
+  "native_changed": false,
+  "reference_rotation_degrees": 0,
+  "reference_xy_translation_mm": [
+    9.75,
+    46.15
+  ],
+  "current_SMP_coordinates_unchanged": true,
+  "SMP_geometry": "Exact saved SMP-FS-SBPCT.stp",
+  "copper_geometry": "Supplied Assembly1.stl derived registered meshes",
+  "display_only_XY_overlay": true,
+  "solid_seating_or_interference_validated": false
+}

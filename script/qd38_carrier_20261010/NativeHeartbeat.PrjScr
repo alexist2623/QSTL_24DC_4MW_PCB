@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=NativeHeartbeat.pas
+[Generic_ScriptingSystem]
+StartProcName=NativeHeartbeat.pas>NativeHeartbeat

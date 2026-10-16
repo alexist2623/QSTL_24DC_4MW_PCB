@@ -1,0 +1,211 @@
+{
+  "status": "COMPANION_SOURCES_PROMOTED_MASK_REPAIR_PENDING_NATIVE_AUDIT",
+  "candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+  "changed": [
+    {
+      "name": "QSTL_QD4_2SET_38PAD.SchDoc",
+      "sha256": "e6d83b6a6b7d74bc14fc5d10041c3d76ee38e315133cc71012b8034f834e6249"
+    },
+    {
+      "name": "QSTL_QD4_2SET_38PAD.SchLib",
+      "sha256": "88635bba850462d44eb8ff673bccd158080686442de8c2f8bf0e62eba584f833"
+    },
+    {
+      "name": "QD4_2SET_38.PcbLib",
+      "sha256": "21948bf605c8762cbc141ac7bd40f55f10d5df138c5afeb757d2092a5f776e0b"
+    },
+    {
+      "name": "schematic_validation.json",
+      "sha256": "8c6820c590cde966490dc74362078c2b201cdb27d9f804291f8ed5ce0417cf93"
+    },
+    {
+      "name": "circuit_plan.json",
+      "sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495"
+    },
+    {
+      "name": "full_copper_candidate.json",
+      "sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495"
+    }
+  ],
+  "project_unchanged_sha256": "4c45713af7cdb2e06d11652b65f5760e85a7d6ff208d2b3860d4c05147e6ef98",
+  "native_PCB_changed": false,
+  "mask_only_delta": {
+    "passed": true,
+    "scope": "Offline mask-only delta, not a native DRC pass",
+    "candidate": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\full_copper_mask_repair_candidate.json",
+    "candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+    "native_before_sha256": "c179d313dc7d7c1c5851517d779616fbe7c9c3b1e9a5f4ac565e0541c3e0a047",
+    "source_candidate_sha256": "a8e96043d9dcabcbf3b855f37ff28962a55389783f7ca484c95fda7b37b253fe",
+    "drc_before_sha256": "d9feffe42e210ca1cf9426809faa3f10d422d3260559b136415b6089d70927dd",
+    "selected_pad_count": 18,
+    "selected_pads": [
+      "C09-1",
+      "C09-2",
+      "C12-1",
+      "C12-2",
+      "C15-2",
+      "C21-2",
+      "C28-1",
+      "C28-2",
+      "C31-1",
+      "C31-2",
+      "R09-1",
+      "R12-1",
+      "R15-1",
+      "R15-2",
+      "R21-1",
+      "R21-2",
+      "R28-1",
+      "R31-1"
+    ],
+    "minimum_repaired_pair_sliver_mm": 0.10499972999999868,
+    "pairs": [
+      {
+        "pads": [
+          "C09-1",
+          "R09-1"
+        ],
+        "copper_gap_mm": 0.1710656858876407,
+        "before_mask_sliver_mm": 0.0710656858876407,
+        "repaired_mask_sliver_mm": 0.1210656858876407
+      },
+      {
+        "pads": [
+          "C09-2",
+          "R09-1"
+        ],
+        "copper_gap_mm": 0.1637621499999966,
+        "before_mask_sliver_mm": 0.0637621499999966,
+        "repaired_mask_sliver_mm": 0.1137621499999966
+      },
+      {
+        "pads": [
+          "C12-1",
+          "R12-1"
+        ],
+        "copper_gap_mm": 0.1710656858876407,
+        "before_mask_sliver_mm": 0.0710656858876407,
+        "repaired_mask_sliver_mm": 0.1210656858876407
+      },
+      {
+        "pads": [
+          "C12-2",
+          "R12-1"
+        ],
+        "copper_gap_mm": 0.1637621499999966,
+        "before_mask_sliver_mm": 0.0637621499999966,
+        "repaired_mask_sliver_mm": 0.1137621499999966
+      },
+      {
+        "pads": [
+          "C15-2",
+          "R15-1"
+        ],
+        "copper_gap_mm": 0.1637631500000012,
+        "before_mask_sliver_mm": 0.06376315000000118,
+        "repaired_mask_sliver_mm": 0.11376315000000119
+      },
+      {
+        "pads": [
+          "C15-2",
+          "R15-2"
+        ],
+        "copper_gap_mm": 0.16376315000000116,
+        "before_mask_sliver_mm": 0.06376315000000116,
+        "repaired_mask_sliver_mm": 0.11376315000000116
+      },
+      {
+        "pads": [
+          "C21-2",
+          "R21-1"
+        ],
+        "copper_gap_mm": 0.1637631500000012,
+        "before_mask_sliver_mm": 0.06376315000000118,
+        "repaired_mask_sliver_mm": 0.11376315000000119
+      },
+      {
+        "pads": [
+          "C21-2",
+          "R21-2"
+        ],
+        "copper_gap_mm": 0.1637631500000012,
+        "before_mask_sliver_mm": 0.06376315000000118,
+        "repaired_mask_sliver_mm": 0.11376315000000119
+      },
+      {
+        "pads": [
+          "C28-1",
+          "R28-1"
+        ],
+        "copper_gap_mm": 0.1710656858876407,
+        "before_mask_sliver_mm": 0.0710656858876407,
+        "repaired_mask_sliver_mm": 0.1210656858876407
+      },
+      {
+        "pads": [
+          "C28-2",
+          "R28-1"
+        ],
+        "copper_gap_mm": 0.1637621499999966,
+        "before_mask_sliver_mm": 0.0637621499999966,
+        "repaired_mask_sliver_mm": 0.1137621499999966
+      },
+      {
+        "pads": [
+          "C31-1",
+          "R31-1"
+        ],
+        "copper_gap_mm": 0.1710656858876407,
+        "before_mask_sliver_mm": 0.0710656858876407,
+        "repaired_mask_sliver_mm": 0.1210656858876407
+      },
+      {
+        "pads": [
+          "C31-2",
+          "R31-1"
+        ],
+        "copper_gap_mm": 0.1637621499999966,
+        "before_mask_sliver_mm": 0.0637621499999966,
+        "repaired_mask_sliver_mm": 0.1137621499999966
+      },
+      {
+        "pads": [
+          "R15-1",
+          "SMP13-3"
+        ],
+        "copper_gap_mm": 0.17999972999999872,
+        "before_mask_sliver_mm": 0.07999972999999871,
+        "repaired_mask_sliver_mm": 0.10499972999999871
+      },
+      {
+        "pads": [
+          "R15-2",
+          "SMP13-4"
+        ],
+        "copper_gap_mm": 0.1799997299999987,
+        "before_mask_sliver_mm": 0.07999972999999869,
+        "repaired_mask_sliver_mm": 0.10499972999999868
+      },
+      {
+        "pads": [
+          "R21-1",
+          "SMP24-4"
+        ],
+        "copper_gap_mm": 0.1799997299999987,
+        "before_mask_sliver_mm": 0.07999972999999869,
+        "repaired_mask_sliver_mm": 0.10499972999999868
+      },
+      {
+        "pads": [
+          "R21-2",
+          "SMP24-3"
+        ],
+        "copper_gap_mm": 0.1799997299999987,
+        "before_mask_sliver_mm": 0.07999972999999869,
+        "repaired_mask_sliver_mm": 0.10499972999999868
+      }
+    ],
+    "native_execution_performed": false,
+    "native_drc_after_repair_pending": true
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "status": "TARGET_CLARIFICATION_PENDING_NO_NATIVE_CHANGE",
+  "source": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Reference12_Fastening_20261015\\fastening_review.json",
+  "holes": [
+    {
+      "name": "P1",
+      "source_xy_mm": [
+        -12.8,
+        37.8
+      ],
+      "measured_diameter_mm": 3.2,
+      "diameter_basis": "PCB PTH"
+    },
+    {
+      "name": "P2",
+      "source_xy_mm": [
+        12.8,
+        37.8
+      ],
+      "measured_diameter_mm": 3.2,
+      "diameter_basis": "PCB PTH"
+    },
+    {
+      "name": "P3",
+      "source_xy_mm": [
+        -12.8,
+        -37.8
+      ],
+      "measured_diameter_mm": 3.2,
+      "diameter_basis": "PCB PTH"
+    },
+    {
+      "name": "P4",
+      "source_xy_mm": [
+        12.8,
+        -37.8
+      ],
+      "measured_diameter_mm": 3.2,
+      "diameter_basis": "PCB PTH"
+    },
+    {
+      "name": "A1",
+      "source_xy_mm": [
+        -12.8,
+        -45.3
+      ],
+      "measured_diameter_mm": 2.0,
+      "diameter_basis": "CAD bore, PCB drill size pending"
+    },
+    {
+      "name": "A2",
+      "source_xy_mm": [
+        12.8,
+        -45.3
+      ],
+      "measured_diameter_mm": 2.0,
+      "diameter_basis": "CAD bore, PCB drill size pending"
+    },
+    {
+      "name": "A3",
+      "source_xy_mm": [
+        -14.3,
+        0.7
+      ],
+      "measured_diameter_mm": 2.0,
+      "diameter_basis": "CAD bore, PCB drill size pending"
+    },
+    {
+      "name": "A4",
+      "source_xy_mm": [
+        14.3,
+        0.7
+      ],
+      "measured_diameter_mm": 2.0,
+      "diameter_basis": "CAD bore, PCB drill size pending"
+    }
+  ],
+  "x_span_mm": 28.6,
+  "y_span_mm": 83.1,
+  "current_16rf_proposal_length_mm": 77.5,
+  "pattern_scaling_allowed": false,
+  "target_translation_mm": null
+}

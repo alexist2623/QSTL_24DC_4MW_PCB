@@ -1,0 +1,34 @@
+{
+  "status": "READ_ONLY_CONDITIONAL_FEASIBILITY_REVIEW",
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "native_changed": false,
+  "full_routing_or_DRC_verified": false,
+  "proposed_group_to_QD_mapping_for_topological_review_only": {
+    "2": 2,
+    "5": 5,
+    "9": 9,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "15": 15,
+    "16": 16,
+    "21": 21,
+    "24": 24,
+    "28": 28,
+    "30": 30,
+    "31": 31,
+    "32": 32,
+    "34": 34,
+    "35": 35
+  },
+  "interpretation": "Inboard RF paths; empty red circles do not establish connector relocation without clarification.",
+  "required_followup_for_implementation": [
+    "Solve all 16 RF routes jointly with R/C placement",
+    "Synchronize schematic and DC bias assignment",
+    "Regenerate local ground shields and solder mask",
+    "Check saved copper and native DRC after reopen"
+  ],
+  "figure": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\rf_redline_review_20261011\\RF_inboard_feasibility_review.png",
+  "figure_sha256": "e3ba94756289291fe51f9caa6ee52e22d1991d1c461a0788c0eb145455ccc130"
+}

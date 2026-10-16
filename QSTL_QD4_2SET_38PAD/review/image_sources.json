@@ -1,0 +1,19 @@
+{
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "snapshot_sha256": "59f1529af34d5fe53be259c174ae52d57879028c2e36d3cf1f3ff579a99e32b9",
+  "saved_audit_sha256": "66ce9d76d936b07bd80372ac1c2b2975d3ca4a00ac706b75a76064efd12ff3c4",
+  "source": "Saved native copper snapshot, including actual native pad/track/arc/via geometry",
+  "files": [
+    {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\review\\DC_saved_two_layers.png",
+      "sha256": "7703d180c5d0732488a1befd1700cba17efd409c612fc33d134982220222d8c9",
+      "view": "dc_routing"
+    },
+    {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\review\\RF_saved_bottom.png",
+      "sha256": "29b30f7a6982bab680e022f12a84d876752f65fb3fd380e272011de43c33c841",
+      "view": "rf_routing"
+    }
+  ]
+}

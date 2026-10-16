@@ -1,0 +1,271 @@
+{
+  "status": "RELOCATION_REVIEW_ONLY_NOT_APPLIED",
+  "source_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "scope": "All 38 pad inward and outward supporting extrema aligned; native source and routing not changed.",
+  "full_tilted_end_faces_collinear": false,
+  "inner_bounds_mm": [
+    7.4,
+    39.65,
+    12.1,
+    45.35
+  ],
+  "outer_bounds_mm": [
+    6.56,
+    38.81,
+    12.94,
+    46.19
+  ],
+  "width_mm": 0.25,
+  "length_range_mm": [
+    0.801943835862057,
+    0.8652093337340167
+  ],
+  "minimum_pad_gap_mm": 0.1558656496153024,
+  "minimum_foreign_signal_via_gap_mm": 0.15032669366860416,
+  "minimum_cavity_gap_mm": 0.19999999999999926,
+  "all_existing_QD_drills_inside_pads": true,
+  "native_grid_boundary_checks": [
+    {
+      "pad": "38",
+      "side": "TOP",
+      "inner_error_mm": 1.674174114896232e-07,
+      "outer_error_mm": 3.258260505845101e-08
+    },
+    {
+      "pad": "37",
+      "side": "TOP",
+      "inner_error_mm": 1.6772867894587762e-07,
+      "outer_error_mm": 3.677286954939518e-07
+    },
+    {
+      "pad": "36",
+      "side": "TOP",
+      "inner_error_mm": 1.9730917699689599e-07,
+      "outer_error_mm": 2.6908395511782146e-09
+    },
+    {
+      "pad": "23",
+      "side": "BOTTOM",
+      "inner_error_mm": 2.8437614929543997e-07,
+      "outer_error_mm": 8.443761529974836e-07
+    },
+    {
+      "pad": "22",
+      "side": "BOTTOM",
+      "inner_error_mm": 5.858317706497473e-07,
+      "outer_error_mm": 2.5831766947703727e-08
+    },
+    {
+      "pad": "21",
+      "side": "BOTTOM",
+      "inner_error_mm": 3.3402861276954354e-07,
+      "outer_error_mm": 2.2597139093250007e-07
+    },
+    {
+      "pad": "20",
+      "side": "BOTTOM",
+      "inner_error_mm": 7.100000019022445e-07,
+      "outer_error_mm": 1.4999999820020093e-07
+    },
+    {
+      "pad": "19",
+      "side": "BOTTOM",
+      "inner_error_mm": 3.3402861276954354e-07,
+      "outer_error_mm": 2.2597139093250007e-07
+    },
+    {
+      "pad": "18",
+      "side": "BOTTOM",
+      "inner_error_mm": 5.858317706497473e-07,
+      "outer_error_mm": 2.5831766947703727e-08
+    },
+    {
+      "pad": "17",
+      "side": "BOTTOM",
+      "inner_error_mm": 2.8437614929543997e-07,
+      "outer_error_mm": 8.443761529974836e-07
+    },
+    {
+      "pad": "4",
+      "side": "TOP",
+      "inner_error_mm": 2.037896109641224e-07,
+      "outer_error_mm": 4.037896275121966e-07
+    },
+    {
+      "pad": "3",
+      "side": "TOP",
+      "inner_error_mm": 1.9730917699689599e-07,
+      "outer_error_mm": 2.6908395511782146e-09
+    },
+    {
+      "pad": "2",
+      "side": "TOP",
+      "inner_error_mm": 1.6772867894587762e-07,
+      "outer_error_mm": 3.677286954939518e-07
+    },
+    {
+      "pad": "1",
+      "side": "TOP",
+      "inner_error_mm": 1.674174114896232e-07,
+      "outer_error_mm": 3.258260505845101e-08
+    },
+    {
+      "pad": "35",
+      "side": "TOP",
+      "inner_error_mm": 2.037896109641224e-07,
+      "outer_error_mm": 4.037896275121966e-07
+    },
+    {
+      "pad": "34",
+      "side": "TOP",
+      "inner_error_mm": 3.798436054580634e-07,
+      "outer_error_mm": 5.798436220061376e-07
+    },
+    {
+      "pad": "33",
+      "side": "TOP",
+      "inner_error_mm": 5.084247121089902e-07,
+      "outer_error_mm": 3.08424695560916e-07
+    },
+    {
+      "pad": "32",
+      "side": "RIGHT",
+      "inner_error_mm": 6.85759822260934e-08,
+      "outer_error_mm": 7.88575981403028e-07
+    },
+    {
+      "pad": "31",
+      "side": "RIGHT",
+      "inner_error_mm": 4.812935596731904e-07,
+      "outer_error_mm": 2.3870643950374415e-07
+    },
+    {
+      "pad": "30",
+      "side": "RIGHT",
+      "inner_error_mm": 3.992527464191653e-07,
+      "outer_error_mm": 3.207472527577693e-07
+    },
+    {
+      "pad": "29",
+      "side": "RIGHT",
+      "inner_error_mm": 7.000000046275545e-08,
+      "outer_error_mm": 7.8999999963969e-07
+    },
+    {
+      "pad": "28",
+      "side": "RIGHT",
+      "inner_error_mm": 3.992527464191653e-07,
+      "outer_error_mm": 3.207472527577693e-07
+    },
+    {
+      "pad": "27",
+      "side": "RIGHT",
+      "inner_error_mm": 4.812935596731904e-07,
+      "outer_error_mm": 2.3870643950374415e-07
+    },
+    {
+      "pad": "26",
+      "side": "RIGHT",
+      "inner_error_mm": 6.85759822260934e-08,
+      "outer_error_mm": 7.88575981403028e-07
+    },
+    {
+      "pad": "25",
+      "side": "BOTTOM",
+      "inner_error_mm": 6.884247056859749e-07,
+      "outer_error_mm": 1.284247019839313e-07
+    },
+    {
+      "pad": "24",
+      "side": "BOTTOM",
+      "inner_error_mm": 5.522929029666557e-07,
+      "outer_error_mm": 7.70710073538794e-09
+    },
+    {
+      "pad": "16",
+      "side": "BOTTOM",
+      "inner_error_mm": 5.522929029666557e-07,
+      "outer_error_mm": 7.70710073538794e-09
+    },
+    {
+      "pad": "15",
+      "side": "BOTTOM",
+      "inner_error_mm": 6.884247056859749e-07,
+      "outer_error_mm": 1.284247019839313e-07
+    },
+    {
+      "pad": "14",
+      "side": "LEFT",
+      "inner_error_mm": 1.294296813725282e-06,
+      "outer_error_mm": 1.2257031887230596e-06
+    },
+    {
+      "pad": "13",
+      "side": "LEFT",
+      "inner_error_mm": 7.585106924778984e-07,
+      "outer_error_mm": 1.7614893099704432e-06
+    },
+    {
+      "pad": "12",
+      "side": "LEFT",
+      "inner_error_mm": 1.0264560534878342e-06,
+      "outer_error_mm": 1.4935439489605074e-06
+    },
+    {
+      "pad": "11",
+      "side": "LEFT",
+      "inner_error_mm": 7.807716517760355e-07,
+      "outer_error_mm": 1.739228350672306e-06
+    },
+    {
+      "pad": "10",
+      "side": "LEFT",
+      "inner_error_mm": 7.807716517760355e-07,
+      "outer_error_mm": 1.739228350672306e-06
+    },
+    {
+      "pad": "9",
+      "side": "LEFT",
+      "inner_error_mm": 1.0264560543760126e-06,
+      "outer_error_mm": 1.493543948072329e-06
+    },
+    {
+      "pad": "8",
+      "side": "LEFT",
+      "inner_error_mm": 7.585106924778984e-07,
+      "outer_error_mm": 1.7614893099704432e-06
+    },
+    {
+      "pad": "7",
+      "side": "LEFT",
+      "inner_error_mm": 1.294296813725282e-06,
+      "outer_error_mm": 1.2257031887230596e-06
+    },
+    {
+      "pad": "6",
+      "side": "TOP",
+      "inner_error_mm": 5.084247121089902e-07,
+      "outer_error_mm": 3.08424695560916e-07
+    },
+    {
+      "pad": "5",
+      "side": "TOP",
+      "inner_error_mm": 3.798436054580634e-07,
+      "outer_error_mm": 5.798436220061376e-07
+    }
+  ],
+  "image": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_dual_pad_alignment_20261014\\Both_Pad_Ends_Aligned_Review.png",
+  "image_sha256": "cabea515f4589c1485fa88a7e91d3ba3b05b4ec5c7251f35fe97acf5fbbc0db7",
+  "source_hashes": {
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.SchDoc": "e6d83b6a6b7d74bc14fc5d10041c3d76ee38e315133cc71012b8034f834e6249",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QD4_2SET_38.PcbLib": "ec4b54190f8ca7402dc81cc066efe8c18dcc453841cc93d68eaa695fe161746f"
+  },
+  "native_sources_unchanged": true,
+  "pending": [
+    "RF/DC terminal and foreign-copper clearance in the revised full layout",
+    "GND/shield/mask update for changed pads",
+    "R0603/C1206 relocation feasibility",
+    "Native PCB/library implementation, save/reopen connectivity and DRC"
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "candidate_sha256": "b9ac09c28b7e0a7c915e3f7bd80f20c8f73a2310485e1ff8acf3cf9f145aa886",
+  "quantization_unit_mm": 2.54e-06,
+  "placement_sha256": "e7d4cb6454e6504cc67bfbc2e6fe56ae495d8942af210ebd62c93819e013146c",
+  "routes": 38,
+  "layer_net_counts": {
+    "2": 19,
+    "4": 19
+  },
+  "minimum_quantized_copper_clearance_mm": 0.10249788999999998,
+  "clearance_failures": [],
+  "minimum_endpoint_via_to_foreign_pad_or_via_mm": 0.15171924777597948,
+  "minimum_endpoint_via_annular_ring_mm": 0.0999998,
+  "static_via_failures": [],
+  "minimum_smp_full_hull_clearance_mm": 0.20117660843327168,
+  "smp_full_hull_failures": [],
+  "bends_per_net": {
+    "DC01": 13,
+    "DC02": 7,
+    "DC03": 8,
+    "DC04": 12,
+    "DC05": 8,
+    "DC06": 4,
+    "DC07": 11,
+    "DC08": 12,
+    "DC09": 10,
+    "DC10": 12,
+    "DC11": 2,
+    "DC12": 4,
+    "DC13": 4,
+    "DC14": 7,
+    "DC15": 3,
+    "DC16": 2,
+    "DC17": 4,
+    "DC18": 3,
+    "DC19": 3,
+    "DC20": 4,
+    "DC21": 3,
+    "DC22": 3,
+    "DC23": 9,
+    "DC24": 3,
+    "DC25": 4,
+    "DC26": 4,
+    "DC27": 4,
+    "DC28": 3,
+    "DC29": 9,
+    "DC30": 3,
+    "DC31": 9,
+    "DC32": 9,
+    "DC33": 6,
+    "DC34": 6,
+    "DC35": 9,
+    "DC36": 9,
+    "DC37": 12,
+    "DC38": 10
+  },
+  "total_bends": 248,
+  "maximum_bends": 13,
+  "route_length_mm": {
+    "DC15": 22.42034011088843,
+    "DC16": 26.80381362252383,
+    "DC13": 29.020951379314962,
+    "DC12": 32.40625911421387,
+    "DC18": 35.83539417204456,
+    "DC17": 33.98544490992845,
+    "DC19": 35.77272446820069,
+    "DC11": 38.29326782751763,
+    "DC14": 41.97745827594923,
+    "DC10": 51.311460591020186,
+    "DC08": 51.904424205306185,
+    "DC07": 54.01599251419684,
+    "DC06": 41.223755671484604,
+    "DC01": 58.640055754775396,
+    "DC03": 45.45572174724387,
+    "DC04": 60.181327543941336,
+    "DC09": 62.60132928747707,
+    "DC05": 54.87507681191636,
+    "DC02": 71.47639807974404,
+    "DC21": 20.829759004129585,
+    "DC24": 26.82562042494006,
+    "DC28": 33.405702782990005,
+    "DC20": 33.837621836941814,
+    "DC23": 38.033047117010874,
+    "DC22": 34.470293250409256,
+    "DC25": 32.971476920497466,
+    "DC26": 34.96904200287123,
+    "DC27": 35.848234207743346,
+    "DC29": 43.227014101626004,
+    "DC30": 48.89488245573462,
+    "DC33": 40.51130481673691,
+    "DC37": 54.03913891230701,
+    "DC36": 44.156859900688126,
+    "DC38": 56.36796523087252,
+    "DC31": 49.91499030207951,
+    "DC32": 53.85703450858676,
+    "DC35": 62.48519522746344,
+    "DC34": 56.45399801419462
+  },
+  "route_mean_absolute_x_offset_mm": {
+    "DC15": 3.03087747760866,
+    "DC16": 1.6329638935980355,
+    "DC13": 3.487658840920879,
+    "DC12": 2.022228874722538,
+    "DC18": 1.4539543740558316,
+    "DC17": 2.298372134310714,
+    "DC19": 1.8242523993066322,
+    "DC11": 9.334958784946915,
+    "DC14": 4.032041640705212,
+    "DC10": 5.381085610215545,
+    "DC08": 5.6794619158709905,
+    "DC07": 6.869496636679417,
+    "DC06": 2.584273265797719,
+    "DC01": 3.3754595543492836,
+    "DC03": 2.449327432399341,
+    "DC04": 3.522276298744515,
+    "DC09": 6.414036242611748,
+    "DC05": 8.094609137122323,
+    "DC02": 6.964032400940753,
+    "DC21": 2.3088128729685313,
+    "DC24": 2.028743500285616,
+    "DC28": 1.5227442706478749,
+    "DC20": 1.846972493792085,
+    "DC23": 2.36150716159986,
+    "DC22": 1.6115352237142402,
+    "DC25": 1.7040408513546017,
+    "DC26": 3.1986160295829333,
+    "DC27": 3.455329932149692,
+    "DC29": 5.544661745403126,
+    "DC30": 8.432280761544128,
+    "DC33": 2.872597730454408,
+    "DC37": 3.704985304289827,
+    "DC36": 2.684560672180487,
+    "DC38": 5.777580191915056,
+    "DC31": 6.015051102881739,
+    "DC32": 6.1070248743406035,
+    "DC35": 5.561619809991,
+    "DC34": 7.728960179459127
+  },
+  "dc_to_dc_minimum_mm": 0.1,
+  "dc_to_other_copper_minimum_mm": 0.15,
+  "poured_ground_gap_required_mm": 0.2,
+  "direction_failures": [],
+  "turns_over45": [],
+  "connectivity": [
+    {
+      "net": "DC01",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC02",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC03",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC04",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC05",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC06",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC07",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC08",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC09",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC10",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC11",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC12",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC13",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC14",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC15",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC16",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC17",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC18",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC19",
+      "layer": 2,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC20",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC21",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC22",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC23",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC24",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC25",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC26",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC27",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC28",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC29",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC30",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC31",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC32",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC33",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC34",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC35",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC36",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC37",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    },
+    {
+      "net": "DC38",
+      "layer": 4,
+      "vias": 2,
+      "connected": true,
+      "source_via_center_in_pad": true,
+      "full_through": true
+    }
+  ],
+  "exact_even24_odd14_pool": true,
+  "pin50_unused": true,
+  "passed": true
+}

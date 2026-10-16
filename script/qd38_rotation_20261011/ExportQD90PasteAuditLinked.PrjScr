@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ExportQD90PasteAuditLinked.pas
+[Generic_ScriptingSystem]
+StartProcName=ExportQD90PasteAuditLinked.pas>ExportQD90PasteAuditLinked

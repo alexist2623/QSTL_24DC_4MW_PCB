@@ -1,0 +1,18 @@
+[
+  {
+    "file": "circuit_plan.json",
+    "before_sha256": "88da6a6993c1c6c54fce1939e65b6e6a98ce63b04e3b05488c55c5aa8c5985a6",
+    "after_sha256": "e277bdfedef62226b8b8f306b95c1d64eb95ebcf6c6f28c650951433ba3d83b1",
+    "moved_caps": 12,
+    "moved_pads": 24,
+    "modified_rf_track_endpoints": 0
+  },
+  {
+    "file": "negotiated_plan.json",
+    "before_sha256": "43c126bdb5ac5532fc45c3cbc654604f85761a77706713227b123d7c0b7ecb54",
+    "after_sha256": "0372ffaa6a00c63014e49ce2a76cc6f6351e5690b3683992e764f428967a94aa",
+    "moved_caps": 12,
+    "moved_pads": 24,
+    "modified_rf_track_endpoints": 24
+  }
+]

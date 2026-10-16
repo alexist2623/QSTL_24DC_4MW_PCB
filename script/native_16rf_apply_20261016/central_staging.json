@@ -1,0 +1,145 @@
+{
+  "old_PCB_sha256": "001f29e4b3ac9e9e96efb52c2abfc19e8c636d143753036191cbda281d6806ab",
+  "staged_candidate_sha256": "8de388ba222d303c8d398aa2a850114233d52b9ac667c0ed07dc79228b9fa2b8",
+  "changed_ZIF_labels": [
+    {
+      "pin": "J1-1",
+      "old": "DC11",
+      "new": "DC15"
+    },
+    {
+      "pin": "J1-3",
+      "old": "DC12",
+      "new": "DC13"
+    },
+    {
+      "pin": "J1-4",
+      "old": "DC08",
+      "new": "DC09"
+    },
+    {
+      "pin": "J1-5",
+      "old": "DC13",
+      "new": "DC12"
+    },
+    {
+      "pin": "J1-7",
+      "old": "DC15",
+      "new": "DC11"
+    },
+    {
+      "pin": "J1-8",
+      "old": "DC14",
+      "new": "DC08"
+    },
+    {
+      "pin": "J1-9",
+      "old": "DC09",
+      "new": "DC18"
+    },
+    {
+      "pin": "J1-11",
+      "old": "DC05",
+      "new": "DC04"
+    },
+    {
+      "pin": "J1-12",
+      "old": "DC17",
+      "new": "DC06"
+    },
+    {
+      "pin": "J1-13",
+      "old": "DC06",
+      "new": "DC01"
+    },
+    {
+      "pin": "J1-14",
+      "old": "DC18",
+      "new": "DC14"
+    },
+    {
+      "pin": "J1-15",
+      "old": "DC01",
+      "new": "DC03"
+    },
+    {
+      "pin": "J1-16",
+      "old": "DC19",
+      "new": "DC17"
+    },
+    {
+      "pin": "J1-17",
+      "old": "DC03",
+      "new": "DC05"
+    },
+    {
+      "pin": "J1-18",
+      "old": "DC04",
+      "new": "DC19"
+    },
+    {
+      "pin": "J1-20",
+      "old": "DC38",
+      "new": "DC37"
+    },
+    {
+      "pin": "J1-22",
+      "old": "DC36",
+      "new": "DC38"
+    },
+    {
+      "pin": "J1-23",
+      "old": "DC37",
+      "new": "DC34"
+    },
+    {
+      "pin": "J1-24",
+      "old": "DC20",
+      "new": "DC32"
+    },
+    {
+      "pin": "J1-25",
+      "old": "DC30",
+      "new": "DC36"
+    },
+    {
+      "pin": "J1-26",
+      "old": "DC27",
+      "new": "DC20"
+    },
+    {
+      "pin": "J1-27",
+      "old": "DC32",
+      "new": "DC24"
+    },
+    {
+      "pin": "J1-36",
+      "old": "DC29",
+      "new": "DC27"
+    },
+    {
+      "pin": "J1-38",
+      "old": "DC21",
+      "new": "DC29"
+    },
+    {
+      "pin": "J1-42",
+      "old": "DC34",
+      "new": "DC21"
+    },
+    {
+      "pin": "J1-46",
+      "old": "DC24",
+      "new": "DC30"
+    }
+  ],
+  "geometry_validation": {
+    "passed": true,
+    "pin_count": 235,
+    "wires": 220,
+    "net_labels": 220,
+    "NC": 15,
+    "unintended_geometric_joins": []
+  },
+  "preserved_RF_components_masks_via_geometry": true
+}

@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=NativeUpdateR1.pas
+[Generic_ScriptingSystem]
+StartProcName=NativeUpdateR1.pas>NativeUpdateR1

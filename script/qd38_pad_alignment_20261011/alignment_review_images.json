@@ -1,0 +1,26 @@
+{
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "images": [
+    {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\review\\QD_pad_end_alignment.png",
+      "sha256": "271d4836dfd6086e0f77ae76905e1fcb94c23488024b644522aa01a854a96076",
+      "view": "closeup"
+    },
+    {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\review\\QD_pad_end_alignment_before_after.png",
+      "sha256": "12ee24c34517a05a51b04e39e212978f2fb0cfbbcef760d4a07620ef81e2d9ae",
+      "view": "before_after"
+    },
+    {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\review\\DC_saved_two_layers.png",
+      "sha256": "7703d180c5d0732488a1befd1700cba17efd409c612fc33d134982220222d8c9",
+      "view": "dc_routing"
+    },
+    {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\review\\RF_saved_bottom.png",
+      "sha256": "29b30f7a6982bab680e022f12a84d876752f65fb3fd380e272011de43c33c841",
+      "view": "rf_routing"
+    }
+  ]
+}

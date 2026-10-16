@@ -1,0 +1,560 @@
+{
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "baseline_native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "saved_audit_sha256": "66ce9d76d936b07bd80372ac1c2b2975d3ca4a00ac706b75a76064efd12ff3c4",
+  "before_snapshot_sha256": "8564524c212a4e32915331aea9a6a85cfeeb9fea8849ab51b1e29a40c2ca528c",
+  "after_snapshot_sha256": "59f1529af34d5fe53be259c174ae52d57879028c2e36d3cf1f3ff579a99e32b9",
+  "before": {
+    "pads": [
+      {
+        "pin": "38",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.594720795700844,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": 0.24472079570084304
+      },
+      {
+        "pin": "37",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.50604725783718,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": 0.1560472578371801
+      },
+      {
+        "pin": "36",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.4859778462007,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": 0.13597784620069575
+      },
+      {
+        "pin": "35",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999848368084,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.5163191591227587e-06
+      },
+      {
+        "pin": "34",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999896036106,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.039638938493681e-06
+      },
+      {
+        "pin": "33",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999980815251,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.9184749078249297e-07
+      },
+      {
+        "pin": "32",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.10000068234894,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": 6.823489400176186e-07
+      },
+      {
+        "pin": "31",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.100000124595955,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": 1.2459595488678588e-07
+      },
+      {
+        "pin": "30",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.099999127046308,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": -8.729536915552671e-07
+      },
+      {
+        "pin": "29",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.09999993,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": -7.000000046275545e-08
+      },
+      {
+        "pin": "28",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.099999127046308,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": -8.729536915552671e-07
+      },
+      {
+        "pin": "27",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.100000124595955,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": 1.2459595488678588e-07
+      },
+      {
+        "pin": "26",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.10000068234894,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": 6.823489400176186e-07
+      },
+      {
+        "pin": "25",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.65000037184748,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": 3.718474843594777e-07
+      },
+      {
+        "pin": "24",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.64999956144651,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -4.385534850825934e-07
+      },
+      {
+        "pin": "23",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.533312989147255,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -0.11668701085274336
+      },
+      {
+        "pin": "22",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.63288344491146,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -0.01711655508854193
+      },
+      {
+        "pin": "21",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.62106659769739,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -0.02893340230260577
+      },
+      {
+        "pin": "20",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.45000111,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -0.19999888999999627
+      },
+      {
+        "pin": "19",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.521841497697395,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -0.12815850230260395
+      },
+      {
+        "pin": "18",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.46318604491145,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -0.18681395508854592
+      },
+      {
+        "pin": "17",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.46330042914726,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -0.18669957085273836
+      },
+      {
+        "pin": "16",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.64999956144651,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -4.385534850825934e-07
+      },
+      {
+        "pin": "15",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.65000037184748,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": 3.718474843594777e-07
+      },
+      {
+        "pin": "14",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.400000621633887,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": 6.216338874764915e-07
+      },
+      {
+        "pin": "13",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.400001426985205,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": 1.4269852055548427e-06
+      },
+      {
+        "pin": "12",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.399999853182,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": -1.4681799953564223e-07
+      },
+      {
+        "pin": "11",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.40000116921076,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": 1.1692107602101487e-06
+      },
+      {
+        "pin": "10",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.40000116921076,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": 1.1692107602101487e-06
+      },
+      {
+        "pin": "9",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.399999853182,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": -1.4681799953564223e-07
+      },
+      {
+        "pin": "8",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.400001426985205,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": 1.4269852055548427e-06
+      },
+      {
+        "pin": "7",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.400000621633887,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": 6.216338874764915e-07
+      },
+      {
+        "pin": "6",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999980815251,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.9184749078249297e-07
+      },
+      {
+        "pin": "5",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999896036106,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.039638938493681e-06
+      },
+      {
+        "pin": "4",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.463894623680844,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": 0.11389462368084224
+      },
+      {
+        "pin": "3",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.3906414862007,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": 0.040641486200698296
+      },
+      {
+        "pin": "2",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.383202697837184,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": 0.03320269783718288
+      },
+      {
+        "pin": "1",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.46997123570084,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": 0.11997123570083801
+      }
+    ],
+    "maximum_absolute_boundary_deviation_mm": 0.24472079570084304
+  },
+  "after": {
+    "pads": [
+      {
+        "pin": "38",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999941570084,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -5.842991583904222e-07
+      },
+      {
+        "pin": "37",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999981783719,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.8216281461036488e-07
+      },
+      {
+        "pin": "36",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.3499989462007,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.05379930204208e-06
+      },
+      {
+        "pin": "23",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.65000058914726,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": 5.89147262530787e-07
+      },
+      {
+        "pin": "22",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.65000050491145,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": 5.049114548683065e-07
+      },
+      {
+        "pin": "21",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.64999973769739,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -2.6230260630200064e-07
+      },
+      {
+        "pin": "20",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.65000071,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": 7.100000019022445e-07
+      },
+      {
+        "pin": "19",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.64999973769739,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -2.6230260630200064e-07
+      },
+      {
+        "pin": "18",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.65000050491145,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": 5.049114548683065e-07
+      },
+      {
+        "pin": "17",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.65000058914726,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": 5.89147262530787e-07
+      },
+      {
+        "pin": "4",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999848368084,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.5163191591227587e-06
+      },
+      {
+        "pin": "3",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.3499989462007,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.05379930204208e-06
+      },
+      {
+        "pin": "2",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999981783719,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.8216281461036488e-07
+      },
+      {
+        "pin": "1",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999941570084,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -5.842991583904222e-07
+      },
+      {
+        "pin": "35",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999848368084,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.5163191591227587e-06
+      },
+      {
+        "pin": "34",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999896036106,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.039638938493681e-06
+      },
+      {
+        "pin": "33",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999980815251,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.9184749078249297e-07
+      },
+      {
+        "pin": "32",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.10000068234894,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": 6.823489400176186e-07
+      },
+      {
+        "pin": "31",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.100000124595955,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": 1.2459595488678588e-07
+      },
+      {
+        "pin": "30",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.099999127046308,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": -8.729536915552671e-07
+      },
+      {
+        "pin": "29",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.09999993,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": -7.000000046275545e-08
+      },
+      {
+        "pin": "28",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.099999127046308,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": -8.729536915552671e-07
+      },
+      {
+        "pin": "27",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.100000124595955,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": 1.2459595488678588e-07
+      },
+      {
+        "pin": "26",
+        "side": "RIGHT",
+        "nearest_corner_coordinate_mm": 12.10000068234894,
+        "nominal_boundary_coordinate_mm": 12.1,
+        "deviation_mm": 6.823489400176186e-07
+      },
+      {
+        "pin": "25",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.65000037184748,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": 3.718474843594777e-07
+      },
+      {
+        "pin": "24",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.64999956144651,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -4.385534850825934e-07
+      },
+      {
+        "pin": "16",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.64999956144651,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": -4.385534850825934e-07
+      },
+      {
+        "pin": "15",
+        "side": "BOTTOM",
+        "nearest_corner_coordinate_mm": 39.65000037184748,
+        "nominal_boundary_coordinate_mm": 39.65,
+        "deviation_mm": 3.718474843594777e-07
+      },
+      {
+        "pin": "14",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.400000621633887,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": 6.216338874764915e-07
+      },
+      {
+        "pin": "13",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.400001426985205,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": 1.4269852055548427e-06
+      },
+      {
+        "pin": "12",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.399999853182,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": -1.4681799953564223e-07
+      },
+      {
+        "pin": "11",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.40000116921076,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": 1.1692107602101487e-06
+      },
+      {
+        "pin": "10",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.40000116921076,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": 1.1692107602101487e-06
+      },
+      {
+        "pin": "9",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.399999853182,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": -1.4681799953564223e-07
+      },
+      {
+        "pin": "8",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.400001426985205,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": 1.4269852055548427e-06
+      },
+      {
+        "pin": "7",
+        "side": "LEFT",
+        "nearest_corner_coordinate_mm": 7.400000621633887,
+        "nominal_boundary_coordinate_mm": 7.3999999999999995,
+        "deviation_mm": 6.216338874764915e-07
+      },
+      {
+        "pin": "6",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999980815251,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.9184749078249297e-07
+      },
+      {
+        "pin": "5",
+        "side": "TOP",
+        "nearest_corner_coordinate_mm": 45.34999896036106,
+        "nominal_boundary_coordinate_mm": 45.35,
+        "deviation_mm": -1.039638938493681e-06
+      }
+    ],
+    "maximum_absolute_boundary_deviation_mm": 1.5163191591227587e-06
+  },
+  "files": [
+    {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\review\\QD_pad_end_alignment.png",
+      "sha256": "271d4836dfd6086e0f77ae76905e1fcb94c23488024b644522aa01a854a96076"
+    },
+    {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\review\\QD_pad_end_alignment_before_after.png",
+      "sha256": "12ee24c34517a05a51b04e39e212978f2fb0cfbbcef760d4a07620ef81e2d9ae"
+    }
+  ]
+}

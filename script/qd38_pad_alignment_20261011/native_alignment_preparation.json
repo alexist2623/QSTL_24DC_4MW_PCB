@@ -1,0 +1,32 @@
+{
+  "status": "PREPARED_NOT_EXECUTED",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "baseline_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "affected_internal_nets": [
+    "DC01",
+    "DC03",
+    "DC04",
+    "DC17",
+    "DC18",
+    "DC19",
+    "DC20",
+    "DC22",
+    "DC23",
+    "DC36",
+    "DC37",
+    "DC38"
+  ],
+  "tracks_removed": 121,
+  "tracks_added": 124,
+  "ground_regions_removed": 24,
+  "changed_ground_layers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    32
+  ],
+  "script_stem": "ApplyQDPadAlignmentR1",
+  "script_sha256": "3ebdcf30642a13d6cbb409fbd18640c1377974d5d8df958bdebf90dc92e155b9"
+}

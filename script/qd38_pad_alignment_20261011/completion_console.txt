@@ -1,0 +1,185 @@
+{
+  "passed": true,
+  "completion": true,
+  "status": "SAVED_QD_INNER_END_ALIGNMENT_VERIFIED",
+  "verified_utc": "2026-10-12T00:37:48.592464+00:00",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "library_sha256": "ec4b54190f8ca7402dc81cc066efe8c18dcc453841cc93d68eaa695fe161746f",
+  "schematic_sha256": "e6d83b6a6b7d74bc14fc5d10041c3d76ee38e315133cc71012b8034f834e6249",
+  "project_sha256": "4c45713af7cdb2e06d11652b65f5760e85a7d6ff208d2b3860d4c05147e6ef98",
+  "baseline_native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "maximum_inner_boundary_error_mm": 1.5163191591227587e-06,
+  "minimum_cavity_clearance_mm": 0.19999848368084372,
+  "DC_channels": 38,
+  "RF_channels": 16,
+  "RF_signal_vias": 0,
+  "stored_connections": 0,
+  "native_DRC_categories": 23,
+  "native_DRC_violations": 0,
+  "QD_endpoint_vias": {
+    "count": 22,
+    "baseline_land_mm": 0.4,
+    "land_mm": 0.35,
+    "drill_mm": 0.2,
+    "low": 1,
+    "high": 32
+  },
+  "source_preservation": {
+    "QSTL_24DC_4MW_PCB.SchDoc": true,
+    "QSTL_24DC_4MW_PCB.PcbDoc": true,
+    "QSTL_24DC_4MW_PCB.PcbLib": true,
+    "Reference_Connectors.SchLib": true,
+    "Reference_Connectors.PcbLib": true,
+    "Passives_0603.PcbLib": true,
+    "QSTL_24DC_4MW_PCB.SchLib": true,
+    "ZIF_5025985193.PcbLib": true,
+    "Reference_Resistors.SchLib": true,
+    "Reference_Capacitors.SchLib": true,
+    "Capacitors_0402.PcbLib": true,
+    "QSTL_24DC_4MW_PCB.PrjPcb": true
+  },
+  "unchanged_sources": {
+    "QSTL_QD4_2SET_38PAD.SchDoc": true,
+    "QSTL_QD4_2SET_38PAD.PrjPcb": true,
+    "QSTL_QD4_2SET_38PAD.SchLib": true,
+    "pin_mapping.csv": true
+  },
+  "evidence": {
+    "candidate": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\alignment_full_candidate.json",
+      "sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c"
+    },
+    "candidate_audit": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\alignment_full_audit.json",
+      "sha256": "20bfc0b6b47f1ad83ec8580e62e7465d29aae5c967da5b8afdd20c1c39331269"
+    },
+    "native": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+      "sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351"
+    },
+    "schematic": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.SchDoc",
+      "sha256": "e6d83b6a6b7d74bc14fc5d10041c3d76ee38e315133cc71012b8034f834e6249"
+    },
+    "project": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PrjPcb",
+      "sha256": "4c45713af7cdb2e06d11652b65f5760e85a7d6ff208d2b3860d4c05147e6ef98"
+    },
+    "library": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QD4_2SET_38.PcbLib",
+      "sha256": "ec4b54190f8ca7402dc81cc066efe8c18dcc453841cc93d68eaa695fe161746f"
+    },
+    "schematic_library": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.SchLib",
+      "sha256": "88635bba850462d44eb8ff673bccd158080686442de8c2f8bf0e62eba584f833"
+    },
+    "pin_table": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\pin_mapping.csv",
+      "sha256": "6ca9f71707db65fb3418abcf7f730685e450c347f0d70f42da30b12f9f3edd5f"
+    },
+    "schematic_validation": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\schematic_validation.json",
+      "sha256": "8c6820c590cde966490dc74362078c2b201cdb27d9f804291f8ed5ce0417cf93"
+    },
+    "native_audit": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\saved_revision_audit.json",
+      "sha256": "66ce9d76d936b07bd80372ac1c2b2975d3ca4a00ac706b75a76064efd12ff3c4"
+    },
+    "snapshot": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\saved_revision_snapshot.json",
+      "sha256": "59f1529af34d5fe53be259c174ae52d57879028c2e36d3cf1f3ff579a99e32b9"
+    },
+    "surface_audit": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\saved_revision_surface.json",
+      "sha256": "2e31b99e3b8dfd62a88065e310272ed46cf2a62d872f512023099c36447851ed"
+    },
+    "model_audit": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\saved_revision_models.json",
+      "sha256": "868d8d4064aaa47dc5fc465cade36e2ba63cb5e66d49769f54569586c7f8ab97"
+    },
+    "canonical_audit": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\canonical_library_audit.json",
+      "sha256": "a2289e1a919238196f0b34c40faff3a3586bccbd15a29c83e7d0d490bcf3467d"
+    },
+    "rule_audit": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\saved_alignment_rules.json",
+      "sha256": "114b829806b81fcfb124c12b25f3883542e44692585c8231ec1d8c6c9824333a"
+    },
+    "delta_audit": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\saved_alignment_delta.json",
+      "sha256": "0ec553428bb183d5f403060ce49629b307f3cb824c7dd65d7e1df6b02123befc"
+    },
+    "delta_manifest": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\alignment_delta_manifest.json",
+      "sha256": "f7b9873eb89c1ac30270d83d2b37790e28066f1baf7f53d897287af586a8d938"
+    },
+    "paste_audit": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\revision_native_paste_cam_validation.json",
+      "sha256": "7e3124e41440dd449288b4fdee7cc0d773fb845a5628e891403ccab982648006"
+    },
+    "paste_manifest": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\revision_paste_audit_source_manifest.json",
+      "sha256": "d71903142cf4addbf88786333c4bab51fc68b112fd0c6f9c9c7e3efb35ed9769"
+    },
+    "promotion": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\alignment_source_promotion.json",
+      "sha256": "9b782ab49840893232b13706af69b0227b50a98bc86f4abc002dd9410b424c78"
+    },
+    "images": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\alignment_review_images.json",
+      "sha256": "24a2063143e503139f3a956ba0d6b4c09daca2195a16bc21651ff080ed2a3f9e"
+    },
+    "library_patch_audit": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\library_staging\\library_xy_patch_audit.json",
+      "sha256": "26904088ebed0d5be4686339a4b20ec8b1ac9ba2637088693d9ff7c532451aa9"
+    },
+    "backup_manifest": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\before_alignment\\manifest.json",
+      "sha256": "c1242cc98c5ff10029b1038c61ba26d96dfcbaf6cedaf185012a22eb1107ad57"
+    },
+    "baseline": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\before_alignment\\QSTL_QD4_2SET_38PAD.PcbDoc",
+      "sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c"
+    },
+    "DRC": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\Native_DRC.html",
+      "sha256": "c6832f7a07fe4641057150b5995a8ad41fe194a0915b2c0953ccf0f663e9fc69"
+    },
+    "compile_log": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\native_compile.txt",
+      "sha256": "c6a2396d72ac49a7e320b4307b98cf448403a0405b1c6532d0ad7594c4c34fce"
+    },
+    "validation_log": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\native_validation.txt",
+      "sha256": "9c991e149cc257145c545535c88a8a6c842aaca3347dfed8dcbcb465f3284c12"
+    },
+    "delta_log": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\native_alignment_delta.txt",
+      "sha256": "9b38a5ecb2041c5975b1cff0b4efb299852e9eade643ce3fed05177cd3d45d03"
+    },
+    "paste_log": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\revision_paste_export_native_log.txt",
+      "sha256": "bdfca717bf09a530246c5643f6e39fd459562e1f7094c00d216b2ce5044ddd3e"
+    },
+    "provenance": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\copy_provenance.json",
+      "sha256": "6b79f7aafe6cff07c9291e61f7320b9b6c1370df9cdb5d724181355d390dad56"
+    },
+    "first_save_manifest": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\first_save_connection_cache\\manifest.json",
+      "sha256": "756777416f2ac30755fbc51ec4c8370a99d3f47b20bfc3f7beade43ecf681744"
+    },
+    "connectivity_rebuild_log": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\native_connectivity_rebuild.txt",
+      "sha256": "7a2313d7305da6c94c5558f5ce926ed366f68bcb565ad778458736f7929d0ef6"
+    }
+  },
+  "warnings": [
+    "Native AnalyzeNet/CleanNet normalized primitive records; non-RF tracks are checked by native-grid line unions and raw copper coverage, and RF uses the separate combined line/arc/pad equivalence proof at 0.00001 mm.",
+    "Native GetState_PasteMaskEnabled reports True on 744 vias; effective CAM openings still require verification despite negative cache expansion.",
+    "Native compiler returned False; net connectivity was independently compared where COMPLETE exists."
+  ],
+  "fabrication_release": false,
+  "scope": "Saved local alignment verified; no order, manufacturing certification, physical prototype or impedance measurement."
+}

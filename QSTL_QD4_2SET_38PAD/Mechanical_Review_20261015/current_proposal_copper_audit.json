@@ -1,0 +1,119 @@
+{
+  "status": "EXISTING_COPPER_DOES_NOT_FIT_CURRENT_PROPOSAL",
+  "board_mm": [
+    19.5,
+    77.5,
+    1.58839662
+  ],
+  "qd_centre_mm": [
+    9.75,
+    46.150000000000006
+  ],
+  "registration": "Preserved rigid transform; fixed lower M2 axes independently matched.",
+  "mount_registration": [
+    {
+      "group": "upper_M2",
+      "pcb_xy": [
+        2.42499896,
+        75.0
+      ],
+      "axis_error_mm": {
+        "Bottom_SMP_Side": 9.660000780000022,
+        "Top_ForFridge_QD_Side": 9.660000780000008
+      }
+    },
+    {
+      "group": "upper_M2",
+      "pcb_xy": [
+        17.07500014,
+        75.0
+      ],
+      "axis_error_mm": {
+        "Bottom_SMP_Side": 9.660000780000022,
+        "Top_ForFridge_QD_Side": 9.660000780000008
+      }
+    },
+    {
+      "group": "fixed_lower_M2",
+      "pcb_xy": [
+        17.07500014,
+        13.189999019999998
+      ],
+      "axis_error_mm": {
+        "Bottom_SMP_Side": 6.229767249648289e-07,
+        "Top_ForFridge_QD_Side": 6.229767193760818e-07
+      }
+    },
+    {
+      "group": "fixed_lower_M2",
+      "pcb_xy": [
+        2.42499896,
+        13.189999019999998
+      ],
+      "axis_error_mm": {
+        "Bottom_SMP_Side": 6.229767283294829e-07,
+        "Top_ForFridge_QD_Side": 6.229767395640052e-07
+      }
+    }
+  ],
+  "copper_bounds_pcb_frame": {
+    "Bottom_SMP_Side": [
+      -0.1358249913515026,
+      9.674998525351002,
+      0.5883966199999968,
+      19.47574114097469,
+      75.43999922,
+      6.58839662
+    ],
+    "Top_ForFridge_QD_Side": [
+      -0.6053561623883574,
+      9.630670617557072,
+      -10.600000000000005,
+      19.827101238563984,
+      79.43999922,
+      2.983720952780491
+    ]
+  },
+  "positive_Y_outer_overhang_mm": {
+    "Bottom_SMP_Side": 2.0600007799999958,
+    "Top_ForFridge_QD_Side": 0.0
+  },
+  "positive_Y_outer_margin_mm": {
+    "Bottom_SMP_Side": -2.0600007799999958,
+    "Top_ForFridge_QD_Side": 1.9399992200000042
+  },
+  "end_lip_start_y_mm": 68.03999922,
+  "PCB_length_beyond_lip_start_mm": 9.460000780000001,
+  "inherited_right_skirt_overlap_mm": 0.06110873944349038,
+  "baseline_rectangular_overlap_mm3": {
+    "Bottom_SMP_Side": 0.2756719930621691,
+    "Top_ForFridge_QD_Side": 5.655907514297698
+  },
+  "current_rectangular_overlap_mm3": {
+    "Bottom_SMP_Side": 126.23835644835769,
+    "Top_ForFridge_QD_Side": 64.16861729511957
+  },
+  "incremental_rectangular_overlap_mm3": {
+    "Bottom_SMP_Side": 125.96268445529552,
+    "Top_ForFridge_QD_Side": 58.51270978082188
+  },
+  "current_board_with_mounts_and_moved_blind_pocket_overlap_mm3": {
+    "Bottom_SMP_Side": 120.98235734254719,
+    "Top_ForFridge_QD_Side": 61.51405947681858
+  },
+  "source_hashes": {
+    "QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Bottom_reference.step": "0dc1b20126b0254abd1981e1c2ab64a208465c6e5edf04fdac03b60bd79d4e51",
+    "QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Top_ForFridge_reference.step": "d32615e2d8bd89f56e25760c5204285faf08581fc8cfbdb68554d739ab81103e",
+    "QSTL_QD4_2SET_38PAD\\Outline_Mount_Concept_20261014\\qd_gap_midpoint_audit.json": "1328fe45fb03a069de9293c4a70d8294b87b62ab0ad27098580f1471dd149765",
+    "QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+    "QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.SchDoc": "e6d83b6a6b7d74bc14fc5d10041c3d76ee38e315133cc71012b8034f834e6249"
+  },
+  "source_files_unchanged": true,
+  "limitations": [
+    "Actual preserved STEP solids and lower-M2 registration are used.",
+    "SMP-to-legacy-copper openings are intentionally excluded from fit certification, as previously instructed.",
+    "Board model contains current mounting holes and moved blind pocket, but excludes SMP drills and passives.",
+    "Overlap volumes are nominal CAD geometry; source seating/wall overlaps are distinguished by the baseline.",
+    "Copper parts are not resized, remachined or overwritten. No tolerances, fasteners, cables or rod are evaluated."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "baseline_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "saved_rule_count": 44,
+  "declared_changes": [
+    {
+      "name": "QD38_QD_VIA_0P4_0P2",
+      "field": "WIDTH",
+      "before": "15.748mil",
+      "after": "13.7795mil"
+    },
+    {
+      "name": "QD38_QD_VIA_0P4_0P2",
+      "field": "MINWIDTH",
+      "before": "15.748mil",
+      "after": "13.7795mil"
+    },
+    {
+      "name": "QD38_QD_VIA_0P4_0P2",
+      "field": "MAXWIDTH",
+      "before": "15.748mil",
+      "after": "13.7795mil"
+    }
+  ],
+  "all_unrelated_rules_unchanged": true,
+  "failures": []
+}

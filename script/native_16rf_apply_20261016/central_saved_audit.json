@@ -1,0 +1,112 @@
+{
+  "passed": true,
+  "errors": [],
+  "source_sha256": "0adecc99d347b092775e4fe84506e643e7af0a8ce49d43413f4dc0239a6f58de",
+  "cross_sections": [
+    {
+      "layer": 2,
+      "y_mm": 2,
+      "lanes": 19,
+      "min_x": 7.410000419999999,
+      "max_x": 12.09000122,
+      "copper_width_mm": 4.8050008,
+      "centre_x_mm": 9.75000082
+    },
+    {
+      "layer": 2,
+      "y_mm": 10,
+      "lanes": 19,
+      "min_x": 7.410000419999999,
+      "max_x": 12.09000122,
+      "copper_width_mm": 4.8050008,
+      "centre_x_mm": 9.75000082
+    },
+    {
+      "layer": 2,
+      "y_mm": 20,
+      "lanes": 19,
+      "min_x": 7.410000419999999,
+      "max_x": 12.09000122,
+      "copper_width_mm": 4.8050008,
+      "centre_x_mm": 9.75000082
+    },
+    {
+      "layer": 3,
+      "y_mm": 2,
+      "lanes": 19,
+      "min_x": 7.410000419999999,
+      "max_x": 12.09000122,
+      "copper_width_mm": 4.8050008,
+      "centre_x_mm": 9.75000082
+    },
+    {
+      "layer": 3,
+      "y_mm": 10,
+      "lanes": 19,
+      "min_x": 7.410000419999999,
+      "max_x": 12.09000122,
+      "copper_width_mm": 4.8050008,
+      "centre_x_mm": 9.75000082
+    },
+    {
+      "layer": 3,
+      "y_mm": 20,
+      "lanes": 19,
+      "min_x": 7.410000419999999,
+      "max_x": 12.09000122,
+      "copper_width_mm": 4.8050008,
+      "centre_x_mm": 9.75000082
+    }
+  ],
+  "minimums": {
+    "trace_to_foreign_via_land": {
+      "gap_mm": 0.10519288477472771,
+      "required_mm": 0.1,
+      "net": "DC36",
+      "other": "DC16"
+    },
+    "trace_to_foreign_drill_edge": {
+      "gap_mm": 0.2051926847747277,
+      "required_mm": 0.2,
+      "net": "DC36",
+      "other": "DC16"
+    },
+    "normalized_static_clearance": {
+      "gap_mm": 0.10519317773937355,
+      "required_mm": 0.1,
+      "net": "DC36",
+      "other": "static"
+    },
+    "SMP_pad_hull_clearance": {
+      "gap_mm": 2.198751285563646,
+      "required_mm": 0.2,
+      "net": "DC02",
+      "other": "SMP13"
+    },
+    "resistor_body_envelope_clearance": {
+      "gap_mm": 0.15756201946109272,
+      "required_mm": 0.15,
+      "net": "DC28",
+      "other": "R28"
+    },
+    "pocket_clearance": {
+      "gap_mm": 0.1673087090753153,
+      "required_mm": 0.15,
+      "net": "DC04",
+      "other": "blind pocket"
+    },
+    "DC_to_GND": {
+      "gap_mm": 0.20283916857860498,
+      "required_mm": 0.2,
+      "net": "DC38",
+      "other": "GND"
+    },
+    "DC_trace_to_trace": {
+      "gap_mm": 0.13499845999999846,
+      "required_mm": 0.1,
+      "net": "DC05",
+      "other": "DC03"
+    }
+  },
+  "RF_and_mask_and_fixed_geometry_preserved": true
+}

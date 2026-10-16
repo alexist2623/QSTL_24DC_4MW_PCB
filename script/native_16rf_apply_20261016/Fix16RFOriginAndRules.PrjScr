@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=Fix16RFOriginAndRules.pas
+[Generic_ScriptingSystem]
+StartProcName=Fix16RFOriginAndRules.pas>Fix16RFOriginAndRules

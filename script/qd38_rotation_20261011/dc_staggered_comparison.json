@@ -1,0 +1,189 @@
+{
+  "fallback_candidate_sha256": "eefbfe8ff5a56f85c61db86a75646cf87397af0d012d526a2af8694ae3d064ca",
+  "staggered_candidate_sha256": "2fc778d0f2b04e225715bb9f45fdcd696f2d97e8b69f7511c8bb0e6b8fcfe613",
+  "base_placement_sha256": "99a7cc8fef9c21e235f47fbdc24733121a37e6ddc4a939d6d92f4fbdb1d70c0e",
+  "moved_endpoint_vias": [
+    {
+      "label": "J1-4",
+      "before_mm": [
+        3.1499987799999998,
+        6.750000299999999
+      ],
+      "after_mm": [
+        3.1499987799999998,
+        7.450000299999999
+      ]
+    },
+    {
+      "label": "J1-8",
+      "before_mm": [
+        4.34999892,
+        6.750000299999999
+      ],
+      "after_mm": [
+        4.34999892,
+        7.450000299999999
+      ]
+    },
+    {
+      "label": "J1-12",
+      "before_mm": [
+        5.549999059999999,
+        6.750000299999999
+      ],
+      "after_mm": [
+        5.549999059999999,
+        7.450000299999999
+      ]
+    },
+    {
+      "label": "J1-16",
+      "before_mm": [
+        6.74999666,
+        6.750000299999999
+      ],
+      "after_mm": [
+        6.74999666,
+        7.450000299999999
+      ]
+    },
+    {
+      "label": "J1-20",
+      "before_mm": [
+        7.949996799999999,
+        6.750000299999999
+      ],
+      "after_mm": [
+        7.949996799999999,
+        7.450000299999999
+      ]
+    },
+    {
+      "label": "J1-24",
+      "before_mm": [
+        9.14999694,
+        6.750000299999999
+      ],
+      "after_mm": [
+        9.14999694,
+        7.450000299999999
+      ]
+    },
+    {
+      "label": "J1-28",
+      "before_mm": [
+        10.34999708,
+        6.750000299999999
+      ],
+      "after_mm": [
+        10.34999708,
+        7.450000299999999
+      ]
+    },
+    {
+      "label": "J1-32",
+      "before_mm": [
+        11.54999722,
+        6.750000299999999
+      ],
+      "after_mm": [
+        11.54999722,
+        7.450000299999999
+      ]
+    },
+    {
+      "label": "J1-36",
+      "before_mm": [
+        12.749997359999998,
+        6.750000299999999
+      ],
+      "after_mm": [
+        12.749997359999998,
+        7.450000299999999
+      ]
+    },
+    {
+      "label": "J1-40",
+      "before_mm": [
+        13.949997499999998,
+        6.750000299999999
+      ],
+      "after_mm": [
+        13.949997499999998,
+        7.450000299999999
+      ]
+    },
+    {
+      "label": "J1-44",
+      "before_mm": [
+        15.149997639999999,
+        6.750000299999999
+      ],
+      "after_mm": [
+        15.149997639999999,
+        7.450000299999999
+      ]
+    },
+    {
+      "label": "J1-48",
+      "before_mm": [
+        16.34999778,
+        6.750000299999999
+      ],
+      "after_mm": [
+        16.34999778,
+        7.450000299999999
+      ]
+    }
+  ],
+  "other_64_via_positions_unchanged": true,
+  "all_component_and_pad_geometry_unchanged": true,
+  "exact_contact_pool_unchanged": true,
+  "comparison": {
+    "total_bends": {
+      "before": 345,
+      "after": 374,
+      "delta": 29
+    },
+    "maximum_bends": {
+      "before": 15,
+      "after": 18,
+      "delta": 3
+    },
+    "total_dc_length_mm": {
+      "before": 1784.7675929095547,
+      "after": 1805.9816729172014,
+      "delta": 21.21408000764677
+    },
+    "length_weighted_mean_absolute_x_offset_mm": {
+      "before": 4.8223420971108855,
+      "after": 4.915229028172586,
+      "delta": 0.09288693106170065
+    },
+    "actual_minimum_dc_to_dc_mm": {
+      "before": 0.10499851999999521,
+      "after": 0.10499851999999875,
+      "delta": 3.5388358909926865e-15
+    },
+    "actual_minimum_dc_to_ground_mm": {
+      "before": 0.21249893999999966,
+      "after": 0.21249893999999966,
+      "delta": 0.0
+    },
+    "minimum_rc_body_envelope_clearance_mm": {
+      "before": 0.16275775850363552,
+      "after": 0.16275775850363552,
+      "delta": 0.0
+    },
+    "minimum_smp_full_hull_clearance_mm": {
+      "before": 0.21249893999999966,
+      "after": 0.21249893999999966,
+      "delta": 0.0
+    },
+    "top_fanout_minimum_clearance_mm": {
+      "before": 0.3249993499999988,
+      "after": 0.3249993499999988,
+      "delta": 0.0
+    }
+  }
+}

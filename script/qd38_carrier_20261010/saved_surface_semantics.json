@@ -1,0 +1,903 @@
+{
+  "passed": true,
+  "status": "SAVED_NATIVE_SURFACE_SEMANTICS_READ_ONLY",
+  "native_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+  "native_sha256": "f8356dd694810d2318a51e99544ab2345f8b9996de80e9ddc4456bbc6a14c632",
+  "candidate_sha256": "fedd3f662aa536548598b1f4c5a5fdf86c8fabf913ab1eadb359fb3f9821b28e",
+  "export_geometry_tolerance_mm": 0.003,
+  "coordinate_tolerance_mm": 1e-05,
+  "checks": {
+    "saved_candidate_region_comparison": [
+      {
+        "family": "GND",
+        "layer": 1,
+        "hausdorff_mm": 1.7256928124075192e-06
+      },
+      {
+        "family": "GND",
+        "layer": 2,
+        "hausdorff_mm": 1.7596564988558887e-06
+      },
+      {
+        "family": "GND",
+        "layer": 3,
+        "hausdorff_mm": 1.7596564988558887e-06
+      },
+      {
+        "family": "GND",
+        "layer": 4,
+        "hausdorff_mm": 1.7666319266813437e-06
+      },
+      {
+        "family": "GND",
+        "layer": 5,
+        "hausdorff_mm": 1.7596564988558887e-06
+      },
+      {
+        "family": "GND",
+        "layer": 32,
+        "hausdorff_mm": 1.7678235211742522e-06
+      },
+      {
+        "family": "MASK",
+        "layer": 37,
+        "hausdorff_mm": 1.717445847698133e-06
+      },
+      {
+        "family": "MASK",
+        "layer": 38,
+        "hausdorff_mm": 1.755611477592068e-06
+      }
+    ],
+    "mount_mask": [
+      {
+        "pin": "MH8",
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "MH7",
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "1",
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "1",
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "1",
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "1",
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "1",
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      },
+      {
+        "pin": "1",
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "missing_mm2": {
+          "37": 0.0,
+          "38": 0.0
+        }
+      }
+    ],
+    "QD_Bottom_mask_open_missing_mm2": 0.0,
+    "QD_GND": {
+      "1": {
+        "missing_Top_mm2": 0.0
+      },
+      "2": {
+        "unwanted_GND_mm2": 0.0
+      },
+      "3": {
+        "unwanted_GND_mm2": 0.0
+      },
+      "4": {
+        "unwanted_GND_mm2": 0.0
+      },
+      "5": {
+        "unwanted_GND_mm2": 0.0
+      },
+      "32": {
+        "unwanted_GND_mm2": 0.0
+      }
+    },
+    "RC_protected_rectangles": [
+      {
+        "pair": "2",
+        "bounds_mm": [
+          12.613598829999997,
+          45.57999975,
+          17.199999149999996,
+          49.88923019
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "5",
+        "bounds_mm": [
+          12.613598829999997,
+          51.58000045,
+          17.199999149999996,
+          55.88923089
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "9",
+        "bounds_mm": [
+          11.34999963,
+          55.043600330000004,
+          14.150000169999998,
+          60.98923085
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "11",
+        "bounds_mm": [
+          8.300000649999998,
+          45.57999975,
+          12.88640097,
+          49.88923019
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "12",
+        "bounds_mm": [
+          8.300000649999998,
+          51.58000045,
+          12.88640097,
+          55.88923089
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "13",
+        "bounds_mm": [
+          5.349998929999999,
+          55.043600330000004,
+          8.14999947,
+          60.98923085
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "15",
+        "bounds_mm": [
+          2.2999999499999997,
+          51.58000045,
+          6.886400269999999,
+          55.88923089
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "16",
+        "bounds_mm": [
+          2.2999999499999997,
+          45.57999975,
+          6.886400269999999,
+          49.88923019
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "21",
+        "bounds_mm": [
+          2.2999999499999997,
+          35.110769989999994,
+          6.886400269999999,
+          39.420000429999995
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "24",
+        "bounds_mm": [
+          2.2999999499999997,
+          29.11076929,
+          6.886400269999999,
+          33.41999973
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "28",
+        "bounds_mm": [
+          5.349998929999999,
+          24.010769330000002,
+          8.14999947,
+          29.956399849999997
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "30",
+        "bounds_mm": [
+          6.613600669999999,
+          35.110769989999994,
+          11.20000099,
+          39.420000429999995
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "31",
+        "bounds_mm": [
+          6.613600669999999,
+          29.11076929,
+          11.20000099,
+          33.41999973
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "32",
+        "bounds_mm": [
+          11.34999963,
+          24.010769330000002,
+          14.150000169999998,
+          29.956399849999997
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "34",
+        "bounds_mm": [
+          12.613598829999997,
+          29.11076929,
+          17.199999149999996,
+          33.41999973
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      },
+      {
+        "pair": "35",
+        "bounds_mm": [
+          12.613598829999997,
+          35.110769989999994,
+          17.199999149999996,
+          39.420000429999995
+        ],
+        "margin_mm": 0.9,
+        "top_intrusion_mm2": 0.0,
+        "bottom_intrusion_mm2": 0.0
+      }
+    ],
+    "ZIF_Bottom_mask": {
+      "bounds_mm": [
+        1.94999784,
+        1.98500158,
+        17.84999812,
+        7.3499988
+      ],
+      "margin_mm": 0.4,
+      "intrusion_mm2": 0.0
+    },
+    "RF_Bottom_mask": {
+      "centerline_buffer_mm": 0.71,
+      "intrusion_mm2": 0.0
+    },
+    "mount_direct_GND": [
+      {
+        "layer": 1,
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761304
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761326
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438533
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.0682637274385325
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836516
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 1,
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836515
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761304
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761326
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438533
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.0682637274385325
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836516
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068240438073897
+      },
+      {
+        "layer": 2,
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.61780144738885
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761304
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761326
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438533
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.0682637274385325
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836516
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 3,
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836515
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761304
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761326
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438533
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.0682637274385325
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.610384357380646
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.065593851691885
+      },
+      {
+        "layer": 4,
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.62549387679422
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761304
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761326
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438533
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.0682637274385325
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836516
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 5,
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836515
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          18.4500012,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761304
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          1.05000044,
+          1.20000014
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 2.0105279235761326
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          2.42499896,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438533
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          17.07500014,
+          65.33999886
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.0682637274385325
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          16.074999599999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836516
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          17.07500014,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          2.42499896,
+          13.189999019999998
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 7.068263727438534
+      },
+      {
+        "layer": 32,
+        "center_mm": [
+          3.4249994999999998,
+          18.08999938
+        ],
+        "unexpected_thermal_void_mm2": 0.0,
+        "land_contact_mm2": 19.63407920836515
+      }
+    ],
+    "native_DRC": {
+      "report": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010\\Native_DRC.html",
+      "report_sha256": "0a4fa4e1f94f32e704a7ca2cb7dd9e40c5b34b24a5953f3967b1e0b3405cff17",
+      "categories": 21,
+      "violation_sum": 0,
+      "via_style_rule_count": 3,
+      "component_rule_count": 1,
+      "early_stop": false,
+      "summary": [
+        {
+          "rule": "Clearance Constraint (Gap=0.2mm) (InNet('GND') And OnLayer('L6_RF_QD')),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Clearance Constraint (Gap=0.15mm) (Not (InNet('GND') And OnLayer('L6_RF_QD')) And Not (InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L4_DC_B')))),(Not (InNet('GND') And OnLayer('L6_RF_QD')) And Not (InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L4_DC_B'))))",
+          "violations": 0
+        },
+        {
+          "rule": "Clearance Constraint (Gap=0.2mm) (InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L4_DC_B'))),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Short-Circuit Constraint (Allowed=No) (All),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Un-Routed Net Constraint ( (All) )",
+          "violations": 0
+        },
+        {
+          "rule": "Modified Polygon (Allow modified: No), (Allow shelved: No)",
+          "violations": 0
+        },
+        {
+          "rule": "Width Constraint (Min=0.11mm) (Max=0.11mm) (Preferred=0.11mm) (OnLayer('L6_RF_QD') And (InNet('MW02') Or InNet('MW05') Or InNet('MW09') Or InNet('MW11') Or InNet('MW12') Or InNet('MW13') Or InNet('MW15') Or InNet('MW16') Or InNet('MW21') Or InNet('MW24') Or InNet('MW28') Or InNet('MW30') Or InNet('MW31') Or InNet('MW32') Or InNet('MW34') Or InNet('MW35') Or InNet('S02') Or InNet('S05') Or InNet('S09') Or InNet('S11') Or InNet('S12') Or InNet('S13') Or InNet('S15') Or InNet('S16') Or InNet('S21') Or InNet('S24') Or InNet('S28') Or InNet('S30') Or InNet('S31') Or InNet('S32') Or InNet('S34') Or InNet('S35')))",
+          "violations": 0
+        },
+        {
+          "rule": "Width Constraint (Min=0.125mm) (Max=0.254mm) (Preferred=0.15mm) (Not (OnLayer('L6_RF_QD') And (InNet('MW02') Or InNet('MW05') Or InNet('MW09') Or InNet('MW11') Or InNet('MW12') Or InNet('MW13') Or InNet('MW15') Or InNet('MW16') Or InNet('MW21') Or InNet('MW24') Or InNet('MW28') Or InNet('MW30') Or InNet('MW31') Or InNet('MW32') Or InNet('MW34') Or InNet('MW35') Or InNet('S02') Or InNet('S05') Or InNet('S09') Or InNet('S11') Or InNet('S12') Or InNet('S13') Or InNet('S15') Or InNet('S16') Or InNet('S21') Or InNet('S24') Or InNet('S28') Or InNet('S30') Or InNet('S31') Or InNet('S32') Or InNet('S34') Or InNet('S35'))) And Not ((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38'))))",
+          "violations": 0
+        },
+        {
+          "rule": "Width Constraint (Min=0.125mm) (Max=0.254mm) (Preferred=0.254mm) ((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')))",
+          "violations": 0
+        },
+        {
+          "rule": "Routing Topology Rule(Topology=Shortest) (All)",
+          "violations": 0
+        },
+        {
+          "rule": "Routing Via (MinHoleWidth=0.1mm) (MaxHoleWidth=0.1mm) (PreferredHoleWidth=0.1mm) (MinWidth=0.25mm) (MaxWidth=0.25mm) (PreferedWidth=0.25mm) (IsVia And InNet('GND'))",
+          "violations": 0
+        },
+        {
+          "rule": "Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=0.2mm) (PreferredHoleWidth=0.2mm) (MinWidth=0.4mm) (MaxWidth=0.4mm) (PreferedWidth=0.4mm) (IsVia And (InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(90.551080315,91.929137008,688.976319685,275.590562992))",
+          "violations": 0
+        },
+        {
+          "rule": "Routing Via (MinHoleWidth=0.25mm) (MaxHoleWidth=0.25mm) (PreferredHoleWidth=0.25mm) (MinWidth=0.5mm) (MaxWidth=0.5mm) (PreferedWidth=0.5mm) (Not (IsVia And InNet('GND')) And Not (IsVia And (InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(90.551080315,91.929137008,688.976319685,275.590562992)))",
+          "violations": 0
+        },
+        {
+          "rule": "Hole Size Constraint (Min=0.025mm) (Max=4.1mm) (All)",
+          "violations": 0
+        },
+        {
+          "rule": "Hole To Hole Clearance (Gap=0.254mm) (All),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Silk to Silk (Clearance=0.254mm) (All),(All)",
+          "violations": 0
+        },
+        {
+          "rule": "Net Antennae (Tolerance=0mm) (All)",
+          "violations": 0
+        },
+        {
+          "rule": "Component Clearance Constraint ( Horizontal Gap = 0.254mm, Vertical Gap = 0.254mm ) (All),(All) ",
+          "violations": 0
+        },
+        {
+          "rule": "Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)",
+          "violations": 0
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "limitation": "Explicit solder-mask regions checked. Ordinary pad apertures and effective via paste require separate native/CAM verification."
+}

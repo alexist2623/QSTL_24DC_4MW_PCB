@@ -1,0 +1,5296 @@
+{
+  "status": "READ_ONLY_THROUGH_SIGNAL_VIA_SCENARIO_NOT_NATIVE_DRC",
+  "source": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\full_copper_candidate.json",
+  "source_sha256": "94ca2f28553eee22159b2cfe8bccf3c9bf2ad23a4bf8e97229e15b9f2907ca65",
+  "signal_vias": 76,
+  "shield_vias_unchanged": 702,
+  "requested_scenario_span": [
+    1,
+    32
+  ],
+  "minimum_clearance_mm": 0.15,
+  "original_signal_spans": {
+    "2-32": 18,
+    "1-2": 18,
+    "4-32": 20,
+    "1-4": 20
+  },
+  "original_signal_via_sizes": {
+    "0.5/0.25": 38,
+    "0.4/0.2": 38
+  },
+  "unique_violation_count": 214,
+  "non_ground_violation_count": 38,
+  "new_non_ground_violation_count": 38,
+  "non_ground_affected_vias": [
+    "J1-12",
+    "J1-14",
+    "J1-16",
+    "J1-18",
+    "J1-20",
+    "J1-22",
+    "J1-24",
+    "J1-26",
+    "J1-28",
+    "J1-30",
+    "J1-32",
+    "J1-34",
+    "J1-36",
+    "Q1-1",
+    "Q1-10",
+    "Q1-29",
+    "Q1-3",
+    "Q1-33",
+    "Q1-37",
+    "Q1-7",
+    "Q1-8",
+    "R32-2"
+  ],
+  "per_layer": {
+    "L1": {
+      "violations_by_category": {
+        "via-ground-region": 38
+      },
+      "new_violations_by_category": {
+        "via-ground-region": 38
+      },
+      "copper_overlaps_by_category": {
+        "via-ground-region": 38
+      },
+      "affected_signal_vias": 38
+    },
+    "L2": {
+      "violations_by_category": {
+        "via-track-net": 12,
+        "via-ground-region": 18
+      },
+      "new_violations_by_category": {
+        "via-track-net": 12,
+        "via-ground-region": 18
+      },
+      "copper_overlaps_by_category": {
+        "via-track-net": 7,
+        "via-ground-region": 18
+      },
+      "affected_signal_vias": 20
+    },
+    "L3": {
+      "violations_by_category": {
+        "via-ground-region": 38
+      },
+      "new_violations_by_category": {
+        "via-ground-region": 38
+      },
+      "copper_overlaps_by_category": {
+        "via-ground-region": 38
+      },
+      "affected_signal_vias": 38
+    },
+    "L4": {
+      "violations_by_category": {
+        "via-ground-region": 6,
+        "via-track-net": 26
+      },
+      "new_violations_by_category": {
+        "via-ground-region": 6,
+        "via-track-net": 26
+      },
+      "copper_overlaps_by_category": {
+        "via-ground-region": 6,
+        "via-track-net": 11
+      },
+      "affected_signal_vias": 18
+    },
+    "L5": {
+      "violations_by_category": {
+        "via-ground-region": 38
+      },
+      "new_violations_by_category": {
+        "via-ground-region": 38
+      },
+      "copper_overlaps_by_category": {
+        "via-ground-region": 38
+      },
+      "affected_signal_vias": 38
+    },
+    "L32": {
+      "violations_by_category": {
+        "via-ground-region": 38
+      },
+      "new_violations_by_category": {
+        "via-ground-region": 38
+      },
+      "copper_overlaps_by_category": {
+        "via-ground-region": 38
+      },
+      "affected_signal_vias": 38
+    }
+  },
+  "minimum_by_layer_category_mm": {
+    "L1:via-pad": 0.2987248721705536,
+    "L1:via-track-net": 0.3249987999999995,
+    "L1:via-ground-region": 0.0,
+    "L2:via-pad": 0.5296670771848311,
+    "L2:via-track-net": 0.0,
+    "L2:via-ground-region": 0.0,
+    "L3:via-pad": 0.5296670771848311,
+    "L3:via-ground-region": 0.0,
+    "L4:via-pad": 0.5296670771848311,
+    "L4:via-track-net": 0.0,
+    "L4:via-ground-region": 0.0,
+    "L5:via-pad": 0.5296670771848311,
+    "L5:via-shield-via": 0.1766374245581882,
+    "L5:via-ground-region": 0.0,
+    "L32:via-pad": 0.16505737270384202,
+    "L32:via-shield-via": 0.1766374245581882,
+    "L32:via-track-net": 0.18529329351128812,
+    "L32:via-ground-region": 0.0,
+    "L1:via-signal-via": 0.16653795729012932,
+    "L2:via-signal-via": 0.16653795729012932,
+    "L3:via-signal-via": 0.16653795729012932,
+    "L4:via-signal-via": 0.16653795729012932,
+    "L5:via-signal-via": 0.16653795729012932,
+    "L32:via-signal-via": 0.16653795729012932
+  },
+  "violations": [
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R13-2",
+      "net": "DC13",
+      "via_center": [
+        6.75,
+        56.4936
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        7.0,
+        56.4936
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-2",
+      "net": "DC15",
+      "via_center": [
+        2.54999744,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731098,
+      "nearest_location_mm": [
+        2.7499974,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-ground-region",
+      "via": "J1-2",
+      "net": "DC15",
+      "via_center": [
+        2.54999744,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L4",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731098,
+      "nearest_location_mm": [
+        2.7499974,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-2",
+      "net": "DC15",
+      "via_center": [
+        2.54999744,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731098,
+      "nearest_location_mm": [
+        2.7499974,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-2",
+      "net": "DC15",
+      "via_center": [
+        2.54999744,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731098,
+      "nearest_location_mm": [
+        2.7499974,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R15-2",
+      "net": "DC15",
+      "via_center": [
+        5.4364,
+        52.98
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        5.6864,
+        52.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-4",
+      "net": "DC16",
+      "via_center": [
+        3.1499987799999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731098,
+      "nearest_location_mm": [
+        3.3499988,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-ground-region",
+      "via": "J1-4",
+      "net": "DC16",
+      "via_center": [
+        3.1499987799999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L4",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731098,
+      "nearest_location_mm": [
+        3.3499988,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-4",
+      "net": "DC16",
+      "via_center": [
+        3.1499987799999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731098,
+      "nearest_location_mm": [
+        3.3499988,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-4",
+      "net": "DC16",
+      "via_center": [
+        3.1499987799999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731098,
+      "nearest_location_mm": [
+        3.3499988,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-14",
+      "net": "DC14",
+      "via_center": [
+        6.990254961706735,
+        46.593560509175134
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        7.240255,
+        46.5935605
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-6",
+      "net": "DC18",
+      "via_center": [
+        3.7499975799999996,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731098,
+      "nearest_location_mm": [
+        3.9499976,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-ground-region",
+      "via": "J1-6",
+      "net": "DC18",
+      "via_center": [
+        3.7499975799999996,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L4",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731098,
+      "nearest_location_mm": [
+        3.9499976,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-6",
+      "net": "DC18",
+      "via_center": [
+        3.7499975799999996,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731098,
+      "nearest_location_mm": [
+        3.9499976,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-6",
+      "net": "DC18",
+      "via_center": [
+        3.7499975799999996,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731098,
+      "nearest_location_mm": [
+        3.9499976,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R16-2",
+      "net": "DC16",
+      "via_center": [
+        5.4364,
+        46.98
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        5.6864,
+        46.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-8",
+      "net": "DC20",
+      "via_center": [
+        4.34999892,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        4.5499989,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-ground-region",
+      "via": "J1-8",
+      "net": "DC20",
+      "via_center": [
+        4.34999892,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L4",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        4.5499989,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-8",
+      "net": "DC20",
+      "via_center": [
+        4.34999892,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        4.5499989,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-8",
+      "net": "DC20",
+      "via_center": [
+        4.34999892,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        4.5499989,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-17",
+      "net": "DC17",
+      "via_center": [
+        5.641630629902739,
+        44.20905156114979
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        5.8916306,
+        44.2090516
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-10",
+      "net": "DC24",
+      "via_center": [
+        4.94999772,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        5.1499977,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-ground-region",
+      "via": "J1-10",
+      "net": "DC24",
+      "via_center": [
+        4.94999772,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L4",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        5.1499977,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-10",
+      "net": "DC24",
+      "via_center": [
+        4.94999772,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        5.1499977,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-10",
+      "net": "DC24",
+      "via_center": [
+        4.94999772,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        5.1499977,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-18",
+      "net": "DC18",
+      "via_center": [
+        4.912946207902854,
+        43.81031243552225
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        5.1629462,
+        43.8103124
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-12",
+      "net": "DC21",
+      "via_center": [
+        5.549999059999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        5.7499991,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-12",
+      "net": "DC21",
+      "via_center": [
+        5.549999059999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC12",
+      "other_net": "DC12",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.03580535278671363,
+      "nearest_location_mm": [
+        5.4825,
+        6.5617365
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-12",
+      "net": "DC21",
+      "via_center": [
+        5.549999059999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        5.7499991,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-12",
+      "net": "DC21",
+      "via_center": [
+        5.549999059999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        5.7499991,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-19",
+      "net": "DC19",
+      "via_center": [
+        5.565609041524526,
+        43.070534240537825
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        5.815609,
+        43.0705342
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-14",
+      "net": "DC28",
+      "via_center": [
+        6.149997859999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        6.3499979,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-14",
+      "net": "DC28",
+      "via_center": [
+        6.149997859999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC05",
+      "other_net": "DC05",
+      "clearance_mm": 0.1275021400000007,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        6.4137489,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-14",
+      "net": "DC28",
+      "via_center": [
+        6.149997859999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        6.3499979,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-14",
+      "net": "DC28",
+      "via_center": [
+        6.149997859999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        6.3499979,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-20",
+      "net": "DC20",
+      "via_center": [
+        4.899999999999999,
+        42.5
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        5.15,
+        42.5
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-16",
+      "net": "DC23",
+      "via_center": [
+        6.74999666,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        6.9499967,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-16",
+      "net": "DC23",
+      "via_center": [
+        6.74999666,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC11",
+      "other_net": "DC11",
+      "clearance_mm": 0.08750334000000047,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        6.9937483,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-16",
+      "net": "DC23",
+      "via_center": [
+        6.74999666,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC05",
+      "other_net": "DC05",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.009732605450245069,
+      "nearest_location_mm": [
+        6.6025,
+        6.6149419
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-16",
+      "net": "DC23",
+      "via_center": [
+        6.74999666,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        6.9499967,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-16",
+      "net": "DC23",
+      "via_center": [
+        6.74999666,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        6.9499967,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-22",
+      "net": "DC22",
+      "via_center": [
+        4.912946207902854,
+        41.18968756447775
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        5.1629462,
+        41.1896876
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-18",
+      "net": "DC25",
+      "via_center": [
+        7.349997999999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        7.549998,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-18",
+      "net": "DC25",
+      "via_center": [
+        7.349997999999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC10",
+      "other_net": "DC10",
+      "clearance_mm": 0.04750200000000059,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        7.573749,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-18",
+      "net": "DC25",
+      "via_center": [
+        7.349997999999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC11",
+      "other_net": "DC11",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.001166252792428381,
+      "nearest_location_mm": [
+        7.1625,
+        6.680441
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-18",
+      "net": "DC25",
+      "via_center": [
+        7.349997999999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        7.549998,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-18",
+      "net": "DC25",
+      "via_center": [
+        7.349997999999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.125651090037311,
+      "nearest_location_mm": [
+        7.549998,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-23",
+      "net": "DC23",
+      "via_center": [
+        5.641630629902739,
+        40.79094843885021
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        5.8916306,
+        40.7909484
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-20",
+      "net": "DC31",
+      "via_center": [
+        7.949996799999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        8.1499968,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-20",
+      "net": "DC31",
+      "via_center": [
+        7.949996799999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC08",
+      "other_net": "DC08",
+      "clearance_mm": 0.007503200000002154,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        8.1537484,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-20",
+      "net": "DC31",
+      "via_center": [
+        7.949996799999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC10",
+      "other_net": "DC10",
+      "clearance_mm": 0.027496799999998878,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        7.7362484,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-20",
+      "net": "DC31",
+      "via_center": [
+        7.949996799999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        8.1499968,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-20",
+      "net": "DC31",
+      "via_center": [
+        7.949996799999999,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        8.1499968,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-25",
+      "net": "DC25",
+      "via_center": [
+        5.789602448438182,
+        39.23774304026567
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        6.0396024,
+        39.237743
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-22",
+      "net": "DC26",
+      "via_center": [
+        8.54999814,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731106,
+      "nearest_location_mm": [
+        8.7499981,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-22",
+      "net": "DC26",
+      "via_center": [
+        8.54999814,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC29",
+      "other_net": "DC29",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.004815793893559411,
+      "nearest_location_mm": [
+        8.7499981,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-22",
+      "net": "DC26",
+      "via_center": [
+        8.54999814,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC08",
+      "other_net": "DC08",
+      "clearance_mm": 0.06749813999999965,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        8.3162491,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-ground-region",
+      "via": "J1-22",
+      "net": "DC26",
+      "via_center": [
+        8.54999814,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L4",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.01353504480786639,
+      "nearest_location_mm": [
+        8.5175,
+        6.5526722
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-22",
+      "net": "DC26",
+      "via_center": [
+        8.54999814,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731106,
+      "nearest_location_mm": [
+        8.7499981,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-22",
+      "net": "DC26",
+      "via_center": [
+        8.54999814,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731106,
+      "nearest_location_mm": [
+        8.7499981,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R21-2",
+      "net": "DC21",
+      "via_center": [
+        5.4364,
+        38.02
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        5.6864,
+        38.02
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-24",
+      "net": "DC30",
+      "via_center": [
+        9.14999694,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        9.3499969,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-24",
+      "net": "DC30",
+      "via_center": [
+        9.14999694,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC29",
+      "other_net": "DC29",
+      "clearance_mm": 0.10749693999999897,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        8.8962485,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-24",
+      "net": "DC30",
+      "via_center": [
+        9.14999694,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC01",
+      "other_net": "DC01",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.015530923449311201,
+      "nearest_location_mm": [
+        9.3499969,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-24",
+      "net": "DC30",
+      "via_center": [
+        9.14999694,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC07",
+      "other_net": "DC07",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.04345214270560729,
+      "nearest_location_mm": [
+        9.1225,
+        6.5519139
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-24",
+      "net": "DC30",
+      "via_center": [
+        9.14999694,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        9.3499969,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-24",
+      "net": "DC30",
+      "via_center": [
+        9.14999694,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        9.3499969,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-26",
+      "net": "DC26",
+      "via_center": [
+        7.078709861567742,
+        38.39036545458407
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        7.3287099,
+        38.3903655
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-26",
+      "net": "DC27",
+      "via_center": [
+        9.74999828,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731106,
+      "nearest_location_mm": [
+        9.9499983,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-26",
+      "net": "DC27",
+      "via_center": [
+        9.74999828,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC01",
+      "other_net": "DC01",
+      "clearance_mm": 0.14749828000000068,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        9.4762491,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-26",
+      "net": "DC27",
+      "via_center": [
+        9.74999828,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731106,
+      "nearest_location_mm": [
+        9.9499983,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-26",
+      "net": "DC27",
+      "via_center": [
+        9.74999828,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731106,
+      "nearest_location_mm": [
+        9.9499983,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-27",
+      "net": "DC27",
+      "via_center": [
+        8.20326602941528,
+        38.948868614486514
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        8.453266,
+        38.9488686
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-28",
+      "net": "DC22",
+      "via_center": [
+        10.34999708,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        10.5499971,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-28",
+      "net": "DC22",
+      "via_center": [
+        10.34999708,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC33",
+      "other_net": "DC33",
+      "clearance_mm": 0.1275029200000013,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        10.6137485,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-28",
+      "net": "DC22",
+      "via_center": [
+        10.34999708,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC37",
+      "other_net": "DC37",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.021999845180017137,
+      "nearest_location_mm": [
+        10.2425,
+        6.5813533
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-28",
+      "net": "DC22",
+      "via_center": [
+        10.34999708,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        10.5499971,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-28",
+      "net": "DC22",
+      "via_center": [
+        10.34999708,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        10.5499971,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R24-2",
+      "net": "DC24",
+      "via_center": [
+        5.4364,
+        32.02
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1963298281832983,
+      "nearest_location_mm": [
+        5.6864,
+        32.02
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-30",
+      "net": "DC19",
+      "via_center": [
+        10.94999842,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731106,
+      "nearest_location_mm": [
+        11.1499984,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-30",
+      "net": "DC19",
+      "via_center": [
+        10.94999842,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC35",
+      "other_net": "DC35",
+      "clearance_mm": 0.0875015800000014,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        11.1937492,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-30",
+      "net": "DC19",
+      "via_center": [
+        10.94999842,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC33",
+      "other_net": "DC33",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.00973213004800867,
+      "nearest_location_mm": [
+        10.8025,
+        6.6149438
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-30",
+      "net": "DC19",
+      "via_center": [
+        10.94999842,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731106,
+      "nearest_location_mm": [
+        11.1499984,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-30",
+      "net": "DC19",
+      "via_center": [
+        10.94999842,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731106,
+      "nearest_location_mm": [
+        11.1499984,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R30-2",
+      "net": "DC30",
+      "via_center": [
+        8.063600000000001,
+        38.02
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329842,
+      "nearest_location_mm": [
+        8.3136,
+        38.02
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-32",
+      "net": "DC17",
+      "via_center": [
+        11.54999722,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        11.7499972,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-32",
+      "net": "DC17",
+      "via_center": [
+        11.54999722,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC32",
+      "other_net": "DC32",
+      "clearance_mm": 0.047502780000002076,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        11.7737486,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-32",
+      "net": "DC17",
+      "via_center": [
+        11.54999722,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC35",
+      "other_net": "DC35",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.0011663613065319418,
+      "nearest_location_mm": [
+        11.3625,
+        6.6804389
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-32",
+      "net": "DC17",
+      "via_center": [
+        11.54999722,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        11.7499972,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-32",
+      "net": "DC17",
+      "via_center": [
+        11.54999722,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        11.7499972,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R28-2",
+      "net": "DC28",
+      "via_center": [
+        6.75,
+        28.506399999999996
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329814,
+      "nearest_location_mm": [
+        7.0,
+        28.5064
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-34",
+      "net": "DC14",
+      "via_center": [
+        12.149998559999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        12.3499986,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-34",
+      "net": "DC14",
+      "via_center": [
+        12.149998559999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC32",
+      "other_net": "DC32",
+      "clearance_mm": 0.02749855999999795,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        11.9362493,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-34",
+      "net": "DC14",
+      "via_center": [
+        12.149998559999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC34",
+      "other_net": "DC34",
+      "clearance_mm": 0.007501440000002192,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        12.3537493,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-34",
+      "net": "DC14",
+      "via_center": [
+        12.149998559999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC36",
+      "other_net": "DC36",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.04910545554563329,
+      "nearest_location_mm": [
+        12.2025,
+        6.5570234
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-34",
+      "net": "DC14",
+      "via_center": [
+        12.149998559999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        12.3499986,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-34",
+      "net": "DC14",
+      "via_center": [
+        12.149998559999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1256510900373111,
+      "nearest_location_mm": [
+        12.3499986,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R31-2",
+      "net": "DC31",
+      "via_center": [
+        8.063600000000001,
+        32.02
+      ],
+      "original_span": [
+        2,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1963298281832983,
+      "nearest_location_mm": [
+        8.3136,
+        32.02
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "J1-36",
+      "net": "DC13",
+      "via_center": [
+        12.749997359999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731106,
+      "nearest_location_mm": [
+        12.9499974,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-36",
+      "net": "DC13",
+      "via_center": [
+        12.749997359999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC34",
+      "other_net": "DC34",
+      "clearance_mm": 0.031797278806200424,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        12.7130869,
+        6.5372802
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-36",
+      "net": "DC13",
+      "via_center": [
+        12.749997359999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC38",
+      "other_net": "DC38",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.0553362674139432,
+      "nearest_location_mm": [
+        12.9499974,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 4,
+      "category": "via-track-net",
+      "via": "J1-36",
+      "net": "DC13",
+      "via_center": [
+        12.749997359999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "DC03",
+      "other_net": "DC03",
+      "clearance_mm": 0.09219884452620739,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        12.9104912,
+        6.9365645
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-36",
+      "net": "DC13",
+      "via_center": [
+        12.749997359999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731106,
+      "nearest_location_mm": [
+        12.9499974,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-36",
+      "net": "DC13",
+      "via_center": [
+        12.749997359999998,
+        6.750000299999999
+      ],
+      "original_span": [
+        1,
+        2
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731106,
+      "nearest_location_mm": [
+        12.9499974,
+        6.7500003
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-29",
+      "net": "DC29",
+      "via_center": [
+        9.75,
+        38.95
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        10.0,
+        38.95
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-track-net",
+      "via": "Q1-29",
+      "net": "DC29",
+      "via_center": [
+        9.75,
+        38.95
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "DC19",
+      "other_net": "DC19",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.03870155013695267,
+      "nearest_location_mm": [
+        9.6825,
+        38.7092943
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "Q1-29",
+      "net": "DC29",
+      "via_center": [
+        9.75,
+        38.95
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        10.0,
+        38.95
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-13",
+      "net": "DC12",
+      "via_center": [
+        5.849998459999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        6.0499985,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-13",
+      "net": "DC12",
+      "via_center": [
+        5.849998459999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        6.0499985,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R32-2",
+      "net": "DC32",
+      "via_center": [
+        12.75,
+        28.506399999999996
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1963298281832982,
+      "nearest_location_mm": [
+        13.0,
+        28.5064
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-track-net",
+      "via": "R32-2",
+      "net": "DC32",
+      "via_center": [
+        12.75,
+        28.506399999999996
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "DC22",
+      "other_net": "DC22",
+      "clearance_mm": 0.01750000000000007,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        12.49125,
+        28.5064
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-track-net",
+      "via": "R32-2",
+      "net": "DC32",
+      "via_center": [
+        12.75,
+        28.506399999999996
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "DC19",
+      "other_net": "DC19",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.0605334217495305,
+      "nearest_location_mm": [
+        12.7625,
+        28.2567155
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-track-net",
+      "via": "R32-2",
+      "net": "DC32",
+      "via_center": [
+        12.75,
+        28.506399999999996
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "DC17",
+      "other_net": "DC17",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.021195110883849597,
+      "nearest_location_mm": [
+        13.0,
+        28.5064
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "R32-2",
+      "net": "DC32",
+      "via_center": [
+        12.75,
+        28.506399999999996
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.1963298281832982,
+      "nearest_location_mm": [
+        13.0,
+        28.5064
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-15",
+      "net": "DC05",
+      "via_center": [
+        6.44999726,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        6.6499973,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-15",
+      "net": "DC05",
+      "via_center": [
+        6.44999726,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        6.6499973,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R34-2",
+      "net": "DC34",
+      "via_center": [
+        14.063600000000001,
+        32.02
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329836,
+      "nearest_location_mm": [
+        14.3136,
+        32.02
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "R34-2",
+      "net": "DC34",
+      "via_center": [
+        14.063600000000001,
+        32.02
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329836,
+      "nearest_location_mm": [
+        14.3136,
+        32.02
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "R34-2",
+      "net": "DC34",
+      "via_center": [
+        14.063600000000001,
+        32.02
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329836,
+      "nearest_location_mm": [
+        14.3136,
+        32.02
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-17",
+      "net": "DC11",
+      "via_center": [
+        7.0499985999999994,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        7.2499986,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-17",
+      "net": "DC11",
+      "via_center": [
+        7.0499985999999994,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        7.2499986,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R35-2",
+      "net": "DC35",
+      "via_center": [
+        14.063600000000001,
+        38.02
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.3136,
+        38.02
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "R35-2",
+      "net": "DC35",
+      "via_center": [
+        14.063600000000001,
+        38.02
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.3136,
+        38.02
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "R35-2",
+      "net": "DC35",
+      "via_center": [
+        14.063600000000001,
+        38.02
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.3136,
+        38.02
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-19",
+      "net": "DC10",
+      "via_center": [
+        7.649997399999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        7.8499974,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-19",
+      "net": "DC10",
+      "via_center": [
+        7.649997399999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        7.8499974,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-33",
+      "net": "DC33",
+      "via_center": [
+        13.710397551561817,
+        39.23774304026567
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        13.9603976,
+        39.237743
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-track-net",
+      "via": "Q1-33",
+      "net": "DC33",
+      "via_center": [
+        13.710397551561817,
+        39.23774304026567
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "DC14",
+      "other_net": "DC14",
+      "clearance_mm": 0.1378975515618155,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        13.3914488,
+        39.237743
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-track-net",
+      "via": "Q1-33",
+      "net": "DC33",
+      "via_center": [
+        13.710397551561817,
+        39.23774304026567
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "DC13",
+      "other_net": "DC13",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.04385939954353861,
+      "nearest_location_mm": [
+        13.6025,
+        39.0122381
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "Q1-33",
+      "net": "DC33",
+      "via_center": [
+        13.710397551561817,
+        39.23774304026567
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.05318008122773207,
+      "nearest_location_mm": [
+        13.9603976,
+        39.237743
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "Q1-33",
+      "net": "DC33",
+      "via_center": [
+        13.710397551561817,
+        39.23774304026567
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        13.9603976,
+        39.237743
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-21",
+      "net": "DC08",
+      "via_center": [
+        8.249998739999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        8.4499987,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-21",
+      "net": "DC08",
+      "via_center": [
+        8.249998739999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        8.4499987,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-36",
+      "net": "DC36",
+      "via_center": [
+        14.561267845133143,
+        40.864017352534965
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.8112678,
+        40.8640174
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "Q1-36",
+      "net": "DC36",
+      "via_center": [
+        14.561267845133143,
+        40.864017352534965
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.8112678,
+        40.8640174
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "Q1-36",
+      "net": "DC36",
+      "via_center": [
+        14.561267845133143,
+        40.864017352534965
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.8112678,
+        40.8640174
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-23",
+      "net": "DC29",
+      "via_center": [
+        8.849997539999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        9.0499975,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-23",
+      "net": "DC29",
+      "via_center": [
+        8.849997539999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        9.0499975,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-37",
+      "net": "DC37",
+      "via_center": [
+        13.933900210198896,
+        41.64322173011207
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.1839002,
+        41.6432217
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-track-net",
+      "via": "Q1-37",
+      "net": "DC37",
+      "via_center": [
+        13.933900210198896,
+        41.64322173011207
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "DC13",
+      "other_net": "DC13",
+      "clearance_mm": 0.0814002101988951,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        13.6432001,
+        41.6432217
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "Q1-37",
+      "net": "DC37",
+      "via_center": [
+        13.933900210198896,
+        41.64322173011207
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.16069683218067263,
+      "nearest_location_mm": [
+        14.1839002,
+        41.6432217
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "Q1-37",
+      "net": "DC37",
+      "via_center": [
+        13.933900210198896,
+        41.64322173011207
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.1839002,
+        41.6432217
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-25",
+      "net": "DC07",
+      "via_center": [
+        9.449998879999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        9.6499989,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-25",
+      "net": "DC07",
+      "via_center": [
+        9.449998879999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        9.6499989,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-38",
+      "net": "DC38",
+      "via_center": [
+        14.624072131521412,
+        42.168919811323306
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.8740721,
+        42.1689198
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "Q1-38",
+      "net": "DC38",
+      "via_center": [
+        14.624072131521412,
+        42.168919811323306
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.8740721,
+        42.1689198
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "Q1-38",
+      "net": "DC38",
+      "via_center": [
+        14.624072131521412,
+        42.168919811323306
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.8740721,
+        42.1689198
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-27",
+      "net": "DC01",
+      "via_center": [
+        10.049997679999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        10.2499977,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-27",
+      "net": "DC01",
+      "via_center": [
+        10.049997679999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        10.2499977,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-1",
+      "net": "DC01",
+      "via_center": [
+        13.925469948549214,
+        42.78686492042615
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.1754699,
+        42.7868649
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-track-net",
+      "via": "Q1-1",
+      "net": "DC01",
+      "via_center": [
+        13.925469948549214,
+        42.78686492042615
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "DC13",
+      "other_net": "DC13",
+      "clearance_mm": 0.07296994854921303,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        13.638985,
+        42.7868649
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "Q1-1",
+      "net": "DC01",
+      "via_center": [
+        13.925469948549214,
+        42.78686492042615
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.15706849805340892,
+      "nearest_location_mm": [
+        14.1754699,
+        42.7868649
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "Q1-1",
+      "net": "DC01",
+      "via_center": [
+        13.925469948549214,
+        42.78686492042615
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.1754699,
+        42.7868649
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-29",
+      "net": "DC37",
+      "via_center": [
+        10.64999902,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        10.849999,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-29",
+      "net": "DC37",
+      "via_center": [
+        10.64999902,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        10.849999,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-3",
+      "net": "DC03",
+      "via_center": [
+        13.893911088495457,
+        43.92471277415124
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.1439111,
+        43.9247128
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-track-net",
+      "via": "Q1-3",
+      "net": "DC03",
+      "via_center": [
+        13.893911088495457,
+        43.92471277415124
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "DC13",
+      "other_net": "DC13",
+      "clearance_mm": 0.04141108849545638,
+      "copper_overlap": false,
+      "overlap_area_mm2": 0.0,
+      "nearest_location_mm": [
+        13.6232055,
+        43.9247128
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "Q1-3",
+      "net": "DC03",
+      "via_center": [
+        13.893911088495457,
+        43.92471277415124
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.14282821596623993,
+      "nearest_location_mm": [
+        14.1439111,
+        43.9247128
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "Q1-3",
+      "net": "DC03",
+      "via_center": [
+        13.893911088495457,
+        43.92471277415124
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.1439111,
+        43.9247128
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-31",
+      "net": "DC33",
+      "via_center": [
+        11.249997819999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        11.4499978,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-31",
+      "net": "DC33",
+      "via_center": [
+        11.249997819999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        11.4499978,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-4",
+      "net": "DC04",
+      "via_center": [
+        14.473819891051788,
+        44.78466506291495
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.7238199,
+        44.7846651
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "Q1-4",
+      "net": "DC04",
+      "via_center": [
+        14.473819891051788,
+        44.78466506291495
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.7238199,
+        44.7846651
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "Q1-4",
+      "net": "DC04",
+      "via_center": [
+        14.473819891051788,
+        44.78466506291495
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.7238199,
+        44.7846651
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-33",
+      "net": "DC35",
+      "via_center": [
+        11.849996619999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        12.0499966,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-33",
+      "net": "DC35",
+      "via_center": [
+        11.849996619999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        12.0499966,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-6",
+      "net": "DC06",
+      "via_center": [
+        14.108369141820033,
+        46.064942627296155
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.3583691,
+        46.0649426
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "Q1-6",
+      "net": "DC06",
+      "via_center": [
+        14.108369141820033,
+        46.064942627296155
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.3583691,
+        46.0649426
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "Q1-6",
+      "net": "DC06",
+      "via_center": [
+        14.108369141820033,
+        46.064942627296155
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.3583691,
+        46.0649426
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-35",
+      "net": "DC32",
+      "via_center": [
+        12.44999796,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        12.649998,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-35",
+      "net": "DC32",
+      "via_center": [
+        12.44999796,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        12.649998,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R02-2",
+      "net": "DC02",
+      "via_center": [
+        14.063600000000001,
+        46.98
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.3136,
+        46.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "R02-2",
+      "net": "DC02",
+      "via_center": [
+        14.063600000000001,
+        46.98
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.3136,
+        46.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "R02-2",
+      "net": "DC02",
+      "via_center": [
+        14.063600000000001,
+        46.98
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.3136,
+        46.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-37",
+      "net": "DC36",
+      "via_center": [
+        13.049996759999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        13.2499968,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-37",
+      "net": "DC36",
+      "via_center": [
+        13.049996759999999,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        13.2499968,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-7",
+      "net": "DC07",
+      "via_center": [
+        12.127390739655954,
+        46.00721147462867
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        12.3773907,
+        46.0072115
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-track-net",
+      "via": "Q1-7",
+      "net": "DC07",
+      "via_center": [
+        12.127390739655954,
+        46.00721147462867
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "DC14",
+      "other_net": "DC14",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.052942120314522986,
+      "nearest_location_mm": [
+        12.2025,
+        45.7687805
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "Q1-7",
+      "net": "DC07",
+      "via_center": [
+        12.127390739655954,
+        46.00721147462867
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.01629440685037368,
+      "nearest_location_mm": [
+        11.9713362,
+        46.2025
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "Q1-7",
+      "net": "DC07",
+      "via_center": [
+        12.127390739655954,
+        46.00721147462867
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        12.3773907,
+        46.0072115
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-39",
+      "net": "DC34",
+      "via_center": [
+        13.6499981,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        13.8499981,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-39",
+      "net": "DC34",
+      "via_center": [
+        13.6499981,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        13.8499981,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-8",
+      "net": "DC08",
+      "via_center": [
+        11.461494841351984,
+        46.03589147666681
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        11.7114948,
+        46.0358915
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-track-net",
+      "via": "Q1-8",
+      "net": "DC08",
+      "via_center": [
+        11.461494841351984,
+        46.03589147666681
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "DC14",
+      "other_net": "DC14",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.056871583655413636,
+      "nearest_location_mm": [
+        11.709236,
+        46.0025
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "Q1-8",
+      "net": "DC08",
+      "via_center": [
+        11.461494841351984,
+        46.03589147666681
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.021526698380996117,
+      "nearest_location_mm": [
+        11.2751242,
+        46.2025
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "Q1-8",
+      "net": "DC08",
+      "via_center": [
+        11.461494841351984,
+        46.03589147666681
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        11.7114948,
+        46.0358915
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-41",
+      "net": "DC38",
+      "via_center": [
+        14.2499969,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        14.4499969,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-41",
+      "net": "DC38",
+      "via_center": [
+        14.2499969,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        14.4499969,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R05-2",
+      "net": "DC05",
+      "via_center": [
+        14.063600000000001,
+        52.98
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.3136,
+        52.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "R05-2",
+      "net": "DC05",
+      "via_center": [
+        14.063600000000001,
+        52.98
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.3136,
+        52.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "R05-2",
+      "net": "DC05",
+      "via_center": [
+        14.063600000000001,
+        52.98
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        14.3136,
+        52.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-43",
+      "net": "DC03",
+      "via_center": [
+        14.84999824,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        15.0499982,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-43",
+      "net": "DC03",
+      "via_center": [
+        14.84999824,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        15.0499982,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R11-2",
+      "net": "DC11",
+      "via_center": [
+        11.436399999999999,
+        46.98
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        11.6864,
+        46.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "R11-2",
+      "net": "DC11",
+      "via_center": [
+        11.436399999999999,
+        46.98
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        11.6864,
+        46.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "R11-2",
+      "net": "DC11",
+      "via_center": [
+        11.436399999999999,
+        46.98
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        11.6864,
+        46.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-45",
+      "net": "DC04",
+      "via_center": [
+        15.44999704,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        15.649997,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-45",
+      "net": "DC04",
+      "via_center": [
+        15.44999704,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        15.649997,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R09-2",
+      "net": "DC09",
+      "via_center": [
+        12.75,
+        56.4936
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        13.0,
+        56.4936
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "R09-2",
+      "net": "DC09",
+      "via_center": [
+        12.75,
+        56.4936
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        13.0,
+        56.4936
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "R09-2",
+      "net": "DC09",
+      "via_center": [
+        12.75,
+        56.4936
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        13.0,
+        56.4936
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-47",
+      "net": "DC06",
+      "via_center": [
+        16.049998379999998,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        16.2499984,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-47",
+      "net": "DC06",
+      "via_center": [
+        16.049998379999998,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731093,
+      "nearest_location_mm": [
+        16.2499984,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "R12-2",
+      "net": "DC12",
+      "via_center": [
+        11.436399999999999,
+        52.98
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        11.6864,
+        52.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "R12-2",
+      "net": "DC12",
+      "via_center": [
+        11.436399999999999,
+        52.98
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        11.6864,
+        52.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "R12-2",
+      "net": "DC12",
+      "via_center": [
+        11.436399999999999,
+        52.98
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        11.6864,
+        52.98
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-49",
+      "net": "DC02",
+      "via_center": [
+        16.64999718,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731087,
+      "nearest_location_mm": [
+        16.8499972,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-49",
+      "net": "DC02",
+      "via_center": [
+        16.64999718,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731087,
+      "nearest_location_mm": [
+        16.8499972,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 1,
+      "category": "via-ground-region",
+      "via": "Q1-10",
+      "net": "DC10",
+      "via_center": [
+        10.094211432074987,
+        46.05642112460319
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L1",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        10.3442114,
+        46.0564211
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-track-net",
+      "via": "Q1-10",
+      "net": "DC10",
+      "via_center": [
+        10.094211432074987,
+        46.05642112460319
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "DC14",
+      "other_net": "DC14",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.054337246472136495,
+      "nearest_location_mm": [
+        10.3383178,
+        46.0025
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 2,
+      "category": "via-ground-region",
+      "via": "Q1-10",
+      "net": "DC10",
+      "via_center": [
+        10.094211432074987,
+        46.05642112460319
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L2",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.02952983104503022,
+      "nearest_location_mm": [
+        9.8913525,
+        46.2025
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 3,
+      "category": "via-ground-region",
+      "via": "Q1-10",
+      "net": "DC10",
+      "via_center": [
+        10.094211432074987,
+        46.05642112460319
+      ],
+      "original_span": [
+        4,
+        32
+      ],
+      "other": "ground-L3",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.19632982818329847,
+      "nearest_location_mm": [
+        10.3442114,
+        46.0564211
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 5,
+      "category": "via-ground-region",
+      "via": "J1-51",
+      "net": "DC09",
+      "via_center": [
+        17.24999852,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L5",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731087,
+      "nearest_location_mm": [
+        17.4499985,
+        2.5850001
+      ],
+      "newly_exposed": true
+    },
+    {
+      "layer": 32,
+      "category": "via-ground-region",
+      "via": "J1-51",
+      "net": "DC09",
+      "via_center": [
+        17.24999852,
+        2.5850000799999995
+      ],
+      "original_span": [
+        1,
+        4
+      ],
+      "other": "ground-L32",
+      "other_net": "GND",
+      "clearance_mm": 0.0,
+      "copper_overlap": true,
+      "overlap_area_mm2": 0.12565109003731087,
+      "nearest_location_mm": [
+        17.4499985,
+        2.5850001
+      ],
+      "newly_exposed": true
+    }
+  ],
+  "counting": "Via-track is one event per via/layer/foreign net, rather than per track segment. Via-via pairs are counted once per layer.",
+  "limitation": "Ground copper is the unchanged partial-span candidate. Those ground conflicts require regenerated antipads/pours; this audit does not regenerate them.",
+  "source_unchanged": true
+}

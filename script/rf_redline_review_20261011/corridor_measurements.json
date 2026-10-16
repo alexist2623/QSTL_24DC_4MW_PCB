@@ -1,0 +1,538 @@
+{
+  "scope": "Read-only static pad-envelope measurements. No routing, copper pours, masks, via fences or native DRC were changed or certified.",
+  "source_snapshot": "script\\qd38_pad_alignment_20261011\\saved_revision_snapshot.json",
+  "source_pcb_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "actual_pcb_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "measures": {
+    "R09_R31": {
+      "copper_envelope_gap_mm": 2.342875679999999,
+      "nearest_a_xy": [
+        8.57856171,
+        47.999999249999995
+      ],
+      "nearest_b_xy": [
+        10.92143739,
+        47.999999249999995
+      ],
+      "trace_center_interval_mm": 1.9328756799999989,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "R09 full resistor envelope",
+      "object_b": "R31 full resistor envelope"
+    },
+    "R12_R28": {
+      "copper_envelope_gap_mm": 2.342875679999999,
+      "nearest_a_xy": [
+        8.57856171,
+        38.00000147
+      ],
+      "nearest_b_xy": [
+        10.92143739,
+        38.00000147
+      ],
+      "trace_center_interval_mm": 1.9328756799999989,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "R12 full resistor envelope",
+      "object_b": "R28 full resistor envelope"
+    },
+    "upper_left_local": {
+      "copper_envelope_gap_mm": 2.1137638699999988,
+      "nearest_a_xy": [
+        7.299999369999999,
+        58.421436369999995
+      ],
+      "nearest_b_xy": [
+        9.413763239999998,
+        58.421436369999995
+      ],
+      "trace_center_interval_mm": 1.7037638699999988,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "R02",
+      "object_b": "C35"
+    },
+    "upper_right_local": {
+      "copper_envelope_gap_mm": 2.113761329999999,
+      "nearest_a_xy": [
+        10.0862384,
+        58.421436369999995
+      ],
+      "nearest_b_xy": [
+        12.199999729999998,
+        58.421436369999995
+      ],
+      "trace_center_interval_mm": 1.7037613299999992,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "C35",
+      "object_b": "R34"
+    },
+    "lower_left_local": {
+      "copper_envelope_gap_mm": 2.757718115399537,
+      "nearest_a_xy": [
+        7.299999369999999,
+        32.578561969999996
+      ],
+      "nearest_b_xy": [
+        9.25000055,
+        30.628560789999998
+      ],
+      "trace_center_interval_mm": 2.3477181153995375,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "R13",
+      "object_b": "R16"
+    },
+    "lower_right_local": {
+      "copper_envelope_gap_mm": 2.7577163193488983,
+      "nearest_a_xy": [
+        10.250001089999998,
+        30.628560789999998
+      ],
+      "nearest_b_xy": [
+        12.199999729999998,
+        32.578561969999996
+      ],
+      "trace_center_interval_mm": 2.3477163193488986,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "R16",
+      "object_b": "R24"
+    },
+    "upper_left_common_X": {
+      "x_range_mm": [
+        7.299999369999999,
+        9.25000055
+      ],
+      "projected_envelope_gap_mm": 1.9500011800000001,
+      "note": "Common X band for a straight longitudinal lane; objects need not overlap in Y.",
+      "trace_center_interval_mm": 1.5400011800000002,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified."
+    },
+    "upper_right_common_X": {
+      "x_range_mm": [
+        10.250001089999998,
+        12.199999729999998
+      ],
+      "projected_envelope_gap_mm": 1.9499986400000004,
+      "note": "Common X band for a straight longitudinal lane; objects need not overlap in Y.",
+      "trace_center_interval_mm": 1.5399986400000005,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified."
+    },
+    "lower_left_common_X": {
+      "x_range_mm": [
+        7.299999369999999,
+        9.25000055
+      ],
+      "projected_envelope_gap_mm": 1.9500011800000001,
+      "note": "Common X band for a straight longitudinal lane; objects need not overlap in Y.",
+      "trace_center_interval_mm": 1.5400011800000002,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified."
+    },
+    "lower_right_common_X": {
+      "x_range_mm": [
+        10.250001089999998,
+        12.199999729999998
+      ],
+      "projected_envelope_gap_mm": 1.9499986400000004,
+      "note": "Common X band for a straight longitudinal lane; objects need not overlap in Y.",
+      "trace_center_interval_mm": 1.5399986400000005,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified."
+    },
+    "SMP11_4_to_QD": {
+      "copper_envelope_gap_mm": 1.055403834758118,
+      "nearest_a_xy": [
+        5.518022416093113,
+        41.18559487851851
+      ],
+      "nearest_b_xy": [
+        6.569251813014794,
+        41.091818498390985
+      ],
+      "trace_center_interval_mm": 0.5954038347581181,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.97,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.48,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "SMP11.4 GND",
+      "object_b": "QD pad field"
+    },
+    "SMP11_5_to_QD": {
+      "copper_envelope_gap_mm": 1.0554040604461414,
+      "nearest_a_xy": [
+        5.518022191297754,
+        43.81440528142831
+      ],
+      "nearest_b_xy": [
+        6.569251813014794,
+        43.90818168160901
+      ],
+      "trace_center_interval_mm": 0.5954040604461415,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.97,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.48,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "SMP11.5 GND",
+      "object_b": "QD pad field"
+    },
+    "SMP30_2_to_QD": {
+      "copper_envelope_gap_mm": 1.0456026828760667,
+      "nearest_a_xy": [
+        13.980008122363781,
+        43.76693087601873
+      ],
+      "nearest_b_xy": [
+        12.934448155404045,
+        43.757479636481825
+      ],
+      "trace_center_interval_mm": 0.5856026828760668,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.97,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.48,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "SMP30.2 GND",
+      "object_b": "QD pad field"
+    },
+    "SMP30_3_to_QD": {
+      "copper_envelope_gap_mm": 1.0456027058383013,
+      "nearest_a_xy": [
+        13.980008122363781,
+        41.23306676398126
+      ],
+      "nearest_b_xy": [
+        12.934448155404045,
+        41.24252054351817
+      ],
+      "trace_center_interval_mm": 0.5856027058383013,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.97,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.48,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "SMP30.3 GND",
+      "object_b": "QD pad field"
+    },
+    "SMP09_4_to_QD": {
+      "copper_envelope_gap_mm": 1.5827104770530824,
+      "nearest_a_xy": [
+        5.421604102606356,
+        46.93214970691497
+      ],
+      "nearest_b_xy": [
+        6.690935222847254,
+        45.98675510075224
+      ],
+      "trace_center_interval_mm": 1.1227104770530825,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.97,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.48,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "SMP09.4 GND",
+      "object_b": "QD pad field"
+    },
+    "SMP09_5_to_QD": {
+      "copper_envelope_gap_mm": 3.585012966958377,
+      "nearest_a_xy": [
+        5.248653990157683,
+        49.325347515839965
+      ],
+      "nearest_b_xy": [
+        6.889920620004772,
+        46.13809763184749
+      ],
+      "trace_center_interval_mm": 3.125012966958377,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.97,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.48,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "SMP09.5 GND",
+      "object_b": "QD pad field"
+    },
+    "SMP31_2_to_QD": {
+      "copper_envelope_gap_mm": 3.5850129669583772,
+      "nearest_a_xy": [
+        14.251345109841894,
+        49.325347515840186
+      ],
+      "nearest_b_xy": [
+        12.610078479995227,
+        46.13809763184749
+      ],
+      "trace_center_interval_mm": 3.1250129669583773,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.97,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.48,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "SMP31.2 GND",
+      "object_b": "QD pad field"
+    },
+    "SMP31_3_to_QD": {
+      "copper_envelope_gap_mm": 1.5827104770530844,
+      "nearest_a_xy": [
+        14.078394997393644,
+        46.93214970691497
+      ],
+      "nearest_b_xy": [
+        12.809063877152743,
+        45.98675510075224
+      ],
+      "trace_center_interval_mm": 1.1227104770530845,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.97,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.48,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "SMP31.3 GND",
+      "object_b": "QD pad field"
+    },
+    "R09_to_QD": {
+      "copper_envelope_gap_mm": 0.812153453190584,
+      "nearest_a_xy": [
+        8.57856171,
+        46.99999870999999
+      ],
+      "nearest_b_xy": [
+        8.600685687311657,
+        46.18814665379929
+      ],
+      "trace_center_interval_mm": 0.40215345319058393,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "R09",
+      "object_b": "QD pad field"
+    },
+    "R31_to_QD": {
+      "copper_envelope_gap_mm": 0.812153453190584,
+      "nearest_a_xy": [
+        10.92143739,
+        46.99999870999999
+      ],
+      "nearest_b_xy": [
+        10.899313412688343,
+        46.18814665379929
+      ],
+      "trace_center_interval_mm": 0.40215345319058393,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "R31",
+      "object_b": "QD pad field"
+    },
+    "R12_to_QD": {
+      "copper_envelope_gap_mm": 0.8135545008527388,
+      "nearest_a_xy": [
+        8.336926682727604,
+        38.00000147
+      ],
+      "nearest_b_xy": [
+        8.336926682727604,
+        38.81355597085274
+      ],
+      "trace_center_interval_mm": 0.4035545008527388,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "R12",
+      "object_b": "QD pad field"
+    },
+    "R28_to_QD": {
+      "copper_envelope_gap_mm": 0.8135545008527388,
+      "nearest_a_xy": [
+        11.163072417272396,
+        38.00000147
+      ],
+      "nearest_b_xy": [
+        11.163072417272396,
+        38.81355597085274
+      ],
+      "trace_center_interval_mm": 0.4035545008527388,
+      "two_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 0.92,
+      "three_RF_tracks_with_0p20_gap_to_shared_GND_required_gap_mm": 1.4300000000000002,
+      "shield_fence_total_edge_span_per_RF_mm": 1.12,
+      "one_RF_with_full_two_sided_fences_and_0p15_foreign_margin_width_mm": 1.42,
+      "two_RF_with_aligned_shared_fence_and_0p15_foreign_margin_width_mm": 2.29,
+      "packing_note": "CPWG packing bounds omit finite shared GND width. Fence widths assume full aligned two-sided columns at nominal offset and 0.25 mm lands. Local fence gaps/longitudinal staggering may change these bounds. No channel capacity is certified.",
+      "object_a": "R28",
+      "object_b": "QD pad field"
+    }
+  },
+  "resistor_body_conflict_examples": [
+    {
+      "component": "R02",
+      "rf_pad1_xy": [
+        5.0500000599999995,
+        57.921436099999994
+      ],
+      "dc_pad2_xy": [
+        6.7499991999999995,
+        57.921436099999994
+      ],
+      "direct_horizontal_inward_route_crosses_dc_pad2": true,
+      "two_pad_envelope_bounds": [
+        4.49999989,
+        57.42143582999999,
+        7.299999369999999,
+        58.421436369999995
+      ]
+    },
+    {
+      "component": "R05",
+      "rf_pad1_xy": [
+        5.0500000599999995,
+        51.92143794
+      ],
+      "dc_pad2_xy": [
+        6.7499991999999995,
+        51.92143794
+      ],
+      "direct_horizontal_inward_route_crosses_dc_pad2": true,
+      "two_pad_envelope_bounds": [
+        4.49999989,
+        51.421437669999996,
+        7.299999369999999,
+        52.42143821
+      ]
+    },
+    {
+      "component": "R13",
+      "rf_pad1_xy": [
+        5.0500000599999995,
+        33.07856224
+      ],
+      "dc_pad2_xy": [
+        6.7499991999999995,
+        33.07856224
+      ],
+      "direct_horizontal_inward_route_crosses_dc_pad2": true,
+      "two_pad_envelope_bounds": [
+        4.49999989,
+        32.578561969999996,
+        7.299999369999999,
+        33.57856251
+      ]
+    },
+    {
+      "component": "R34",
+      "rf_pad1_xy": [
+        14.44999904,
+        57.921436099999994
+      ],
+      "dc_pad2_xy": [
+        12.749999899999999,
+        57.921436099999994
+      ],
+      "direct_horizontal_inward_route_crosses_dc_pad2": true,
+      "two_pad_envelope_bounds": [
+        12.199999729999998,
+        57.42143582999999,
+        14.99999921,
+        58.421436369999995
+      ]
+    },
+    {
+      "component": "R32",
+      "rf_pad1_xy": [
+        14.44999904,
+        51.92143794
+      ],
+      "dc_pad2_xy": [
+        12.749999899999999,
+        51.92143794
+      ],
+      "direct_horizontal_inward_route_crosses_dc_pad2": true,
+      "two_pad_envelope_bounds": [
+        12.199999729999998,
+        51.421437669999996,
+        14.99999921,
+        52.42143821
+      ]
+    },
+    {
+      "component": "R24",
+      "rf_pad1_xy": [
+        14.44999904,
+        33.07856224
+      ],
+      "dc_pad2_xy": [
+        12.749999899999999,
+        33.07856224
+      ],
+      "direct_horizontal_inward_route_crosses_dc_pad2": true,
+      "two_pad_envelope_bounds": [
+        12.199999729999998,
+        32.578561969999996,
+        14.99999921,
+        33.57856251
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+Var L:TStringList;
+Procedure Mark(S:String);Begin L.Add(S);L.SaveToFile('C:\GIT_Workspace\QSTL_24DC_4MW_PCB\script\qd38_carrier_20261010\probe_native_fixed.txt');End;
+Procedure ProbeNativeFixed;
+Var W:IWorkspace;P:IProject;D:IServerDocument;B:IPCB_Board;
+    I:IPCB_BoardIterator;O:IPCB_Primitive;N:Integer;
+Begin
+ L:=TStringList.Create;Mark('START_FIXED_TWO_ARGUMENTS');
+ W:=GetWorkspace;If W=Nil Then Begin Mark('NO_WORKSPACE');Exit;End;
+ Mark('WORKSPACE_OK');
+ P:=W.DM_OpenProject('C:\GIT_Workspace\QSTL_24DC_4MW_PCB\QSTL_QD4_2SET_38PAD\QSTL_QD4_2SET_38PAD.PrjPcb',True);
+ If P=Nil Then Begin Mark('NO_PROJECT');Exit;End;
+ Mark('PROJECT_OPEN_OK');
+ D:=Client.OpenDocument('PCB','C:\GIT_Workspace\QSTL_24DC_4MW_PCB\QSTL_QD4_2SET_38PAD\QSTL_QD4_2SET_38PAD.PcbDoc');
+ If D=Nil Then Begin Mark('NO_PCB_DOCUMENT');Exit;End;
+ Mark('PCB_OPEN_OK');Client.ShowDocument(D);B:=PCBServer.GetCurrentPCBBoard;
+ If B=Nil Then Begin Mark('NO_BOARD');Exit;End;
+ Mark('BOARD='+B.FileName);N:=0;
+ I:=B.BoardIterator_Create;I.SetState_FilterAll;I.AddFilter_ObjectSet(MkSet(eComponentObject));O:=I.FirstPCBObject;
+ While O<>Nil Do Begin Inc(N);O:=I.NextPCBObject;End;B.BoardIterator_Destroy(I);
+ Mark('COMPONENTS='+IntToStr(N));Mark('COMPLETE');L.Free;
+End;

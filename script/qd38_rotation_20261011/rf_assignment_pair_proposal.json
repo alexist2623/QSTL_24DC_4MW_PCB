@@ -1,0 +1,26 @@
+{
+  "status": "MAPPING_ONLY_RF_ALTERNATIVE_NOT_ROUTED_OR_APPROVED",
+  "source_sha256": "e7d4cb6454e6504cc67bfbc2e6fe56ae495d8942af210ebd62c93819e013146c",
+  "candidate_sha256": "9e6630563a1492e84939b1e65a85553366ea2f2f33777de091d7df1f36cb678b",
+  "candidate": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\placement_rf_assignment_pairs_12_13_31_32.json",
+  "physical_positions_changed": false,
+  "group_to_QD_pad": {
+    "2": 2,
+    "5": 5,
+    "9": 9,
+    "11": 11,
+    "12": 13,
+    "13": 12,
+    "15": 15,
+    "16": 16,
+    "21": 21,
+    "24": 24,
+    "28": 28,
+    "30": 30,
+    "31": 32,
+    "32": 31,
+    "34": 34,
+    "35": 35
+  },
+  "required_followup": "Route against full resistor-body keepouts; if accepted, rename existing DC copper nets and synchronize copied schematic/J1 pin mapping by physical bias endpoint."
+}

@@ -1,0 +1,165 @@
+{
+  "passed": true,
+  "scope": "Raw-polyline geometry only; tangent quality, native correspondence and native DRC remain separate.",
+  "flow_sha256": "ff43b3882bb5867db955098b41e3bc08ee52435be6e78742aabe1ada2114120d",
+  "placement_sha256": "99a7cc8fef9c21e235f47fbdc24733121a37e6ddc4a939d6d92f4fbdb1d70c0e",
+  "reference_sha256": "2c67ffdccf99097e858fe936d1dc33e6ecf0024cb86dd68877ea0135772b39ff",
+  "routes": 16,
+  "minimum_static_gap": 0.15101262759054102,
+  "minimum_pair_gap": 0.15101262984744143,
+  "metrics": [
+    {
+      "group": 21,
+      "target": 31,
+      "minimum_static_gap": 0.1568316525702993,
+      "nearest_obstacle": "pad:Q1-30",
+      "board_edge_gap": 1.1969990999999993,
+      "polyline_length": 21.587053681573835,
+      "vertices": 13
+    },
+    {
+      "group": 16,
+      "target": 24,
+      "minimum_static_gap": 0.1929997300001176,
+      "nearest_obstacle": "hull:R28",
+      "board_edge_gap": 7.580999099999999,
+      "polyline_length": 12.624578804110289,
+      "vertices": 6
+    },
+    {
+      "group": 24,
+      "target": 30,
+      "minimum_static_gap": 0.16065329860858896,
+      "nearest_obstacle": "via:Q1-29",
+      "board_edge_gap": 1.4629990999999973,
+      "polyline_length": 17.69330109365746,
+      "vertices": 15
+    },
+    {
+      "group": 15,
+      "target": 16,
+      "minimum_static_gap": 0.16342048968548975,
+      "nearest_obstacle": "pad:SMP13-3",
+      "board_edge_gap": 1.701,
+      "polyline_length": 20.22370511483412,
+      "vertices": 29
+    },
+    {
+      "group": 13,
+      "target": 21,
+      "minimum_static_gap": 0.1645647299481116,
+      "nearest_obstacle": "hull:R13",
+      "board_edge_gap": 4.9950012881523405,
+      "polyline_length": 10.053175825577153,
+      "vertices": 14
+    },
+    {
+      "group": 12,
+      "target": 15,
+      "minimum_static_gap": 0.2845969005898907,
+      "nearest_obstacle": "hull:R12",
+      "board_edge_gap": 6.27356523253115,
+      "polyline_length": 1.7476707956334991,
+      "vertices": 2
+    },
+    {
+      "group": 28,
+      "target": 28,
+      "minimum_static_gap": 0.15101262759054102,
+      "nearest_obstacle": "via:Q1-27",
+      "board_edge_gap": 6.24601172984744,
+      "polyline_length": 4.6660645187819005,
+      "vertices": 4
+    },
+    {
+      "group": 11,
+      "target": 13,
+      "minimum_static_gap": 0.18900000000012085,
+      "nearest_obstacle": "pad:SMP12-5",
+      "board_edge_gap": 3.6949999999999994,
+      "polyline_length": 5.349730974648184,
+      "vertices": 6
+    },
+    {
+      "group": 30,
+      "target": 32,
+      "minimum_static_gap": 0.16035825854247898,
+      "nearest_obstacle": "hull:R30",
+      "board_edge_gap": 4.094999099999995,
+      "polyline_length": 3.353034514594132,
+      "vertices": 5
+    },
+    {
+      "group": 9,
+      "target": 9,
+      "minimum_static_gap": 0.1554281957277795,
+      "nearest_obstacle": "via:Q1-8",
+      "board_edge_gap": 6.223000000000001,
+      "polyline_length": 4.424471240566403,
+      "vertices": 5
+    },
+    {
+      "group": 31,
+      "target": 34,
+      "minimum_static_gap": 0.1728497528107818,
+      "nearest_obstacle": "via:Q1-33",
+      "board_edge_gap": 6.273561770000001,
+      "polyline_length": 2.1207317247556303,
+      "vertices": 3
+    },
+    {
+      "group": 32,
+      "target": 35,
+      "minimum_static_gap": 0.18499972999982361,
+      "nearest_obstacle": "hull:R31",
+      "board_edge_gap": 4.994999108005202,
+      "polyline_length": 10.265099864882663,
+      "vertices": 19
+    },
+    {
+      "group": 5,
+      "target": 11,
+      "minimum_static_gap": 0.15900000000020498,
+      "nearest_obstacle": "pad:SMP09-2",
+      "board_edge_gap": 1.701,
+      "polyline_length": 16.848949755584254,
+      "vertices": 18
+    },
+    {
+      "group": 34,
+      "target": 2,
+      "minimum_static_gap": 0.21730095753319212,
+      "nearest_obstacle": "via:Q1-1",
+      "board_edge_gap": 4.994999641444392,
+      "polyline_length": 15.898625119522562,
+      "vertices": 21
+    },
+    {
+      "group": 35,
+      "target": 5,
+      "minimum_static_gap": 0.16460089922988513,
+      "nearest_obstacle": "hull:R35",
+      "board_edge_gap": 7.287,
+      "polyline_length": 12.855597415931406,
+      "vertices": 7
+    },
+    {
+      "group": 2,
+      "target": 12,
+      "minimum_static_gap": 0.16900000000000007,
+      "nearest_obstacle": "pad:SMP05-2",
+      "board_edge_gap": 1.4349999999999998,
+      "polyline_length": 23.81197481029216,
+      "vertices": 24
+    }
+  ],
+  "errors": [],
+  "obstacle_counts": {
+    "bottom_pad_polygons": 190,
+    "via_circles": 76,
+    "SMP_ring_disks": 16,
+    "resistor_hulls": 16,
+    "fixed_route_shapes": 32,
+    "total": 331
+  }
+}

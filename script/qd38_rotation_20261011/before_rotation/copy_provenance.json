@@ -1,0 +1,38 @@
+{
+  "source": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB",
+  "copy": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD",
+  "status": "Copied; QD replacement and rerouting pending",
+  "source_sha256": {
+    "QSTL_24DC_4MW_PCB.SchDoc": "c2988857ab2062b0f581f105a6cd1f93677647b3c8a3b3ad4ac0c1e570bbf45e",
+    "QSTL_24DC_4MW_PCB.PcbDoc": "8841a488c8a961dbc1d93d881ae981af0ba81006e28a80e4c08543c365c2812e",
+    "QSTL_24DC_4MW_PCB.PcbLib": "f8d47e028a279113354abaec4bc87cdc5bf263e3397878007956c7cc0b5382b2",
+    "Reference_Connectors.SchLib": "a7658db4c707610f5694f65ac9157ce6f2de4464e7b222f487e6f1dddffe78f4",
+    "Reference_Connectors.PcbLib": "37c1494baed364a211d2a68b1487b15667bbfbfc856d2a71ab23c92b75694f20",
+    "Passives_0603.PcbLib": "900d385fd330f07d7a60d9f61564f6693c91c70d6bde6c71fc7a7b6e64201cea",
+    "QSTL_24DC_4MW_PCB.SchLib": "221a1e2f778c93db898a4043c738274a55b0cd56912dc77a5fac36c605344f65",
+    "ZIF_5025985193.PcbLib": "a5d9d13c5733652636d81cd9fb9d48dd9e7b5b6d80ac2a2879bfc3a959c7ed96",
+    "Reference_Resistors.SchLib": "6f55cef5584d8005d085a3373ed41d36333e05c1adc8ca6b2e54f0823140f3aa",
+    "Reference_Capacitors.SchLib": "e30da92d3755b5a06b91e27d045d25c13a280687e9374d90ab34c2af6ed68c3d",
+    "Capacitors_0402.PcbLib": "b8fbc8ceeb086e45c346fa43712d24d6fb90bb1a2bf9de519581af3fcf75fb5c",
+    "QSTL_24DC_4MW_PCB.PrjPcb": "392dcff7c0aec980505f919f5c8b54c691dcccfa1c19201eb6ad008f8cfdb74e"
+  },
+  "copied_documents": [
+    "QSTL_24DC_4MW_PCB.SchDoc",
+    "QSTL_24DC_4MW_PCB.PcbDoc",
+    "QSTL_24DC_4MW_PCB.PcbLib",
+    "Reference_Connectors.SchLib",
+    "Reference_Connectors.PcbLib",
+    "Passives_0603.PcbLib",
+    "QSTL_24DC_4MW_PCB.SchLib",
+    "ZIF_5025985193.PcbLib",
+    "Reference_Resistors.SchLib",
+    "Reference_Capacitors.SchLib",
+    "Capacitors_0402.PcbLib"
+  ],
+  "excluded_stale_output_documents": [
+    "CAMtastic1.Cam",
+    "CAMtastic2.Cam",
+    "HDI_Fabrication.OutJob"
+  ],
+  "original_preserved": true
+}

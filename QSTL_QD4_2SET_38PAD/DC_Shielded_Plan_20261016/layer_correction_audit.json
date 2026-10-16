@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "before_layer_counts": {
+    "2": 19,
+    "4": 19
+  },
+  "after_layer_counts": {
+    "2": 19,
+    "3": 19
+  },
+  "planned_layer_roles": {
+    "1": "GND",
+    "2": "DC_A",
+    "3": "DC_B",
+    "4": "GND",
+    "5": "GND",
+    "6": "RF_QD"
+  },
+  "route_geometry_and_contacts_SHA256": "41931e1f58ddfe2d71ddf80cb7ae0db6369976b9cac1753327a5df15ba9f6f78",
+  "route_XY_width_endpoints_contacts_unchanged": true,
+  "terminal_vias_unchanged": true,
+  "Top_ZIF_fanout_unchanged": true,
+  "native_PCB_and_schematic_updated": false
+}

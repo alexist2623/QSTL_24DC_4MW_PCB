@@ -1,0 +1,535 @@
+{
+  "status": "READ_ONLY_PLACEMENT_FEASIBILITY",
+  "source": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\dc_routed_candidate.json",
+  "source_sha256": "1d84af099b34d1e060e318be14c5ad27f19153d44c7ff31ca33facc0b659d668",
+  "scope": "Rigid R/C pair transformations; fixed SMP/QD and all other parts preserved. Copper >=.155, source passive body outlines/drills >=.254. Local edge corridor includes .20 edge and .15 resistor clearance. No routing or 3D solid collision certification.",
+  "groups": [
+    {
+      "group": 11,
+      "side": "left",
+      "considered": 14884,
+      "legal_placements": 190,
+      "best": [
+        {
+          "angle_delta_deg": 0,
+          "translation_mm": [
+            1.2000000000000037,
+            -0.699999999999998
+          ],
+          "pivot_mm": [
+            3.75,
+            40.4
+          ],
+          "components": [
+            {
+              "ref": "C11",
+              "x": 4.950000000000004,
+              "y": 39.7,
+              "rotation": 270.0,
+              "displacement_mm": 1.3892443989449814
+            },
+            {
+              "ref": "R11",
+              "x": 2.800000430000004,
+              "y": 39.22143733,
+              "rotation": 180.0,
+              "displacement_mm": 1.3892443989449814
+            }
+          ],
+          "maximum_component_displacement_mm": 1.3892443989449814,
+          "R_hull_bounds_mm": [
+            1.4000006900000037,
+            38.72143706,
+            4.2000001700000045,
+            39.7214376
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.0500006900000036,
+          "minimum_pad_to_fixed_copper_mm": 0.1937634199999891,
+          "minimum_body_to_other_body_mm": 1.7547105042011402,
+          "minimum_body_to_drill_or_QD_mm": 0.654999999999994,
+          "pair_internal_body_gap_mm": 1.0999995699999996
+        },
+        {
+          "angle_delta_deg": 0,
+          "translation_mm": [
+            1.2000000000000037,
+            -0.799999999999998
+          ],
+          "pivot_mm": [
+            3.75,
+            40.4
+          ],
+          "components": [
+            {
+              "ref": "C11",
+              "x": 4.950000000000004,
+              "y": 39.6,
+              "rotation": 270.0,
+              "displacement_mm": 1.4422205101855972
+            },
+            {
+              "ref": "R11",
+              "x": 2.800000430000004,
+              "y": 39.12143733,
+              "rotation": 180.0,
+              "displacement_mm": 1.4422205101855972
+            }
+          ],
+          "maximum_component_displacement_mm": 1.4422205101855972,
+          "R_hull_bounds_mm": [
+            1.4000006900000037,
+            38.62143706,
+            4.2000001700000045,
+            39.6214376
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.0500006900000036,
+          "minimum_pad_to_fixed_copper_mm": 0.29376341999999056,
+          "minimum_body_to_other_body_mm": 1.6819658003520213,
+          "minimum_body_to_drill_or_QD_mm": 0.5764373299999973,
+          "pair_internal_body_gap_mm": 1.0999995699999996
+        },
+        {
+          "angle_delta_deg": 0,
+          "translation_mm": [
+            1.3000000000000043,
+            -0.699999999999998
+          ],
+          "pivot_mm": [
+            3.75,
+            40.4
+          ],
+          "components": [
+            {
+              "ref": "C11",
+              "x": 5.050000000000004,
+              "y": 39.7,
+              "rotation": 270.0,
+              "displacement_mm": 1.4764823060233419
+            },
+            {
+              "ref": "R11",
+              "x": 2.9000004300000044,
+              "y": 39.22143733,
+              "rotation": 180.0,
+              "displacement_mm": 1.4764823060233419
+            }
+          ],
+          "maximum_component_displacement_mm": 1.4764823060233419,
+          "R_hull_bounds_mm": [
+            1.5000006900000042,
+            38.72143706,
+            4.300000170000004,
+            39.7214376
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.1500006900000042,
+          "minimum_pad_to_fixed_copper_mm": 0.19376341999998914,
+          "minimum_body_to_other_body_mm": 1.6891703601335832,
+          "minimum_body_to_drill_or_QD_mm": 0.654999999999994,
+          "pair_internal_body_gap_mm": 1.0999995699999996
+        },
+        {
+          "angle_delta_deg": 0,
+          "translation_mm": [
+            1.2000000000000037,
+            -0.8999999999999981
+          ],
+          "pivot_mm": [
+            3.75,
+            40.4
+          ],
+          "components": [
+            {
+              "ref": "C11",
+              "x": 4.950000000000004,
+              "y": 39.5,
+              "rotation": 270.0,
+              "displacement_mm": 1.5000000000000022
+            },
+            {
+              "ref": "R11",
+              "x": 2.800000430000004,
+              "y": 39.02143733,
+              "rotation": 180.0,
+              "displacement_mm": 1.5000000000000022
+            }
+          ],
+          "maximum_component_displacement_mm": 1.5000000000000022,
+          "R_hull_bounds_mm": [
+            1.4000006900000037,
+            38.52143706,
+            4.2000001700000045,
+            39.5214376
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.0500006900000036,
+          "minimum_pad_to_fixed_copper_mm": 0.25143705999999355,
+          "minimum_body_to_other_body_mm": 1.6121442099123178,
+          "minimum_body_to_drill_or_QD_mm": 0.476437329999996,
+          "pair_internal_body_gap_mm": 1.0999995699999996
+        },
+        {
+          "angle_delta_deg": 0,
+          "translation_mm": [
+            1.3000000000000043,
+            -0.799999999999998
+          ],
+          "pivot_mm": [
+            3.75,
+            40.4
+          ],
+          "components": [
+            {
+              "ref": "C11",
+              "x": 5.050000000000004,
+              "y": 39.6,
+              "rotation": 270.0,
+              "displacement_mm": 1.526433752247377
+            },
+            {
+              "ref": "R11",
+              "x": 2.9000004300000044,
+              "y": 39.12143733,
+              "rotation": 180.0,
+              "displacement_mm": 1.526433752247377
+            }
+          ],
+          "maximum_component_displacement_mm": 1.526433752247377,
+          "R_hull_bounds_mm": [
+            1.5000006900000042,
+            38.62143706,
+            4.300000170000004,
+            39.6214376
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.1500006900000042,
+          "minimum_pad_to_fixed_copper_mm": 0.29376341999999056,
+          "minimum_body_to_other_body_mm": 1.6134734288341457,
+          "minimum_body_to_drill_or_QD_mm": 0.5764373299999973,
+          "pair_internal_body_gap_mm": 1.0999995699999996
+        }
+      ],
+      "best_translations": [
+        {
+          "angle_delta_deg": 0,
+          "translation_mm": [
+            1.2000000000000037,
+            -0.699999999999998
+          ],
+          "pivot_mm": [
+            3.75,
+            40.4
+          ],
+          "components": [
+            {
+              "ref": "C11",
+              "x": 4.950000000000004,
+              "y": 39.7,
+              "rotation": 270.0,
+              "displacement_mm": 1.3892443989449814
+            },
+            {
+              "ref": "R11",
+              "x": 2.800000430000004,
+              "y": 39.22143733,
+              "rotation": 180.0,
+              "displacement_mm": 1.3892443989449814
+            }
+          ],
+          "maximum_component_displacement_mm": 1.3892443989449814,
+          "R_hull_bounds_mm": [
+            1.4000006900000037,
+            38.72143706,
+            4.2000001700000045,
+            39.7214376
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.0500006900000036,
+          "minimum_pad_to_fixed_copper_mm": 0.1937634199999891,
+          "minimum_body_to_other_body_mm": 1.7547105042011402,
+          "minimum_body_to_drill_or_QD_mm": 0.654999999999994,
+          "pair_internal_body_gap_mm": 1.0999995699999996
+        },
+        {
+          "angle_delta_deg": 0,
+          "translation_mm": [
+            1.2000000000000037,
+            -0.799999999999998
+          ],
+          "pivot_mm": [
+            3.75,
+            40.4
+          ],
+          "components": [
+            {
+              "ref": "C11",
+              "x": 4.950000000000004,
+              "y": 39.6,
+              "rotation": 270.0,
+              "displacement_mm": 1.4422205101855972
+            },
+            {
+              "ref": "R11",
+              "x": 2.800000430000004,
+              "y": 39.12143733,
+              "rotation": 180.0,
+              "displacement_mm": 1.4422205101855972
+            }
+          ],
+          "maximum_component_displacement_mm": 1.4422205101855972,
+          "R_hull_bounds_mm": [
+            1.4000006900000037,
+            38.62143706,
+            4.2000001700000045,
+            39.6214376
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.0500006900000036,
+          "minimum_pad_to_fixed_copper_mm": 0.29376341999999056,
+          "minimum_body_to_other_body_mm": 1.6819658003520213,
+          "minimum_body_to_drill_or_QD_mm": 0.5764373299999973,
+          "pair_internal_body_gap_mm": 1.0999995699999996
+        },
+        {
+          "angle_delta_deg": 0,
+          "translation_mm": [
+            1.3000000000000043,
+            -0.699999999999998
+          ],
+          "pivot_mm": [
+            3.75,
+            40.4
+          ],
+          "components": [
+            {
+              "ref": "C11",
+              "x": 5.050000000000004,
+              "y": 39.7,
+              "rotation": 270.0,
+              "displacement_mm": 1.4764823060233419
+            },
+            {
+              "ref": "R11",
+              "x": 2.9000004300000044,
+              "y": 39.22143733,
+              "rotation": 180.0,
+              "displacement_mm": 1.4764823060233419
+            }
+          ],
+          "maximum_component_displacement_mm": 1.4764823060233419,
+          "R_hull_bounds_mm": [
+            1.5000006900000042,
+            38.72143706,
+            4.300000170000004,
+            39.7214376
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.1500006900000042,
+          "minimum_pad_to_fixed_copper_mm": 0.19376341999998914,
+          "minimum_body_to_other_body_mm": 1.6891703601335832,
+          "minimum_body_to_drill_or_QD_mm": 0.654999999999994,
+          "pair_internal_body_gap_mm": 1.0999995699999996
+        }
+      ]
+    },
+    {
+      "group": 30,
+      "side": "right",
+      "considered": 14884,
+      "legal_placements": 173,
+      "best": [
+        {
+          "angle_delta_deg": 90,
+          "translation_mm": [
+            0.6000000000000032,
+            2.0000000000000044
+          ],
+          "pivot_mm": [
+            17.85,
+            42.5
+          ],
+          "components": [
+            {
+              "ref": "C30",
+              "x": 18.450000000000003,
+              "y": 44.50000000000001,
+              "rotation": 90.0,
+              "displacement_mm": 2.0880613017821172
+            },
+            {
+              "ref": "R30",
+              "x": 16.300000430000004,
+              "y": 44.97856267000001,
+              "rotation": 180.0,
+              "displacement_mm": 2.0549984117354976
+            }
+          ],
+          "maximum_component_displacement_mm": 2.0880613017821172,
+          "R_hull_bounds_mm": [
+            14.900000690000008,
+            44.47856240000001,
+            17.700000170000003,
+            45.47856294000001
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.4499998299999972,
+          "minimum_pad_to_fixed_copper_mm": 0.20856240000000525,
+          "minimum_body_to_other_body_mm": 2.9361380853486945,
+          "minimum_body_to_drill_or_QD_mm": 0.4335626700000006,
+          "pair_internal_body_gap_mm": 1.0999995700000014
+        },
+        {
+          "angle_delta_deg": 90,
+          "translation_mm": [
+            0.7000000000000033,
+            2.0000000000000044
+          ],
+          "pivot_mm": [
+            17.85,
+            42.5
+          ],
+          "components": [
+            {
+              "ref": "C30",
+              "x": 18.550000000000004,
+              "y": 44.50000000000001,
+              "rotation": 90.0,
+              "displacement_mm": 2.1189620100417166
+            },
+            {
+              "ref": "R30",
+              "x": 16.400000430000006,
+              "y": 44.97856267000001,
+              "rotation": 180.0,
+              "displacement_mm": 1.956350179348118
+            }
+          ],
+          "maximum_component_displacement_mm": 2.1189620100417166,
+          "R_hull_bounds_mm": [
+            15.000000690000007,
+            44.47856240000001,
+            17.800000170000004,
+            45.47856294000001
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.3499998299999958,
+          "minimum_pad_to_fixed_copper_mm": 0.20856240000000525,
+          "minimum_body_to_other_body_mm": 3.0177175796013613,
+          "minimum_body_to_drill_or_QD_mm": 0.43356267000000054,
+          "pair_internal_body_gap_mm": 1.0999995700000014
+        },
+        {
+          "angle_delta_deg": 90,
+          "translation_mm": [
+            0.5000000000000031,
+            2.0000000000000044
+          ],
+          "pivot_mm": [
+            17.85,
+            42.5
+          ],
+          "components": [
+            {
+              "ref": "C30",
+              "x": 18.350000000000005,
+              "y": 44.50000000000001,
+              "rotation": 90.0,
+              "displacement_mm": 2.061552812808838
+            },
+            {
+              "ref": "R30",
+              "x": 16.200000430000006,
+              "y": 44.97856267000001,
+              "rotation": 180.0,
+              "displacement_mm": 2.1537713249635875
+            }
+          ],
+          "maximum_component_displacement_mm": 2.1537713249635875,
+          "R_hull_bounds_mm": [
+            14.800000690000008,
+            44.47856240000001,
+            17.600000170000005,
+            45.47856294000001
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.549999829999995,
+          "minimum_pad_to_fixed_copper_mm": 0.20856240000000525,
+          "minimum_body_to_other_body_mm": 2.8557300856760075,
+          "minimum_body_to_drill_or_QD_mm": 0.433832319983238,
+          "pair_internal_body_gap_mm": 1.0999995700000014
+        },
+        {
+          "angle_delta_deg": 90,
+          "translation_mm": [
+            0.8000000000000034,
+            2.0000000000000044
+          ],
+          "pivot_mm": [
+            17.85,
+            42.5
+          ],
+          "components": [
+            {
+              "ref": "C30",
+              "x": 18.650000000000006,
+              "y": 44.50000000000001,
+              "rotation": 90.0,
+              "displacement_mm": 2.15406592285381
+            },
+            {
+              "ref": "R30",
+              "x": 16.500000430000007,
+              "y": 44.97856267000001,
+              "rotation": 180.0,
+              "displacement_mm": 1.8578464888777568
+            }
+          ],
+          "maximum_component_displacement_mm": 2.15406592285381,
+          "R_hull_bounds_mm": [
+            15.100000690000009,
+            44.47856240000001,
+            17.900000170000006,
+            45.47856294000001
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.2499998299999944,
+          "minimum_pad_to_fixed_copper_mm": 0.20856240000000525,
+          "minimum_body_to_other_body_mm": 3.100376093998131,
+          "minimum_body_to_drill_or_QD_mm": 0.43356267000000054,
+          "pair_internal_body_gap_mm": 1.0999995700000014
+        },
+        {
+          "angle_delta_deg": 90,
+          "translation_mm": [
+            0.5000000000000031,
+            2.100000000000005
+          ],
+          "pivot_mm": [
+            17.85,
+            42.5
+          ],
+          "components": [
+            {
+              "ref": "C30",
+              "x": 18.350000000000005,
+              "y": 44.60000000000001,
+              "rotation": 90.0,
+              "displacement_mm": 2.1587033144922994
+            },
+            {
+              "ref": "R30",
+              "x": 16.200000430000006,
+              "y": 45.07856267000001,
+              "rotation": 180.0,
+              "displacement_mm": 2.1712769377109433
+            }
+          ],
+          "maximum_component_displacement_mm": 2.1712769377109433,
+          "R_hull_bounds_mm": [
+            14.800000690000008,
+            44.57856240000001,
+            17.600000170000005,
+            45.57856294000001
+          ],
+          "local_edge_corridor_after_clearances_mm": 1.549999829999995,
+          "minimum_pad_to_fixed_copper_mm": 0.3085624000000067,
+          "minimum_body_to_other_body_mm": 2.7965884316851297,
+          "minimum_body_to_drill_or_QD_mm": 0.533818473782602,
+          "pair_internal_body_gap_mm": 1.0999995700000014
+        }
+      ],
+      "best_translations": []
+    }
+  ],
+  "native_changed": false
+}

@@ -1,0 +1,468 @@
+{
+  "passed": true,
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "library_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QD4_2SET_38.PcbLib",
+  "library_sha256": "ec4b54190f8ca7402dc81cc066efe8c18dcc453841cc93d68eaa695fe161746f",
+  "pad_count": 38,
+  "Q1_rotation_deg": 90,
+  "errors": [],
+  "checks": [
+    {
+      "pin": "1",
+      "placed_center_mm": [
+        9.5212603,
+        45.75709788
+      ],
+      "centre_error_mm": 1.1292481965378213e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "2",
+      "placed_center_mm": [
+        9.06587132,
+        45.76621648
+      ],
+      "centre_error_mm": 1.4400765665684947e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "3",
+      "placed_center_mm": [
+        8.60224004,
+        45.76907398
+      ],
+      "centre_error_mm": 8.984427973703559e-07,
+      "axis_error_deg": 2.842170943040401e-14,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "4",
+      "placed_center_mm": [
+        8.12463114,
+        45.7659701
+      ],
+      "centre_error_mm": 1.9232091918294118e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "5",
+      "placed_center_mm": [
+        7.629417500000001,
+        45.75747126
+      ],
+      "centre_error_mm": 1.4258118258043285e-06,
+      "axis_error_deg": 2.842170943040401e-14,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "6",
+      "placed_center_mm": [
+        7.03257592,
+        45.7440499
+      ],
+      "centre_error_mm": 1.792664120497944e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "7",
+      "placed_center_mm": [
+        6.9966654,
+        44.38579252
+      ],
+      "centre_error_mm": 4.842304115426657e-07,
+      "axis_error_deg": 2.842170943040401e-14,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "8",
+      "placed_center_mm": [
+        6.9846258,
+        43.85260334
+      ],
+      "centre_error_mm": 6.995778682013076e-07,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "9",
+      "placed_center_mm": [
+        6.98111552,
+        43.31254346
+      ],
+      "centre_error_mm": 1.864653897095329e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "10",
+      "placed_center_mm": [
+        6.990129980000001,
+        42.77000962
+      ],
+      "centre_error_mm": 1.8661294046891726e-06,
+      "axis_error_deg": 2.842170943040401e-14,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "11",
+      "placed_center_mm": [
+        6.990129980000001,
+        42.22999292
+      ],
+      "centre_error_mm": 6.83039333040264e-07,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "12",
+      "placed_center_mm": [
+        6.98111552,
+        41.687459080000004
+      ],
+      "centre_error_mm": 1.8455519206744667e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "13",
+      "placed_center_mm": [
+        6.9846258,
+        41.1473992
+      ],
+      "centre_error_mm": 1.923232373468679e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "14",
+      "placed_center_mm": [
+        6.9966654,
+        40.61421002
+      ],
+      "centre_error_mm": 2.4189673561765325e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "15",
+      "placed_center_mm": [
+        7.03257592,
+        39.255952640000004
+      ],
+      "centre_error_mm": 1.8745286328359553e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "16",
+      "placed_center_mm": [
+        7.877976820000001,
+        39.23769512
+      ],
+      "centre_error_mm": 1.267820735102919e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "17",
+      "placed_center_mm": [
+        8.36367308,
+        39.23177946
+      ],
+      "centre_error_mm": 2.260713158349419e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "18",
+      "placed_center_mm": [
+        8.83488118,
+        39.23158388
+      ],
+      "centre_error_mm": 1.5275286926554928e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "19",
+      "placed_center_mm": [
+        9.29489042,
+        39.23757066
+      ],
+      "centre_error_mm": 1.0048263467220509e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "20",
+      "placed_center_mm": [
+        9.75,
+        39.250001420000004
+      ],
+      "centre_error_mm": 1.420000003804489e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "21",
+      "placed_center_mm": [
+        10.20510704,
+        39.23757066
+      ],
+      "centre_error_mm": 1.727269461600249e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "22",
+      "placed_center_mm": [
+        10.66511628,
+        39.23158388
+      ],
+      "centre_error_mm": 2.1519663126015904e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "23",
+      "placed_center_mm": [
+        11.13632438,
+        39.23177946
+      ],
+      "centre_error_mm": 1.6206212054646945e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "24",
+      "placed_center_mm": [
+        11.62202064,
+        39.23769512
+      ],
+      "centre_error_mm": 1.4216688487349804e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "25",
+      "placed_center_mm": [
+        12.46742154,
+        39.255952640000004
+      ],
+      "centre_error_mm": 1.802865140533229e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "26",
+      "placed_center_mm": [
+        12.50515832,
+        40.68041258
+      ],
+      "centre_error_mm": 2.1818417739711434e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "27",
+      "placed_center_mm": [
+        12.51722332,
+        41.28188458
+      ],
+      "centre_error_mm": 2.227274960620222e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "28",
+      "placed_center_mm": [
+        12.51713442,
+        41.89096134
+      ],
+      "centre_error_mm": 2.1381866701455713e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "29",
+      "placed_center_mm": [
+        12.49999958,
+        42.5
+      ],
+      "centre_error_mm": 4.1999999922381903e-07,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "30",
+      "placed_center_mm": [
+        12.51713442,
+        43.1090412
+      ],
+      "centre_error_mm": 1.5293458094235721e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "31",
+      "placed_center_mm": [
+        12.51722332,
+        43.71811796
+      ],
+      "centre_error_mm": 4.953889195800064e-07,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "32",
+      "placed_center_mm": [
+        12.50515832,
+        44.31958996
+      ],
+      "centre_error_mm": 3.8355416937900706e-07,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "33",
+      "placed_center_mm": [
+        12.46742154,
+        45.7440499
+      ],
+      "centre_error_mm": 1.717588358294481e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "34",
+      "placed_center_mm": [
+        11.87057996,
+        45.75747126
+      ],
+      "centre_error_mm": 1.247317121164838e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "35",
+      "placed_center_mm": [
+        11.37536632,
+        45.7659701
+      ],
+      "centre_error_mm": 6.169224971785622e-07,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "36",
+      "placed_center_mm": [
+        10.89775742,
+        45.76907398
+      ],
+      "centre_error_mm": 1.860864647297662e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "37",
+      "placed_center_mm": [
+        10.43412868,
+        45.76621648
+      ],
+      "centre_error_mm": 1.4400765665684947e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    },
+    {
+      "pin": "38",
+      "placed_center_mm": [
+        9.9787397,
+        45.75709788
+      ],
+      "centre_error_mm": 1.1292481965378213e-06,
+      "axis_error_deg": 0.0,
+      "size_error_mm": 9.399999999493147e-07,
+      "top_library_layer": true,
+      "passed": true
+    }
+  ],
+  "scope": "Library pad geometry and canonical Bottom/+90 placement only; native footprint update and copper connectivity are separate checks."
+}

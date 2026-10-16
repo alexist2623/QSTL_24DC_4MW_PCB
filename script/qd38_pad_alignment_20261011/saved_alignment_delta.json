@@ -1,0 +1,474 @@
+{
+  "passed": true,
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "baseline_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "declaration_sha256": "f7b9873eb89c1ac30270d83d2b37790e28066f1baf7f53d897287af586a8d938",
+  "unchanged_sources": {
+    "QSTL_QD4_2SET_38PAD.SchDoc": true,
+    "QSTL_QD4_2SET_38PAD.PrjPcb": true,
+    "QSTL_QD4_2SET_38PAD.SchLib": true,
+    "pin_mapping.csv": true
+  },
+  "alignment": [
+    {
+      "pin": "38",
+      "side": "TOP",
+      "target_mm": 45.35,
+      "actual_mm": 45.34999941570084,
+      "error_mm": 5.842991583904222e-07,
+      "cavity_gap_mm": 0.19999941570084445,
+      "bond_ray_cross_error_mm": 4.093100943736161e-07
+    },
+    {
+      "pin": "37",
+      "side": "TOP",
+      "target_mm": 45.35,
+      "actual_mm": 45.34999981783719,
+      "error_mm": 1.8216281461036488e-07,
+      "cavity_gap_mm": 0.19999981783718823,
+      "bond_ray_cross_error_mm": 1.033273496209297e-06
+    },
+    {
+      "pin": "36",
+      "side": "TOP",
+      "target_mm": 45.35,
+      "actual_mm": 45.3499989462007,
+      "error_mm": 1.05379930204208e-06,
+      "cavity_gap_mm": 0.1999989462007008,
+      "bond_ray_cross_error_mm": 7.218096739203261e-07
+    },
+    {
+      "pin": "23",
+      "side": "BOTTOM",
+      "target_mm": 39.65,
+      "actual_mm": 39.65000058914726,
+      "error_mm": 5.89147262530787e-07,
+      "cavity_gap_mm": 0.1999994108527403,
+      "bond_ray_cross_error_mm": 1.2253808545636957e-07
+    },
+    {
+      "pin": "22",
+      "side": "BOTTOM",
+      "target_mm": 39.65,
+      "actual_mm": 39.65000050491145,
+      "error_mm": 5.049114548683065e-07,
+      "cavity_gap_mm": 0.19999949508854795,
+      "bond_ray_cross_error_mm": 8.480177592362637e-07
+    },
+    {
+      "pin": "21",
+      "side": "BOTTOM",
+      "target_mm": 39.65,
+      "actual_mm": 39.64999973769739,
+      "error_mm": 2.6230260630200064e-07,
+      "cavity_gap_mm": 0.20000026230260912,
+      "bond_ray_cross_error_mm": 9.187054268444683e-07
+    },
+    {
+      "pin": "20",
+      "side": "BOTTOM",
+      "target_mm": 39.65,
+      "actual_mm": 39.65000071,
+      "error_mm": 7.100000019022445e-07,
+      "cavity_gap_mm": 0.19999929000000094,
+      "bond_ray_cross_error_mm": 8.199999985183277e-07
+    },
+    {
+      "pin": "19",
+      "side": "BOTTOM",
+      "target_mm": 39.65,
+      "actual_mm": 39.64999973769739,
+      "error_mm": 2.6230260630200064e-07,
+      "cavity_gap_mm": 0.20000026230260912,
+      "bond_ray_cross_error_mm": 2.5676860637702248e-08
+    },
+    {
+      "pin": "18",
+      "side": "BOTTOM",
+      "target_mm": 39.65,
+      "actual_mm": 39.65000050491145,
+      "error_mm": 5.049114548683065e-07,
+      "cavity_gap_mm": 0.19999949508854795,
+      "bond_ray_cross_error_mm": 2.471169380235949e-08
+    },
+    {
+      "pin": "17",
+      "side": "BOTTOM",
+      "target_mm": 39.65,
+      "actual_mm": 39.65000058914726,
+      "error_mm": 5.89147262530787e-07,
+      "cavity_gap_mm": 0.1999994108527403,
+      "bond_ray_cross_error_mm": 9.626854953204145e-07
+    },
+    {
+      "pin": "4",
+      "side": "TOP",
+      "target_mm": 45.35,
+      "actual_mm": 45.34999848368084,
+      "error_mm": 1.5163191591227587e-06,
+      "cavity_gap_mm": 0.19999848368084372,
+      "bond_ray_cross_error_mm": 1.4959692506977262e-06
+    },
+    {
+      "pin": "3",
+      "side": "TOP",
+      "target_mm": 45.35,
+      "actual_mm": 45.3499989462007,
+      "error_mm": 1.05379930204208e-06,
+      "cavity_gap_mm": 0.1999989462007008,
+      "bond_ray_cross_error_mm": 1.362204424815161e-07
+    },
+    {
+      "pin": "2",
+      "side": "TOP",
+      "target_mm": 45.35,
+      "actual_mm": 45.34999981783719,
+      "error_mm": 1.8216281461036488e-07,
+      "cavity_gap_mm": 0.19999981783718823,
+      "bond_ray_cross_error_mm": 5.784508325112903e-07
+    },
+    {
+      "pin": "1",
+      "side": "TOP",
+      "target_mm": 45.35,
+      "actual_mm": 45.34999941570084,
+      "error_mm": 5.842991583904222e-07,
+      "cavity_gap_mm": 0.19999941570084445,
+      "bond_ray_cross_error_mm": 1.2274150181790233e-06
+    },
+    {
+      "pin": "35",
+      "side": "TOP",
+      "target_mm": 45.35,
+      "actual_mm": 45.34999848368084,
+      "error_mm": 1.5163191591227587e-06,
+      "cavity_gap_mm": 0.19999848368084372,
+      "bond_ray_cross_error_mm": 6.759287467517083e-07
+    },
+    {
+      "pin": "34",
+      "side": "TOP",
+      "target_mm": 45.35,
+      "actual_mm": 45.34999896036106,
+      "error_mm": 1.039638938493681e-06,
+      "cavity_gap_mm": 0.19999896036106435,
+      "bond_ray_cross_error_mm": 8.661542749699436e-08
+    },
+    {
+      "pin": "33",
+      "side": "TOP",
+      "target_mm": 45.35,
+      "actual_mm": 45.3499998081525,
+      "error_mm": 1.9184749788792033e-07,
+      "cavity_gap_mm": 0.4163297892307217,
+      "bond_ray_cross_error_mm": 3.3559109824388145e-07
+    },
+    {
+      "pin": "32",
+      "side": "RIGHT",
+      "target_mm": 12.1,
+      "actual_mm": 12.100000682348941,
+      "error_mm": 6.823489417939754e-07,
+      "cavity_gap_mm": 0.20000068234894106,
+      "bond_ray_cross_error_mm": 1.1967684343527907e-06
+    },
+    {
+      "pin": "31",
+      "side": "RIGHT",
+      "target_mm": 12.1,
+      "actual_mm": 12.100000124595955,
+      "error_mm": 1.2459595488678588e-07,
+      "cavity_gap_mm": 0.20000012459595418,
+      "bond_ray_cross_error_mm": 9.514214036610014e-07
+    },
+    {
+      "pin": "30",
+      "side": "RIGHT",
+      "target_mm": 12.1,
+      "actual_mm": 12.099999127046308,
+      "error_mm": 8.729536915552671e-07,
+      "cavity_gap_mm": 0.1999991270463077,
+      "bond_ray_cross_error_mm": 2.4688647926041085e-07
+    },
+    {
+      "pin": "29",
+      "side": "RIGHT",
+      "target_mm": 12.1,
+      "actual_mm": 12.09999993,
+      "error_mm": 7.000000046275545e-08,
+      "cavity_gap_mm": 0.1999999299999988,
+      "bond_ray_cross_error_mm": 1.1800000052630821e-06
+    },
+    {
+      "pin": "28",
+      "side": "RIGHT",
+      "target_mm": 12.1,
+      "actual_mm": 12.099999127046308,
+      "error_mm": 8.729536915552671e-07,
+      "cavity_gap_mm": 0.1999991270463077,
+      "bond_ray_cross_error_mm": 4.230582122399795e-07
+    },
+    {
+      "pin": "27",
+      "side": "RIGHT",
+      "target_mm": 12.1,
+      "actual_mm": 12.100000124595955,
+      "error_mm": 1.2459595488678588e-07,
+      "cavity_gap_mm": 0.20000012459595418,
+      "bond_ray_cross_error_mm": 1.11742538277948e-06
+    },
+    {
+      "pin": "26",
+      "side": "RIGHT",
+      "target_mm": 12.1,
+      "actual_mm": 12.100000682348941,
+      "error_mm": 6.823489417939754e-07,
+      "cavity_gap_mm": 0.20000068234894106,
+      "bond_ray_cross_error_mm": 1.349147018547825e-06
+    },
+    {
+      "pin": "25",
+      "side": "BOTTOM",
+      "target_mm": 39.65,
+      "actual_mm": 39.65000037184749,
+      "error_mm": 3.7184749146490503e-07,
+      "cavity_gap_mm": 0.4163296459609545,
+      "bond_ray_cross_error_mm": 2.266242618009784e-07
+    },
+    {
+      "pin": "24",
+      "side": "BOTTOM",
+      "target_mm": 39.65,
+      "actual_mm": 39.649999561446506,
+      "error_mm": 4.3855349218802075e-07,
+      "cavity_gap_mm": 0.20000043855349506,
+      "bond_ray_cross_error_mm": 8.137042297740038e-07
+    },
+    {
+      "pin": "16",
+      "side": "BOTTOM",
+      "target_mm": 39.65,
+      "actual_mm": 39.649999561446506,
+      "error_mm": 4.3855349218802075e-07,
+      "cavity_gap_mm": 0.20000043855349506,
+      "bond_ray_cross_error_mm": 1.6612841768903763e-08
+    },
+    {
+      "pin": "15",
+      "side": "BOTTOM",
+      "target_mm": 39.65,
+      "actual_mm": 39.65000037184749,
+      "error_mm": 3.7184749146490503e-07,
+      "cavity_gap_mm": 0.41633019079515654,
+      "bond_ray_cross_error_mm": 4.897246019819335e-07
+    },
+    {
+      "pin": "14",
+      "side": "LEFT",
+      "target_mm": 7.4,
+      "actual_mm": 7.400000621633887,
+      "error_mm": 6.216338865883131e-07,
+      "cavity_gap_mm": 0.19999937836611267,
+      "bond_ray_cross_error_mm": 8.024666513506418e-07
+    },
+    {
+      "pin": "13",
+      "side": "LEFT",
+      "target_mm": 7.4,
+      "actual_mm": 7.400001426985205,
+      "error_mm": 1.4269852046666642e-06,
+      "cavity_gap_mm": 0.1999985730147946,
+      "bond_ray_cross_error_mm": 1.8709223448265533e-07
+    },
+    {
+      "pin": "12",
+      "side": "LEFT",
+      "target_mm": 7.4,
+      "actual_mm": 7.399999853182001,
+      "error_mm": 1.4681799953564223e-07,
+      "cavity_gap_mm": 0.20000014681799883,
+      "bond_ray_cross_error_mm": 2.1648264009188622e-07
+    },
+    {
+      "pin": "11",
+      "side": "LEFT",
+      "target_mm": 7.4,
+      "actual_mm": 7.40000116921076,
+      "error_mm": 1.1692107593219703e-06,
+      "cavity_gap_mm": 0.19999883078923994,
+      "bond_ray_cross_error_mm": 5.687027953282797e-07
+    },
+    {
+      "pin": "10",
+      "side": "LEFT",
+      "target_mm": 7.4,
+      "actual_mm": 7.40000116921076,
+      "error_mm": 1.1692107593219703e-06,
+      "cavity_gap_mm": 0.19999883078923994,
+      "bond_ray_cross_error_mm": 7.479268089582991e-07
+    },
+    {
+      "pin": "9",
+      "side": "LEFT",
+      "target_mm": 7.4,
+      "actual_mm": 7.399999853182001,
+      "error_mm": 1.4681799953564223e-07,
+      "cavity_gap_mm": 0.20000014681799883,
+      "bond_ray_cross_error_mm": 4.312522361438198e-08
+    },
+    {
+      "pin": "8",
+      "side": "LEFT",
+      "target_mm": 7.4,
+      "actual_mm": 7.400001426985205,
+      "error_mm": 1.4269852046666642e-06,
+      "cavity_gap_mm": 0.1999985730147946,
+      "bond_ray_cross_error_mm": 2.3923936498526643e-08
+    },
+    {
+      "pin": "7",
+      "side": "LEFT",
+      "target_mm": 7.4,
+      "actual_mm": 7.400000621633887,
+      "error_mm": 6.216338865883131e-07,
+      "cavity_gap_mm": 0.19999937836611267,
+      "bond_ray_cross_error_mm": 6.516911906784273e-07
+    },
+    {
+      "pin": "6",
+      "side": "TOP",
+      "target_mm": 45.35,
+      "actual_mm": 45.3499998081525,
+      "error_mm": 1.9184749788792033e-07,
+      "cavity_gap_mm": 0.4163303340649239,
+      "bond_ray_cross_error_mm": 3.807577655390304e-07
+    },
+    {
+      "pin": "5",
+      "side": "TOP",
+      "target_mm": 45.35,
+      "actual_mm": 45.34999896036106,
+      "error_mm": 1.039638938493681e-06,
+      "cavity_gap_mm": 0.19999896036106435,
+      "bond_ray_cross_error_mm": 8.591199165408625e-07
+    }
+  ],
+  "maximum_inner_boundary_error_mm": 1.5163191591227587e-06,
+  "minimum_cavity_clearance_mm": 0.19999848368084372,
+  "declared_QD_endpoint": {
+    "count": 22,
+    "baseline_land_mm": 0.4,
+    "land_mm": 0.35,
+    "drill_mm": 0.2,
+    "low": 1,
+    "high": 32
+  },
+  "signal_edits_confined": true,
+  "surface_edits_confined": true,
+  "all_pad_mask_paste_caches_unchanged": true,
+  "all_other_pad_bytes_unchanged": true,
+  "native_pad_record_order_changed": true,
+  "pad_XY_byte_changes": [
+    {
+      "pad": [
+        "NAZROLMU",
+        "38"
+      ],
+      "changed_bytes": 6
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "37"
+      ],
+      "changed_bytes": 5
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "36"
+      ],
+      "changed_bytes": 5
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "23"
+      ],
+      "changed_bytes": 6
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "22"
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "21"
+      ],
+      "changed_bytes": 4
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "20"
+      ],
+      "changed_bytes": 3
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "19"
+      ],
+      "changed_bytes": 5
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "18"
+      ],
+      "changed_bytes": 6
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "17"
+      ],
+      "changed_bytes": 6
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "4"
+      ],
+      "changed_bytes": 5
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "3"
+      ],
+      "changed_bytes": 5
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "2"
+      ],
+      "changed_bytes": 5
+    },
+    {
+      "pad": [
+        "NAZROLMU",
+        "1"
+      ],
+      "changed_bytes": 5
+    }
+  ],
+  "failures": [],
+  "completion": false
+}

@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "shield_via_count": 668,
+  "minimum_signal_clearance_mm": {
+    "5": 0.2858622982598083,
+    "32": 0.20339102694598932
+  },
+  "worst_signal_clearance": {
+    "5": {
+      "index": 285,
+      "x": 16.185,
+      "y": 59.7,
+      "gap_mm": 0.2858622982598083
+    },
+    "32": {
+      "index": 478,
+      "x": 5.661311922062029,
+      "y": 40.61560985815978,
+      "gap_mm": 0.20339102694598932
+    }
+  },
+  "signal_primitives_per_layer": {
+    "5": 92,
+    "32": 414
+  },
+  "minimum_RC_body_clearance_mm": 0.09765688663350147,
+  "minimum_foreign_drill_clearance_mm": 0.25700843937841816,
+  "grounded_on_both_layers": true,
+  "errors": [],
+  "required_signal_clearance_mm": 0.2,
+  "arc_conservative_allowance_mm": 0.00011,
+  "candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+  "candidate": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\full_copper_candidate.json"
+}

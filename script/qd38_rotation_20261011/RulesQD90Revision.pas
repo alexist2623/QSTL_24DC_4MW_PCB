@@ -1,0 +1,60 @@
+Var RB:IPCB_Board;RL:TStringList;
+Function FindRevisionRule(Name:String):IPCB_Rule;
+Var I:IPCB_BoardIterator;R:IPCB_Rule;
+Begin Result:=Nil;I:=RB.BoardIterator_Create;I.SetState_FilterAll;I.AddFilter_ObjectSet(MkSet(eRuleObject));R:=I.FirstPCBObject;
+ While R<>Nil Do Begin If R.Name=Name Then Begin Result:=R;Break;End;R:=I.NextPCBObject;End;RB.BoardIterator_Destroy(I);End;
+Procedure RegisterRevisionRule(R:IPCB_Rule);
+Begin RB.AddPCBObject(R);PCBServer.SendMessageToRobots(RB.I_ObjectAddress,c_Broadcast,PCBM_BoardRegisteration,R.I_ObjectAddress);End;
+Procedure Note(S:String);Begin RL.Add(S);RL.SaveToFile('C:\GIT_Workspace\QSTL_24DC_4MW_PCB\script\qd38_rotation_20261011\native_revision_rules_log.txt');End;
+Function ViaDimensions(V:IPCB_Via;D,H:Double):Boolean;
+Begin Result:=(Abs(CoordToMMs(V.Size)-D)<0.00001) And (Abs(CoordToMMs(V.HoleSize)-H)<0.00001);End;
+Procedure RulesQD90Revision;
+Var I:IPCB_BoardIterator;C:IPCB_Component;V:IPCB_Via;R:IPCB_Rule;VR,VD:IPCB_RoutingViaStyleRule;CL:IPCB_ClearanceConstraint;
+ NC,NZ,NQ,NR,NS:Integer;IsZ,IsQ,IsDC,Good:Boolean;
+Begin
+ RB:=PCBServer.GetCurrentPCBBoard;If RB=Nil Then Exit;
+ If LowerCase(RB.FileName)<>LowerCase('C:\GIT_Workspace\QSTL_24DC_4MW_PCB\QSTL_QD4_2SET_38PAD\QSTL_QD4_2SET_38PAD.PcbDoc') Then Exit;
+ RL:=TStringList.Create;Note('BOARD|'+RB.FileName);Good:=True;
+ NC:=0;I:=RB.BoardIterator_Create;I.SetState_FilterAll;I.AddFilter_ObjectSet(MkSet(eComponentObject));C:=I.FirstPCBObject;
+ While C<>Nil Do Begin Inc(NC);C:=I.NextPCBObject;End;RB.BoardIterator_Destroy(I);
+ If NC<>50 Then Begin Note('STOP_COMPONENT_COUNT');RL.Free;Exit;End;
+ NZ:=0;NQ:=0;NR:=0;NS:=0;I:=RB.BoardIterator_Create;I.SetState_FilterAll;I.AddFilter_ObjectSet(MkSet(eViaObject));V:=I.FirstPCBObject;
+ While V<>Nil Do Begin
+  If V.Net=Nil Then Begin Good:=False;Note('STOP_UNNETTED_VIA');Break;End;
+  If V.Net.Name='GND' Then Begin
+   If (V.LowLayer<>eMidLayer4) Or (V.HighLayer<>eBottomLayer) Or (Not ViaDimensions(V,0.25,0.1)) Then Begin Good:=False;Note('STOP_SHIELD_GEOMETRY');Break;End;Inc(NS);
+  End Else Begin
+   If (V.LowLayer<>eTopLayer) Or (V.HighLayer<>eBottomLayer) Then Begin Good:=False;Note('STOP_SIGNAL_SPAN');Break;End;
+   IsDC:=(V.Net.Name='DC01') Or (V.Net.Name='DC02') Or (V.Net.Name='DC03') Or (V.Net.Name='DC04') Or (V.Net.Name='DC05') Or (V.Net.Name='DC06') Or (V.Net.Name='DC07') Or (V.Net.Name='DC08') Or (V.Net.Name='DC09') Or (V.Net.Name='DC10') Or (V.Net.Name='DC11') Or (V.Net.Name='DC12') Or (V.Net.Name='DC13') Or (V.Net.Name='DC14') Or (V.Net.Name='DC15') Or (V.Net.Name='DC16') Or (V.Net.Name='DC17') Or (V.Net.Name='DC18') Or (V.Net.Name='DC19') Or (V.Net.Name='DC20') Or (V.Net.Name='DC21') Or (V.Net.Name='DC22') Or (V.Net.Name='DC23') Or (V.Net.Name='DC24') Or (V.Net.Name='DC25') Or (V.Net.Name='DC26') Or (V.Net.Name='DC27') Or (V.Net.Name='DC28') Or (V.Net.Name='DC29') Or (V.Net.Name='DC30') Or (V.Net.Name='DC31') Or (V.Net.Name='DC32') Or (V.Net.Name='DC33') Or (V.Net.Name='DC34') Or (V.Net.Name='DC35') Or (V.Net.Name='DC36') Or (V.Net.Name='DC37') Or (V.Net.Name='DC38');
+   If Not IsDC Then Begin Good:=False;Note('STOP_NON_DC_SIGNAL_VIA');Break;End;
+   IsZ:=(V.X>=MMsToCoord(1.999998040)) And (V.X<=MMsToCoord(16.599997780)) And (V.Y>=MMsToCoord(2.335000080)) And (V.Y<=MMsToCoord(7.000000300));
+   IsQ:=((V.Net.Name='DC01') Or (V.Net.Name='DC03') Or (V.Net.Name='DC04') Or (V.Net.Name='DC06') Or (V.Net.Name='DC07') Or (V.Net.Name='DC08') Or (V.Net.Name='DC10') Or (V.Net.Name='DC14') Or (V.Net.Name='DC17') Or (V.Net.Name='DC18') Or (V.Net.Name='DC19') Or (V.Net.Name='DC20') Or (V.Net.Name='DC22') Or (V.Net.Name='DC23') Or (V.Net.Name='DC25') Or (V.Net.Name='DC26') Or (V.Net.Name='DC27') Or (V.Net.Name='DC29') Or (V.Net.Name='DC33') Or (V.Net.Name='DC36') Or (V.Net.Name='DC37') Or (V.Net.Name='DC38')) And (V.X>=MMsToCoord(6.442419065)) And (V.X<=MMsToCoord(13.049000000)) And (V.Y>=MMsToCoord(38.498964492)) And (V.Y<=MMsToCoord(46.551736728));
+   If IsZ And IsQ Then Begin Good:=False;Note('STOP_OVERLAPPING_VIA_SCOPES');Break;End;
+   If IsZ Then Begin Inc(NZ);Good:=ViaDimensions(V,0.4,0.2);End
+   Else If IsQ Then Begin Inc(NQ);Good:=ViaDimensions(V,0.4,0.2);End
+   Else Begin Inc(NR);Good:=ViaDimensions(V,0.5,0.25);End;
+   If Not Good Then Begin Note('STOP_SIGNAL_VIA_GEOMETRY');Break;End;
+  End;V:=I.NextPCBObject;
+ End;RB.BoardIterator_Destroy(I);
+ If (Not Good) Or (NZ<>38) Or (NQ<>22) Or (NR<>16) Or (NS<>668) Then Begin Note('STOP_VIA_GROUP_COUNTS');RL.Free;Exit;End;
+
+If FindRevisionRule('RoutingVias')=Nil Then Begin Note('STOP_MISSING_RULE|RoutingVias');RL.Free;Exit;End;
+If FindRevisionRule('QD38_ZIF_VIA_0P4_0P2')=Nil Then Begin Note('STOP_MISSING_RULE|QD38_ZIF_VIA_0P4_0P2');RL.Free;Exit;End;
+If FindRevisionRule('RF_SHIELD_L5_L6')=Nil Then Begin Note('STOP_MISSING_RULE|RF_SHIELD_L5_L6');RL.Free;Exit;End;
+If FindRevisionRule('QD38_DC_WIDTH')=Nil Then Begin Note('STOP_MISSING_RULE|QD38_DC_WIDTH');RL.Free;Exit;End;
+If FindRevisionRule('Clearance')=Nil Then Begin Note('STOP_MISSING_RULE|Clearance');RL.Free;Exit;End;
+If FindRevisionRule('DC_GND_GAP_0P2')=Nil Then Begin Note('STOP_MISSING_RULE|DC_GND_GAP_0P2');RL.Free;Exit;End;
+If FindRevisionRule('QD38_QD_VIA_0P4_0P2')<>Nil Then Begin Note('STOP_QD_RULE_ALREADY_EXISTS');RL.Free;Exit;End;
+If FindRevisionRule('QD38_DC_PAIR_GAP_0P1')<>Nil Then Begin Note('STOP_DC_PAIR_RULE_ALREADY_EXISTS');RL.Free;Exit;End;
+PCBServer.PreProcess;Try
+R:=FindRevisionRule('RoutingVias');VD:=R;R.Scope1Expression:='Not (IsVia And InNet(''GND'')) And Not (IsVia And (InNet(''DC01'') Or InNet(''DC02'') Or InNet(''DC03'') Or InNet(''DC04'') Or InNet(''DC05'') Or InNet(''DC06'') Or InNet(''DC07'') Or InNet(''DC08'') Or InNet(''DC09'') Or InNet(''DC10'') Or InNet(''DC11'') Or InNet(''DC12'') Or InNet(''DC13'') Or InNet(''DC14'') Or InNet(''DC15'') Or InNet(''DC16'') Or InNet(''DC17'') Or InNet(''DC18'') Or InNet(''DC19'') Or InNet(''DC20'') Or InNet(''DC21'') Or InNet(''DC22'') Or InNet(''DC23'') Or InNet(''DC24'') Or InNet(''DC25'') Or InNet(''DC26'') Or InNet(''DC27'') Or InNet(''DC28'') Or InNet(''DC29'') Or InNet(''DC30'') Or InNet(''DC31'') Or InNet(''DC32'') Or InNet(''DC33'') Or InNet(''DC34'') Or InNet(''DC35'') Or InNet(''DC36'') Or InNet(''DC37'') Or InNet(''DC38'')) And InRegionAbsolute(78.740080315,91.929137008,653.543219685,275.590562992)) And Not (IsVia And (InNet(''DC01'') Or InNet(''DC03'') Or InNet(''DC04'') Or InNet(''DC06'') Or InNet(''DC07'') Or InNet(''DC08'') Or InNet(''DC10'') Or InNet(''DC14'') Or InNet(''DC17'') Or InNet(''DC18'') Or InNet(''DC19'') Or InNet(''DC20'') Or InNet(''DC22'') Or InNet(''DC23'') Or InNet(''DC25'') Or InNet(''DC26'') Or InNet(''DC27'') Or InNet(''DC29'') Or InNet(''DC33'') Or InNet(''DC36'') Or InNet(''DC37'') Or InNet(''DC38'')) And InRegionAbsolute(253.638545847,1515.707263466,513.740157480,1832.745540474))';
+R:=FindRevisionRule('QD38_ZIF_VIA_0P4_0P2');R.Scope1Expression:='IsVia And (InNet(''DC01'') Or InNet(''DC02'') Or InNet(''DC03'') Or InNet(''DC04'') Or InNet(''DC05'') Or InNet(''DC06'') Or InNet(''DC07'') Or InNet(''DC08'') Or InNet(''DC09'') Or InNet(''DC10'') Or InNet(''DC11'') Or InNet(''DC12'') Or InNet(''DC13'') Or InNet(''DC14'') Or InNet(''DC15'') Or InNet(''DC16'') Or InNet(''DC17'') Or InNet(''DC18'') Or InNet(''DC19'') Or InNet(''DC20'') Or InNet(''DC21'') Or InNet(''DC22'') Or InNet(''DC23'') Or InNet(''DC24'') Or InNet(''DC25'') Or InNet(''DC26'') Or InNet(''DC27'') Or InNet(''DC28'') Or InNet(''DC29'') Or InNet(''DC30'') Or InNet(''DC31'') Or InNet(''DC32'') Or InNet(''DC33'') Or InNet(''DC34'') Or InNet(''DC35'') Or InNet(''DC36'') Or InNet(''DC37'') Or InNet(''DC38'')) And InRegionAbsolute(78.740080315,91.929137008,653.543219685,275.590562992)';
+R:=FindRevisionRule('DC_GND_GAP_0P2');R.Scope1Expression:='InNet(''GND'') And (ExistsOnLayer(''L2_DC_A'') Or ExistsOnLayer(''L4_DC_B''))';R.Scope2Expression:='(InNet(''DC01'') Or InNet(''DC02'') Or InNet(''DC03'') Or InNet(''DC04'') Or InNet(''DC05'') Or InNet(''DC06'') Or InNet(''DC07'') Or InNet(''DC08'') Or InNet(''DC09'') Or InNet(''DC10'') Or InNet(''DC11'') Or InNet(''DC12'') Or InNet(''DC13'') Or InNet(''DC14'') Or InNet(''DC15'') Or InNet(''DC16'') Or InNet(''DC17'') Or InNet(''DC18'') Or InNet(''DC19'') Or InNet(''DC20'') Or InNet(''DC21'') Or InNet(''DC22'') Or InNet(''DC23'') Or InNet(''DC24'') Or InNet(''DC25'') Or InNet(''DC26'') Or InNet(''DC27'') Or InNet(''DC28'') Or InNet(''DC29'') Or InNet(''DC30'') Or InNet(''DC31'') Or InNet(''DC32'') Or InNet(''DC33'') Or InNet(''DC34'') Or InNet(''DC35'') Or InNet(''DC36'') Or InNet(''DC37'') Or InNet(''DC38'')) And (ExistsOnLayer(''L2_DC_A'') Or ExistsOnLayer(''L4_DC_B''))';
+R:=PCBServer.PCBRuleFactory(eRule_RoutingViaStyle);R.Name:='QD38_QD_VIA_0P4_0P2';RegisterRevisionRule(R);R.Scope1Expression:='IsVia And (InNet(''DC01'') Or InNet(''DC03'') Or InNet(''DC04'') Or InNet(''DC06'') Or InNet(''DC07'') Or InNet(''DC08'') Or InNet(''DC10'') Or InNet(''DC14'') Or InNet(''DC17'') Or InNet(''DC18'') Or InNet(''DC19'') Or InNet(''DC20'') Or InNet(''DC22'') Or InNet(''DC23'') Or InNet(''DC25'') Or InNet(''DC26'') Or InNet(''DC27'') Or InNet(''DC29'') Or InNet(''DC33'') Or InNet(''DC36'') Or InNet(''DC37'') Or InNet(''DC38'')) And InRegionAbsolute(253.638545847,1515.707263466,513.740157480,1832.745540474)';R.Scope2Expression:='All';R.DRCEnabled:=True;VR:=R;VR.ViaStyle:=VD.ViaStyle;
+VR.MinWidth:=MMsToCoord(0.4);VR.MaxWidth:=MMsToCoord(0.4);VR.PreferedWidth:=MMsToCoord(0.4);VR.MinHoleWidth:=MMsToCoord(0.2);VR.MaxHoleWidth:=MMsToCoord(0.2);VR.PreferedHoleWidth:=MMsToCoord(0.2);
+R:=PCBServer.PCBRuleFactory(eRule_Clearance);R.Name:='QD38_DC_PAIR_GAP_0P1';R.Scope1Expression:='(InNet(''DC01'') Or InNet(''DC02'') Or InNet(''DC03'') Or InNet(''DC04'') Or InNet(''DC05'') Or InNet(''DC06'') Or InNet(''DC07'') Or InNet(''DC08'') Or InNet(''DC09'') Or InNet(''DC10'') Or InNet(''DC11'') Or InNet(''DC12'') Or InNet(''DC13'') Or InNet(''DC14'') Or InNet(''DC15'') Or InNet(''DC16'') Or InNet(''DC17'') Or InNet(''DC18'') Or InNet(''DC19'') Or InNet(''DC20'') Or InNet(''DC21'') Or InNet(''DC22'') Or InNet(''DC23'') Or InNet(''DC24'') Or InNet(''DC25'') Or InNet(''DC26'') Or InNet(''DC27'') Or InNet(''DC28'') Or InNet(''DC29'') Or InNet(''DC30'') Or InNet(''DC31'') Or InNet(''DC32'') Or InNet(''DC33'') Or InNet(''DC34'') Or InNet(''DC35'') Or InNet(''DC36'') Or InNet(''DC37'') Or InNet(''DC38'')) And (ExistsOnLayer(''L2_DC_A'') Or ExistsOnLayer(''L4_DC_B''))';R.Scope2Expression:='(InNet(''DC01'') Or InNet(''DC02'') Or InNet(''DC03'') Or InNet(''DC04'') Or InNet(''DC05'') Or InNet(''DC06'') Or InNet(''DC07'') Or InNet(''DC08'') Or InNet(''DC09'') Or InNet(''DC10'') Or InNet(''DC11'') Or InNet(''DC12'') Or InNet(''DC13'') Or InNet(''DC14'') Or InNet(''DC15'') Or InNet(''DC16'') Or InNet(''DC17'') Or InNet(''DC18'') Or InNet(''DC19'') Or InNet(''DC20'') Or InNet(''DC21'') Or InNet(''DC22'') Or InNet(''DC23'') Or InNet(''DC24'') Or InNet(''DC25'') Or InNet(''DC26'') Or InNet(''DC27'') Or InNet(''DC28'') Or InNet(''DC29'') Or InNet(''DC30'') Or InNet(''DC31'') Or InNet(''DC32'') Or InNet(''DC33'') Or InNet(''DC34'') Or InNet(''DC35'') Or InNet(''DC36'') Or InNet(''DC37'') Or InNet(''DC38'')) And (ExistsOnLayer(''L2_DC_A'') Or ExistsOnLayer(''L4_DC_B''))';R.NetScope:=eNetScope_DifferentNetsOnly;R.DRCEnabled:=True;CL:=R;CL.Gap:=MMsToCoord(0.10);RegisterRevisionRule(R);
+Finally PCBServer.PostProcess;End;
+RB.InvalidateScopeTester;RB.ValidateScopeTester;
+R:=FindRevisionRule('QD38_DC_PAIR_GAP_0P1');CL:=FindRevisionRule('Clearance');If R.Priority>=CL.Priority Then Begin Note('STOP_DC_RULE_PRIORITY_REQUIRES_NATIVE_FIX');RL.Free;Exit;End;
+I:=RB.BoardIterator_Create;I.SetState_FilterAll;I.AddFilter_ObjectSet(MkSet(eRuleObject));R:=I.FirstPCBObject;While R<>Nil Do Begin Note('RULE|'+R.Name+'|'+R.Scope1Expression+'|'+R.Scope2Expression);R:=I.NextPCBObject;End;RB.BoardIterator_Destroy(I);
+RB.RebuildPadCaches;RB.SetState_DocumentHasChanged;RB.ViewManager_FullUpdate;RB.GraphicallyInvalidate;Note('COMPLETE_NOT_SAVED');RL.Free;End;

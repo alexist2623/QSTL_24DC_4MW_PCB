@@ -1,0 +1,1741 @@
+{
+  "passed": true,
+  "failures": [],
+  "candidate_sha256": "c4b1f6258b0d1067db753648a478a2e3058f8fe792677fe1091533e4baee48ae",
+  "source_candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495",
+  "local_edit_box_mm": [
+    5.5,
+    36,
+    14,
+    49
+  ],
+  "actual_changed_centreline_bounds_mm": [
+    7.245000000000001,
+    38.09570405532188,
+    12.189277745620826,
+    46.75615765427968
+  ],
+  "changed_DC_net_count": 12,
+  "changed_DC_nets": [
+    {
+      "net": "DC22",
+      "layer": 2,
+      "changed_centerline_bounds_mm": [
+        10.235000000000005,
+        38.417048682563625,
+        10.742476532371304,
+        38.94076974256294
+      ],
+      "added_length_mm": 0.7322294743675791,
+      "removed_length_mm": 0.7176800532442041
+    },
+    {
+      "net": "DC19",
+      "layer": 2,
+      "changed_centerline_bounds_mm": [
+        9.260212594120096,
+        38.960574117085,
+        9.7446383770351,
+        39.44500000000001
+      ],
+      "added_length_mm": 0.7353855117803823,
+      "removed_length_mm": 0.6850812293188899
+    },
+    {
+      "net": "DC37",
+      "layer": 2,
+      "changed_centerline_bounds_mm": [
+        10.487130616844704,
+        45.340722154379186,
+        12.189277745620826,
+        46.069675998687586
+      ],
+      "added_length_mm": 2.000663611116691,
+      "removed_length_mm": 1.9999998585786387
+    },
+    {
+      "net": "DC38",
+      "layer": 2,
+      "changed_centerline_bounds_mm": [
+        9.972832924724353,
+        46.05797076653287,
+        9.989162930063955,
+        46.30173662803558
+      ],
+      "added_length_mm": 0.25052997118799686,
+      "removed_length_mm": 0.0
+    },
+    {
+      "net": "DC18",
+      "layer": 4,
+      "changed_centerline_bounds_mm": [
+        8.738043537357639,
+        38.40200812938232,
+        9.084999999999999,
+        38.934686641880035
+      ],
+      "added_length_mm": 0.6566270859285359,
+      "removed_length_mm": 0.4906703936004636
+    },
+    {
+      "net": "DC20",
+      "layer": 4,
+      "changed_centerline_bounds_mm": [
+        9.76992,
+        38.7510001,
+        9.774,
+        39.08755416666666
+      ],
+      "added_length_mm": 0.33824405800114515,
+      "removed_length_mm": 0.0
+    },
+    {
+      "net": "DC17",
+      "layer": 4,
+      "changed_centerline_bounds_mm": [
+        8.184740979386907,
+        38.09570405532188,
+        8.855000000000002,
+        38.951822252979916
+      ],
+      "added_length_mm": 1.1041760656624127,
+      "removed_length_mm": 0.9478892558325901
+    },
+    {
+      "net": "DC23",
+      "layer": 4,
+      "changed_centerline_bounds_mm": [
+        10.695000000000002,
+        38.24261020617643,
+        11.28836515392917,
+        38.951822252979916
+      ],
+      "added_length_mm": 0.9365592366892082,
+      "removed_length_mm": 0.8391449067048738
+    },
+    {
+      "net": "DC01",
+      "layer": 4,
+      "changed_centerline_bounds_mm": [
+        8.818642713969133,
+        45.8934901178892,
+        9.504192114377926,
+        46.57500000000001
+      ],
+      "added_length_mm": 0.9638003767510379,
+      "removed_length_mm": 0.9126345212286467
+    },
+    {
+      "net": "DC03",
+      "layer": 4,
+      "changed_centerline_bounds_mm": [
+        8.499132150175551,
+        45.42500000000001,
+        9.168903864637702,
+        46.09477181446216
+      ],
+      "added_length_mm": 0.9181267355395312,
+      "removed_length_mm": 0.9472002422862535
+    },
+    {
+      "net": "DC04",
+      "layer": 4,
+      "changed_centerline_bounds_mm": [
+        7.245000000000001,
+        45.283170058554695,
+        8.00105587066781,
+        46.15230030278069
+      ],
+      "added_length_mm": 1.0692243247888569,
+      "removed_length_mm": 1.1611172377336785
+    },
+    {
+      "net": "DC36",
+      "layer": 4,
+      "changed_centerline_bounds_mm": [
+        10.465000000000002,
+        46.054988183049915,
+        11.031049260297852,
+        46.75615765427968
+      ],
+      "added_length_mm": 0.9179163120746108,
+      "removed_length_mm": 0.800514399463123
+    }
+  ],
+  "RF_pad_contacts": [
+    {
+      "pin": "2",
+      "net": "MW02",
+      "pad_movement_mm": 0.03378477121120775,
+      "copper_overlap_mm2": 0.028952469350940827,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "5",
+      "net": "MW05",
+      "pad_movement_mm": 8.379058453350832e-15,
+      "copper_overlap_mm2": 0.03284216165506523,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "9",
+      "net": "MW09",
+      "pad_movement_mm": 8.881784197001252e-16,
+      "copper_overlap_mm2": 0.0348684553037686,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "11",
+      "net": "MW11",
+      "pad_movement_mm": 8.881784197001252e-16,
+      "copper_overlap_mm2": 0.03267091914320355,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "12",
+      "net": "MW12",
+      "pad_movement_mm": 8.881784197001252e-16,
+      "copper_overlap_mm2": 0.03340034602915429,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "13",
+      "net": "MW13",
+      "pad_movement_mm": 0.0,
+      "copper_overlap_mm2": 0.03336234766328604,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "15",
+      "net": "MW15",
+      "pad_movement_mm": 8.881784197001252e-15,
+      "copper_overlap_mm2": 0.03337105891100263,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "16",
+      "net": "MW16",
+      "pad_movement_mm": 0.0,
+      "copper_overlap_mm2": 0.03315737015506484,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "21",
+      "net": "MW21",
+      "pad_movement_mm": 0.02915843223272524,
+      "copper_overlap_mm2": 0.02923375221789478,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "24",
+      "net": "MW24",
+      "pad_movement_mm": 0.0,
+      "copper_overlap_mm2": 0.03280574995247128,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "28",
+      "net": "MW28",
+      "pad_movement_mm": 0.0,
+      "copper_overlap_mm2": 0.032615181544683035,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "30",
+      "net": "MW30",
+      "pad_movement_mm": 0.0,
+      "copper_overlap_mm2": 0.02258330221343372,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "31",
+      "net": "MW31",
+      "pad_movement_mm": 0.0,
+      "copper_overlap_mm2": 0.023464114406753486,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "32",
+      "net": "MW32",
+      "pad_movement_mm": 0.0,
+      "copper_overlap_mm2": 0.03293588216140936,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "34",
+      "net": "MW34",
+      "pad_movement_mm": 7.944109290391274e-15,
+      "copper_overlap_mm2": 0.03310959430798301,
+      "RF_geometry_unchanged": true
+    },
+    {
+      "pin": "35",
+      "net": "MW35",
+      "pad_movement_mm": 7.944109290391274e-15,
+      "copper_overlap_mm2": 0.032603656310431876,
+      "RF_geometry_unchanged": true
+    }
+  ],
+  "QD_via_containment": [
+    {
+      "pin": "10",
+      "drill_containment_margin_mm": 0.0009999999999984743
+    },
+    {
+      "pin": "8",
+      "drill_containment_margin_mm": 0.0009999999999996956
+    },
+    {
+      "pin": "14",
+      "drill_containment_margin_mm": 0.0009999999999967119
+    },
+    {
+      "pin": "7",
+      "drill_containment_margin_mm": 0.0009999999999967257
+    },
+    {
+      "pin": "6",
+      "drill_containment_margin_mm": 0.0010000000000093406
+    },
+    {
+      "pin": "4",
+      "drill_containment_margin_mm": 9.999999999669995e-05
+    },
+    {
+      "pin": "17",
+      "drill_containment_margin_mm": 9.999999999683873e-05
+    },
+    {
+      "pin": "3",
+      "drill_containment_margin_mm": 9.999999999421583e-05
+    },
+    {
+      "pin": "18",
+      "drill_containment_margin_mm": 9.999999999849019e-05
+    },
+    {
+      "pin": "19",
+      "drill_containment_margin_mm": 0.00010000000000083553
+    },
+    {
+      "pin": "1",
+      "drill_containment_margin_mm": 0.01255000000000199
+    },
+    {
+      "pin": "20",
+      "drill_containment_margin_mm": 0.0050799999999991685
+    },
+    {
+      "pin": "38",
+      "drill_containment_margin_mm": 9.999999999832365e-05
+    },
+    {
+      "pin": "37",
+      "drill_containment_margin_mm": 9.999999999209253e-05
+    },
+    {
+      "pin": "22",
+      "drill_containment_margin_mm": 0.00010000000000140452
+    },
+    {
+      "pin": "36",
+      "drill_containment_margin_mm": 9.999999999421583e-05
+    },
+    {
+      "pin": "23",
+      "drill_containment_margin_mm": 9.999999999683873e-05
+    },
+    {
+      "pin": "25",
+      "drill_containment_margin_mm": 0.001000000000009868
+    },
+    {
+      "pin": "33",
+      "drill_containment_margin_mm": 0.001000000000009868
+    },
+    {
+      "pin": "26",
+      "drill_containment_margin_mm": 0.0009999999999998066
+    },
+    {
+      "pin": "27",
+      "drill_containment_margin_mm": 0.0010000000000020964
+    },
+    {
+      "pin": "29",
+      "drill_containment_margin_mm": 0.0010000000000008613
+    }
+  ],
+  "native_grid_signal_audit": {
+    "passed": true,
+    "failures": [],
+    "minimum_foreign_copper_gap_mm": 0.10499851999999521,
+    "minimum_internal_DC_pair_gap_mm": 0.10499851999999521,
+    "internal_DC_pair_rule_mm": 0.1,
+    "other_pair_rule_mm": 0.15,
+    "disconnected_nets": [],
+    "invalid_turns": [
+      {
+        "kind": "routing_turn",
+        "net": "DC24",
+        "layer": 2,
+        "at": [
+          8.9321234,
+          30.6964385
+        ],
+        "turn_deg": 45.00124218492175
+      },
+      {
+        "kind": "routing_turn",
+        "net": "DC09",
+        "layer": 2,
+        "at": [
+          8.6150171,
+          46.8307014
+        ],
+        "turn_deg": 45.00124218492002
+      },
+      {
+        "kind": "routing_turn",
+        "net": "DC02",
+        "layer": 4,
+        "at": [
+          12.7499999,
+          56.7099983
+        ],
+        "turn_deg": 45.004851052357
+      }
+    ],
+    "dc_via_and_layer": [
+      {
+        "net": "DC01",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC02",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC03",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC04",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC05",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC06",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC07",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC08",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC09",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC10",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC11",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC12",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC13",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC14",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC15",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC16",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC17",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC18",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC19",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC20",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC21",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC22",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC23",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC24",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC25",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC26",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC27",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC28",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC29",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC30",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC31",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC32",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC33",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC34",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC35",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC36",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          4
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC37",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      },
+      {
+        "net": "DC38",
+        "count": 2,
+        "device_via_in_pad": true,
+        "internal_layers": [
+          2
+        ],
+        "passed": true
+      }
+    ],
+    "signal_arcs": 62,
+    "tracks": 585,
+    "raw_failure_count": 3,
+    "inherited_native_grid_turn_diagnostics": [
+      {
+        "kind": "routing_turn",
+        "net": "DC24",
+        "layer": 2,
+        "at": [
+          8.9321234,
+          30.6964385
+        ],
+        "turn_deg": 45.00124218492175,
+        "ideal_turn_deg": 45.0,
+        "unchanged_source_track_records": true,
+        "vectors": [
+          {
+            "ideal_angle_rad": 0.7853981633974483,
+            "transverse_grid_error_mm": 1.7960512246062432e-06
+          },
+          {
+            "ideal_angle_rad": -1.5707963267948966,
+            "transverse_grid_error_mm": 2.060048075495102e-16
+          }
+        ],
+        "maximum_allowed_transverse_grid_error_mm": 3.5921024484276613e-06
+      },
+      {
+        "kind": "routing_turn",
+        "net": "DC09",
+        "layer": 2,
+        "at": [
+          8.6150171,
+          46.8307014
+        ],
+        "turn_deg": 45.00124218492002,
+        "ideal_turn_deg": 45.0,
+        "unchanged_source_track_records": true,
+        "vectors": [
+          {
+            "ideal_angle_rad": 1.5707963267948966,
+            "transverse_grid_error_mm": 5.072771160125591e-18
+          },
+          {
+            "ideal_angle_rad": -2.356194490192345,
+            "transverse_grid_error_mm": 1.7960512221013025e-06
+          }
+        ],
+        "maximum_allowed_transverse_grid_error_mm": 3.5921024484276613e-06
+      },
+      {
+        "kind": "routing_turn",
+        "net": "DC02",
+        "layer": 4,
+        "at": [
+          12.7499999,
+          56.7099983
+        ],
+        "turn_deg": 45.004851052357,
+        "ideal_turn_deg": 45.0,
+        "unchanged_source_track_records": true,
+        "vectors": [
+          {
+            "ideal_angle_rad": 1.5707963267948966,
+            "transverse_grid_error_mm": 7.41791687575117e-17
+          },
+          {
+            "ideal_angle_rad": -0.7853981633974483,
+            "transverse_grid_error_mm": 1.7960512246027738e-06
+          }
+        ],
+        "maximum_allowed_transverse_grid_error_mm": 3.5921024484276613e-06
+      }
+    ]
+  },
+  "RF_topology_audit": {
+    "passed": true,
+    "topology_passed": true,
+    "quality_review_required": false,
+    "failures": [],
+    "quality_flags": [],
+    "grid_staircases": [],
+    "net_reports": [
+      {
+        "net": "MW02",
+        "terminals": [
+          "C34-2",
+          "Q1-2",
+          "R34-1"
+        ],
+        "inline_terminal": "R34-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-2": 1,
+          "C34-2": 1,
+          "R34-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 5,
+        "arc_count": 1,
+        "minimum_radius_mm": 0.25,
+        "minimum_track_length_mm": 0.0035626700000079836,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW05",
+        "terminals": [
+          "C35-2",
+          "Q1-5",
+          "R35-1"
+        ],
+        "inline_terminal": "R35-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-5": 1,
+          "C35-2": 1,
+          "R35-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 8,
+        "arc_count": 4,
+        "minimum_radius_mm": 0.19554317842660143,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW09",
+        "terminals": [
+          "C09-2",
+          "Q1-9",
+          "R09-1"
+        ],
+        "inline_terminal": "R09-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-9": 1,
+          "C09-2": 1,
+          "R09-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 6,
+        "arc_count": 2,
+        "minimum_radius_mm": 0.0674155038927102,
+        "minimum_track_length_mm": 0.003562669999999102,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW11",
+        "terminals": [
+          "C05-2",
+          "Q1-11",
+          "R05-1"
+        ],
+        "inline_terminal": "R05-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-11": 1,
+          "C05-2": 1,
+          "R05-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 10,
+        "arc_count": 6,
+        "minimum_radius_mm": 0.23888179865309514,
+        "minimum_track_length_mm": 0.0035626700000079836,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW12",
+        "terminals": [
+          "C02-2",
+          "Q1-12",
+          "R02-1"
+        ],
+        "inline_terminal": "R02-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-12": 1,
+          "C02-2": 1,
+          "R02-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 10,
+        "arc_count": 6,
+        "minimum_radius_mm": 0.20314467220056628,
+        "minimum_track_length_mm": 0.0035626700000079836,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW13",
+        "terminals": [
+          "C11-2",
+          "Q1-13",
+          "R11-1"
+        ],
+        "inline_terminal": "R11-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-13": 1,
+          "C11-2": 1,
+          "R11-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 7,
+        "arc_count": 3,
+        "minimum_radius_mm": 0.25,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW15",
+        "terminals": [
+          "C12-2",
+          "Q1-15",
+          "R12-1"
+        ],
+        "inline_terminal": "R12-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-15": 1,
+          "C12-2": 1,
+          "R12-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 4,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.003562669999999102,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW16",
+        "terminals": [
+          "C15-2",
+          "Q1-16",
+          "R15-1"
+        ],
+        "inline_terminal": "R15-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-16": 1,
+          "C15-2": 1,
+          "R15-1": 2
+        },
+        "resistor_centreline_distance_mm": 2.999999937358666e-08,
+        "track_count": 15,
+        "arc_count": 11,
+        "minimum_radius_mm": 0.10863961030678843,
+        "minimum_track_length_mm": 4.299999991630443e-07,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW21",
+        "terminals": [
+          "C13-2",
+          "Q1-21",
+          "R13-1"
+        ],
+        "inline_terminal": "R13-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-21": 1,
+          "C13-2": 1,
+          "R13-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 7,
+        "arc_count": 3,
+        "minimum_radius_mm": 0.25,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW24",
+        "terminals": [
+          "C16-2",
+          "Q1-24",
+          "R16-1"
+        ],
+        "inline_terminal": "R16-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-24": 1,
+          "C16-2": 1,
+          "R16-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 7,
+        "arc_count": 3,
+        "minimum_radius_mm": 0.20320666951527155,
+        "minimum_track_length_mm": 0.0035626699999973255,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW28",
+        "terminals": [
+          "C28-2",
+          "Q1-28",
+          "R28-1"
+        ],
+        "inline_terminal": "R28-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-28": 1,
+          "C28-2": 1,
+          "R28-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 6,
+        "arc_count": 2,
+        "minimum_radius_mm": 0.009918014454921648,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW30",
+        "terminals": [
+          "C24-2",
+          "Q1-30",
+          "R24-1"
+        ],
+        "inline_terminal": "R24-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-30": 1,
+          "C24-2": 1,
+          "R24-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 9,
+        "arc_count": 5,
+        "minimum_radius_mm": 0.25,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW31",
+        "terminals": [
+          "C21-2",
+          "Q1-31",
+          "R21-1"
+        ],
+        "inline_terminal": "R21-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-31": 1,
+          "C21-2": 1,
+          "R21-1": 2
+        },
+        "resistor_centreline_distance_mm": 2.999999892949745e-08,
+        "track_count": 11,
+        "arc_count": 7,
+        "minimum_radius_mm": 0.05591109560162756,
+        "minimum_track_length_mm": 4.3000000005122274e-07,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW32",
+        "terminals": [
+          "C30-2",
+          "Q1-32",
+          "R30-1"
+        ],
+        "inline_terminal": "R30-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-32": 1,
+          "C30-2": 1,
+          "R30-1": 2
+        },
+        "resistor_centreline_distance_mm": 5.329070518200751e-15,
+        "track_count": 7,
+        "arc_count": 3,
+        "minimum_radius_mm": 0.18,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW34",
+        "terminals": [
+          "C31-2",
+          "Q1-34",
+          "R31-1"
+        ],
+        "inline_terminal": "R31-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-34": 1,
+          "C31-2": 1,
+          "R31-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 5,
+        "arc_count": 1,
+        "minimum_radius_mm": 0.25,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "MW35",
+        "terminals": [
+          "C32-2",
+          "Q1-35",
+          "R32-1"
+        ],
+        "inline_terminal": "R32-1",
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "Q1-35": 1,
+          "C32-2": 1,
+          "R32-1": 2
+        },
+        "resistor_centreline_distance_mm": 0.0,
+        "track_count": 8,
+        "arc_count": 4,
+        "minimum_radius_mm": 0.21613134188193805,
+        "minimum_track_length_mm": 0.0035626700000079836,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S02",
+        "terminals": [
+          "C02-1",
+          "SMP02-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP02-1": 1,
+          "C02-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S05",
+        "terminals": [
+          "C05-1",
+          "SMP05-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP05-1": 1,
+          "C05-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S09",
+        "terminals": [
+          "C09-1",
+          "SMP09-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP09-1": 1,
+          "C09-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.00356266999999999,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S11",
+        "terminals": [
+          "C11-1",
+          "SMP11-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP11-1": 1,
+          "C11-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 3,
+        "arc_count": 1,
+        "minimum_radius_mm": 0.18,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S12",
+        "terminals": [
+          "C12-1",
+          "SMP12-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP12-1": 1,
+          "C12-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.00356266999999999,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S13",
+        "terminals": [
+          "C13-1",
+          "SMP13-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP13-1": 1,
+          "C13-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S15",
+        "terminals": [
+          "C15-1",
+          "SMP15-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP15-1": 1,
+          "C15-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S16",
+        "terminals": [
+          "C16-1",
+          "SMP16-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP16-1": 1,
+          "C16-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.0035626699999973255,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S21",
+        "terminals": [
+          "C21-1",
+          "SMP21-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP21-1": 1,
+          "C21-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S24",
+        "terminals": [
+          "C24-1",
+          "SMP24-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP24-1": 1,
+          "C24-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S28",
+        "terminals": [
+          "C28-1",
+          "SMP28-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP28-1": 1,
+          "C28-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S30",
+        "terminals": [
+          "C30-1",
+          "SMP30-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP30-1": 1,
+          "C30-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.0035626700000079836,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S31",
+        "terminals": [
+          "C31-1",
+          "SMP31-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP31-1": 1,
+          "C31-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S32",
+        "terminals": [
+          "C32-1",
+          "SMP32-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP32-1": 1,
+          "C32-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S34",
+        "terminals": [
+          "C34-1",
+          "SMP34-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP34-1": 1,
+          "C34-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      },
+      {
+        "net": "S35",
+        "terminals": [
+          "C35-1",
+          "SMP35-1"
+        ],
+        "inline_terminal": null,
+        "chain_connected": true,
+        "chain_acyclic": true,
+        "terminal_degrees": {
+          "SMP35-1": 1,
+          "C35-1": 1
+        },
+        "resistor_centreline_distance_mm": null,
+        "track_count": 2,
+        "arc_count": 0,
+        "minimum_radius_mm": null,
+        "minimum_track_length_mm": 0.003562670000000878,
+        "short_tracks": [],
+        "sub_width_arcs": [],
+        "alternating_short_bend_pairs": []
+      }
+    ],
+    "RF_QD_terminals": 16,
+    "RF_net_count": 32,
+    "arc_count": 62,
+    "minimum_RF_arc_radius_mm": 0.009918014454921648,
+    "minimum_RF_straight_length_mm": 4.299999991630443e-07,
+    "minimum_RF_arc_radius_outside_pad_mm": 0.18,
+    "minimum_RF_straight_length_outside_pad_mm": 0.31955136670818973,
+    "resistor_hull_violations": [],
+    "tangent_join_errors": [],
+    "methodology": "Analytic endpoint tangents; independently noded RF centerlines with only intended terminal pads contracted. S nets must be SMP1-to-C1 paths. MW nets must be C2-to-QD paths through inline R1, explicitly reaching its center. All RF signal copper is Bottom-only, with no signal vias. Resistor two-pad convex hulls exclude foreign Bottom signals. Sub-width radii/segments are review flags; consecutive alternating sub-width arc-track-arc pairs are unresolved grid-staircase failures, not a claimed fabrication-radius rule."
+  },
+  "DC_bend_counts": [
+    {
+      "net": "DC16",
+      "bends": 4
+    },
+    {
+      "net": "DC24",
+      "bends": 6
+    },
+    {
+      "net": "DC30",
+      "bends": 4
+    },
+    {
+      "net": "DC15",
+      "bends": 4
+    },
+    {
+      "net": "DC22",
+      "bends": 7
+    },
+    {
+      "net": "DC19",
+      "bends": 14
+    },
+    {
+      "net": "DC13",
+      "bends": 8
+    },
+    {
+      "net": "DC14",
+      "bends": 14
+    },
+    {
+      "net": "DC26",
+      "bends": 12
+    },
+    {
+      "net": "DC27",
+      "bends": 14
+    },
+    {
+      "net": "DC10",
+      "bends": 14
+    },
+    {
+      "net": "DC32",
+      "bends": 12
+    },
+    {
+      "net": "DC06",
+      "bends": 10
+    },
+    {
+      "net": "DC33",
+      "bends": 10
+    },
+    {
+      "net": "DC37",
+      "bends": 15
+    },
+    {
+      "net": "DC38",
+      "bends": 7
+    },
+    {
+      "net": "DC09",
+      "bends": 8
+    },
+    {
+      "net": "DC34",
+      "bends": 15
+    },
+    {
+      "net": "DC11",
+      "bends": 6
+    },
+    {
+      "net": "DC31",
+      "bends": 5
+    },
+    {
+      "net": "DC21",
+      "bends": 7
+    },
+    {
+      "net": "DC28",
+      "bends": 5
+    },
+    {
+      "net": "DC18",
+      "bends": 6
+    },
+    {
+      "net": "DC20",
+      "bends": 6
+    },
+    {
+      "net": "DC17",
+      "bends": 6
+    },
+    {
+      "net": "DC23",
+      "bends": 5
+    },
+    {
+      "net": "DC25",
+      "bends": 11
+    },
+    {
+      "net": "DC29",
+      "bends": 14
+    },
+    {
+      "net": "DC08",
+      "bends": 12
+    },
+    {
+      "net": "DC07",
+      "bends": 13
+    },
+    {
+      "net": "DC01",
+      "bends": 6
+    },
+    {
+      "net": "DC03",
+      "bends": 16
+    },
+    {
+      "net": "DC04",
+      "bends": 12
+    },
+    {
+      "net": "DC36",
+      "bends": 12
+    },
+    {
+      "net": "DC35",
+      "bends": 7
+    },
+    {
+      "net": "DC05",
+      "bends": 11
+    },
+    {
+      "net": "DC12",
+      "bends": 6
+    },
+    {
+      "net": "DC02",
+      "bends": 7
+    }
+  ],
+  "total_DC_bends": 351,
+  "maximum_DC_bends": 16,
+  "scope": "Complete merged signal/endpoint proof including rounded native-grid geometry. Explicit GND regions, masks and shield regeneration are a separate subsequent audit."
+}

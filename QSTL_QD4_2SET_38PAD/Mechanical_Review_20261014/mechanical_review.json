@@ -1,0 +1,474 @@
+{
+  "status": "MECHANICAL_ENVELOPE_REVIEW_ONLY",
+  "native_pcb_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "pcb_size_mm": [
+    19.5,
+    67.9,
+    1.58839662
+  ],
+  "m2_registration": [
+    {
+      "pcb_xy_mm": [
+        2.42499896,
+        65.33999886
+      ],
+      "copper_xy_mm": [
+        2.4249995500000026,
+        65.33999922
+      ],
+      "axis_error_mm": 6.911584507823744e-07,
+      "pcb_clearance_diameter_mm": 2.10000088,
+      "reference_tap_drill_mm": 1.599999999999976,
+      "Top_ForFridge_counterbore_axis_error_mm": 6.91158467282514e-07,
+      "Top_ForFridge_counterbore_diameter_mm": 4.200000000000009
+    },
+    {
+      "pcb_xy_mm": [
+        17.07500014,
+        65.33999886
+      ],
+      "copper_xy_mm": [
+        17.07499955,
+        65.33999922
+      ],
+      "axis_error_mm": 6.911584477496384e-07,
+      "pcb_clearance_diameter_mm": 2.10000088,
+      "reference_tap_drill_mm": 1.599999999999974,
+      "Top_ForFridge_counterbore_axis_error_mm": 6.911584490860986e-07,
+      "Top_ForFridge_counterbore_diameter_mm": 4.200000000000009
+    },
+    {
+      "pcb_xy_mm": [
+        17.07500014,
+        13.189999019999998
+      ],
+      "copper_xy_mm": [
+        17.07499955,
+        13.18999922
+      ],
+      "axis_error_mm": 6.229767249648289e-07,
+      "pcb_clearance_diameter_mm": 2.10000088,
+      "reference_tap_drill_mm": 1.599999999999974,
+      "Top_ForFridge_counterbore_axis_error_mm": 6.229767193760818e-07,
+      "Top_ForFridge_counterbore_diameter_mm": 4.199999999999999
+    },
+    {
+      "pcb_xy_mm": [
+        2.42499896,
+        13.189999019999998
+      ],
+      "copper_xy_mm": [
+        2.4249995500000026,
+        13.18999922
+      ],
+      "axis_error_mm": 6.229767283294829e-07,
+      "pcb_clearance_diameter_mm": 2.10000088,
+      "reference_tap_drill_mm": 1.599999999999976,
+      "Top_ForFridge_counterbore_axis_error_mm": 6.229767395640052e-07,
+      "Top_ForFridge_counterbore_diameter_mm": 4.200000000000005
+    }
+  ],
+  "copper_bounds_pcb_frame": {
+    "Bottom_SMP_Side_Copper": [
+      -0.1358249913515026,
+      9.674998525351002,
+      0.5883966199999968,
+      19.47574114097469,
+      75.43999922,
+      6.58839662
+    ],
+    "Top_ForFridge_QD_Side_Copper": [
+      -0.6053561623883574,
+      9.630670617557072,
+      -10.600000000000005,
+      19.827101238563984,
+      79.43999922,
+      2.983720952780491
+    ]
+  },
+  "inverse_carrier_transform": {
+    "ry_deg": 180,
+    "translation_mm": [
+      26.07499955,
+      -4.760000779999999,
+      3.58839662
+    ]
+  },
+  "QD_side_skirt_inner_X_mm": [
+    -0.172824474366589,
+    19.43889126055651
+  ],
+  "skirt_clear_width_mm": 19.6117157349231,
+  "fixed_M2_left_margin_mm": 0.172824474366589,
+  "fixed_M2_right_margin_mm": -0.06110873944349038,
+  "SMP_side_end_lip_Y_mm": 68.03999922,
+  "current_positive_Y_margin_mm": 0.13999921999999287,
+  "rectangular_substrate_overlap_tests": [
+    {
+      "name": "W19p5",
+      "board_bounds_xy_mm": [
+        0,
+        0,
+        19.5,
+        67.9
+      ],
+      "overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 0.2756719930621691,
+        "Top_ForFridge_QD_Side_Copper": 5.655907514297698
+      },
+      "incremental_overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 0.0,
+        "Top_ForFridge_QD_Side_Copper": 0.0
+      }
+    },
+    {
+      "name": "W20",
+      "board_bounds_xy_mm": [
+        -0.25,
+        0,
+        19.75,
+        67.9
+      ],
+      "overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 0.3615079209376739,
+        "Top_ForFridge_QD_Side_Copper": 35.93757476478231
+      },
+      "incremental_overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 0.08583592787550481,
+        "Top_ForFridge_QD_Side_Copper": 30.281667250484613
+      }
+    },
+    {
+      "name": "W21",
+      "board_bounds_xy_mm": [
+        -0.75,
+        0,
+        20.25,
+        67.9
+      ],
+      "overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 0.36150792093767525,
+        "Top_ForFridge_QD_Side_Copper": 75.96358555143857
+      },
+      "incremental_overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 0.08583592787550615,
+        "Top_ForFridge_QD_Side_Copper": 70.30767803714087
+      }
+    },
+    {
+      "name": "W22",
+      "board_bounds_xy_mm": [
+        -1.25,
+        0,
+        20.75,
+        67.9
+      ],
+      "overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 0.3615079209376742,
+        "Top_ForFridge_QD_Side_Copper": 75.96358555143857
+      },
+      "incremental_overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 0.08583592787550509,
+        "Top_ForFridge_QD_Side_Copper": 70.30767803714087
+      }
+    },
+    {
+      "name": "L68p0",
+      "board_bounds_xy_mm": [
+        0,
+        0,
+        19.5,
+        68
+      ],
+      "overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 0.2761045310658042,
+        "Top_ForFridge_QD_Side_Copper": 5.665614005816147
+      },
+      "incremental_overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 0.00043253800363507455,
+        "Top_ForFridge_QD_Side_Copper": 0.00970649151844949
+      }
+    },
+    {
+      "name": "L68p1",
+      "board_bounds_xy_mm": [
+        0,
+        0,
+        19.5,
+        68.1
+      ],
+      "overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 1.4448372024302116,
+        "Top_ForFridge_QD_Side_Copper": 5.675320497334596
+      },
+      "incremental_overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 1.1691652093680425,
+        "Top_ForFridge_QD_Side_Copper": 0.01941298303689809
+      }
+    },
+    {
+      "name": "L70",
+      "board_bounds_xy_mm": [
+        0,
+        0,
+        19.5,
+        70
+      ],
+      "overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 38.448745370282275,
+        "Top_ForFridge_QD_Side_Copper": 5.859743836185149
+      },
+      "incremental_overlap_mm3": {
+        "Bottom_SMP_Side_Copper": 38.173073377220106,
+        "Top_ForFridge_QD_Side_Copper": 0.20383632188745082
+      }
+    }
+  ],
+  "baseline_substrate_only_overlap_mm3": {
+    "Bottom_SMP_Side_Copper": 0.2756719930621691,
+    "Top_ForFridge_QD_Side_Copper": 5.655907514297698
+  },
+  "outputs": {
+    "Saved_7Rows": {
+      "step": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Mechanical_Review_20261014\\Saved_7Rows_Copper_M2_Review.step",
+      "sha256": "e98aca40d7707c991167bac0c2029854c98966e5fdb2d5a202e9ca5ce826c0a3",
+      "smp_centres": [
+        {
+          "name": "SMP35",
+          "x": 9.750000819999999,
+          "y": 60.50000092
+        },
+        {
+          "name": "SMP34",
+          "x": 15.74999898,
+          "y": 60.50000092
+        },
+        {
+          "name": "SMP32",
+          "x": 15.74999898,
+          "y": 54.50000022
+        },
+        {
+          "name": "SMP31",
+          "x": 15.74999898,
+          "y": 48.499999519999996
+        },
+        {
+          "name": "SMP30",
+          "x": 15.74999898,
+          "y": 42.499998819999995
+        },
+        {
+          "name": "SMP28",
+          "x": 15.74999898,
+          "y": 36.50000066
+        },
+        {
+          "name": "SMP24",
+          "x": 15.74999898,
+          "y": 30.499999959999997
+        },
+        {
+          "name": "SMP21",
+          "x": 15.74999898,
+          "y": 24.49999926
+        },
+        {
+          "name": "SMP16",
+          "x": 9.750000819999999,
+          "y": 24.49999926
+        },
+        {
+          "name": "SMP15",
+          "x": 3.7500001199999997,
+          "y": 24.49999926
+        },
+        {
+          "name": "SMP13",
+          "x": 3.7500001199999997,
+          "y": 30.499999959999997
+        },
+        {
+          "name": "SMP12",
+          "x": 3.7500001199999997,
+          "y": 36.50000066
+        },
+        {
+          "name": "SMP11",
+          "x": 3.7500001199999997,
+          "y": 42.499998819999995
+        },
+        {
+          "name": "SMP09",
+          "x": 3.7500001199999997,
+          "y": 48.499999519999996
+        },
+        {
+          "name": "SMP05",
+          "x": 3.7500001199999997,
+          "y": 54.50000022
+        },
+        {
+          "name": "SMP02",
+          "x": 3.7500001199999997,
+          "y": 60.50000092
+        }
+      ],
+      "valid": true,
+      "solids": 19,
+      "bounds_mm": [
+        -0.605356162388,
+        0.0,
+        -10.6,
+        19.827101238564,
+        79.43999922,
+        6.988395617874639
+      ],
+      "volume_delta_mm3": -3.1104718800634146e-10
+    },
+    "Relocation_Horizontal_End_Pairs": {
+      "step": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Mechanical_Review_20261014\\Relocation_Horizontal_End_Pairs_Copper_M2_Review.step",
+      "sha256": "f6ed501ac2f4ccb4f57470bb843ac1fb94b2efe55c34531343f5082adb1b7dd1",
+      "smp_centres": [
+        {
+          "name": "P1L",
+          "x": 6.875,
+          "y": 62.75,
+          "kind": "upper_inboard_end"
+        },
+        {
+          "name": "P1R",
+          "x": 12.625,
+          "y": 62.75,
+          "kind": "upper_inboard_end"
+        },
+        {
+          "name": "P2L",
+          "x": 2.75,
+          "y": 58.7,
+          "kind": "upper_outer_side"
+        },
+        {
+          "name": "P2R",
+          "x": 16.75,
+          "y": 58.7,
+          "kind": "upper_outer_side"
+        },
+        {
+          "name": "P3L",
+          "x": 2.75,
+          "y": 52.95,
+          "kind": "upper_outer_side"
+        },
+        {
+          "name": "P3R",
+          "x": 16.75,
+          "y": 52.95,
+          "kind": "upper_outer_side"
+        },
+        {
+          "name": "P4L",
+          "x": 2.75,
+          "y": 47.2,
+          "kind": "upper_outer_side"
+        },
+        {
+          "name": "P4R",
+          "x": 16.75,
+          "y": 47.2,
+          "kind": "upper_outer_side"
+        },
+        {
+          "name": "P5L",
+          "x": 2.75,
+          "y": 37.8,
+          "kind": "lower_outer_side"
+        },
+        {
+          "name": "P5R",
+          "x": 16.75,
+          "y": 37.8,
+          "kind": "lower_outer_side"
+        },
+        {
+          "name": "P6L",
+          "x": 2.75,
+          "y": 32.05,
+          "kind": "lower_outer_side"
+        },
+        {
+          "name": "P6R",
+          "x": 16.75,
+          "y": 32.05,
+          "kind": "lower_outer_side"
+        },
+        {
+          "name": "P7L",
+          "x": 2.75,
+          "y": 26.3,
+          "kind": "lower_outer_side"
+        },
+        {
+          "name": "P7R",
+          "x": 16.75,
+          "y": 26.3,
+          "kind": "lower_outer_side"
+        },
+        {
+          "name": "P8L",
+          "x": 6.875,
+          "y": 22.25,
+          "kind": "lower_inboard_end"
+        },
+        {
+          "name": "P8R",
+          "x": 12.625,
+          "y": 22.25,
+          "kind": "lower_inboard_end"
+        }
+      ],
+      "valid": true,
+      "solids": 19,
+      "bounds_mm": [
+        -0.605356162388,
+        0.0,
+        -10.6,
+        19.827101238564,
+        79.43999922,
+        6.988395617874639
+      ],
+      "volume_delta_mm3": -3.2378011383116245e-10
+    }
+  },
+  "source_hashes": {
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.SchDoc": "e6d83b6a6b7d74bc14fc5d10041c3d76ee38e315133cc71012b8034f834e6249",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\SMP-FS-SBPCT.stp": "6dd3fca243805c40138f2b45ad941a67630ec6ed3857a10355aaa39ddc9575fc",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Bottom_reference.step": "0dc1b20126b0254abd1981e1c2ab64a208465c6e5edf04fdac03b60bd79d4e51",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Top_ForFridge_reference.step": "d32615e2d8bd89f56e25760c5204285faf08581fc8cfbdb68554d739ab81103e"
+  },
+  "latest_relocation_source": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\rf_redline_review_20261011\\corrected_endpair_measurements.json",
+  "latest_relocation_source_sha256": "8741effa3622583f45acaf261634f4d22b7673e54bc608eac4fa867c71108bb3",
+  "limitations": [
+    "SMP-to-legacy-copper-hole mismatches intentionally ignored as instructed.",
+    "SMP poses use exact embedded source STEP; no mating plugs or screw heads are included.",
+    "R0603/C1206 placement and routing are not rendered or validated in this outline review.",
+    "The relocation is the corrected horizontal inward end-pair candidate, not the rejected 3/3/2 rows.",
+    "Existing side-wall and nominal-seat overlap is retained; outer copper width is not usable PCB width.",
+    "The ZIF-end negative-Y expansion is not bounded by these two copper parts alone; rod/cable/adapter limits are absent.",
+    "No native PCB, source copper, Gerber or fabrication package is modified."
+  ],
+  "source_files_unchanged": true,
+  "both_copper_M2_axes_verified": true,
+  "dimension_planes_verified_from_actual_STEP": true,
+  "images": {
+    "SMP16_Copper_M2_Assembly.png": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Mechanical_Review_20261014\\SMP16_Copper_M2_Assembly.png",
+      "sha256": "17d813d33855070e05053d4c9539f8cd161102ed5e019913564fd808321a7b85"
+    },
+    "PCB_Copper_Growth_Envelope.png": {
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Mechanical_Review_20261014\\PCB_Copper_Growth_Envelope.png",
+      "sha256": "09fe34d3120ec397acadc953c1ae600b9bcee8352e9ad7b4cb9ab0496680d516"
+    }
+  }
+}

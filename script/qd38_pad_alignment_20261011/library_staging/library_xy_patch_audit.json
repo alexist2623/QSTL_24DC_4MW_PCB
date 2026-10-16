@@ -1,0 +1,1179 @@
+{
+  "passed": true,
+  "source_library": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\before_alignment\\QD4_2SET_38.PcbLib",
+  "source_library_sha256": "21948bf605c8762cbc141ac7bd40f55f10d5df138c5afeb757d2092a5f776e0b",
+  "proposal": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\aligned_qd_vias_land_0p35_candidate.json",
+  "proposal_sha256": "89829a12e11b6dc548c045df0735d62824996275f4f32d5fe4379d4804b3273c",
+  "staged_library": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\library_staging\\QD4_2SET_38.PcbLib",
+  "staged_library_sha256": "ec4b54190f8ca7402dc81cc066efe8c18dcc453841cc93d68eaa695fe161746f",
+  "native_baseline_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "native_Q1_origin_coord": [
+    3838583,
+    16732283
+  ],
+  "native_grid_mm": 2.54e-06,
+  "changed_pad_count": 28,
+  "changed_data_bytes": 83,
+  "only_pad_XY_fields_changed": true,
+  "all_other_records_and_streams_byte_identical": true,
+  "source_unchanged": true,
+  "project_library_not_promoted": true,
+  "preserved_stream_sha256": {
+    "FileHeader": "b56fba6615e09b53c13015e767c8dac4c1e4134ef736b8bd9029b60a68e470fa",
+    "FileVersionInfo/Data": "d0356340e2b5d92f0ffb5cb41bfdb3a1bed721932acf6397c38396c39ea798f6",
+    "FileVersionInfo/Header": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+    "Library/ComponentParamsTOC/Data": "33653122a352369fc9dd3f17e15dbe7c669d5b792c9fff593ee2e35f1dabf38f",
+    "Library/ComponentParamsTOC/Header": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+    "Library/Data": "706411338e8a07b59e8d05a5b0f88a2932dbcd01a7d0f3221e98e1c3fd498dbb",
+    "Library/Header": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+    "QD4_2SET_38/Header": "01ae8bca3feddc447c36822c041be588ef20ca9ff84c4ae180a0776f744427e2",
+    "QD4_2SET_38/Parameters": "468942ceb2559ccca6916f24aff9433d41303822270d0e8903a4bdd2e43bc084",
+    "QD4_2SET_38/PrimitiveGuids/Data": "35e7fa8fab9dc6936daaa56c0d85b49a54b5b1048c987af94b2019f8a7d09da2",
+    "QD4_2SET_38/PrimitiveGuids/Header": "977d1a863cf97921a76b1f8414af65c7463cdab40d64c174cead35ad54c4ddb3"
+  },
+  "changes": [
+    {
+      "pin": "1",
+      "before_xy_coord": [
+        -1329554,
+        93045
+      ],
+      "after_xy_coord": [
+        -1282322,
+        90055
+      ],
+      "planned_absolute_mm": [
+        9.52125988183612,
+        45.75709683102886
+      ],
+      "quantized_absolute_coord": [
+        3748528,
+        18014605
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 356.3785201796347
+    },
+    {
+      "pin": "2",
+      "before_xy_coord": [
+        -1298983,
+        271801
+      ],
+      "after_xy_coord": [
+        -1285912,
+        269342
+      ],
+      "planned_absolute_mm": [
+        9.065871595332803,
+        45.766215066489345
+      ],
+      "quantized_absolute_coord": [
+        3569241,
+        18018195
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 349.34513099867735
+    },
+    {
+      "pin": "3",
+      "before_xy_coord": [
+        -1303037,
+        456939
+      ],
+      "after_xy_coord": [
+        -1287037,
+        451874
+      ],
+      "planned_absolute_mm": [
+        8.602240787240598,
+        45.76907348117042
+      ],
+      "quantized_absolute_coord": [
+        3386709,
+        18019320
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 342.4334049120164
+    },
+    {
+      "pin": "4",
+      "before_xy_coord": [
+        -1330655,
+        660187
+      ],
+      "after_xy_coord": [
+        -1285815,
+        639909
+      ],
+      "planned_absolute_mm": [
+        8.12463306317721,
+        45.76597011109112
+      ],
+      "quantized_absolute_coord": [
+        3198674,
+        18018098
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 335.665609808527
+    },
+    {
+      "pin": "5",
+      "before_xy_coord": [
+        -1282469,
+        834874
+      ],
+      "after_xy_coord": [
+        -1282469,
+        834875
+      ],
+      "planned_absolute_mm": [
+        7.629418863925071,
+        45.75747084449096
+      ],
+      "quantized_absolute_coord": [
+        3003708,
+        18014752
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 329.1305182618297
+    },
+    {
+      "pin": "6",
+      "before_xy_coord": [
+        -1277185,
+        1069851
+      ],
+      "after_xy_coord": [
+        -1277185,
+        1069852
+      ],
+      "planned_absolute_mm": [
+        7.032577241876945,
+        45.744048689097035
+      ],
+      "quantized_absolute_coord": [
+        2768731,
+        18009468
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 322.74443239462204
+    },
+    {
+      "pin": "7",
+      "before_xy_coord": [
+        -742438,
+        1083990
+      ],
+      "after_xy_coord": [
+        -742438,
+        1083990
+      ],
+      "planned_absolute_mm": [
+        6.996665855502502,
+        44.385792355693695
+      ],
+      "quantized_absolute_coord": [
+        2754593,
+        17474721
+      ],
+      "changed": false,
+      "rotation_preserved_deg": 303.10810283006424
+    },
+    {
+      "pin": "8",
+      "before_xy_coord": [
+        -532521,
+        1088730
+      ],
+      "after_xy_coord": [
+        -532521,
+        1088730
+      ],
+      "planned_absolute_mm": [
+        6.9846255135088535,
+        43.85260270177432
+      ],
+      "quantized_absolute_coord": [
+        2749853,
+        17264804
+      ],
+      "changed": false,
+      "rotation_preserved_deg": 294.975207089214
+    },
+    {
+      "pin": "9",
+      "before_xy_coord": [
+        -319898,
+        1090111
+      ],
+      "after_xy_coord": [
+        -319899,
+        1090112
+      ],
+      "planned_absolute_mm": [
+        6.98111687218467,
+        43.312542176048765
+      ],
+      "quantized_absolute_coord": [
+        2748471,
+        17052182
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 285.61400765764694
+    },
+    {
+      "pin": "10",
+      "before_xy_coord": [
+        -106302,
+        1086563
+      ],
+      "after_xy_coord": [
+        -106303,
+        1086563
+      ],
+      "planned_absolute_mm": [
+        6.990130075574421,
+        42.77000775631964
+      ],
+      "quantized_absolute_coord": [
+        2752020,
+        16838586
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 275.32209685946816
+    },
+    {
+      "pin": "11",
+      "before_xy_coord": [
+        106302,
+        1086563
+      ],
+      "after_xy_coord": [
+        106302,
+        1086563
+      ],
+      "planned_absolute_mm": [
+        6.990130075574421,
+        42.22999224368036
+      ],
+      "quantized_absolute_coord": [
+        2752020,
+        16625981
+      ],
+      "changed": false,
+      "rotation_preserved_deg": 264.6779031405318
+    },
+    {
+      "pin": "12",
+      "before_xy_coord": [
+        319898,
+        1090111
+      ],
+      "after_xy_coord": [
+        319898,
+        1090112
+      ],
+      "planned_absolute_mm": [
+        6.98111687218467,
+        41.687457823951235
+      ],
+      "quantized_absolute_coord": [
+        2748471,
+        16412385
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 254.38599234235306
+    },
+    {
+      "pin": "13",
+      "before_xy_coord": [
+        532521,
+        1088730
+      ],
+      "after_xy_coord": [
+        532520,
+        1088730
+      ],
+      "planned_absolute_mm": [
+        6.9846255135088535,
+        41.14739729822568
+      ],
+      "quantized_absolute_coord": [
+        2749853,
+        16199763
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 245.024792910786
+    },
+    {
+      "pin": "14",
+      "before_xy_coord": [
+        742438,
+        1083990
+      ],
+      "after_xy_coord": [
+        742437,
+        1083990
+      ],
+      "planned_absolute_mm": [
+        6.996665855502502,
+        40.614207644306305
+      ],
+      "quantized_absolute_coord": [
+        2754593,
+        15989846
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 236.8918971699358
+    },
+    {
+      "pin": "15",
+      "before_xy_coord": [
+        1277185,
+        1069851
+      ],
+      "after_xy_coord": [
+        1277184,
+        1069852
+      ],
+      "planned_absolute_mm": [
+        7.032577241876945,
+        39.255951310902965
+      ],
+      "quantized_absolute_coord": [
+        2768731,
+        15455099
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 217.25556760537796
+    },
+    {
+      "pin": "16",
+      "before_xy_coord": [
+        1284372,
+        737017
+      ],
+      "after_xy_coord": [
+        1284372,
+        737017
+      ],
+      "planned_absolute_mm": [
+        7.877978008548642,
+        39.23769467872736
+      ],
+      "quantized_absolute_coord": [
+        3101566,
+        15447911
+      ],
+      "changed": false,
+      "rotation_preserved_deg": 207.66750747110078
+    },
+    {
+      "pin": "17",
+      "before_xy_coord": [
+        1360205,
+        574032
+      ],
+      "after_xy_coord": [
+        1286701,
+        545798
+      ],
+      "planned_absolute_mm": [
+        8.363674839057262,
+        39.231778039950164
+      ],
+      "quantized_absolute_coord": [
+        3292785,
+        15445582
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 201.01331462844874
+    },
+    {
+      "pin": "18",
+      "before_xy_coord": [
+        1360328,
+        378812
+      ],
+      "after_xy_coord": [
+        1286778,
+        360283
+      ],
+      "planned_absolute_mm": [
+        8.834881997713563,
+        39.231582589771946
+      ],
+      "quantized_absolute_coord": [
+        3478300,
+        15445505
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 194.14054249754975
+    },
+    {
+      "pin": "19",
+      "before_xy_coord": [
+        1334877,
+        185494
+      ],
+      "after_xy_coord": [
+        1284421,
+        179177
+      ],
+      "planned_absolute_mm": [
+        9.29489130145988,
+        39.23757017760549
+      ],
+      "quantized_absolute_coord": [
+        3659406,
+        15447862
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 187.13605466113648
+    },
+    {
+      "pin": "20",
+      "before_xy_coord": [
+        1358268,
+        0
+      ],
+      "after_xy_coord": [
+        1279527,
+        0
+      ],
+      "planned_absolute_mm": [
+        9.75,
+        39.25
+      ],
+      "quantized_absolute_coord": [
+        3838583,
+        15452756
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 180.0
+    },
+    {
+      "pin": "21",
+      "before_xy_coord": [
+        1295812,
+        -180603
+      ],
+      "after_xy_coord": [
+        1284421,
+        -179176
+      ],
+      "planned_absolute_mm": [
+        10.20510869854012,
+        39.23757017760549
+      ],
+      "quantized_absolute_coord": [
+        4017759,
+        15447862
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 172.86394533886352
+    },
+    {
+      "pin": "22",
+      "before_xy_coord": [
+        1293518,
+        -361980
+      ],
+      "after_xy_coord": [
+        1286778,
+        -360282
+      ],
+      "planned_absolute_mm": [
+        10.665118002286437,
+        39.231582589771946
+      ],
+      "quantized_absolute_coord": [
+        4198865,
+        15445505
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 165.85945750245025
+    },
+    {
+      "pin": "23",
+      "before_xy_coord": [
+        1332641,
+        -563444
+      ],
+      "after_xy_coord": [
+        1286701,
+        -545797
+      ],
+      "planned_absolute_mm": [
+        11.136325160942738,
+        39.231778039950164
+      ],
+      "quantized_absolute_coord": [
+        4384380,
+        15445582
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 158.9866853715513
+    },
+    {
+      "pin": "24",
+      "before_xy_coord": [
+        1284372,
+        -737017
+      ],
+      "after_xy_coord": [
+        1284372,
+        -737016
+      ],
+      "planned_absolute_mm": [
+        11.622021991451359,
+        39.23769467872736
+      ],
+      "quantized_absolute_coord": [
+        4575599,
+        15447911
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 152.33249252889925
+    },
+    {
+      "pin": "25",
+      "before_xy_coord": [
+        1277185,
+        -1069851
+      ],
+      "after_xy_coord": [
+        1277184,
+        -1069851
+      ],
+      "planned_absolute_mm": [
+        12.467422758123055,
+        39.255951310902965
+      ],
+      "quantized_absolute_coord": [
+        4908434,
+        15455099
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 142.74443239462204
+    },
+    {
+      "pin": "26",
+      "before_xy_coord": [
+        716374,
+        -1084708
+      ],
+      "after_xy_coord": [
+        716373,
+        -1084708
+      ],
+      "planned_absolute_mm": [
+        12.50515819285184,
+        40.6804104018662
+      ],
+      "quantized_absolute_coord": [
+        4923291,
+        16015910
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 122.16185755245147
+    },
+    {
+      "pin": "27",
+      "before_xy_coord": [
+        479574,
+        -1089458
+      ],
+      "after_xy_coord": [
+        479573,
+        -1089458
+      ],
+      "planned_absolute_mm": [
+        12.517223678601063,
+        41.281882381782765
+      ],
+      "quantized_absolute_coord": [
+        4928041,
+        16252710
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 112.74357048907274
+    },
+    {
+      "pin": "28",
+      "before_xy_coord": [
+        239780,
+        -1089424
+      ],
+      "after_xy_coord": [
+        239779,
+        -1089423
+      ],
+      "planned_absolute_mm": [
+        12.517135704235606,
+        41.890959630444165
+      ],
+      "quantized_absolute_coord": [
+        4928006,
+        16492504
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 101.83790552531616
+    },
+    {
+      "pin": "29",
+      "before_xy_coord": [
+        0,
+        -1082677
+      ],
+      "after_xy_coord": [
+        0,
+        -1082677
+      ],
+      "planned_absolute_mm": [
+        12.5,
+        42.5
+      ],
+      "quantized_absolute_coord": [
+        4921260,
+        16732283
+      ],
+      "changed": false,
+      "rotation_preserved_deg": 90.0
+    },
+    {
+      "pin": "30",
+      "before_xy_coord": [
+        -239780,
+        -1089424
+      ],
+      "after_xy_coord": [
+        -239780,
+        -1089423
+      ],
+      "planned_absolute_mm": [
+        12.517135704235606,
+        43.109040369555835
+      ],
+      "quantized_absolute_coord": [
+        4928006,
+        16972063
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 78.16209447468384
+    },
+    {
+      "pin": "31",
+      "before_xy_coord": [
+        -479574,
+        -1089458
+      ],
+      "after_xy_coord": [
+        -479574,
+        -1089458
+      ],
+      "planned_absolute_mm": [
+        12.517223678601063,
+        43.718117618217235
+      ],
+      "quantized_absolute_coord": [
+        4928041,
+        17211857
+      ],
+      "changed": false,
+      "rotation_preserved_deg": 67.25642951092732
+    },
+    {
+      "pin": "32",
+      "before_xy_coord": [
+        -716374,
+        -1084708
+      ],
+      "after_xy_coord": [
+        -716374,
+        -1084708
+      ],
+      "planned_absolute_mm": [
+        12.50515819285184,
+        44.3195895981338
+      ],
+      "quantized_absolute_coord": [
+        4923291,
+        17448657
+      ],
+      "changed": false,
+      "rotation_preserved_deg": 57.838142447548535
+    },
+    {
+      "pin": "33",
+      "before_xy_coord": [
+        -1277185,
+        -1069851
+      ],
+      "after_xy_coord": [
+        -1277185,
+        -1069851
+      ],
+      "planned_absolute_mm": [
+        12.467422758123055,
+        45.744048689097035
+      ],
+      "quantized_absolute_coord": [
+        4908434,
+        18009468
+      ],
+      "changed": false,
+      "rotation_preserved_deg": 37.25556760537796
+    },
+    {
+      "pin": "34",
+      "before_xy_coord": [
+        -1282469,
+        -834874
+      ],
+      "after_xy_coord": [
+        -1282469,
+        -834874
+      ],
+      "planned_absolute_mm": [
+        11.870581136074929,
+        45.75747084449096
+      ],
+      "quantized_absolute_coord": [
+        4673457,
+        18014752
+      ],
+      "changed": false,
+      "rotation_preserved_deg": 30.86948173817035
+    },
+    {
+      "pin": "35",
+      "before_xy_coord": [
+        -1285815,
+        -639908
+      ],
+      "after_xy_coord": [
+        -1285815,
+        -639908
+      ],
+      "planned_absolute_mm": [
+        11.37536693682279,
+        45.76597011109112
+      ],
+      "quantized_absolute_coord": [
+        4478491,
+        18018098
+      ],
+      "changed": false,
+      "rotation_preserved_deg": 24.334390191473062
+    },
+    {
+      "pin": "36",
+      "before_xy_coord": [
+        -1340572,
+        -468822
+      ],
+      "after_xy_coord": [
+        -1287037,
+        -451873
+      ],
+      "planned_absolute_mm": [
+        10.897759212759405,
+        45.76907348117042
+      ],
+      "quantized_absolute_coord": [
+        4290456,
+        18019320
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 17.56659508798367
+    },
+    {
+      "pin": "37",
+      "before_xy_coord": [
+        -1347347,
+        -280900
+      ],
+      "after_xy_coord": [
+        -1285912,
+        -269342
+      ],
+      "planned_absolute_mm": [
+        10.434128404667197,
+        45.766215066489345
+      ],
+      "quantized_absolute_coord": [
+        4107925,
+        18018195
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 10.654869001322709
+    },
+    {
+      "pin": "38",
+      "before_xy_coord": [
+        -1378668,
+        -96153
+      ],
+      "after_xy_coord": [
+        -1282322,
+        -90055
+      ],
+      "planned_absolute_mm": [
+        9.97874011816388,
+        45.75709683102886
+      ],
+      "quantized_absolute_coord": [
+        3928638,
+        18014605
+      ],
+      "changed": true,
+      "rotation_preserved_deg": 3.62147982036538
+    }
+  ],
+  "inverse_transform_checks": [
+    {
+      "pin": "1",
+      "placed_mm": [
+        9.52126112,
+        45.7570967
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.2450776515541636e-06
+    },
+    {
+      "pin": "2",
+      "placed_mm": [
+        9.06587214,
+        45.7662153
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 5.926125047959899e-07
+    },
+    {
+      "pin": "3",
+      "placed_mm": [
+        8.60224086,
+        45.7690728
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 6.850453129833034e-07
+    },
+    {
+      "pin": "4",
+      "placed_mm": [
+        8.124631959999999,
+        45.76596892
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.623483299275991e-06
+    },
+    {
+      "pin": "5",
+      "placed_mm": [
+        7.629418319999999,
+        45.75747008
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 9.382435273045616e-07
+    },
+    {
+      "pin": "6",
+      "placed_mm": [
+        7.03257674,
+        45.744048719999995
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 5.028274666405117e-07
+    },
+    {
+      "pin": "7",
+      "placed_mm": [
+        6.99666622,
+        44.38579134
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.0791163580688943e-06
+    },
+    {
+      "pin": "8",
+      "placed_mm": [
+        6.984626619999999,
+        43.852602159999996
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.2320073363761927e-06
+    },
+    {
+      "pin": "9",
+      "placed_mm": [
+        6.98111634,
+        43.312542279999995
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 5.42241995569666e-07
+    },
+    {
+      "pin": "10",
+      "placed_mm": [
+        6.990130799999999,
+        42.77000844
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 9.960980103107834e-07
+    },
+    {
+      "pin": "11",
+      "placed_mm": [
+        6.990130799999999,
+        42.229991739999996
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 8.823187206542066e-07
+    },
+    {
+      "pin": "12",
+      "placed_mm": [
+        6.98111634,
+        41.6874579
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 5.375908649129197e-07
+    },
+    {
+      "pin": "13",
+      "placed_mm": [
+        6.984626619999999,
+        41.14739802
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.3210907710059951e-06
+    },
+    {
+      "pin": "14",
+      "placed_mm": [
+        6.99666622,
+        40.614208839999996
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.2500167319620633e-06
+    },
+    {
+      "pin": "15",
+      "placed_mm": [
+        7.03257674,
+        39.25595146
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 5.235555306021667e-07
+    },
+    {
+      "pin": "16",
+      "placed_mm": [
+        7.877977639999999,
+        39.23769394
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 8.255581217679774e-07
+    },
+    {
+      "pin": "17",
+      "placed_mm": [
+        8.3636739,
+        39.23177828
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 9.69253560946238e-07
+    },
+    {
+      "pin": "18",
+      "placed_mm": [
+        8.834881999999999,
+        39.2315827
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.1025176165271789e-07
+    },
+    {
+      "pin": "19",
+      "placed_mm": [
+        9.29489124,
+        39.23756948
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 7.003076047872495e-07
+    },
+    {
+      "pin": "20",
+      "placed_mm": [
+        9.750000819999999,
+        39.25000024
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 8.544003727488319e-07
+    },
+    {
+      "pin": "21",
+      "placed_mm": [
+        10.20510786,
+        39.23756948
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.0907808926427558e-06
+    },
+    {
+      "pin": "22",
+      "placed_mm": [
+        10.6651171,
+        39.2315827
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 9.089945206503353e-07
+    },
+    {
+      "pin": "23",
+      "placed_mm": [
+        11.1363252,
+        39.23177828
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 2.4320648327563433e-07
+    },
+    {
+      "pin": "24",
+      "placed_mm": [
+        11.62202146,
+        39.23769394
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 9.100322287771031e-07
+    },
+    {
+      "pin": "25",
+      "placed_mm": [
+        12.467422359999999,
+        39.25595146
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 4.251257382494731e-07
+    },
+    {
+      "pin": "26",
+      "placed_mm": [
+        12.50515914,
+        40.6804114
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.375994447814767e-06
+    },
+    {
+      "pin": "27",
+      "placed_mm": [
+        12.51722414,
+        41.2818834
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.1178798293592456e-06
+    },
+    {
+      "pin": "28",
+      "placed_mm": [
+        12.51713524,
+        41.89096016
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 7.042329724000724e-07
+    },
+    {
+      "pin": "29",
+      "placed_mm": [
+        12.5000004,
+        42.499998819999995
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.2459534549481248e-06
+    },
+    {
+      "pin": "30",
+      "placed_mm": [
+        12.51713524,
+        43.109040019999995
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 5.811230366452055e-07
+    },
+    {
+      "pin": "31",
+      "placed_mm": [
+        12.51722414,
+        43.718116779999995
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 9.56816136833905e-07
+    },
+    {
+      "pin": "32",
+      "placed_mm": [
+        12.50515914,
+        44.31958878
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.251572036706796e-06
+    },
+    {
+      "pin": "33",
+      "placed_mm": [
+        12.467422359999999,
+        45.744048719999995
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 3.993206241933392e-07
+    },
+    {
+      "pin": "34",
+      "placed_mm": [
+        11.87058078,
+        45.75747008
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 8.433479637282437e-07
+    },
+    {
+      "pin": "35",
+      "placed_mm": [
+        11.37536714,
+        45.76596892
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.208295924481179e-06
+    },
+    {
+      "pin": "36",
+      "placed_mm": [
+        10.89775824,
+        45.7690728
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.1875411618906416e-06
+    },
+    {
+      "pin": "37",
+      "placed_mm": [
+        10.4341295,
+        45.7662153
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 1.1199469511361947e-06
+    },
+    {
+      "pin": "38",
+      "placed_mm": [
+        9.978740519999999,
+        45.7570967
+      ],
+      "exact_quantized_position_match": true,
+      "continuous_target_error_mm": 4.226592346620119e-07
+    }
+  ],
+  "limitation": "Staged library only. Final routed candidate, promotion, actual placed pads and native DRC remain pending."
+}

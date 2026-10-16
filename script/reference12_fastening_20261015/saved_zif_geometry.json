@@ -1,0 +1,36 @@
+{
+  "native": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "model_path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\reference12_fastening_20261015\\Current_ZIF_Embedded.step",
+  "model_sha256": "0f86a223e1a1920af07de0972295acb75b1658ea2ece95c59b116630a4253501",
+  "saved_model_record": {
+    "component": "J1",
+    "rotation_xyz_deg": [
+      90.0,
+      0.0,
+      0.0
+    ],
+    "component_rotation_deg": 0.0,
+    "origin_mm": [
+      9.750000819999999,
+      4.44999872
+    ],
+    "origin_error_mm": 0.0,
+    "dz_mm": 0.70000114,
+    "standoff_mm": 0.11000232,
+    "overall_height_mm": 1.2600000199999999,
+    "board_projection": 0,
+    "embedded_step_sha256": [
+      "0f86a223e1a1920af07de0972295acb75b1658ea2ece95c59b116630a4253501"
+    ]
+  },
+  "rotated_local_bounds_mm": [
+    -8.7,
+    -1.8250000000000208,
+    -0.5900000000000002,
+    8.7,
+    1.975,
+    0.5600000000000005
+  ],
+  "parts": 1
+}

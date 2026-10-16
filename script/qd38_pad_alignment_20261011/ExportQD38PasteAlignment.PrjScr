@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ExportQD38PasteAlignment.pas
+[Generic_ScriptingSystem]
+StartProcName=ExportQD38PasteAlignment.pas>ExportQD38PasteAlignment

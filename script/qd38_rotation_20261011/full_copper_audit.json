@@ -1,0 +1,357 @@
+{
+  "passed": true,
+  "failures": [],
+  "minimum_foreign_copper_gap_mm": 0.1049999999999951,
+  "minimum_internal_DC_pair_gap_mm": 0.1049999999999951,
+  "internal_DC_pair_rule_mm": 0.1,
+  "other_pair_rule_mm": 0.15,
+  "disconnected_nets": [],
+  "invalid_turns": [],
+  "dc_via_and_layer": [
+    {
+      "net": "DC01",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC02",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC03",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC04",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC05",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC06",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC07",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC08",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC09",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC10",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC11",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC12",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC13",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC14",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC15",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC16",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC17",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC18",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC19",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC20",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC21",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC22",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC23",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC24",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC25",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC26",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC27",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC28",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC29",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC30",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC31",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC32",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC33",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC34",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC35",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC36",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        4
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC37",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    },
+    {
+      "net": "DC38",
+      "count": 2,
+      "device_via_in_pad": true,
+      "internal_layers": [
+        2
+      ],
+      "passed": true
+    }
+  ],
+  "signal_arcs": 62,
+  "tracks": 582,
+  "candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495"
+}

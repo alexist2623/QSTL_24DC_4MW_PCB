@@ -1,0 +1,7 @@
+{
+  "passed": false,
+  "failure": "no_terminal_escape",
+  "terminal": "R31-1",
+  "step": 0.26,
+  "offset": 0.08
+}

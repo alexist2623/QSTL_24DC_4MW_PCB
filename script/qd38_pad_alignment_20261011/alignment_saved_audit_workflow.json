@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "candidate_audit_sha256": "20bfc0b6b47f1ad83ec8580e62e7465d29aae5c967da5b8afdd20c1c39331269",
+  "baseline_native_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "old_evidence_preserved": true,
+  "results": [
+    {
+      "stage": "delta",
+      "passed": true,
+      "returncode": 0,
+      "report": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\saved_alignment_delta.json",
+      "log": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\alignment_audit_delta.txt",
+      "report_sha256": "0ec553428bb183d5f403060ce49629b307f3cb824c7dd65d7e1df6b02123befc"
+    }
+  ],
+  "completion": false,
+  "native_commands_executed": false,
+  "scope": "Read-only saved evidence stages. Paste and final completion remain separate unless explicitly run and bound."
+}

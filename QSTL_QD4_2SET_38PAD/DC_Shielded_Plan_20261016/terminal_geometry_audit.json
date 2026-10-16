@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "failures": [],
+  "minimums_mm": {
+    "via to RF copper": 0.2693951373705056,
+    "via to shield land": 0.2033951051880604,
+    "via to foreign Bottom pad": 0.1592804890465875,
+    "via to cavity": 0.6413929200000085,
+    "terminal land gap": 0.15581307172645642,
+    "terminal drill gap": 0.3058130717264564
+  }
+}

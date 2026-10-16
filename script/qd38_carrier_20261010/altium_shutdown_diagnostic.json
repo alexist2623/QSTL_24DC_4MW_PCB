@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-10-10T14:09:16.0347248-07:00",
+  "altium_shutdown": {
+    "pid": 43608,
+    "method": "taskkill /PID 43608 without /F",
+    "process_absent": true,
+    "normal_shutdown_log": "DXP Shutdown Commenced At 2:08:17 PM on 2026-10-10; Application Finalized"
+  },
+  "desktop_state": {
+    "account": "Measurement2",
+    "session_id": 1,
+    "state": "Disconnected",
+    "disconnect_time": "2026-10-10T12:54:32-07:00",
+    "event_id": 24,
+    "logon_ui_present": true
+  },
+  "diagnosis": "Disconnected interactive desktop is the leading explanation for the current capture and cursor-access errors; restoration has not been verified",
+  "separate_altium_popup": "Original dialog text was not observed; its specific cause remains undetermined",
+  "source_pcb_and_schematic_unchanged": true,
+  "resolution": [
+    "Reconnect to the existing Measurement2 desktop session and unlock it manually",
+    "Keep that session connected during desktop automation",
+    "If access errors persist after reconnection, restart the Codex desktop app in the active session and recheck capture"
+  ],
+  "references": [
+    "https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getcursorpos",
+    "https://learn.microsoft.com/en-us/windows/win32/api/windows.graphics.capture.interop/nf-windows-graphics-capture-interop-igraphicscaptureiteminterop-createformonitor"
+  ]
+}

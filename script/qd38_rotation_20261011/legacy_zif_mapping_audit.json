@@ -1,0 +1,1521 @@
+{
+  "passed": true,
+  "scope": "Read-only stored pad/net membership, CSV agreement, and independent Anton KiCad/netlist comparison. This is not an independent full copper-connectivity audit.",
+  "source_hashes": {
+    "QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB.PcbDoc": "8841a488c8a961dbc1d93d881ae981af0ba81006e28a80e4c08543c365c2812e",
+    "QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB.SchDoc": "c2988857ab2062b0f581f105a6cd1f93677647b3c8a3b3ad4ac0c1e570bbf45e",
+    "QSTL_24DC_4MW_PCB\\docs\\PIN_MAPPING.csv": "dfa9b7e54a3e259d67c87a4daf2805eb40ccaf609703ccf0c5a746cae7e718c9",
+    "QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc": "f8356dd694810d2318a51e99544ab2345f8b9996de80e9ddc4456bbc6a14c632",
+    "QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.SchDoc": "c6e08b62daa1976299c4709fec826d5448af3bfd4c7762cb013116ffbd867155",
+    "QSTL_QD4_2SET_38PAD\\pin_mapping.csv": "d8f7ea92491d569267408a6ac5822b3b56b386e6ff6e898cda1bf217c69ed764",
+    "QSTL_24DC_4MW_PCB\\docs\\Anton_ZIF_20260923\\pinout_audit.json": "a366afc1ea359d1d33d4394f37ac05de044da2bd81689080e847cc57b0a73d76",
+    "script\\anton_zif_20260923\\reference\\DSUBtoZIF_20250306\\DSUBtoZIF_20250106.kicad_pcb": "2eb2aecd16b3f8b5328f088a6895bcdad013f5a3cd094614acc38a275958c938",
+    "script\\anton_zif_20260923\\reference\\DSUBtoZIF_20250306\\DSUBtoZIF_20250106.kicad_pro": "57412feb208a6b4fcb3f4bf638144065bc67a7497b21ac815aadf543ffeda04a",
+    "script\\anton_zif_20260923\\reference\\DSUBtoZIF_20250306\\DSUBtoZIF_20250106.kicad_sch": "fdab94b5eb4a46332c18c65ca376d8079c83c5be3d5554d3a18079c7efeed9a5",
+    "script\\anton_zif_20260923\\reference\\DSUBtoZIF_20250306\\DSUBtoZIF_20250106.net": "81f425e7fd6a002e1431c90e707b1949fe671c51190c6fe9f7e660fa0840226b"
+  },
+  "original_matches_PIN_MAPPING": true,
+  "copied_matches_pin_mapping": true,
+  "original_24_mapping": [
+    {
+      "legacy_QD_pad": 1,
+      "zif_pin": 42,
+      "original_DC_net": "ZIF42",
+      "original_QD_net": "MW3",
+      "original_bias_resistor": "R3",
+      "original_reference_bond_pad": 21,
+      "Anton_DSUB_pin": 11
+    },
+    {
+      "legacy_QD_pad": 2,
+      "zif_pin": 44,
+      "original_DC_net": "ZIF44",
+      "original_QD_net": "ZIF44",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 17,
+      "Anton_DSUB_pin": 24
+    },
+    {
+      "legacy_QD_pad": 3,
+      "zif_pin": 40,
+      "original_DC_net": "ZIF40",
+      "original_QD_net": "ZIF40",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 15,
+      "Anton_DSUB_pin": 23
+    },
+    {
+      "legacy_QD_pad": 4,
+      "zif_pin": 36,
+      "original_DC_net": "ZIF36",
+      "original_QD_net": "ZIF36",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 13,
+      "Anton_DSUB_pin": 22
+    },
+    {
+      "legacy_QD_pad": 5,
+      "zif_pin": 32,
+      "original_DC_net": "ZIF32",
+      "original_QD_net": "ZIF32",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 11,
+      "Anton_DSUB_pin": 21
+    },
+    {
+      "legacy_QD_pad": 6,
+      "zif_pin": 46,
+      "original_DC_net": "ZIF46",
+      "original_QD_net": "MW2",
+      "original_bias_resistor": "R2",
+      "original_reference_bond_pad": 23,
+      "Anton_DSUB_pin": 12
+    },
+    {
+      "legacy_QD_pad": 7,
+      "zif_pin": 28,
+      "original_DC_net": "ZIF28",
+      "original_QD_net": "ZIF28",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 9,
+      "Anton_DSUB_pin": 20
+    },
+    {
+      "legacy_QD_pad": 8,
+      "zif_pin": 24,
+      "original_DC_net": "ZIF24",
+      "original_QD_net": "ZIF24",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 7,
+      "Anton_DSUB_pin": 19
+    },
+    {
+      "legacy_QD_pad": 9,
+      "zif_pin": 48,
+      "original_DC_net": "ZIF48",
+      "original_QD_net": "MW1",
+      "original_bias_resistor": "R1",
+      "original_reference_bond_pad": 19,
+      "Anton_DSUB_pin": 25
+    },
+    {
+      "legacy_QD_pad": 10,
+      "zif_pin": 20,
+      "original_DC_net": "ZIF20",
+      "original_QD_net": "ZIF20",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 5,
+      "Anton_DSUB_pin": 18
+    },
+    {
+      "legacy_QD_pad": 11,
+      "zif_pin": 16,
+      "original_DC_net": "ZIF16",
+      "original_QD_net": "ZIF16",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 3,
+      "Anton_DSUB_pin": 17
+    },
+    {
+      "legacy_QD_pad": 12,
+      "zif_pin": 4,
+      "original_DC_net": "ZIF04",
+      "original_QD_net": "MW5",
+      "original_bias_resistor": "R5",
+      "original_reference_bond_pad": 2,
+      "Anton_DSUB_pin": 14
+    },
+    {
+      "legacy_QD_pad": 13,
+      "zif_pin": 12,
+      "original_DC_net": "ZIF12",
+      "original_QD_net": "ZIF12",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 1,
+      "Anton_DSUB_pin": 16
+    },
+    {
+      "legacy_QD_pad": 14,
+      "zif_pin": 38,
+      "original_DC_net": "ZIF38",
+      "original_QD_net": "ZIF38",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 22,
+      "Anton_DSUB_pin": 10
+    },
+    {
+      "legacy_QD_pad": 15,
+      "zif_pin": 34,
+      "original_DC_net": "ZIF34",
+      "original_QD_net": "ZIF34",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 20,
+      "Anton_DSUB_pin": 9
+    },
+    {
+      "legacy_QD_pad": 16,
+      "zif_pin": 30,
+      "original_DC_net": "ZIF30",
+      "original_QD_net": "ZIF30",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 18,
+      "Anton_DSUB_pin": 8
+    },
+    {
+      "legacy_QD_pad": 17,
+      "zif_pin": 26,
+      "original_DC_net": "ZIF26",
+      "original_QD_net": "ZIF26",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 16,
+      "Anton_DSUB_pin": 7
+    },
+    {
+      "legacy_QD_pad": 18,
+      "zif_pin": 2,
+      "original_DC_net": "ZIF02",
+      "original_QD_net": "MW6",
+      "original_bias_resistor": "R6",
+      "original_reference_bond_pad": 4,
+      "Anton_DSUB_pin": 1
+    },
+    {
+      "legacy_QD_pad": 19,
+      "zif_pin": 22,
+      "original_DC_net": "ZIF22",
+      "original_QD_net": "ZIF22",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 14,
+      "Anton_DSUB_pin": 6
+    },
+    {
+      "legacy_QD_pad": 20,
+      "zif_pin": 18,
+      "original_DC_net": "ZIF18",
+      "original_QD_net": "ZIF18",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 12,
+      "Anton_DSUB_pin": 5
+    },
+    {
+      "legacy_QD_pad": 21,
+      "zif_pin": 14,
+      "original_DC_net": "ZIF14",
+      "original_QD_net": "ZIF14",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 10,
+      "Anton_DSUB_pin": 4
+    },
+    {
+      "legacy_QD_pad": 22,
+      "zif_pin": 10,
+      "original_DC_net": "ZIF10",
+      "original_QD_net": "ZIF10",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 8,
+      "Anton_DSUB_pin": 3
+    },
+    {
+      "legacy_QD_pad": 23,
+      "zif_pin": 6,
+      "original_DC_net": "ZIF06",
+      "original_QD_net": "ZIF06",
+      "original_bias_resistor": null,
+      "original_reference_bond_pad": 6,
+      "Anton_DSUB_pin": 2
+    },
+    {
+      "legacy_QD_pad": 24,
+      "zif_pin": 8,
+      "original_DC_net": "ZIF08",
+      "original_QD_net": "MW4",
+      "original_bias_resistor": "R4",
+      "original_reference_bond_pad": 24,
+      "Anton_DSUB_pin": 15
+    }
+  ],
+  "copied_38_mapping": [
+    {
+      "qd38_pad": 1,
+      "chip_function": "SET_NE_BARRIER_L",
+      "zif_pin": 27,
+      "DC_net": "DC01",
+      "expected_csv_pin": 27,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 2,
+      "chip_function": "SET_NE_PLUNGER",
+      "zif_pin": 49,
+      "DC_net": "DC02",
+      "expected_csv_pin": 49,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 3,
+      "chip_function": "SET_NE_SCREEN",
+      "zif_pin": 43,
+      "DC_net": "DC03",
+      "expected_csv_pin": 43,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 4,
+      "chip_function": "SET_NE_BARRIER_R",
+      "zif_pin": 45,
+      "DC_net": "DC04",
+      "expected_csv_pin": 45,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 5,
+      "chip_function": "SET_NE_OHMIC_R",
+      "zif_pin": 51,
+      "DC_net": "DC05",
+      "expected_csv_pin": 51,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 6,
+      "chip_function": "SET_NE_SCREEN_AUX_R",
+      "zif_pin": 47,
+      "DC_net": "DC06",
+      "expected_csv_pin": 47,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 7,
+      "chip_function": "SET_NE_ACC_R",
+      "zif_pin": 25,
+      "DC_net": "DC07",
+      "expected_csv_pin": 25,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 8,
+      "chip_function": "SET_NE_SCREEN_QD",
+      "zif_pin": 21,
+      "DC_net": "DC08",
+      "expected_csv_pin": 21,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 9,
+      "chip_function": "QD_B_NE_SET",
+      "zif_pin": 13,
+      "DC_net": "DC09",
+      "expected_csv_pin": 13,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 10,
+      "chip_function": "QD_SCREEN_NE",
+      "zif_pin": 19,
+      "DC_net": "DC10",
+      "expected_csv_pin": 19,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 11,
+      "chip_function": "QD_NE_P",
+      "zif_pin": 17,
+      "DC_net": "DC11",
+      "expected_csv_pin": 17,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 12,
+      "chip_function": "QD_BARRIER_N",
+      "zif_pin": 15,
+      "DC_net": "DC12",
+      "expected_csv_pin": 15,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 13,
+      "chip_function": "QD_NW_P",
+      "zif_pin": 36,
+      "DC_net": "DC13",
+      "expected_csv_pin": 36,
+      "Anton_DSUB_pin": 22
+    },
+    {
+      "qd38_pad": 14,
+      "chip_function": "QD_SCREEN_NW",
+      "zif_pin": 34,
+      "DC_net": "DC14",
+      "expected_csv_pin": 34,
+      "Anton_DSUB_pin": 9
+    },
+    {
+      "qd38_pad": 15,
+      "chip_function": "QD_BARRIER_W",
+      "zif_pin": 2,
+      "DC_net": "DC15",
+      "expected_csv_pin": 2,
+      "Anton_DSUB_pin": 1
+    },
+    {
+      "qd38_pad": 16,
+      "chip_function": "SET_SW_BARRIER_UPPER_L",
+      "zif_pin": 4,
+      "DC_net": "DC16",
+      "expected_csv_pin": 4,
+      "Anton_DSUB_pin": 14
+    },
+    {
+      "qd38_pad": 17,
+      "chip_function": "SET_SW_ACC_L",
+      "zif_pin": 32,
+      "DC_net": "DC17",
+      "expected_csv_pin": 32,
+      "Anton_DSUB_pin": 21
+    },
+    {
+      "qd38_pad": 18,
+      "chip_function": "SET_SW_SCREEN_AUX_L",
+      "zif_pin": 6,
+      "DC_net": "DC18",
+      "expected_csv_pin": 6,
+      "Anton_DSUB_pin": 2
+    },
+    {
+      "qd38_pad": 19,
+      "chip_function": "SET_SW_OHMIC_L",
+      "zif_pin": 30,
+      "DC_net": "DC19",
+      "expected_csv_pin": 30,
+      "Anton_DSUB_pin": 8
+    },
+    {
+      "qd38_pad": 20,
+      "chip_function": "SET_SW_BARRIER_L",
+      "zif_pin": 8,
+      "DC_net": "DC20",
+      "expected_csv_pin": 8,
+      "Anton_DSUB_pin": 15
+    },
+    {
+      "qd38_pad": 21,
+      "chip_function": "SET_SW_PLUNGER",
+      "zif_pin": 12,
+      "DC_net": "DC21",
+      "expected_csv_pin": 12,
+      "Anton_DSUB_pin": 16
+    },
+    {
+      "qd38_pad": 22,
+      "chip_function": "SET_SW_SCREEN",
+      "zif_pin": 10,
+      "DC_net": "DC22",
+      "expected_csv_pin": 10,
+      "Anton_DSUB_pin": 3
+    },
+    {
+      "qd38_pad": 23,
+      "chip_function": "SET_SW_BARRIER_R",
+      "zif_pin": 16,
+      "DC_net": "DC23",
+      "expected_csv_pin": 16,
+      "Anton_DSUB_pin": 17
+    },
+    {
+      "qd38_pad": 24,
+      "chip_function": "SET_SW_OHMIC_R",
+      "zif_pin": 14,
+      "DC_net": "DC24",
+      "expected_csv_pin": 14,
+      "Anton_DSUB_pin": 4
+    },
+    {
+      "qd38_pad": 25,
+      "chip_function": "SET_SW_SCREEN_AUX_R",
+      "zif_pin": 20,
+      "DC_net": "DC25",
+      "expected_csv_pin": 20,
+      "Anton_DSUB_pin": 18
+    },
+    {
+      "qd38_pad": 26,
+      "chip_function": "SET_SW_ACC_R",
+      "zif_pin": 22,
+      "DC_net": "DC26",
+      "expected_csv_pin": 22,
+      "Anton_DSUB_pin": 6
+    },
+    {
+      "qd38_pad": 27,
+      "chip_function": "SET_SW_SCREEN_QD",
+      "zif_pin": 28,
+      "DC_net": "DC27",
+      "expected_csv_pin": 28,
+      "Anton_DSUB_pin": 20
+    },
+    {
+      "qd38_pad": 28,
+      "chip_function": "QD_B_SW_SET",
+      "zif_pin": 18,
+      "DC_net": "DC28",
+      "expected_csv_pin": 18,
+      "Anton_DSUB_pin": 5
+    },
+    {
+      "qd38_pad": 29,
+      "chip_function": "QD_SCREEN_SW",
+      "zif_pin": 23,
+      "DC_net": "DC29",
+      "expected_csv_pin": 23,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 30,
+      "chip_function": "QD_SW_P",
+      "zif_pin": 26,
+      "DC_net": "DC30",
+      "expected_csv_pin": 26,
+      "Anton_DSUB_pin": 7
+    },
+    {
+      "qd38_pad": 31,
+      "chip_function": "QD_BARRIER_S",
+      "zif_pin": 24,
+      "DC_net": "DC31",
+      "expected_csv_pin": 24,
+      "Anton_DSUB_pin": 19
+    },
+    {
+      "qd38_pad": 32,
+      "chip_function": "QD_SE_P",
+      "zif_pin": 35,
+      "DC_net": "DC32",
+      "expected_csv_pin": 35,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 33,
+      "chip_function": "QD_SCREEN_SE",
+      "zif_pin": 31,
+      "DC_net": "DC33",
+      "expected_csv_pin": 31,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 34,
+      "chip_function": "QD_BARRIER_E",
+      "zif_pin": 39,
+      "DC_net": "DC34",
+      "expected_csv_pin": 39,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 35,
+      "chip_function": "SET_NE_BARRIER_UPPER_L",
+      "zif_pin": 33,
+      "DC_net": "DC35",
+      "expected_csv_pin": 33,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 36,
+      "chip_function": "SET_NE_ACC_L",
+      "zif_pin": 37,
+      "DC_net": "DC36",
+      "expected_csv_pin": 37,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 37,
+      "chip_function": "SET_NE_SCREEN_AUX_L",
+      "zif_pin": 29,
+      "DC_net": "DC37",
+      "expected_csv_pin": 29,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 38,
+      "chip_function": "SET_NE_OHMIC_L",
+      "zif_pin": 41,
+      "DC_net": "DC38",
+      "expected_csv_pin": 41,
+      "Anton_DSUB_pin": null
+    }
+  ],
+  "contact_comparison": [
+    {
+      "zif_pin": 2,
+      "old_QD24_pad": 18,
+      "new_QD38_pad": 15,
+      "new_chip_function": "QD_BARRIER_W",
+      "Anton_DSUB_pin": 1
+    },
+    {
+      "zif_pin": 4,
+      "old_QD24_pad": 12,
+      "new_QD38_pad": 16,
+      "new_chip_function": "SET_SW_BARRIER_UPPER_L",
+      "Anton_DSUB_pin": 14
+    },
+    {
+      "zif_pin": 6,
+      "old_QD24_pad": 23,
+      "new_QD38_pad": 18,
+      "new_chip_function": "SET_SW_SCREEN_AUX_L",
+      "Anton_DSUB_pin": 2
+    },
+    {
+      "zif_pin": 8,
+      "old_QD24_pad": 24,
+      "new_QD38_pad": 20,
+      "new_chip_function": "SET_SW_BARRIER_L",
+      "Anton_DSUB_pin": 15
+    },
+    {
+      "zif_pin": 10,
+      "old_QD24_pad": 22,
+      "new_QD38_pad": 22,
+      "new_chip_function": "SET_SW_SCREEN",
+      "Anton_DSUB_pin": 3
+    },
+    {
+      "zif_pin": 12,
+      "old_QD24_pad": 13,
+      "new_QD38_pad": 21,
+      "new_chip_function": "SET_SW_PLUNGER",
+      "Anton_DSUB_pin": 16
+    },
+    {
+      "zif_pin": 13,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 9,
+      "new_chip_function": "QD_B_NE_SET",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 14,
+      "old_QD24_pad": 21,
+      "new_QD38_pad": 24,
+      "new_chip_function": "SET_SW_OHMIC_R",
+      "Anton_DSUB_pin": 4
+    },
+    {
+      "zif_pin": 15,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 12,
+      "new_chip_function": "QD_BARRIER_N",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 16,
+      "old_QD24_pad": 11,
+      "new_QD38_pad": 23,
+      "new_chip_function": "SET_SW_BARRIER_R",
+      "Anton_DSUB_pin": 17
+    },
+    {
+      "zif_pin": 17,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 11,
+      "new_chip_function": "QD_NE_P",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 18,
+      "old_QD24_pad": 20,
+      "new_QD38_pad": 28,
+      "new_chip_function": "QD_B_SW_SET",
+      "Anton_DSUB_pin": 5
+    },
+    {
+      "zif_pin": 19,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 10,
+      "new_chip_function": "QD_SCREEN_NE",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 20,
+      "old_QD24_pad": 10,
+      "new_QD38_pad": 25,
+      "new_chip_function": "SET_SW_SCREEN_AUX_R",
+      "Anton_DSUB_pin": 18
+    },
+    {
+      "zif_pin": 21,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 8,
+      "new_chip_function": "SET_NE_SCREEN_QD",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 22,
+      "old_QD24_pad": 19,
+      "new_QD38_pad": 26,
+      "new_chip_function": "SET_SW_ACC_R",
+      "Anton_DSUB_pin": 6
+    },
+    {
+      "zif_pin": 23,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 29,
+      "new_chip_function": "QD_SCREEN_SW",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 24,
+      "old_QD24_pad": 8,
+      "new_QD38_pad": 31,
+      "new_chip_function": "QD_BARRIER_S",
+      "Anton_DSUB_pin": 19
+    },
+    {
+      "zif_pin": 25,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 7,
+      "new_chip_function": "SET_NE_ACC_R",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 26,
+      "old_QD24_pad": 17,
+      "new_QD38_pad": 30,
+      "new_chip_function": "QD_SW_P",
+      "Anton_DSUB_pin": 7
+    },
+    {
+      "zif_pin": 27,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 1,
+      "new_chip_function": "SET_NE_BARRIER_L",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 28,
+      "old_QD24_pad": 7,
+      "new_QD38_pad": 27,
+      "new_chip_function": "SET_SW_SCREEN_QD",
+      "Anton_DSUB_pin": 20
+    },
+    {
+      "zif_pin": 29,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 37,
+      "new_chip_function": "SET_NE_SCREEN_AUX_L",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 30,
+      "old_QD24_pad": 16,
+      "new_QD38_pad": 19,
+      "new_chip_function": "SET_SW_OHMIC_L",
+      "Anton_DSUB_pin": 8
+    },
+    {
+      "zif_pin": 31,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 33,
+      "new_chip_function": "QD_SCREEN_SE",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 32,
+      "old_QD24_pad": 5,
+      "new_QD38_pad": 17,
+      "new_chip_function": "SET_SW_ACC_L",
+      "Anton_DSUB_pin": 21
+    },
+    {
+      "zif_pin": 33,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 35,
+      "new_chip_function": "SET_NE_BARRIER_UPPER_L",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 34,
+      "old_QD24_pad": 15,
+      "new_QD38_pad": 14,
+      "new_chip_function": "QD_SCREEN_NW",
+      "Anton_DSUB_pin": 9
+    },
+    {
+      "zif_pin": 35,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 32,
+      "new_chip_function": "QD_SE_P",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 36,
+      "old_QD24_pad": 4,
+      "new_QD38_pad": 13,
+      "new_chip_function": "QD_NW_P",
+      "Anton_DSUB_pin": 22
+    },
+    {
+      "zif_pin": 37,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 36,
+      "new_chip_function": "SET_NE_ACC_L",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 38,
+      "old_QD24_pad": 14,
+      "new_QD38_pad": null,
+      "new_chip_function": null,
+      "Anton_DSUB_pin": 10
+    },
+    {
+      "zif_pin": 39,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 34,
+      "new_chip_function": "QD_BARRIER_E",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 40,
+      "old_QD24_pad": 3,
+      "new_QD38_pad": null,
+      "new_chip_function": null,
+      "Anton_DSUB_pin": 23
+    },
+    {
+      "zif_pin": 41,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 38,
+      "new_chip_function": "SET_NE_OHMIC_L",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 42,
+      "old_QD24_pad": 1,
+      "new_QD38_pad": null,
+      "new_chip_function": null,
+      "Anton_DSUB_pin": 11
+    },
+    {
+      "zif_pin": 43,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 3,
+      "new_chip_function": "SET_NE_SCREEN",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 44,
+      "old_QD24_pad": 2,
+      "new_QD38_pad": null,
+      "new_chip_function": null,
+      "Anton_DSUB_pin": 24
+    },
+    {
+      "zif_pin": 45,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 4,
+      "new_chip_function": "SET_NE_BARRIER_R",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 46,
+      "old_QD24_pad": 6,
+      "new_QD38_pad": null,
+      "new_chip_function": null,
+      "Anton_DSUB_pin": 12
+    },
+    {
+      "zif_pin": 47,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 6,
+      "new_chip_function": "SET_NE_SCREEN_AUX_R",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 48,
+      "old_QD24_pad": 9,
+      "new_QD38_pad": null,
+      "new_chip_function": null,
+      "Anton_DSUB_pin": 25
+    },
+    {
+      "zif_pin": 49,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 2,
+      "new_chip_function": "SET_NE_PLUNGER",
+      "Anton_DSUB_pin": null
+    },
+    {
+      "zif_pin": 51,
+      "old_QD24_pad": null,
+      "new_QD38_pad": 5,
+      "new_chip_function": "SET_NE_OHMIC_R",
+      "Anton_DSUB_pin": null
+    }
+  ],
+  "original_used_contacts": [
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42,
+    44,
+    46,
+    48
+  ],
+  "copied_used_contacts": [
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    39,
+    41,
+    43,
+    45,
+    47,
+    49,
+    51
+  ],
+  "legacy_even_contacts_missing": [
+    38,
+    40,
+    42,
+    44,
+    46,
+    48
+  ],
+  "newly_used_contacts": [
+    13,
+    15,
+    17,
+    19,
+    21,
+    23,
+    25,
+    27,
+    29,
+    31,
+    33,
+    35,
+    37,
+    39,
+    41,
+    43,
+    45,
+    47,
+    49,
+    51
+  ],
+  "common_contact_count": 18,
+  "numeric_pad_comparison_only": [
+    {
+      "qd_number": 1,
+      "old_zif": 42,
+      "new_zif": 27
+    },
+    {
+      "qd_number": 2,
+      "old_zif": 44,
+      "new_zif": 49
+    },
+    {
+      "qd_number": 3,
+      "old_zif": 40,
+      "new_zif": 43
+    },
+    {
+      "qd_number": 4,
+      "old_zif": 36,
+      "new_zif": 45
+    },
+    {
+      "qd_number": 5,
+      "old_zif": 32,
+      "new_zif": 51
+    },
+    {
+      "qd_number": 6,
+      "old_zif": 46,
+      "new_zif": 47
+    },
+    {
+      "qd_number": 7,
+      "old_zif": 28,
+      "new_zif": 25
+    },
+    {
+      "qd_number": 8,
+      "old_zif": 24,
+      "new_zif": 21
+    },
+    {
+      "qd_number": 9,
+      "old_zif": 48,
+      "new_zif": 13
+    },
+    {
+      "qd_number": 10,
+      "old_zif": 20,
+      "new_zif": 19
+    },
+    {
+      "qd_number": 11,
+      "old_zif": 16,
+      "new_zif": 17
+    },
+    {
+      "qd_number": 12,
+      "old_zif": 4,
+      "new_zif": 15
+    },
+    {
+      "qd_number": 13,
+      "old_zif": 12,
+      "new_zif": 36
+    },
+    {
+      "qd_number": 14,
+      "old_zif": 38,
+      "new_zif": 34
+    },
+    {
+      "qd_number": 15,
+      "old_zif": 34,
+      "new_zif": 2
+    },
+    {
+      "qd_number": 16,
+      "old_zif": 30,
+      "new_zif": 4
+    },
+    {
+      "qd_number": 17,
+      "old_zif": 26,
+      "new_zif": 32
+    },
+    {
+      "qd_number": 18,
+      "old_zif": 2,
+      "new_zif": 6
+    },
+    {
+      "qd_number": 19,
+      "old_zif": 22,
+      "new_zif": 30
+    },
+    {
+      "qd_number": 20,
+      "old_zif": 18,
+      "new_zif": 8
+    },
+    {
+      "qd_number": 21,
+      "old_zif": 14,
+      "new_zif": 12
+    },
+    {
+      "qd_number": 23,
+      "old_zif": 6,
+      "new_zif": 16
+    },
+    {
+      "qd_number": 24,
+      "old_zif": 8,
+      "new_zif": 14
+    }
+  ],
+  "semantic_QD24_to_QD38_mapping_established": false,
+  "functional_mapping_evidence": {
+    "original_QD_pattern": "QD4",
+    "copied_QD_pattern": "QD4_2SET_38",
+    "original_schematic_function_tokens_found": [],
+    "original_PIN_MAPPING_fields": [
+      "QD_pad",
+      "Role",
+      "ZIF_pin",
+      "Reference_carrier_bond_pad",
+      "SMP",
+      "Bias_resistor",
+      "Series_capacitor",
+      "QD_net"
+    ],
+    "copied_pin_mapping_fields": [
+      "qd_pad",
+      "chip_net",
+      "zif_pin",
+      "dc_net",
+      "dc_layer",
+      "rf",
+      "rf_net",
+      "smp"
+    ]
+  },
+  "semantic_mapping_limitation": "Legacy PIN_MAPPING has QD pad numbers, generic MW/ZIF nets and reference-carrier bond-pad numbers, but no chip gate/ohmic/screen function. QD38 has explicit QD4_2SET chip function labels. Equal numerical pad IDs must not be treated as verified same signals.",
+  "anton_mapping": [
+    {
+      "zif_pin": 1,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad1)"
+    },
+    {
+      "zif_pin": 2,
+      "dsub_pin": 1,
+      "net": "Net-(J1-Pad1)"
+    },
+    {
+      "zif_pin": 3,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad3)"
+    },
+    {
+      "zif_pin": 4,
+      "dsub_pin": 14,
+      "net": "Net-(J1-Pad14)"
+    },
+    {
+      "zif_pin": 5,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad5)"
+    },
+    {
+      "zif_pin": 6,
+      "dsub_pin": 2,
+      "net": "Net-(J1-Pad2)"
+    },
+    {
+      "zif_pin": 7,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad7)"
+    },
+    {
+      "zif_pin": 8,
+      "dsub_pin": 15,
+      "net": "Net-(J1-Pad15)"
+    },
+    {
+      "zif_pin": 9,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad9)"
+    },
+    {
+      "zif_pin": 10,
+      "dsub_pin": 3,
+      "net": "Net-(J1-Pad3)"
+    },
+    {
+      "zif_pin": 11,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad11)"
+    },
+    {
+      "zif_pin": 12,
+      "dsub_pin": 16,
+      "net": "Net-(J1-Pad16)"
+    },
+    {
+      "zif_pin": 13,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad13)"
+    },
+    {
+      "zif_pin": 14,
+      "dsub_pin": 4,
+      "net": "Net-(J1-Pad4)"
+    },
+    {
+      "zif_pin": 15,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad15)"
+    },
+    {
+      "zif_pin": 16,
+      "dsub_pin": 17,
+      "net": "Net-(J1-Pad17)"
+    },
+    {
+      "zif_pin": 17,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad17)"
+    },
+    {
+      "zif_pin": 18,
+      "dsub_pin": 5,
+      "net": "Net-(J1-Pad5)"
+    },
+    {
+      "zif_pin": 19,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad19)"
+    },
+    {
+      "zif_pin": 20,
+      "dsub_pin": 18,
+      "net": "Net-(J1-Pad18)"
+    },
+    {
+      "zif_pin": 21,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad21)"
+    },
+    {
+      "zif_pin": 22,
+      "dsub_pin": 6,
+      "net": "Net-(J1-Pad6)"
+    },
+    {
+      "zif_pin": 23,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad23)"
+    },
+    {
+      "zif_pin": 24,
+      "dsub_pin": 19,
+      "net": "Net-(J1-Pad19)"
+    },
+    {
+      "zif_pin": 25,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad25)"
+    },
+    {
+      "zif_pin": 26,
+      "dsub_pin": 7,
+      "net": "Net-(J1-Pad7)"
+    },
+    {
+      "zif_pin": 27,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad27)"
+    },
+    {
+      "zif_pin": 28,
+      "dsub_pin": 20,
+      "net": "Net-(J1-Pad20)"
+    },
+    {
+      "zif_pin": 29,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad29)"
+    },
+    {
+      "zif_pin": 30,
+      "dsub_pin": 8,
+      "net": "Net-(J1-Pad8)"
+    },
+    {
+      "zif_pin": 31,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad31)"
+    },
+    {
+      "zif_pin": 32,
+      "dsub_pin": 21,
+      "net": "Net-(J1-Pad21)"
+    },
+    {
+      "zif_pin": 33,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad33)"
+    },
+    {
+      "zif_pin": 34,
+      "dsub_pin": 9,
+      "net": "Net-(J1-Pad9)"
+    },
+    {
+      "zif_pin": 35,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad35)"
+    },
+    {
+      "zif_pin": 36,
+      "dsub_pin": 22,
+      "net": "Net-(J1-Pad22)"
+    },
+    {
+      "zif_pin": 37,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad37)"
+    },
+    {
+      "zif_pin": 38,
+      "dsub_pin": 10,
+      "net": "Net-(J1-Pad10)"
+    },
+    {
+      "zif_pin": 39,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad39)"
+    },
+    {
+      "zif_pin": 40,
+      "dsub_pin": 23,
+      "net": "Net-(J1-Pad23)"
+    },
+    {
+      "zif_pin": 41,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad41)"
+    },
+    {
+      "zif_pin": 42,
+      "dsub_pin": 11,
+      "net": "Net-(J1-Pad11)"
+    },
+    {
+      "zif_pin": 43,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad43)"
+    },
+    {
+      "zif_pin": 44,
+      "dsub_pin": 24,
+      "net": "Net-(J1-Pad24)"
+    },
+    {
+      "zif_pin": 45,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad45)"
+    },
+    {
+      "zif_pin": 46,
+      "dsub_pin": 12,
+      "net": "Net-(J1-Pad12)"
+    },
+    {
+      "zif_pin": 47,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad47)"
+    },
+    {
+      "zif_pin": 48,
+      "dsub_pin": 25,
+      "net": "Net-(J1-Pad25)"
+    },
+    {
+      "zif_pin": 49,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad49)"
+    },
+    {
+      "zif_pin": 50,
+      "dsub_pin": 13,
+      "net": "Net-(J1-Pad13)"
+    },
+    {
+      "zif_pin": 51,
+      "dsub_pin": null,
+      "net": "unconnected-(J2-Pad51)"
+    }
+  ],
+  "anton_footprint_values": {
+    "REF**": "MountingHole_4.3mm_M4_DIN965_Pad",
+    "J1": "381-025-112L565",
+    "J2": "502598-5193"
+  },
+  "copied_channels_reaching_unmodified_Anton": 18,
+  "copied_channels_not_reaching_unmodified_Anton": [
+    {
+      "qd38_pad": 1,
+      "chip_function": "SET_NE_BARRIER_L",
+      "zif_pin": 27,
+      "DC_net": "DC01",
+      "expected_csv_pin": 27,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 2,
+      "chip_function": "SET_NE_PLUNGER",
+      "zif_pin": 49,
+      "DC_net": "DC02",
+      "expected_csv_pin": 49,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 3,
+      "chip_function": "SET_NE_SCREEN",
+      "zif_pin": 43,
+      "DC_net": "DC03",
+      "expected_csv_pin": 43,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 4,
+      "chip_function": "SET_NE_BARRIER_R",
+      "zif_pin": 45,
+      "DC_net": "DC04",
+      "expected_csv_pin": 45,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 5,
+      "chip_function": "SET_NE_OHMIC_R",
+      "zif_pin": 51,
+      "DC_net": "DC05",
+      "expected_csv_pin": 51,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 6,
+      "chip_function": "SET_NE_SCREEN_AUX_R",
+      "zif_pin": 47,
+      "DC_net": "DC06",
+      "expected_csv_pin": 47,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 7,
+      "chip_function": "SET_NE_ACC_R",
+      "zif_pin": 25,
+      "DC_net": "DC07",
+      "expected_csv_pin": 25,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 8,
+      "chip_function": "SET_NE_SCREEN_QD",
+      "zif_pin": 21,
+      "DC_net": "DC08",
+      "expected_csv_pin": 21,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 9,
+      "chip_function": "QD_B_NE_SET",
+      "zif_pin": 13,
+      "DC_net": "DC09",
+      "expected_csv_pin": 13,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 10,
+      "chip_function": "QD_SCREEN_NE",
+      "zif_pin": 19,
+      "DC_net": "DC10",
+      "expected_csv_pin": 19,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 11,
+      "chip_function": "QD_NE_P",
+      "zif_pin": 17,
+      "DC_net": "DC11",
+      "expected_csv_pin": 17,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 12,
+      "chip_function": "QD_BARRIER_N",
+      "zif_pin": 15,
+      "DC_net": "DC12",
+      "expected_csv_pin": 15,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 29,
+      "chip_function": "QD_SCREEN_SW",
+      "zif_pin": 23,
+      "DC_net": "DC29",
+      "expected_csv_pin": 23,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 32,
+      "chip_function": "QD_SE_P",
+      "zif_pin": 35,
+      "DC_net": "DC32",
+      "expected_csv_pin": 35,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 33,
+      "chip_function": "QD_SCREEN_SE",
+      "zif_pin": 31,
+      "DC_net": "DC33",
+      "expected_csv_pin": 31,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 34,
+      "chip_function": "QD_BARRIER_E",
+      "zif_pin": 39,
+      "DC_net": "DC34",
+      "expected_csv_pin": 39,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 35,
+      "chip_function": "SET_NE_BARRIER_UPPER_L",
+      "zif_pin": 33,
+      "DC_net": "DC35",
+      "expected_csv_pin": 33,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 36,
+      "chip_function": "SET_NE_ACC_L",
+      "zif_pin": 37,
+      "DC_net": "DC36",
+      "expected_csv_pin": 37,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 37,
+      "chip_function": "SET_NE_SCREEN_AUX_L",
+      "zif_pin": 29,
+      "DC_net": "DC37",
+      "expected_csv_pin": 29,
+      "Anton_DSUB_pin": null
+    },
+    {
+      "qd38_pad": 38,
+      "chip_function": "SET_NE_OHMIC_L",
+      "zif_pin": 41,
+      "DC_net": "DC38",
+      "expected_csv_pin": 41,
+      "Anton_DSUB_pin": null
+    }
+  ],
+  "anton_previous_source_note": "Anton states this is equivalent but not exactly the same as the blue PCB; he offered to confirm pin numbering.",
+  "errors": []
+}

@@ -1,0 +1,47 @@
+{
+  "status": "READ_ONLY_OVERLAY",
+  "reference_source": "Assembly1.stl registered mesh projections",
+  "source_hashes": {
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Four_End_SMP_Side_Entry_20261015\\side_entry_audit.json": "c84c6863154a6660464d1b24fdf8e26676d29c2e49aff6dc63e98b7ca517e680",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Reference12_Fastening_20261015\\SMP_Side_Shell.vtp": "cfa02c885ada6b0557ab3472aa84c4fc98d1c2feb64a800c15d92ccc1fa6009f",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Reference12_Fastening_20261015\\Component_Side_Shell.vtp": "208e070a326879f8c6a42cf5c7bb4df0723ce641139925aaa9cd294e08e5d9c6",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351"
+  },
+  "source_files_unchanged": true,
+  "lower_projection_area_mm2": 2557.9390029586134,
+  "lower_projection_bounds_mm": [
+    -16.30000114440918,
+    -48.79999923706055,
+    16.30000114440918,
+    41.29999923706055
+  ],
+  "upper_projection_area_mm2": 3115.686452404842,
+  "upper_projection_bounds_mm": [
+    -16.799999237060547,
+    -51.79999923706055,
+    16.799999237060547,
+    41.29999923706055
+  ],
+  "affine_transforms": {
+    "0": [
+      1,
+      0,
+      0,
+      1,
+      9.75,
+      46.15
+    ],
+    "180": [
+      -1,
+      0,
+      0,
+      -1,
+      9.75,
+      46.15
+    ]
+  },
+  "all_current_SMP_coordinates_unchanged": true,
+  "reason_for_previous_visual_difference": "Previous review rotated reference hole pattern 180 degrees; earlier hole map did not.",
+  "registration_approved": false,
+  "three_dimensional_fit_validated": false
+}

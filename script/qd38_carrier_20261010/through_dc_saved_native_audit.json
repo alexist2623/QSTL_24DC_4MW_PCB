@@ -1,0 +1,2632 @@
+{
+  "passed": true,
+  "native_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+  "native_sha256": "f8356dd694810d2318a51e99544ab2345f8b9996de80e9ddc4456bbc6a14c632",
+  "counts": {
+    "components": 50,
+    "pads": 243,
+    "tracks": 2106,
+    "arcs": 0,
+    "vias": 716,
+    "bodies": 49
+  },
+  "signal_vias": 76,
+  "shield_vias": 640,
+  "candidate_sha256": "fedd3f662aa536548598b1f4c5a5fdf86c8fabf913ab1eadb359fb3f9821b28e",
+  "region_count": 51,
+  "max_numeric_error": {
+    "components": 1.240000003122077e-06,
+    "pads": 1.2612726392191576e-06,
+    "tracks": 1.2644777456216616e-06,
+    "vias": 1.2698161384605555e-06
+  },
+  "regions_max_hausdorff_mm": 1.7678235211742522e-06,
+  "native_connection_count": 0,
+  "component_SourceUniqueIDs_match": true,
+  "live_compile": {
+    "PROJECT": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PrjPcb",
+    "COMPILE_RESULT": "False",
+    "VIOLATION_COUNT": "0",
+    "NET_COUNT": "86"
+  },
+  "compiled_net_count": 86,
+  "source_files_unchanged": {
+    "QSTL_24DC_4MW_PCB.SchDoc": true,
+    "QSTL_24DC_4MW_PCB.PcbDoc": true,
+    "QSTL_24DC_4MW_PCB.PcbLib": true,
+    "Reference_Connectors.SchLib": true,
+    "Reference_Connectors.PcbLib": true,
+    "Passives_0603.PcbLib": true,
+    "QSTL_24DC_4MW_PCB.SchLib": true,
+    "ZIF_5025985193.PcbLib": true,
+    "Reference_Resistors.SchLib": true,
+    "Reference_Capacitors.SchLib": true,
+    "Capacitors_0402.PcbLib": true,
+    "QSTL_24DC_4MW_PCB.PrjPcb": true
+  },
+  "errors": [],
+  "warnings": [
+    "Native AnalyzeNet/CleanNet split track records; width-specific centreline and copper unions match the candidate within 0.00001 mm.",
+    "Native GetState_PasteMaskEnabled reports True on 716 vias; effective CAM openings still require verification despite negative cache expansion.",
+    "Native compiler returned False; net connectivity was independently compared where COMPLETE exists."
+  ],
+  "region_metrics": [
+    {
+      "name": "QD38_GND_1_0",
+      "layer": 1,
+      "hausdorff_mm": 1.7256928124075192e-06,
+      "symmetric_difference_mm2": 0.00020382745749049916,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_0",
+      "layer": 2,
+      "hausdorff_mm": 1.6066121181080623e-06,
+      "symmetric_difference_mm2": 1.620769665878403e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_1",
+      "layer": 2,
+      "hausdorff_mm": 1.6572383623835908e-06,
+      "symmetric_difference_mm2": 5.640249470296138e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_2",
+      "layer": 2,
+      "hausdorff_mm": 1.599536360235912e-06,
+      "symmetric_difference_mm2": 1.930267369879257e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_3",
+      "layer": 2,
+      "hausdorff_mm": 1.679460114584858e-06,
+      "symmetric_difference_mm2": 8.458621234249607e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_4",
+      "layer": 2,
+      "hausdorff_mm": 1.675323222056825e-06,
+      "symmetric_difference_mm2": 1.2880314925171878e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_5",
+      "layer": 2,
+      "hausdorff_mm": 1.4973756814804776e-06,
+      "symmetric_difference_mm2": 1.0213693810748842e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_6",
+      "layer": 2,
+      "hausdorff_mm": 1.7400000089498124e-06,
+      "symmetric_difference_mm2": 7.127051278818328e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_7",
+      "layer": 2,
+      "hausdorff_mm": 1.5931940021207593e-06,
+      "symmetric_difference_mm2": 2.337393644349496e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_8",
+      "layer": 2,
+      "hausdorff_mm": 1.6595179993559465e-06,
+      "symmetric_difference_mm2": 1.535752880129876e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_9",
+      "layer": 2,
+      "hausdorff_mm": 1.6595179970438711e-06,
+      "symmetric_difference_mm2": 1.019763107617884e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_10",
+      "layer": 2,
+      "hausdorff_mm": 1.7336296720633778e-06,
+      "symmetric_difference_mm2": 1.3477863549388154e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_11",
+      "layer": 2,
+      "hausdorff_mm": 1.7596564988558887e-06,
+      "symmetric_difference_mm2": 0.00020374928641689221,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_12",
+      "layer": 2,
+      "hausdorff_mm": 1.6408407405393442e-06,
+      "symmetric_difference_mm2": 4.657163272381145e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_2_13",
+      "layer": 2,
+      "hausdorff_mm": 1.6928305426950758e-06,
+      "symmetric_difference_mm2": 2.3756189167054434e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_3_0",
+      "layer": 3,
+      "hausdorff_mm": 1.7596564988558887e-06,
+      "symmetric_difference_mm2": 0.00020936988983001766,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_0",
+      "layer": 4,
+      "hausdorff_mm": 1.60075664509901e-06,
+      "symmetric_difference_mm2": 3.1828271777061035e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_1",
+      "layer": 4,
+      "hausdorff_mm": 1.6907916614867599e-06,
+      "symmetric_difference_mm2": 4.393112454599214e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_2",
+      "layer": 4,
+      "hausdorff_mm": 1.6830599893002552e-06,
+      "symmetric_difference_mm2": 3.3628700799610736e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_3",
+      "layer": 4,
+      "hausdorff_mm": 1.6349786863212243e-06,
+      "symmetric_difference_mm2": 6.537387613665344e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_4",
+      "layer": 4,
+      "hausdorff_mm": 1.6230294029915036e-06,
+      "symmetric_difference_mm2": 3.3823859186815665e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_5",
+      "layer": 4,
+      "hausdorff_mm": 1.5837342854723157e-06,
+      "symmetric_difference_mm2": 5.9228104363883574e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_6",
+      "layer": 4,
+      "hausdorff_mm": 1.6208560547218208e-06,
+      "symmetric_difference_mm2": 1.3559765338270452e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_7",
+      "layer": 4,
+      "hausdorff_mm": 1.6833540169587239e-06,
+      "symmetric_difference_mm2": 4.943553046371161e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_8",
+      "layer": 4,
+      "hausdorff_mm": 1.6595180134692401e-06,
+      "symmetric_difference_mm2": 1.5064466646022845e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_9",
+      "layer": 4,
+      "hausdorff_mm": 1.7573564100788776e-06,
+      "symmetric_difference_mm2": 0.000128430013371178,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_10",
+      "layer": 4,
+      "hausdorff_mm": 1.6366603688240434e-06,
+      "symmetric_difference_mm2": 8.442185561824998e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_11",
+      "layer": 4,
+      "hausdorff_mm": 1.6532028646730589e-06,
+      "symmetric_difference_mm2": 4.1133935840026765e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_12",
+      "layer": 4,
+      "hausdorff_mm": 1.5872632633559398e-06,
+      "symmetric_difference_mm2": 3.840626727837324e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_13",
+      "layer": 4,
+      "hausdorff_mm": 1.6993693399377701e-06,
+      "symmetric_difference_mm2": 3.582613334558418e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_14",
+      "layer": 4,
+      "hausdorff_mm": 1.7131335802360482e-06,
+      "symmetric_difference_mm2": 6.604797504287285e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_15",
+      "layer": 4,
+      "hausdorff_mm": 1.6595179993559465e-06,
+      "symmetric_difference_mm2": 1.0554683196596922e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_16",
+      "layer": 4,
+      "hausdorff_mm": 1.7666319266813437e-06,
+      "symmetric_difference_mm2": 1.630906390777539e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_17",
+      "layer": 4,
+      "hausdorff_mm": 1.6189149435971048e-06,
+      "symmetric_difference_mm2": 9.765548065449251e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_4_18",
+      "layer": 4,
+      "hausdorff_mm": 1.5295414341783192e-06,
+      "symmetric_difference_mm2": 5.77762562171172e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_5_0",
+      "layer": 5,
+      "hausdorff_mm": 1.7596564988558887e-06,
+      "symmetric_difference_mm2": 0.00020936988983001766,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_32_0",
+      "layer": 32,
+      "hausdorff_mm": 1.7678235211742522e-06,
+      "symmetric_difference_mm2": 0.000347180097395448,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_32_1",
+      "layer": 32,
+      "hausdorff_mm": 1.7403056626397192e-06,
+      "symmetric_difference_mm2": 2.4910088270165683e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_32_2",
+      "layer": 32,
+      "hausdorff_mm": 1.5816667021150124e-06,
+      "symmetric_difference_mm2": 3.0795317915880286e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_32_3",
+      "layer": 32,
+      "hausdorff_mm": 1.4923692560142236e-06,
+      "symmetric_difference_mm2": 2.8328604177185113e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_GND_32_4",
+      "layer": 32,
+      "hausdorff_mm": 1.5434904211588202e-06,
+      "symmetric_difference_mm2": 1.9619267288932443e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_MASK_37_0",
+      "layer": 37,
+      "hausdorff_mm": 1.717445847698133e-06,
+      "symmetric_difference_mm2": 0.00012672890150514841,
+      "valid": true
+    },
+    {
+      "name": "QD38_MASK_37_1",
+      "layer": 37,
+      "hausdorff_mm": 1.65227331543022e-06,
+      "symmetric_difference_mm2": 1.3998728672488742e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_MASK_37_2",
+      "layer": 37,
+      "hausdorff_mm": 1.0599999997751297e-06,
+      "symmetric_difference_mm2": 4.450307035476781e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_MASK_37_3",
+      "layer": 37,
+      "hausdorff_mm": 1.5529555119378214e-06,
+      "symmetric_difference_mm2": 1.3045753984099322e-05,
+      "valid": true
+    },
+    {
+      "name": "QD38_MASK_37_4",
+      "layer": 37,
+      "hausdorff_mm": 1.2525174620444765e-06,
+      "symmetric_difference_mm2": 4.754648987859156e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_MASK_38_0",
+      "layer": 38,
+      "hausdorff_mm": 1.755611477592068e-06,
+      "symmetric_difference_mm2": 0.00014507884019435076,
+      "valid": true
+    },
+    {
+      "name": "QD38_MASK_38_1",
+      "layer": 38,
+      "hausdorff_mm": 1.4925605307005715e-06,
+      "symmetric_difference_mm2": 3.546935149087082e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_MASK_38_2",
+      "layer": 38,
+      "hausdorff_mm": 9.999999992515995e-07,
+      "symmetric_difference_mm2": 2.4918147980509407e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_MASK_38_3",
+      "layer": 38,
+      "hausdorff_mm": 1.1040285459186348e-06,
+      "symmetric_difference_mm2": 3.128003236547238e-06,
+      "valid": true
+    },
+    {
+      "name": "QD38_MASK_38_4",
+      "layer": 38,
+      "hausdorff_mm": 1.2088758605562983e-06,
+      "symmetric_difference_mm2": 2.9107266313969697e-06,
+      "valid": true
+    }
+  ],
+  "track_record_comparison_exact": false,
+  "track_normalization_checks": [
+    {
+      "key": "('S02', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1833849761326817e-06,
+      "centerline_union_length_difference_mm": 6.000001206984962e-08,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC16', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW21', 32, 0.11)",
+      "actual_count": 13,
+      "expected_count": 12,
+      "centerline_hausdorff_mm": 1.2757742745264066e-06,
+      "centerline_union_length_difference_mm": 1.3138484096231196e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC05', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC15', 2, 0.125)",
+      "actual_count": 13,
+      "expected_count": 13,
+      "centerline_hausdorff_mm": 1.697291969278503e-06,
+      "centerline_union_length_difference_mm": 1.4655134066288156e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC02', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC07', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC31', 2, 0.125)",
+      "actual_count": 24,
+      "expected_count": 24,
+      "centerline_hausdorff_mm": 1.2657013825123935e-06,
+      "centerline_union_length_difference_mm": 1.5648528233214165e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC24', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC27', 2, 0.125)",
+      "actual_count": 30,
+      "expected_count": 30,
+      "centerline_hausdorff_mm": 1.4681961800731969e-06,
+      "centerline_union_length_difference_mm": 3.5926341581671295e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC03', 4, 0.125)",
+      "actual_count": 61,
+      "expected_count": 61,
+      "centerline_hausdorff_mm": 1.5981238978569743e-06,
+      "centerline_union_length_difference_mm": 3.2634095319394874e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC23', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC19', 2, 0.125)",
+      "actual_count": 29,
+      "expected_count": 29,
+      "centerline_hausdorff_mm": 1.5558920213453467e-06,
+      "centerline_union_length_difference_mm": 5.410043144138399e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC04', 4, 0.125)",
+      "actual_count": 64,
+      "expected_count": 64,
+      "centerline_hausdorff_mm": 1.4718695618372718e-06,
+      "centerline_union_length_difference_mm": 1.2619736367014411e-09,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC03', 32, 0.125)",
+      "actual_count": 6,
+      "expected_count": 6,
+      "centerline_hausdorff_mm": 1.3524792137915818e-06,
+      "centerline_union_length_difference_mm": 1.2450708722910875e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC11', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW24', 32, 0.11)",
+      "actual_count": 44,
+      "expected_count": 41,
+      "centerline_hausdorff_mm": 1.6443843863217518e-06,
+      "centerline_union_length_difference_mm": 1.8103319465723189e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC03', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC33', 4, 0.125)",
+      "actual_count": 51,
+      "expected_count": 51,
+      "centerline_hausdorff_mm": 1.462190141304033e-06,
+      "centerline_union_length_difference_mm": 4.02788716513669e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S30', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 9.213034228751543e-07,
+      "centerline_union_length_difference_mm": 5.99999978589949e-08,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC30', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC27', 32, 0.125)",
+      "actual_count": 5,
+      "expected_count": 4,
+      "centerline_hausdorff_mm": 1.4322010996033215e-06,
+      "centerline_union_length_difference_mm": 6.603220149559164e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S28', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.2963024362471082e-06,
+      "centerline_union_length_difference_mm": 1.400000009255109e-07,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC17', 32, 0.125)",
+      "actual_count": 6,
+      "expected_count": 6,
+      "centerline_hausdorff_mm": 1.2448293031821883e-06,
+      "centerline_union_length_difference_mm": 1.274314571753088e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC29', 4, 0.125)",
+      "actual_count": 51,
+      "expected_count": 51,
+      "centerline_hausdorff_mm": 1.3870832691478386e-06,
+      "centerline_union_length_difference_mm": 5.9347281577970534e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC22', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC31', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S34', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.5148597303110503e-06,
+      "centerline_union_length_difference_mm": 5.99999978589949e-08,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW28', 32, 0.11)",
+      "actual_count": 39,
+      "expected_count": 37,
+      "centerline_hausdorff_mm": 1.5556349224679927e-06,
+      "centerline_union_length_difference_mm": 1.8303046847023552e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC12', 4, 0.125)",
+      "actual_count": 27,
+      "expected_count": 27,
+      "centerline_hausdorff_mm": 1.290271288968186e-06,
+      "centerline_union_length_difference_mm": 4.62568546311104e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC09', 4, 0.125)",
+      "actual_count": 22,
+      "expected_count": 22,
+      "centerline_hausdorff_mm": 1.697291969278503e-06,
+      "centerline_union_length_difference_mm": 1.3312968007994641e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW31', 32, 0.11)",
+      "actual_count": 33,
+      "expected_count": 31,
+      "centerline_hausdorff_mm": 1.5132016838053067e-06,
+      "centerline_union_length_difference_mm": 1.1903558636561229e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S12', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.4866068765467952e-06,
+      "centerline_union_length_difference_mm": 2.4799999920332993e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC20', 2, 0.125)",
+      "actual_count": 52,
+      "expected_count": 52,
+      "centerline_hausdorff_mm": 1.5164432026148326e-06,
+      "centerline_union_length_difference_mm": 4.023749873738325e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC35', 4, 0.125)",
+      "actual_count": 50,
+      "expected_count": 50,
+      "centerline_hausdorff_mm": 1.5839191890241612e-06,
+      "centerline_union_length_difference_mm": 4.384030773962877e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW02', 32, 0.11)",
+      "actual_count": 17,
+      "expected_count": 15,
+      "centerline_hausdorff_mm": 1.5484185483625767e-06,
+      "centerline_union_length_difference_mm": 1.569776044263449e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC01', 32, 0.125)",
+      "actual_count": 2,
+      "expected_count": 2,
+      "centerline_hausdorff_mm": 1.2664912210134825e-06,
+      "centerline_union_length_difference_mm": 1.7467619087829789e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW15', 32, 0.11)",
+      "actual_count": 9,
+      "expected_count": 7,
+      "centerline_hausdorff_mm": 1.0889437305518745e-06,
+      "centerline_union_length_difference_mm": 9.425783762395668e-07,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC36', 4, 0.125)",
+      "actual_count": 49,
+      "expected_count": 49,
+      "centerline_hausdorff_mm": 1.697998818142481e-06,
+      "centerline_union_length_difference_mm": 6.4148882685799435e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC14', 2, 0.125)",
+      "actual_count": 29,
+      "expected_count": 29,
+      "centerline_hausdorff_mm": 1.2612692030727179e-06,
+      "centerline_union_length_difference_mm": 4.8823794642771645e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC17', 2, 0.125)",
+      "actual_count": 33,
+      "expected_count": 33,
+      "centerline_hausdorff_mm": 1.6124515561204327e-06,
+      "centerline_union_length_difference_mm": 7.026611896776558e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC06', 4, 0.125)",
+      "actual_count": 44,
+      "expected_count": 44,
+      "centerline_hausdorff_mm": 1.6268988931966569e-06,
+      "centerline_union_length_difference_mm": 6.459104184841635e-08,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC37', 4, 0.125)",
+      "actual_count": 52,
+      "expected_count": 52,
+      "centerline_hausdorff_mm": 1.5132745933813878e-06,
+      "centerline_union_length_difference_mm": 4.823135064668804e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC18', 2, 0.125)",
+      "actual_count": 28,
+      "expected_count": 28,
+      "centerline_hausdorff_mm": 1.6313184847769735e-06,
+      "centerline_union_length_difference_mm": 7.166935773739169e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S21', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 4.3680659253216203e-07,
+      "centerline_union_length_difference_mm": 5.99999978589949e-08,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC01', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC08', 4, 0.125)",
+      "actual_count": 59,
+      "expected_count": 59,
+      "centerline_hausdorff_mm": 1.641462763659951e-06,
+      "centerline_union_length_difference_mm": 7.153512058266642e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S05', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.6056151499010655e-06,
+      "centerline_union_length_difference_mm": 2.4799999920332993e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S31', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.3880922153525916e-06,
+      "centerline_union_length_difference_mm": 5.99999978589949e-08,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC07', 4, 0.125)",
+      "actual_count": 47,
+      "expected_count": 47,
+      "centerline_hausdorff_mm": 1.6443843848309977e-06,
+      "centerline_union_length_difference_mm": 1.4133904144841836e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC28', 2, 0.125)",
+      "actual_count": 26,
+      "expected_count": 26,
+      "centerline_hausdorff_mm": 1.6031219492541972e-06,
+      "centerline_union_length_difference_mm": 1.247451667296673e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC06', 32, 0.125)",
+      "actual_count": 5,
+      "expected_count": 4,
+      "centerline_hausdorff_mm": 1.301069765995787e-06,
+      "centerline_union_length_difference_mm": 5.131199680707965e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC37', 32, 0.125)",
+      "actual_count": 6,
+      "expected_count": 6,
+      "centerline_hausdorff_mm": 1.2894960244432516e-06,
+      "centerline_union_length_difference_mm": 2.5028427084183846e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC33', 32, 0.125)",
+      "actual_count": 4,
+      "expected_count": 4,
+      "centerline_hausdorff_mm": 1.1737883995070844e-06,
+      "centerline_union_length_difference_mm": 7.138830624420223e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC14', 32, 0.125)",
+      "actual_count": 6,
+      "expected_count": 6,
+      "centerline_hausdorff_mm": 1.4714618534599095e-06,
+      "centerline_union_length_difference_mm": 2.3989898911835894e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC08', 32, 0.125)",
+      "actual_count": 4,
+      "expected_count": 4,
+      "centerline_hausdorff_mm": 1.2304470808733943e-06,
+      "centerline_union_length_difference_mm": 2.6236191054129776e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC10', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC04', 32, 0.125)",
+      "actual_count": 10,
+      "expected_count": 10,
+      "centerline_hausdorff_mm": 1.5524174760505634e-06,
+      "centerline_union_length_difference_mm": 8.072422905680554e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S32', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0248902408095025e-06,
+      "centerline_union_length_difference_mm": 1.400000009255109e-07,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC19', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC18', 32, 0.125)",
+      "actual_count": 6,
+      "expected_count": 6,
+      "centerline_hausdorff_mm": 1.5681836715782489e-06,
+      "centerline_union_length_difference_mm": 9.524718496134454e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC37', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC26', 2, 0.125)",
+      "actual_count": 24,
+      "expected_count": 24,
+      "centerline_hausdorff_mm": 1.6293556958430419e-06,
+      "centerline_union_length_difference_mm": 2.629642850138225e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC21', 2, 0.125)",
+      "actual_count": 54,
+      "expected_count": 54,
+      "centerline_hausdorff_mm": 1.5840454520712803e-06,
+      "centerline_union_length_difference_mm": 8.783431447056955e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC34', 4, 0.125)",
+      "actual_count": 48,
+      "expected_count": 48,
+      "centerline_hausdorff_mm": 1.424359502909974e-06,
+      "centerline_union_length_difference_mm": 2.5384030664099555e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC33', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC11', 4, 0.125)",
+      "actual_count": 67,
+      "expected_count": 67,
+      "centerline_hausdorff_mm": 1.6843990042708436e-06,
+      "centerline_union_length_difference_mm": 9.426469361528689e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC32', 4, 0.125)",
+      "actual_count": 36,
+      "expected_count": 36,
+      "centerline_hausdorff_mm": 1.6561400879427237e-06,
+      "centerline_union_length_difference_mm": 7.382337869898947e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC27', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC22', 2, 0.125)",
+      "actual_count": 63,
+      "expected_count": 63,
+      "centerline_hausdorff_mm": 1.5601281982124228e-06,
+      "centerline_union_length_difference_mm": 2.507725959333129e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC17', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S35', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.103086579193618e-06,
+      "centerline_union_length_difference_mm": 5.99999978589949e-08,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC04', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW12', 32, 0.11)",
+      "actual_count": 23,
+      "expected_count": 21,
+      "centerline_hausdorff_mm": 1.484924087019695e-06,
+      "centerline_union_length_difference_mm": 1.9886723627848824e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC29', 32, 0.125)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1738824400715693e-06,
+      "centerline_union_length_difference_mm": 9.999999974752427e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC28', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW11', 32, 0.11)",
+      "actual_count": 5,
+      "expected_count": 3,
+      "centerline_hausdorff_mm": 1.4882204172711541e-06,
+      "centerline_union_length_difference_mm": 2.427526881287889e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW35', 32, 0.11)",
+      "actual_count": 19,
+      "expected_count": 18,
+      "centerline_hausdorff_mm": 1.4566384229954145e-06,
+      "centerline_union_length_difference_mm": 3.743660670352256e-08,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC29', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC26', 32, 0.125)",
+      "actual_count": 10,
+      "expected_count": 10,
+      "centerline_hausdorff_mm": 1.316054709561354e-06,
+      "centerline_union_length_difference_mm": 1.5561978601308368e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC20', 32, 0.125)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.2336936459772216e-06,
+      "centerline_union_length_difference_mm": 6.000000052353016e-08,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC05', 4, 0.125)",
+      "actual_count": 32,
+      "expected_count": 32,
+      "centerline_hausdorff_mm": 1.5560205542020566e-06,
+      "centerline_union_length_difference_mm": 1.0176450331300657e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC02', 4, 0.125)",
+      "actual_count": 28,
+      "expected_count": 28,
+      "centerline_hausdorff_mm": 1.5720050876776305e-06,
+      "centerline_union_length_difference_mm": 2.7065617302923783e-08,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC22', 32, 0.125)",
+      "actual_count": 2,
+      "expected_count": 2,
+      "centerline_hausdorff_mm": 1.4751271196156558e-06,
+      "centerline_union_length_difference_mm": 8.435743135137841e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC16', 2, 0.125)",
+      "actual_count": 22,
+      "expected_count": 22,
+      "centerline_hausdorff_mm": 1.4413882266788725e-06,
+      "centerline_union_length_difference_mm": 4.563247131272874e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC12', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S09', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.2041594507085038e-06,
+      "centerline_union_length_difference_mm": 1.3999999737279722e-07,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC26', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC20', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC25', 2, 0.125)",
+      "actual_count": 28,
+      "expected_count": 28,
+      "centerline_hausdorff_mm": 1.4930505771085286e-06,
+      "centerline_union_length_difference_mm": 1.4122133507044055e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW05', 32, 0.11)",
+      "actual_count": 44,
+      "expected_count": 41,
+      "centerline_hausdorff_mm": 1.527350654409475e-06,
+      "centerline_union_length_difference_mm": 3.6047066203082068e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC36', 32, 0.125)",
+      "actual_count": 10,
+      "expected_count": 10,
+      "centerline_hausdorff_mm": 1.4091131950524367e-06,
+      "centerline_union_length_difference_mm": 2.016620154421389e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S24', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1264102274928741e-06,
+      "centerline_union_length_difference_mm": 5.99999978589949e-08,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC38', 4, 0.125)",
+      "actual_count": 66,
+      "expected_count": 66,
+      "centerline_hausdorff_mm": 1.6124515473513007e-06,
+      "centerline_union_length_difference_mm": 2.696994101825112e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC13', 2, 0.125)",
+      "actual_count": 34,
+      "expected_count": 34,
+      "centerline_hausdorff_mm": 1.5981238978569743e-06,
+      "centerline_union_length_difference_mm": 4.008280001244202e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC36', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW34', 32, 0.11)",
+      "actual_count": 48,
+      "expected_count": 45,
+      "centerline_hausdorff_mm": 1.6546266328563449e-06,
+      "centerline_union_length_difference_mm": 1.4314275116333874e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC15', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC38', 32, 0.125)",
+      "actual_count": 2,
+      "expected_count": 2,
+      "centerline_hausdorff_mm": 1.3010707319166463e-06,
+      "centerline_union_length_difference_mm": 1.3921168200425882e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC23', 32, 0.125)",
+      "actual_count": 6,
+      "expected_count": 6,
+      "centerline_hausdorff_mm": 1.1840608116695974e-06,
+      "centerline_union_length_difference_mm": 1.2743145767490915e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC06', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC25', 32, 0.125)",
+      "actual_count": 4,
+      "expected_count": 4,
+      "centerline_hausdorff_mm": 1.2625371239550534e-06,
+      "centerline_union_length_difference_mm": 2.509930140393024e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC14', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC08', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC10', 4, 0.125)",
+      "actual_count": 64,
+      "expected_count": 64,
+      "centerline_hausdorff_mm": 1.7395401654970772e-06,
+      "centerline_union_length_difference_mm": 6.200438704695443e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC38', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW30', 32, 0.11)",
+      "actual_count": 11,
+      "expected_count": 9,
+      "centerline_hausdorff_mm": 1.3759360415690024e-06,
+      "centerline_union_length_difference_mm": 1.0295976338170476e-07,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S13', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.442220504376579e-06,
+      "centerline_union_length_difference_mm": 1.3999999737279722e-07,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S11', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0160708624603625e-06,
+      "centerline_union_length_difference_mm": 6.000001206984962e-08,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC18', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC25', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC10', 32, 0.125)",
+      "actual_count": 2,
+      "expected_count": 2,
+      "centerline_hausdorff_mm": 6.708203975938013e-07,
+      "centerline_union_length_difference_mm": 1.0414213541531936e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC30', 2, 0.125)",
+      "actual_count": 29,
+      "expected_count": 29,
+      "centerline_hausdorff_mm": 1.5996249564725281e-06,
+      "centerline_union_length_difference_mm": 6.376143474540186e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC09', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW32', 32, 0.11)",
+      "actual_count": 15,
+      "expected_count": 13,
+      "centerline_hausdorff_mm": 1.3000000027301e-06,
+      "centerline_union_length_difference_mm": 4.376102141989691e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC24', 2, 0.125)",
+      "actual_count": 36,
+      "expected_count": 36,
+      "centerline_hausdorff_mm": 1.577466318101941e-06,
+      "centerline_union_length_difference_mm": 5.616324671109396e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC13', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S16', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 6.118823414832524e-07,
+      "centerline_union_length_difference_mm": 6.000001206984962e-08,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('S15', 32, 0.11)",
+      "actual_count": 2,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.245792923271882e-06,
+      "centerline_union_length_difference_mm": 2.4799999920332993e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC34', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC32', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC19', 32, 0.125)",
+      "actual_count": 5,
+      "expected_count": 5,
+      "centerline_hausdorff_mm": 1.096357608044256e-06,
+      "centerline_union_length_difference_mm": 4.6818325571962305e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC23', 2, 0.125)",
+      "actual_count": 32,
+      "expected_count": 32,
+      "centerline_hausdorff_mm": 1.6235450951651672e-06,
+      "centerline_union_length_difference_mm": 2.1180439659929107e-06,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC35', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.1000000004202093e-06,
+      "centerline_union_length_difference_mm": 1.1000000004202093e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC21', 1, 0.15)",
+      "actual_count": 1,
+      "expected_count": 1,
+      "centerline_hausdorff_mm": 1.0999999995320309e-06,
+      "centerline_union_length_difference_mm": 1.0999999995320309e-06,
+      "actual_widths": [
+        0.14999969999999999
+      ],
+      "expected_widths": [
+        0.15
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW16', 32, 0.11)",
+      "actual_count": 5,
+      "expected_count": 3,
+      "centerline_hausdorff_mm": 1.5148597250577069e-06,
+      "centerline_union_length_difference_mm": 1.7214923202502064e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC01', 4, 0.125)",
+      "actual_count": 50,
+      "expected_count": 50,
+      "centerline_hausdorff_mm": 1.6404877336874393e-06,
+      "centerline_union_length_difference_mm": 2.6292990895626644e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW09', 32, 0.11)",
+      "actual_count": 33,
+      "expected_count": 31,
+      "centerline_hausdorff_mm": 1.3859292977755756e-06,
+      "centerline_union_length_difference_mm": 3.989019313976883e-06,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('DC07', 32, 0.125)",
+      "actual_count": 4,
+      "expected_count": 4,
+      "centerline_hausdorff_mm": 8.609297275337827e-07,
+      "centerline_union_length_difference_mm": 7.431875873598059e-07,
+      "actual_widths": [
+        0.12500102
+      ],
+      "expected_widths": [
+        0.125
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    },
+    {
+      "key": "('MW13', 32, 0.11)",
+      "actual_count": 17,
+      "expected_count": 15,
+      "centerline_hausdorff_mm": 1.5414848830665646e-06,
+      "centerline_union_length_difference_mm": 3.6916402379461033e-07,
+      "actual_widths": [
+        0.10999977999999999
+      ],
+      "expected_widths": [
+        0.11
+      ],
+      "extra_copper_outside_tolerance_mm2": 0.0,
+      "missing_copper_outside_tolerance_mm2": 0.0,
+      "extra_centerline_outside_tolerance_mm": 0.0,
+      "missing_centerline_outside_tolerance_mm": 0.0
+    }
+  ],
+  "ground_copper_connected": true,
+  "ground_copper_component_count": 1,
+  "ground_primitives": 753,
+  "completion": false,
+  "schematic_sha256": "c6e08b62daa1976299c4709fec826d5448af3bfd4c7762cb013116ffbd867155",
+  "live_compile_sha256": "2eeacf946b9cd4709b68e4cd50ca26d06f3f0692ede9c17062aa3c6f2bf98b37",
+  "live_compile_membership_verified": true
+}

@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ApplyNative16RFCompact.pas
+[Generic_ScriptingSystem]
+StartProcName=ApplyNative16RFCompact.pas>ApplyNative16RFCompact

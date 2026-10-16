@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=InspectNativeBaseline.pas
+[Generic_ScriptingSystem]
+StartProcName=InspectNativeBaseline.pas>InspectNativeBaseline

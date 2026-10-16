@@ -1,0 +1,73 @@
+{
+  "validation": {
+    "routes": 38,
+    "layers": [
+      2,
+      4
+    ],
+    "minimum_clearance_mm": 0.152190233425443,
+    "crossings": 0,
+    "intermediate_transition_vias": 0,
+    "status": "OFFLINE_GEOMETRY_VERIFIED_NATIVE_PENDING"
+  },
+  "signal_vias": 76,
+  "span": [
+    1,
+    32
+  ],
+  "via_geometry_preserved": true,
+  "component_placement_preserved": true,
+  "zif_pin50_unused": true,
+  "changed_zif_pins": [
+    {
+      "qd": 5,
+      "before": 15,
+      "after": 51
+    },
+    {
+      "qd": 9,
+      "before": 51,
+      "after": 13
+    },
+    {
+      "qd": 12,
+      "before": 13,
+      "after": 15
+    },
+    {
+      "qd": 22,
+      "before": 28,
+      "after": 10
+    },
+    {
+      "qd": 24,
+      "before": 10,
+      "after": 14
+    },
+    {
+      "qd": 25,
+      "before": 18,
+      "after": 20
+    },
+    {
+      "qd": 27,
+      "before": 26,
+      "after": 28
+    },
+    {
+      "qd": 28,
+      "before": 14,
+      "after": 18
+    },
+    {
+      "qd": 30,
+      "before": 24,
+      "after": 26
+    },
+    {
+      "qd": 31,
+      "before": 20,
+      "after": 24
+    }
+  ]
+}

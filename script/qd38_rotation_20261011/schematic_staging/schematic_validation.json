@@ -1,0 +1,3019 @@
+{
+  "status": "Native files generated; Altium reopening/compile pending",
+  "nets": {
+    "DC05": [
+      "J1-48",
+      "R35-2"
+    ],
+    "DC36": [
+      "J1-46",
+      "Q1-36"
+    ],
+    "DC32": [
+      "J1-44",
+      "R30-2"
+    ],
+    "DC30": [
+      "J1-42",
+      "R24-2"
+    ],
+    "DC31": [
+      "J1-40",
+      "R21-2"
+    ],
+    "DC27": [
+      "J1-38",
+      "Q1-27"
+    ],
+    "DC29": [
+      "J1-36",
+      "Q1-29"
+    ],
+    "DC03": [
+      "J1-34",
+      "Q1-3"
+    ],
+    "DC26": [
+      "J1-32",
+      "Q1-26"
+    ],
+    "DC25": [
+      "J1-30",
+      "Q1-25"
+    ],
+    "DC37": [
+      "J1-28",
+      "Q1-37"
+    ],
+    "DC28": [
+      "J1-26",
+      "R28-2"
+    ],
+    "DC19": [
+      "J1-24",
+      "Q1-19"
+    ],
+    "DC23": [
+      "J1-22",
+      "Q1-23"
+    ],
+    "DC22": [
+      "J1-20",
+      "Q1-22"
+    ],
+    "DC24": [
+      "J1-18",
+      "R16-2"
+    ],
+    "DC20": [
+      "J1-16",
+      "Q1-20"
+    ],
+    "DC06": [
+      "J1-14",
+      "Q1-6"
+    ],
+    "DC18": [
+      "J1-12",
+      "Q1-18"
+    ],
+    "DC17": [
+      "J1-10",
+      "Q1-17"
+    ],
+    "DC15": [
+      "J1-8",
+      "R12-2"
+    ],
+    "DC04": [
+      "J1-6",
+      "Q1-4"
+    ],
+    "DC13": [
+      "J1-4",
+      "R11-2"
+    ],
+    "DC08": [
+      "J1-2",
+      "Q1-8"
+    ],
+    "DC38": [
+      "J1-27",
+      "Q1-38"
+    ],
+    "DC02": [
+      "J1-25",
+      "R34-2"
+    ],
+    "DC33": [
+      "J1-23",
+      "Q1-33"
+    ],
+    "DC35": [
+      "J1-21",
+      "R32-2"
+    ],
+    "DC34": [
+      "J1-19",
+      "R31-2"
+    ],
+    "DC14": [
+      "J1-17",
+      "Q1-14"
+    ],
+    "DC07": [
+      "J1-15",
+      "Q1-7"
+    ],
+    "DC21": [
+      "J1-13",
+      "R13-2"
+    ],
+    "DC10": [
+      "J1-11",
+      "Q1-10"
+    ],
+    "DC01": [
+      "J1-9",
+      "Q1-1"
+    ],
+    "DC16": [
+      "J1-7",
+      "R15-2"
+    ],
+    "DC12": [
+      "J1-5",
+      "R02-2"
+    ],
+    "DC09": [
+      "J1-3",
+      "R09-2"
+    ],
+    "DC11": [
+      "J1-1",
+      "R05-2"
+    ],
+    "MW02": [
+      "Q1-2",
+      "C34-2",
+      "R34-1"
+    ],
+    "MW05": [
+      "Q1-5",
+      "C35-2",
+      "R35-1"
+    ],
+    "MW09": [
+      "Q1-9",
+      "C09-2",
+      "R09-1"
+    ],
+    "MW11": [
+      "Q1-11",
+      "C05-2",
+      "R05-1"
+    ],
+    "MW12": [
+      "Q1-12",
+      "C02-2",
+      "R02-1"
+    ],
+    "MW13": [
+      "Q1-13",
+      "C11-2",
+      "R11-1"
+    ],
+    "MW15": [
+      "Q1-15",
+      "C12-2",
+      "R12-1"
+    ],
+    "MW16": [
+      "Q1-16",
+      "C15-2",
+      "R15-1"
+    ],
+    "MW21": [
+      "Q1-21",
+      "C13-2",
+      "R13-1"
+    ],
+    "MW24": [
+      "Q1-24",
+      "C16-2",
+      "R16-1"
+    ],
+    "MW28": [
+      "Q1-28",
+      "C28-2",
+      "R28-1"
+    ],
+    "MW30": [
+      "Q1-30",
+      "C24-2",
+      "R24-1"
+    ],
+    "MW31": [
+      "Q1-31",
+      "C21-2",
+      "R21-1"
+    ],
+    "MW32": [
+      "Q1-32",
+      "C30-2",
+      "R30-1"
+    ],
+    "MW34": [
+      "Q1-34",
+      "C31-2",
+      "R31-1"
+    ],
+    "MW35": [
+      "Q1-35",
+      "C32-2",
+      "R32-1"
+    ],
+    "S02": [
+      "SMP02-1",
+      "C02-1"
+    ],
+    "GND": [
+      "SMP02-2",
+      "SMP02-3",
+      "SMP02-4",
+      "SMP02-5",
+      "SMP05-2",
+      "SMP05-3",
+      "SMP05-4",
+      "SMP05-5",
+      "SMP09-2",
+      "SMP09-3",
+      "SMP09-4",
+      "SMP09-5",
+      "SMP11-2",
+      "SMP11-3",
+      "SMP11-4",
+      "SMP11-5",
+      "SMP12-2",
+      "SMP12-3",
+      "SMP12-4",
+      "SMP12-5",
+      "SMP13-2",
+      "SMP13-3",
+      "SMP13-4",
+      "SMP13-5",
+      "SMP15-2",
+      "SMP15-3",
+      "SMP15-4",
+      "SMP15-5",
+      "SMP16-2",
+      "SMP16-3",
+      "SMP16-4",
+      "SMP16-5",
+      "SMP21-2",
+      "SMP21-3",
+      "SMP21-4",
+      "SMP21-5",
+      "SMP24-2",
+      "SMP24-3",
+      "SMP24-4",
+      "SMP24-5",
+      "SMP28-2",
+      "SMP28-3",
+      "SMP28-4",
+      "SMP28-5",
+      "SMP30-2",
+      "SMP30-3",
+      "SMP30-4",
+      "SMP30-5",
+      "SMP31-2",
+      "SMP31-3",
+      "SMP31-4",
+      "SMP31-5",
+      "SMP32-2",
+      "SMP32-3",
+      "SMP32-4",
+      "SMP32-5",
+      "SMP34-2",
+      "SMP34-3",
+      "SMP34-4",
+      "SMP34-5",
+      "SMP35-2",
+      "SMP35-3",
+      "SMP35-4",
+      "SMP35-5"
+    ],
+    "S05": [
+      "SMP05-1",
+      "C05-1"
+    ],
+    "S09": [
+      "SMP09-1",
+      "C09-1"
+    ],
+    "S11": [
+      "SMP11-1",
+      "C11-1"
+    ],
+    "S12": [
+      "SMP12-1",
+      "C12-1"
+    ],
+    "S13": [
+      "SMP13-1",
+      "C13-1"
+    ],
+    "S15": [
+      "SMP15-1",
+      "C15-1"
+    ],
+    "S16": [
+      "SMP16-1",
+      "C16-1"
+    ],
+    "S21": [
+      "SMP21-1",
+      "C21-1"
+    ],
+    "S24": [
+      "SMP24-1",
+      "C24-1"
+    ],
+    "S28": [
+      "SMP28-1",
+      "C28-1"
+    ],
+    "S30": [
+      "SMP30-1",
+      "C30-1"
+    ],
+    "S31": [
+      "SMP31-1",
+      "C31-1"
+    ],
+    "S32": [
+      "SMP32-1",
+      "C32-1"
+    ],
+    "S34": [
+      "SMP34-1",
+      "C34-1"
+    ],
+    "S35": [
+      "SMP35-1",
+      "C35-1"
+    ]
+  },
+  "pins": [
+    {
+      "key": "J1-1",
+      "tip": [
+        420,
+        1375
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "SOIAHAOF"
+    },
+    {
+      "key": "J1-2",
+      "tip": [
+        580,
+        1375
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "CXREXEUH"
+    },
+    {
+      "key": "J1-3",
+      "tip": [
+        420,
+        1365
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "DVICPODE"
+    },
+    {
+      "key": "J1-4",
+      "tip": [
+        580,
+        1365
+      ],
+      "direction": 0,
+      "name": "4",
+      "uid": "SQLHYBKP"
+    },
+    {
+      "key": "J1-5",
+      "tip": [
+        420,
+        1355
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "VRUZQUCL"
+    },
+    {
+      "key": "J1-6",
+      "tip": [
+        580,
+        1355
+      ],
+      "direction": 0,
+      "name": "6",
+      "uid": "TWBDORXX"
+    },
+    {
+      "key": "J1-7",
+      "tip": [
+        420,
+        1345
+      ],
+      "direction": 2,
+      "name": "7",
+      "uid": "VSTAWTFX"
+    },
+    {
+      "key": "J1-8",
+      "tip": [
+        580,
+        1345
+      ],
+      "direction": 0,
+      "name": "8",
+      "uid": "DEEZUOWN"
+    },
+    {
+      "key": "J1-9",
+      "tip": [
+        420,
+        1335
+      ],
+      "direction": 2,
+      "name": "9",
+      "uid": "XMXBPTZB"
+    },
+    {
+      "key": "J1-10",
+      "tip": [
+        580,
+        1335
+      ],
+      "direction": 0,
+      "name": "10",
+      "uid": "VDOSZPMM"
+    },
+    {
+      "key": "J1-11",
+      "tip": [
+        420,
+        1325
+      ],
+      "direction": 2,
+      "name": "11",
+      "uid": "VVPCDSSW"
+    },
+    {
+      "key": "J1-12",
+      "tip": [
+        580,
+        1325
+      ],
+      "direction": 0,
+      "name": "12",
+      "uid": "OWTWZQHM"
+    },
+    {
+      "key": "J1-13",
+      "tip": [
+        420,
+        1315
+      ],
+      "direction": 2,
+      "name": "13",
+      "uid": "GRDRGXLP"
+    },
+    {
+      "key": "J1-14",
+      "tip": [
+        580,
+        1315
+      ],
+      "direction": 0,
+      "name": "14",
+      "uid": "WADOKWOM"
+    },
+    {
+      "key": "J1-15",
+      "tip": [
+        420,
+        1305
+      ],
+      "direction": 2,
+      "name": "15",
+      "uid": "HBWTUTYY"
+    },
+    {
+      "key": "J1-16",
+      "tip": [
+        580,
+        1305
+      ],
+      "direction": 0,
+      "name": "16",
+      "uid": "XHKXETJL"
+    },
+    {
+      "key": "J1-17",
+      "tip": [
+        420,
+        1295
+      ],
+      "direction": 2,
+      "name": "17",
+      "uid": "JBKQTORX"
+    },
+    {
+      "key": "J1-18",
+      "tip": [
+        580,
+        1295
+      ],
+      "direction": 0,
+      "name": "18",
+      "uid": "BOJGXLBQ"
+    },
+    {
+      "key": "J1-19",
+      "tip": [
+        420,
+        1285
+      ],
+      "direction": 2,
+      "name": "19",
+      "uid": "FYLTCUSS"
+    },
+    {
+      "key": "J1-20",
+      "tip": [
+        580,
+        1285
+      ],
+      "direction": 0,
+      "name": "20",
+      "uid": "JITVSGOG"
+    },
+    {
+      "key": "J1-21",
+      "tip": [
+        420,
+        1275
+      ],
+      "direction": 2,
+      "name": "21",
+      "uid": "LPXHFHFU"
+    },
+    {
+      "key": "J1-22",
+      "tip": [
+        580,
+        1275
+      ],
+      "direction": 0,
+      "name": "22",
+      "uid": "WURFMOSW"
+    },
+    {
+      "key": "J1-23",
+      "tip": [
+        420,
+        1265
+      ],
+      "direction": 2,
+      "name": "23",
+      "uid": "HKZAHRZI"
+    },
+    {
+      "key": "J1-24",
+      "tip": [
+        580,
+        1265
+      ],
+      "direction": 0,
+      "name": "24",
+      "uid": "ZXHAYDQC"
+    },
+    {
+      "key": "J1-25",
+      "tip": [
+        420,
+        1255
+      ],
+      "direction": 2,
+      "name": "25",
+      "uid": "UYQAHUBE"
+    },
+    {
+      "key": "J1-26",
+      "tip": [
+        580,
+        1255
+      ],
+      "direction": 0,
+      "name": "26",
+      "uid": "LCUMUECS"
+    },
+    {
+      "key": "J1-27",
+      "tip": [
+        420,
+        1245
+      ],
+      "direction": 2,
+      "name": "27",
+      "uid": "LWRQXVUA"
+    },
+    {
+      "key": "J1-28",
+      "tip": [
+        580,
+        1245
+      ],
+      "direction": 0,
+      "name": "28",
+      "uid": "XXITZMAJ"
+    },
+    {
+      "key": "J1-29",
+      "tip": [
+        420,
+        1235
+      ],
+      "direction": 2,
+      "name": "29",
+      "uid": "XZITKPUK"
+    },
+    {
+      "key": "J1-30",
+      "tip": [
+        580,
+        1235
+      ],
+      "direction": 0,
+      "name": "30",
+      "uid": "JXARTAMU"
+    },
+    {
+      "key": "J1-31",
+      "tip": [
+        420,
+        1225
+      ],
+      "direction": 2,
+      "name": "31",
+      "uid": "AJYGPZAV"
+    },
+    {
+      "key": "J1-32",
+      "tip": [
+        580,
+        1225
+      ],
+      "direction": 0,
+      "name": "32",
+      "uid": "LEDQPWDJ"
+    },
+    {
+      "key": "J1-33",
+      "tip": [
+        420,
+        1215
+      ],
+      "direction": 2,
+      "name": "33",
+      "uid": "UUHFAQCG"
+    },
+    {
+      "key": "J1-34",
+      "tip": [
+        580,
+        1215
+      ],
+      "direction": 0,
+      "name": "34",
+      "uid": "MIGEEMBF"
+    },
+    {
+      "key": "J1-35",
+      "tip": [
+        420,
+        1205
+      ],
+      "direction": 2,
+      "name": "35",
+      "uid": "VCWSLMRP"
+    },
+    {
+      "key": "J1-36",
+      "tip": [
+        580,
+        1205
+      ],
+      "direction": 0,
+      "name": "36",
+      "uid": "HBIYLLTC"
+    },
+    {
+      "key": "J1-37",
+      "tip": [
+        420,
+        1195
+      ],
+      "direction": 2,
+      "name": "37",
+      "uid": "SSLNABNG"
+    },
+    {
+      "key": "J1-38",
+      "tip": [
+        580,
+        1195
+      ],
+      "direction": 0,
+      "name": "38",
+      "uid": "PPHRHOYC"
+    },
+    {
+      "key": "J1-39",
+      "tip": [
+        420,
+        1185
+      ],
+      "direction": 2,
+      "name": "39",
+      "uid": "VFYGDXAT"
+    },
+    {
+      "key": "J1-40",
+      "tip": [
+        580,
+        1185
+      ],
+      "direction": 0,
+      "name": "40",
+      "uid": "AMPGUOZQ"
+    },
+    {
+      "key": "J1-41",
+      "tip": [
+        420,
+        1175
+      ],
+      "direction": 2,
+      "name": "41",
+      "uid": "UUNOGKTO"
+    },
+    {
+      "key": "J1-42",
+      "tip": [
+        580,
+        1175
+      ],
+      "direction": 0,
+      "name": "42",
+      "uid": "JCOIILCT"
+    },
+    {
+      "key": "J1-43",
+      "tip": [
+        420,
+        1165
+      ],
+      "direction": 2,
+      "name": "43",
+      "uid": "UPGWDCUL"
+    },
+    {
+      "key": "J1-44",
+      "tip": [
+        580,
+        1165
+      ],
+      "direction": 0,
+      "name": "44",
+      "uid": "RFNCMDRY"
+    },
+    {
+      "key": "J1-45",
+      "tip": [
+        420,
+        1155
+      ],
+      "direction": 2,
+      "name": "45",
+      "uid": "HIJWYBPR"
+    },
+    {
+      "key": "J1-46",
+      "tip": [
+        580,
+        1155
+      ],
+      "direction": 0,
+      "name": "46",
+      "uid": "FULVEIGW"
+    },
+    {
+      "key": "J1-47",
+      "tip": [
+        420,
+        1145
+      ],
+      "direction": 2,
+      "name": "47",
+      "uid": "QUZWBUGZ"
+    },
+    {
+      "key": "J1-48",
+      "tip": [
+        580,
+        1145
+      ],
+      "direction": 0,
+      "name": "48",
+      "uid": "PWWFVHBK"
+    },
+    {
+      "key": "J1-49",
+      "tip": [
+        420,
+        1135
+      ],
+      "direction": 2,
+      "name": "49",
+      "uid": "KMDLAKGA"
+    },
+    {
+      "key": "J1-50",
+      "tip": [
+        580,
+        1135
+      ],
+      "direction": 0,
+      "name": "50",
+      "uid": "QFQOWFJC"
+    },
+    {
+      "key": "J1-51",
+      "tip": [
+        420,
+        1125
+      ],
+      "direction": 2,
+      "name": "51",
+      "uid": "BHVVYRNP"
+    },
+    {
+      "key": "J1-52",
+      "tip": [
+        420,
+        1105
+      ],
+      "direction": 2,
+      "name": "MNT 1",
+      "uid": "QRBBTNSK"
+    },
+    {
+      "key": "J1-53",
+      "tip": [
+        580,
+        1105
+      ],
+      "direction": 0,
+      "name": "MNT 2",
+      "uid": "ICRPFOIS"
+    },
+    {
+      "key": "Q1-1",
+      "tip": [
+        1220,
+        1400
+      ],
+      "direction": 2,
+      "name": "SET_NE_BARRIER_L",
+      "uid": "UNOOJARQ"
+    },
+    {
+      "key": "Q1-2",
+      "tip": [
+        1220,
+        1380
+      ],
+      "direction": 2,
+      "name": "SET_NE_PLUNGER",
+      "uid": "RSTFOHQV"
+    },
+    {
+      "key": "Q1-3",
+      "tip": [
+        1220,
+        1360
+      ],
+      "direction": 2,
+      "name": "SET_NE_SCREEN",
+      "uid": "KFQIKFQG"
+    },
+    {
+      "key": "Q1-4",
+      "tip": [
+        1220,
+        1340
+      ],
+      "direction": 2,
+      "name": "SET_NE_BARRIER_R",
+      "uid": "QNOXEQJI"
+    },
+    {
+      "key": "Q1-5",
+      "tip": [
+        1220,
+        1320
+      ],
+      "direction": 2,
+      "name": "SET_NE_OHMIC_R",
+      "uid": "IPEEJOVI"
+    },
+    {
+      "key": "Q1-6",
+      "tip": [
+        1220,
+        1300
+      ],
+      "direction": 2,
+      "name": "SET_NE_SCREEN_AUX_R",
+      "uid": "PHNAKNUW"
+    },
+    {
+      "key": "Q1-7",
+      "tip": [
+        1220,
+        1280
+      ],
+      "direction": 2,
+      "name": "SET_NE_ACC_R",
+      "uid": "XCXKBJBK"
+    },
+    {
+      "key": "Q1-8",
+      "tip": [
+        1220,
+        1260
+      ],
+      "direction": 2,
+      "name": "SET_NE_SCREEN_QD",
+      "uid": "CGGKOZIA"
+    },
+    {
+      "key": "Q1-9",
+      "tip": [
+        1220,
+        1240
+      ],
+      "direction": 2,
+      "name": "QD_B_NE_SET",
+      "uid": "OZOEHISW"
+    },
+    {
+      "key": "Q1-10",
+      "tip": [
+        1220,
+        1220
+      ],
+      "direction": 2,
+      "name": "QD_SCREEN_NE",
+      "uid": "QCHNDRXZ"
+    },
+    {
+      "key": "Q1-11",
+      "tip": [
+        1220,
+        1200
+      ],
+      "direction": 2,
+      "name": "QD_NE_P",
+      "uid": "YPIUNRWJ"
+    },
+    {
+      "key": "Q1-12",
+      "tip": [
+        1220,
+        1180
+      ],
+      "direction": 2,
+      "name": "QD_BARRIER_N",
+      "uid": "HPRRJXVI"
+    },
+    {
+      "key": "Q1-13",
+      "tip": [
+        1220,
+        1160
+      ],
+      "direction": 2,
+      "name": "QD_NW_P",
+      "uid": "RWQKWSZT"
+    },
+    {
+      "key": "Q1-14",
+      "tip": [
+        1220,
+        1140
+      ],
+      "direction": 2,
+      "name": "QD_SCREEN_NW",
+      "uid": "EMWOZOLD"
+    },
+    {
+      "key": "Q1-15",
+      "tip": [
+        1220,
+        1120
+      ],
+      "direction": 2,
+      "name": "QD_BARRIER_W",
+      "uid": "WKWQLJRX"
+    },
+    {
+      "key": "Q1-16",
+      "tip": [
+        1220,
+        1100
+      ],
+      "direction": 2,
+      "name": "SET_SW_BARRIER_UPPER_L",
+      "uid": "TMIEJVPU"
+    },
+    {
+      "key": "Q1-17",
+      "tip": [
+        1220,
+        1080
+      ],
+      "direction": 2,
+      "name": "SET_SW_ACC_L",
+      "uid": "XTAMDPGJ"
+    },
+    {
+      "key": "Q1-18",
+      "tip": [
+        1220,
+        1060
+      ],
+      "direction": 2,
+      "name": "SET_SW_SCREEN_AUX_L",
+      "uid": "MCYPZDMY"
+    },
+    {
+      "key": "Q1-19",
+      "tip": [
+        1220,
+        1040
+      ],
+      "direction": 2,
+      "name": "SET_SW_OHMIC_L",
+      "uid": "YCBILGXP"
+    },
+    {
+      "key": "Q1-20",
+      "tip": [
+        1680,
+        1400
+      ],
+      "direction": 0,
+      "name": "SET_SW_BARRIER_L",
+      "uid": "FSEDLTZK"
+    },
+    {
+      "key": "Q1-21",
+      "tip": [
+        1680,
+        1380
+      ],
+      "direction": 0,
+      "name": "SET_SW_PLUNGER",
+      "uid": "SVVJBYBF"
+    },
+    {
+      "key": "Q1-22",
+      "tip": [
+        1680,
+        1360
+      ],
+      "direction": 0,
+      "name": "SET_SW_SCREEN",
+      "uid": "AMCWKJWH"
+    },
+    {
+      "key": "Q1-23",
+      "tip": [
+        1680,
+        1340
+      ],
+      "direction": 0,
+      "name": "SET_SW_BARRIER_R",
+      "uid": "MAPSSYHQ"
+    },
+    {
+      "key": "Q1-24",
+      "tip": [
+        1680,
+        1320
+      ],
+      "direction": 0,
+      "name": "SET_SW_OHMIC_R",
+      "uid": "JHQCUSMT"
+    },
+    {
+      "key": "Q1-25",
+      "tip": [
+        1680,
+        1300
+      ],
+      "direction": 0,
+      "name": "SET_SW_SCREEN_AUX_R",
+      "uid": "FWRUGGLR"
+    },
+    {
+      "key": "Q1-26",
+      "tip": [
+        1680,
+        1280
+      ],
+      "direction": 0,
+      "name": "SET_SW_ACC_R",
+      "uid": "UTGSCSGH"
+    },
+    {
+      "key": "Q1-27",
+      "tip": [
+        1680,
+        1260
+      ],
+      "direction": 0,
+      "name": "SET_SW_SCREEN_QD",
+      "uid": "XMSCJWHF"
+    },
+    {
+      "key": "Q1-28",
+      "tip": [
+        1680,
+        1240
+      ],
+      "direction": 0,
+      "name": "QD_B_SW_SET",
+      "uid": "MSIRGZQH"
+    },
+    {
+      "key": "Q1-29",
+      "tip": [
+        1680,
+        1220
+      ],
+      "direction": 0,
+      "name": "QD_SCREEN_SW",
+      "uid": "NHFMSIIP"
+    },
+    {
+      "key": "Q1-30",
+      "tip": [
+        1680,
+        1200
+      ],
+      "direction": 0,
+      "name": "QD_SW_P",
+      "uid": "ISOPIMDY"
+    },
+    {
+      "key": "Q1-31",
+      "tip": [
+        1680,
+        1180
+      ],
+      "direction": 0,
+      "name": "QD_BARRIER_S",
+      "uid": "SCIWPTTY"
+    },
+    {
+      "key": "Q1-32",
+      "tip": [
+        1680,
+        1160
+      ],
+      "direction": 0,
+      "name": "QD_SE_P",
+      "uid": "CNFZSPRM"
+    },
+    {
+      "key": "Q1-33",
+      "tip": [
+        1680,
+        1140
+      ],
+      "direction": 0,
+      "name": "QD_SCREEN_SE",
+      "uid": "UZZPKWYE"
+    },
+    {
+      "key": "Q1-34",
+      "tip": [
+        1680,
+        1120
+      ],
+      "direction": 0,
+      "name": "QD_BARRIER_E",
+      "uid": "DELBVFBK"
+    },
+    {
+      "key": "Q1-35",
+      "tip": [
+        1680,
+        1100
+      ],
+      "direction": 0,
+      "name": "SET_NE_BARRIER_UPPER_L",
+      "uid": "QLMGICQI"
+    },
+    {
+      "key": "Q1-36",
+      "tip": [
+        1680,
+        1080
+      ],
+      "direction": 0,
+      "name": "SET_NE_ACC_L",
+      "uid": "WQBYJINT"
+    },
+    {
+      "key": "Q1-37",
+      "tip": [
+        1680,
+        1060
+      ],
+      "direction": 0,
+      "name": "SET_NE_SCREEN_AUX_L",
+      "uid": "NEKDUGAA"
+    },
+    {
+      "key": "Q1-38",
+      "tip": [
+        1680,
+        1040
+      ],
+      "direction": 0,
+      "name": "SET_NE_OHMIC_L",
+      "uid": "PZWCBZJH"
+    },
+    {
+      "key": "SMP12-1",
+      "tip": [
+        200,
+        860
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "MFNOAEJY"
+    },
+    {
+      "key": "SMP12-2",
+      "tip": [
+        200,
+        850
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "VUJMTRGW"
+    },
+    {
+      "key": "SMP12-3",
+      "tip": [
+        200,
+        840
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "QUBQLCDB"
+    },
+    {
+      "key": "SMP12-4",
+      "tip": [
+        200,
+        830
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "NESOLFPO"
+    },
+    {
+      "key": "SMP12-5",
+      "tip": [
+        200,
+        820
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "SFGKCKOT"
+    },
+    {
+      "key": "C12-1",
+      "tip": [
+        340,
+        840
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "DTARYVHT"
+    },
+    {
+      "key": "C12-2",
+      "tip": [
+        380,
+        840
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "FXHXIBIF"
+    },
+    {
+      "key": "R12-1",
+      "tip": [
+        540,
+        840
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "DKOVMJDS"
+    },
+    {
+      "key": "R12-2",
+      "tip": [
+        580,
+        840
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "HPRAHKDY"
+    },
+    {
+      "key": "SMP11-1",
+      "tip": [
+        780,
+        860
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "TPGZGYSY"
+    },
+    {
+      "key": "SMP11-2",
+      "tip": [
+        780,
+        850
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "GJBSUAAB"
+    },
+    {
+      "key": "SMP11-3",
+      "tip": [
+        780,
+        840
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "WGFTFNJQ"
+    },
+    {
+      "key": "SMP11-4",
+      "tip": [
+        780,
+        830
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "PYGDXNKZ"
+    },
+    {
+      "key": "SMP11-5",
+      "tip": [
+        780,
+        820
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "DTWDIDGL"
+    },
+    {
+      "key": "C11-1",
+      "tip": [
+        920,
+        840
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "TYMOWMJE"
+    },
+    {
+      "key": "C11-2",
+      "tip": [
+        960,
+        840
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "KZVFEAON"
+    },
+    {
+      "key": "R11-1",
+      "tip": [
+        1120,
+        840
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "FCQGBEWI"
+    },
+    {
+      "key": "R11-2",
+      "tip": [
+        1160,
+        840
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "MCJTSSPX"
+    },
+    {
+      "key": "SMP09-1",
+      "tip": [
+        1360,
+        860
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "IQWXALOB"
+    },
+    {
+      "key": "SMP09-2",
+      "tip": [
+        1360,
+        850
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "LMTXXCCB"
+    },
+    {
+      "key": "SMP09-3",
+      "tip": [
+        1360,
+        840
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "MRGVXMXR"
+    },
+    {
+      "key": "SMP09-4",
+      "tip": [
+        1360,
+        830
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "CLEJICBH"
+    },
+    {
+      "key": "SMP09-5",
+      "tip": [
+        1360,
+        820
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "RFSVNDQZ"
+    },
+    {
+      "key": "C09-1",
+      "tip": [
+        1500,
+        840
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "SIGBPZJV"
+    },
+    {
+      "key": "C09-2",
+      "tip": [
+        1540,
+        840
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "JTPDJYEM"
+    },
+    {
+      "key": "R09-1",
+      "tip": [
+        1700,
+        840
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "ZXZQRTBF"
+    },
+    {
+      "key": "R09-2",
+      "tip": [
+        1740,
+        840
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "WMFJSIGL"
+    },
+    {
+      "key": "SMP13-1",
+      "tip": [
+        1940,
+        860
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "KCWPAPCE"
+    },
+    {
+      "key": "SMP13-2",
+      "tip": [
+        1940,
+        850
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "VZPEYTLU"
+    },
+    {
+      "key": "SMP13-3",
+      "tip": [
+        1940,
+        840
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "DAYGIQEC"
+    },
+    {
+      "key": "SMP13-4",
+      "tip": [
+        1940,
+        830
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "RFPFHJDV"
+    },
+    {
+      "key": "SMP13-5",
+      "tip": [
+        1940,
+        820
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "XQRORDQN"
+    },
+    {
+      "key": "C13-1",
+      "tip": [
+        2080,
+        840
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "LJCRRKRM"
+    },
+    {
+      "key": "C13-2",
+      "tip": [
+        2120,
+        840
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "ZTJAAXIQ"
+    },
+    {
+      "key": "R13-1",
+      "tip": [
+        2280,
+        840
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "XXPLBMMV"
+    },
+    {
+      "key": "R13-2",
+      "tip": [
+        2320,
+        840
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "RWLESPMW"
+    },
+    {
+      "key": "SMP15-1",
+      "tip": [
+        200,
+        680
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "ONQYIDXN"
+    },
+    {
+      "key": "SMP15-2",
+      "tip": [
+        200,
+        670
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "EXYJGYGR"
+    },
+    {
+      "key": "SMP15-3",
+      "tip": [
+        200,
+        660
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "DBTIRKJD"
+    },
+    {
+      "key": "SMP15-4",
+      "tip": [
+        200,
+        650
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "MVZGUOBR"
+    },
+    {
+      "key": "SMP15-5",
+      "tip": [
+        200,
+        640
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "LXMLFICA"
+    },
+    {
+      "key": "C15-1",
+      "tip": [
+        340,
+        660
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "OZISQHCK"
+    },
+    {
+      "key": "C15-2",
+      "tip": [
+        380,
+        660
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "FRPRZNIC"
+    },
+    {
+      "key": "R15-1",
+      "tip": [
+        540,
+        660
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "OFPSXFIU"
+    },
+    {
+      "key": "R15-2",
+      "tip": [
+        580,
+        660
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "AJMMAANI"
+    },
+    {
+      "key": "SMP21-1",
+      "tip": [
+        780,
+        680
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "OPLIVAAI"
+    },
+    {
+      "key": "SMP21-2",
+      "tip": [
+        780,
+        670
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "HUFFSXEZ"
+    },
+    {
+      "key": "SMP21-3",
+      "tip": [
+        780,
+        660
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "REWVROHO"
+    },
+    {
+      "key": "SMP21-4",
+      "tip": [
+        780,
+        650
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "ORJVUJCH"
+    },
+    {
+      "key": "SMP21-5",
+      "tip": [
+        780,
+        640
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "AOFCMHVG"
+    },
+    {
+      "key": "C21-1",
+      "tip": [
+        920,
+        660
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "ESADKRWU"
+    },
+    {
+      "key": "C21-2",
+      "tip": [
+        960,
+        660
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "SNYTNVMX"
+    },
+    {
+      "key": "R21-1",
+      "tip": [
+        1120,
+        660
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "AXEHERXH"
+    },
+    {
+      "key": "R21-2",
+      "tip": [
+        1160,
+        660
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "XOEMGUZY"
+    },
+    {
+      "key": "SMP16-1",
+      "tip": [
+        1360,
+        680
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "PDTJWTDA"
+    },
+    {
+      "key": "SMP16-2",
+      "tip": [
+        1360,
+        670
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "MUGCBRIP"
+    },
+    {
+      "key": "SMP16-3",
+      "tip": [
+        1360,
+        660
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "NXAQPHKN"
+    },
+    {
+      "key": "SMP16-4",
+      "tip": [
+        1360,
+        650
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "QVLCULHW"
+    },
+    {
+      "key": "SMP16-5",
+      "tip": [
+        1360,
+        640
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "HCGZOOOB"
+    },
+    {
+      "key": "C16-1",
+      "tip": [
+        1500,
+        660
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "UTFZBLPF"
+    },
+    {
+      "key": "C16-2",
+      "tip": [
+        1540,
+        660
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "PKLDJCBT"
+    },
+    {
+      "key": "R16-1",
+      "tip": [
+        1700,
+        660
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "GPPCHQRG"
+    },
+    {
+      "key": "R16-2",
+      "tip": [
+        1740,
+        660
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "SWHZQREW"
+    },
+    {
+      "key": "SMP24-1",
+      "tip": [
+        1940,
+        680
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "EYVCUPKN"
+    },
+    {
+      "key": "SMP24-2",
+      "tip": [
+        1940,
+        670
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "CVUWKPSH"
+    },
+    {
+      "key": "SMP24-3",
+      "tip": [
+        1940,
+        660
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "LMGYPCLQ"
+    },
+    {
+      "key": "SMP24-4",
+      "tip": [
+        1940,
+        650
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "UYAGVIAG"
+    },
+    {
+      "key": "SMP24-5",
+      "tip": [
+        1940,
+        640
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "GGDHIPEO"
+    },
+    {
+      "key": "C24-1",
+      "tip": [
+        2080,
+        660
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "CQTGZHRT"
+    },
+    {
+      "key": "C24-2",
+      "tip": [
+        2120,
+        660
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "OZTVGRPI"
+    },
+    {
+      "key": "R24-1",
+      "tip": [
+        2280,
+        660
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "UEJAAKSD"
+    },
+    {
+      "key": "R24-2",
+      "tip": [
+        2320,
+        660
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "WUIODVYO"
+    },
+    {
+      "key": "SMP31-1",
+      "tip": [
+        200,
+        500
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "KXVGIUCN"
+    },
+    {
+      "key": "SMP31-2",
+      "tip": [
+        200,
+        490
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "EOKJWXXZ"
+    },
+    {
+      "key": "SMP31-3",
+      "tip": [
+        200,
+        480
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "YBECQLKQ"
+    },
+    {
+      "key": "SMP31-4",
+      "tip": [
+        200,
+        470
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "VRIKJGIT"
+    },
+    {
+      "key": "SMP31-5",
+      "tip": [
+        200,
+        460
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "QUAAALLK"
+    },
+    {
+      "key": "C31-1",
+      "tip": [
+        340,
+        480
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "SGGSGFTI"
+    },
+    {
+      "key": "C31-2",
+      "tip": [
+        380,
+        480
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "FRQPQZYL"
+    },
+    {
+      "key": "R31-1",
+      "tip": [
+        540,
+        480
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "IPELDUFL"
+    },
+    {
+      "key": "R31-2",
+      "tip": [
+        580,
+        480
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "HSAZXUCZ"
+    },
+    {
+      "key": "SMP30-1",
+      "tip": [
+        780,
+        500
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "UGNUISYE"
+    },
+    {
+      "key": "SMP30-2",
+      "tip": [
+        780,
+        490
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "CVSCYCQA"
+    },
+    {
+      "key": "SMP30-3",
+      "tip": [
+        780,
+        480
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "IYFMQVXB"
+    },
+    {
+      "key": "SMP30-4",
+      "tip": [
+        780,
+        470
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "GEWNWFZJ"
+    },
+    {
+      "key": "SMP30-5",
+      "tip": [
+        780,
+        460
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "VJUCKBLZ"
+    },
+    {
+      "key": "C30-1",
+      "tip": [
+        920,
+        480
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "QVYIQHXH"
+    },
+    {
+      "key": "C30-2",
+      "tip": [
+        960,
+        480
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "LTPYVIAE"
+    },
+    {
+      "key": "R30-1",
+      "tip": [
+        1120,
+        480
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "HRLAQXKQ"
+    },
+    {
+      "key": "R30-2",
+      "tip": [
+        1160,
+        480
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "OVSXYWFP"
+    },
+    {
+      "key": "SMP28-1",
+      "tip": [
+        1360,
+        500
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "ENVOJSGT"
+    },
+    {
+      "key": "SMP28-2",
+      "tip": [
+        1360,
+        490
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "KMDCATIC"
+    },
+    {
+      "key": "SMP28-3",
+      "tip": [
+        1360,
+        480
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "UPVJPBDB"
+    },
+    {
+      "key": "SMP28-4",
+      "tip": [
+        1360,
+        470
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "HGRXXJCO"
+    },
+    {
+      "key": "SMP28-5",
+      "tip": [
+        1360,
+        460
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "BCYCHVBY"
+    },
+    {
+      "key": "C28-1",
+      "tip": [
+        1500,
+        480
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "CQOFDIES"
+    },
+    {
+      "key": "C28-2",
+      "tip": [
+        1540,
+        480
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "TDRKOCWH"
+    },
+    {
+      "key": "R28-1",
+      "tip": [
+        1700,
+        480
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "EDPCKKAN"
+    },
+    {
+      "key": "R28-2",
+      "tip": [
+        1740,
+        480
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "KPNGJVJO"
+    },
+    {
+      "key": "SMP32-1",
+      "tip": [
+        1940,
+        500
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "LZKKJHJA"
+    },
+    {
+      "key": "SMP32-2",
+      "tip": [
+        1940,
+        490
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "HIFMUZXW"
+    },
+    {
+      "key": "SMP32-3",
+      "tip": [
+        1940,
+        480
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "FAVURIEY"
+    },
+    {
+      "key": "SMP32-4",
+      "tip": [
+        1940,
+        470
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "SGSQFOZY"
+    },
+    {
+      "key": "SMP32-5",
+      "tip": [
+        1940,
+        460
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "RDOCVTVR"
+    },
+    {
+      "key": "C32-1",
+      "tip": [
+        2080,
+        480
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "OSRUCEVS"
+    },
+    {
+      "key": "C32-2",
+      "tip": [
+        2120,
+        480
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "NVIAECWZ"
+    },
+    {
+      "key": "R32-1",
+      "tip": [
+        2280,
+        480
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "ENYLXSJT"
+    },
+    {
+      "key": "R32-2",
+      "tip": [
+        2320,
+        480
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "VJZGLTRI"
+    },
+    {
+      "key": "SMP34-1",
+      "tip": [
+        200,
+        320
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "PMLLGQUD"
+    },
+    {
+      "key": "SMP34-2",
+      "tip": [
+        200,
+        310
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "KTDKUNQW"
+    },
+    {
+      "key": "SMP34-3",
+      "tip": [
+        200,
+        300
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "ERCYVHZU"
+    },
+    {
+      "key": "SMP34-4",
+      "tip": [
+        200,
+        290
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "FABCJPSK"
+    },
+    {
+      "key": "SMP34-5",
+      "tip": [
+        200,
+        280
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "TLVVKZYG"
+    },
+    {
+      "key": "C34-1",
+      "tip": [
+        340,
+        300
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "TRZGMSHD"
+    },
+    {
+      "key": "C34-2",
+      "tip": [
+        380,
+        300
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "ZUNWSMMI"
+    },
+    {
+      "key": "R34-1",
+      "tip": [
+        540,
+        300
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "ZSULNTGU"
+    },
+    {
+      "key": "R34-2",
+      "tip": [
+        580,
+        300
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "PVYYZKPH"
+    },
+    {
+      "key": "SMP35-1",
+      "tip": [
+        780,
+        320
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "UFSKRVDO"
+    },
+    {
+      "key": "SMP35-2",
+      "tip": [
+        780,
+        310
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "LYFZZQBZ"
+    },
+    {
+      "key": "SMP35-3",
+      "tip": [
+        780,
+        300
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "OBXSVVIS"
+    },
+    {
+      "key": "SMP35-4",
+      "tip": [
+        780,
+        290
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "MEOHRTBE"
+    },
+    {
+      "key": "SMP35-5",
+      "tip": [
+        780,
+        280
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "MACNBJFM"
+    },
+    {
+      "key": "C35-1",
+      "tip": [
+        920,
+        300
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "NSEOSPZK"
+    },
+    {
+      "key": "C35-2",
+      "tip": [
+        960,
+        300
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "YTVVZUAA"
+    },
+    {
+      "key": "R35-1",
+      "tip": [
+        1120,
+        300
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "HBRNPBQF"
+    },
+    {
+      "key": "R35-2",
+      "tip": [
+        1160,
+        300
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "KFZFQPKB"
+    },
+    {
+      "key": "SMP02-1",
+      "tip": [
+        1360,
+        320
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "AIXVRDVB"
+    },
+    {
+      "key": "SMP02-2",
+      "tip": [
+        1360,
+        310
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "TWXSNEZD"
+    },
+    {
+      "key": "SMP02-3",
+      "tip": [
+        1360,
+        300
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "JLSZIVIN"
+    },
+    {
+      "key": "SMP02-4",
+      "tip": [
+        1360,
+        290
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "MMRKJDII"
+    },
+    {
+      "key": "SMP02-5",
+      "tip": [
+        1360,
+        280
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "CQYBAHVG"
+    },
+    {
+      "key": "C02-1",
+      "tip": [
+        1500,
+        300
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "SGNPUPII"
+    },
+    {
+      "key": "C02-2",
+      "tip": [
+        1540,
+        300
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "VCQMQHQJ"
+    },
+    {
+      "key": "R02-1",
+      "tip": [
+        1700,
+        300
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "EXQANCWM"
+    },
+    {
+      "key": "R02-2",
+      "tip": [
+        1740,
+        300
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "RTAXGXGJ"
+    },
+    {
+      "key": "SMP05-1",
+      "tip": [
+        1940,
+        320
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "VJEWPEGR"
+    },
+    {
+      "key": "SMP05-2",
+      "tip": [
+        1940,
+        310
+      ],
+      "direction": 2,
+      "name": "2",
+      "uid": "FIHCIVTP"
+    },
+    {
+      "key": "SMP05-3",
+      "tip": [
+        1940,
+        300
+      ],
+      "direction": 2,
+      "name": "3",
+      "uid": "BGSRHELF"
+    },
+    {
+      "key": "SMP05-4",
+      "tip": [
+        1940,
+        290
+      ],
+      "direction": 2,
+      "name": "4",
+      "uid": "ISEGZFBG"
+    },
+    {
+      "key": "SMP05-5",
+      "tip": [
+        1940,
+        280
+      ],
+      "direction": 2,
+      "name": "5",
+      "uid": "FKWGVKDJ"
+    },
+    {
+      "key": "C05-1",
+      "tip": [
+        2080,
+        300
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "SQHUVTZD"
+    },
+    {
+      "key": "C05-2",
+      "tip": [
+        2120,
+        300
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "UTYZPHVR"
+    },
+    {
+      "key": "R05-1",
+      "tip": [
+        2280,
+        300
+      ],
+      "direction": 2,
+      "name": "1",
+      "uid": "ORYKNOQQ"
+    },
+    {
+      "key": "R05-2",
+      "tip": [
+        2320,
+        300
+      ],
+      "direction": 0,
+      "name": "2",
+      "uid": "ECCJDJBL"
+    }
+  ],
+  "pin_net": {
+    "J1-48": "DC05",
+    "R35-2": "DC05",
+    "J1-46": "DC36",
+    "Q1-36": "DC36",
+    "J1-44": "DC32",
+    "R30-2": "DC32",
+    "J1-42": "DC30",
+    "R24-2": "DC30",
+    "J1-40": "DC31",
+    "R21-2": "DC31",
+    "J1-38": "DC27",
+    "Q1-27": "DC27",
+    "J1-36": "DC29",
+    "Q1-29": "DC29",
+    "J1-34": "DC03",
+    "Q1-3": "DC03",
+    "J1-32": "DC26",
+    "Q1-26": "DC26",
+    "J1-30": "DC25",
+    "Q1-25": "DC25",
+    "J1-28": "DC37",
+    "Q1-37": "DC37",
+    "J1-26": "DC28",
+    "R28-2": "DC28",
+    "J1-24": "DC19",
+    "Q1-19": "DC19",
+    "J1-22": "DC23",
+    "Q1-23": "DC23",
+    "J1-20": "DC22",
+    "Q1-22": "DC22",
+    "J1-18": "DC24",
+    "R16-2": "DC24",
+    "J1-16": "DC20",
+    "Q1-20": "DC20",
+    "J1-14": "DC06",
+    "Q1-6": "DC06",
+    "J1-12": "DC18",
+    "Q1-18": "DC18",
+    "J1-10": "DC17",
+    "Q1-17": "DC17",
+    "J1-8": "DC15",
+    "R12-2": "DC15",
+    "J1-6": "DC04",
+    "Q1-4": "DC04",
+    "J1-4": "DC13",
+    "R11-2": "DC13",
+    "J1-2": "DC08",
+    "Q1-8": "DC08",
+    "J1-27": "DC38",
+    "Q1-38": "DC38",
+    "J1-25": "DC02",
+    "R34-2": "DC02",
+    "J1-23": "DC33",
+    "Q1-33": "DC33",
+    "J1-21": "DC35",
+    "R32-2": "DC35",
+    "J1-19": "DC34",
+    "R31-2": "DC34",
+    "J1-17": "DC14",
+    "Q1-14": "DC14",
+    "J1-15": "DC07",
+    "Q1-7": "DC07",
+    "J1-13": "DC21",
+    "R13-2": "DC21",
+    "J1-11": "DC10",
+    "Q1-10": "DC10",
+    "J1-9": "DC01",
+    "Q1-1": "DC01",
+    "J1-7": "DC16",
+    "R15-2": "DC16",
+    "J1-5": "DC12",
+    "R02-2": "DC12",
+    "J1-3": "DC09",
+    "R09-2": "DC09",
+    "J1-1": "DC11",
+    "R05-2": "DC11",
+    "Q1-2": "MW02",
+    "C34-2": "MW02",
+    "R34-1": "MW02",
+    "Q1-5": "MW05",
+    "C35-2": "MW05",
+    "R35-1": "MW05",
+    "Q1-9": "MW09",
+    "C09-2": "MW09",
+    "R09-1": "MW09",
+    "Q1-11": "MW11",
+    "C05-2": "MW11",
+    "R05-1": "MW11",
+    "Q1-12": "MW12",
+    "C02-2": "MW12",
+    "R02-1": "MW12",
+    "Q1-13": "MW13",
+    "C11-2": "MW13",
+    "R11-1": "MW13",
+    "Q1-15": "MW15",
+    "C12-2": "MW15",
+    "R12-1": "MW15",
+    "Q1-16": "MW16",
+    "C15-2": "MW16",
+    "R15-1": "MW16",
+    "Q1-21": "MW21",
+    "C13-2": "MW21",
+    "R13-1": "MW21",
+    "Q1-24": "MW24",
+    "C16-2": "MW24",
+    "R16-1": "MW24",
+    "Q1-28": "MW28",
+    "C28-2": "MW28",
+    "R28-1": "MW28",
+    "Q1-30": "MW30",
+    "C24-2": "MW30",
+    "R24-1": "MW30",
+    "Q1-31": "MW31",
+    "C21-2": "MW31",
+    "R21-1": "MW31",
+    "Q1-32": "MW32",
+    "C30-2": "MW32",
+    "R30-1": "MW32",
+    "Q1-34": "MW34",
+    "C31-2": "MW34",
+    "R31-1": "MW34",
+    "Q1-35": "MW35",
+    "C32-2": "MW35",
+    "R32-1": "MW35",
+    "SMP02-1": "S02",
+    "C02-1": "S02",
+    "SMP02-2": "GND",
+    "SMP02-3": "GND",
+    "SMP02-4": "GND",
+    "SMP02-5": "GND",
+    "SMP05-2": "GND",
+    "SMP05-3": "GND",
+    "SMP05-4": "GND",
+    "SMP05-5": "GND",
+    "SMP09-2": "GND",
+    "SMP09-3": "GND",
+    "SMP09-4": "GND",
+    "SMP09-5": "GND",
+    "SMP11-2": "GND",
+    "SMP11-3": "GND",
+    "SMP11-4": "GND",
+    "SMP11-5": "GND",
+    "SMP12-2": "GND",
+    "SMP12-3": "GND",
+    "SMP12-4": "GND",
+    "SMP12-5": "GND",
+    "SMP13-2": "GND",
+    "SMP13-3": "GND",
+    "SMP13-4": "GND",
+    "SMP13-5": "GND",
+    "SMP15-2": "GND",
+    "SMP15-3": "GND",
+    "SMP15-4": "GND",
+    "SMP15-5": "GND",
+    "SMP16-2": "GND",
+    "SMP16-3": "GND",
+    "SMP16-4": "GND",
+    "SMP16-5": "GND",
+    "SMP21-2": "GND",
+    "SMP21-3": "GND",
+    "SMP21-4": "GND",
+    "SMP21-5": "GND",
+    "SMP24-2": "GND",
+    "SMP24-3": "GND",
+    "SMP24-4": "GND",
+    "SMP24-5": "GND",
+    "SMP28-2": "GND",
+    "SMP28-3": "GND",
+    "SMP28-4": "GND",
+    "SMP28-5": "GND",
+    "SMP30-2": "GND",
+    "SMP30-3": "GND",
+    "SMP30-4": "GND",
+    "SMP30-5": "GND",
+    "SMP31-2": "GND",
+    "SMP31-3": "GND",
+    "SMP31-4": "GND",
+    "SMP31-5": "GND",
+    "SMP32-2": "GND",
+    "SMP32-3": "GND",
+    "SMP32-4": "GND",
+    "SMP32-5": "GND",
+    "SMP34-2": "GND",
+    "SMP34-3": "GND",
+    "SMP34-4": "GND",
+    "SMP34-5": "GND",
+    "SMP35-2": "GND",
+    "SMP35-3": "GND",
+    "SMP35-4": "GND",
+    "SMP35-5": "GND",
+    "SMP05-1": "S05",
+    "C05-1": "S05",
+    "SMP09-1": "S09",
+    "C09-1": "S09",
+    "SMP11-1": "S11",
+    "C11-1": "S11",
+    "SMP12-1": "S12",
+    "C12-1": "S12",
+    "SMP13-1": "S13",
+    "C13-1": "S13",
+    "SMP15-1": "S15",
+    "C15-1": "S15",
+    "SMP16-1": "S16",
+    "C16-1": "S16",
+    "SMP21-1": "S21",
+    "C21-1": "S21",
+    "SMP24-1": "S24",
+    "C24-1": "S24",
+    "SMP28-1": "S28",
+    "C28-1": "S28",
+    "SMP30-1": "S30",
+    "C30-1": "S30",
+    "SMP31-1": "S31",
+    "C31-1": "S31",
+    "SMP32-1": "S32",
+    "C32-1": "S32",
+    "SMP34-1": "S34",
+    "C34-1": "S34",
+    "SMP35-1": "S35",
+    "C35-1": "S35"
+  },
+  "nc": [
+    "J1-29",
+    "J1-31",
+    "J1-33",
+    "J1-35",
+    "J1-37",
+    "J1-39",
+    "J1-41",
+    "J1-43",
+    "J1-45",
+    "J1-47",
+    "J1-49",
+    "J1-50",
+    "J1-51",
+    "J1-52",
+    "J1-53"
+  ],
+  "schematic_geometry_validation": {
+    "passed": true,
+    "pin_count": 235,
+    "wires": 220,
+    "net_labels": 220,
+    "NC": 15,
+    "unintended_geometric_joins": []
+  },
+  "components": {
+    "J1": "FXPBLIHO",
+    "Q1": "NAZROLMU",
+    "SMP12": "JZJMGRUQ",
+    "C12": "AWKMMUSM",
+    "R12": "DVVKXYNB",
+    "SMP11": "HKWHZDJW",
+    "C11": "CODLONBZ",
+    "R11": "SZPXUJYH",
+    "SMP09": "RVXTEQXZ",
+    "C09": "NWFEJXIS",
+    "R09": "AJZFPRQV",
+    "SMP13": "BGSIEFFC",
+    "C13": "GIDQQUVM",
+    "R13": "IKVMCJVA",
+    "SMP15": "QYNMGPJL",
+    "C15": "ZUWQZJEX",
+    "R15": "IECSKIUG",
+    "SMP21": "MVOEGAPH",
+    "C21": "BTZSUUBO",
+    "R21": "CFAUOENZ",
+    "SMP16": "SYSHXAOB",
+    "C16": "ONYKUWFG",
+    "R16": "BZYJWWMX",
+    "SMP24": "RIZTNFDP",
+    "C24": "MFVKYXNL",
+    "R24": "TMMMWVQQ",
+    "SMP31": "KLJJFOXH",
+    "C31": "ZPSQOKHC",
+    "R31": "PDNOVJBQ",
+    "SMP30": "VOSQREKU",
+    "C30": "DMFFJRKG",
+    "R30": "DRPHROBI",
+    "SMP28": "ULAZUBJL",
+    "C28": "SRWCUASJ",
+    "R28": "LQRPMAVF",
+    "SMP32": "ENQAAESJ",
+    "C32": "RCMXZLBY",
+    "R32": "UDHMANAP",
+    "SMP34": "PHVTEATX",
+    "C34": "BGCTKAHI",
+    "R34": "KNJKJOFB",
+    "SMP35": "ABPCFKZX",
+    "C35": "KTCKJXCX",
+    "R35": "YOWYLBZR",
+    "SMP02": "ROJZOKSC",
+    "C02": "HOXZXOIL",
+    "R02": "XEYIHRRE",
+    "SMP05": "QHEOFIPQ",
+    "C05": "UDGQERMZ",
+    "R05": "VXPQRAXF"
+  },
+  "schematic_sha256": "e6d83b6a6b7d74bc14fc5d10041c3d76ee38e315133cc71012b8034f834e6249"
+}

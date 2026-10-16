@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=FixSMPBodySide.pas
+[Generic_ScriptingSystem]
+StartProcName=FixSMPBodySide.pas>FixSMPBodySide

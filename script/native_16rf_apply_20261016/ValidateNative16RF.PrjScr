@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ValidateNative16RF.pas
+[Generic_ScriptingSystem]
+StartProcName=ValidateNative16RF.pas>ValidateNative16RF

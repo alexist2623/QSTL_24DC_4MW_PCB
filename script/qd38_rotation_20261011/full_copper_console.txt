@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "minimum_foreign_copper_gap_mm": 0.1049999999999951,
+  "minimum_internal_DC_pair_gap_mm": 0.1049999999999951,
+  "internal_DC_pair_rule_mm": 0.1,
+  "other_pair_rule_mm": 0.15,
+  "signal_arcs": 62,
+  "tracks": 582,
+  "candidate_sha256": "835347e328b421354c924653c1e877808d68353ba2ac7c85b727b1fe96d92495"
+}
+FAILURES 0 []

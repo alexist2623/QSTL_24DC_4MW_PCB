@@ -1,0 +1,373 @@
+AUDIT {
+  "passed": true,
+  "failures": [],
+  "routes": 38,
+  "layer_counts": {
+    "2": 19,
+    "3": 19
+  },
+  "planned_layer_roles": {
+    "1": "GND",
+    "2": "DC_A",
+    "3": "DC_B",
+    "4": "GND",
+    "5": "GND",
+    "6": "RF_QD"
+  },
+  "dc_width_mm": 0.125,
+  "minimums": {
+    "normalized static clearance": {
+      "gap_mm": 0.10316756826193448,
+      "a": "DC04",
+      "b": "static",
+      "required_mm": 0.1
+    },
+    "DC trace to foreign via land": {
+      "gap_mm": 0.11226534952093664,
+      "a": "DC37",
+      "b": "J1-2",
+      "required_mm": 0.1
+    },
+    "DC trace to foreign drill edge": {
+      "gap_mm": 0.20357164204958364,
+      "a": "DC36",
+      "b": "Q1-37",
+      "required_mm": 0.2
+    },
+    "DC trace to mounting envelope": {
+      "gap_mm": 0.7774999999999953,
+      "a": "DC11",
+      "b": "P2",
+      "required_mm": 0.2
+    },
+    "DC trace to cavity": {
+      "gap_mm": 0.15316756826193564,
+      "a": "DC04",
+      "b": "cavity",
+      "required_mm": 0.15
+    },
+    "DC trace to trace": {
+      "gap_mm": 0.10693102422918661,
+      "a": "DC35",
+      "b": "DC37",
+      "required_mm": 0.1
+    },
+    "Top fanout to foreign pad": {
+      "gap_mm": 0.37499924999999834,
+      "a": "J1-48",
+      "b": "J1-46",
+      "required_mm": 0.15
+    },
+    "Top fanout to foreign via": {
+      "gap_mm": 0.32499894999999873,
+      "a": "J1-48",
+      "b": "J1-46",
+      "required_mm": 0.15
+    },
+    "Top fanout to fanout": {
+      "gap_mm": 0.44999909999999943,
+      "a": "J1-11",
+      "b": "J1-9",
+      "required_mm": 0.15
+    }
+  },
+  "terminal_geometry": {
+    "passed": true,
+    "failures": [],
+    "minimums_mm": {
+      "via to RF copper": 0.2693951373705056,
+      "via to shield land": 0.2033951051880604,
+      "via to foreign Bottom pad": 0.1592804890465875,
+      "via to cavity": 0.6413929200000085,
+      "terminal land gap": 0.15581307172645642,
+      "terminal drill gap": 0.3058130717264564
+    }
+  },
+  "endpoint_checks": [
+    {
+      "net": "DC16",
+      "source": "R15-2",
+      "port": "J1-2",
+      "centres_connected": true
+    },
+    {
+      "net": "DC15",
+      "source": "R12-2",
+      "port": "J1-7",
+      "centres_connected": true
+    },
+    {
+      "net": "DC13",
+      "source": "R11-2",
+      "port": "J1-5",
+      "centres_connected": true
+    },
+    {
+      "net": "DC18",
+      "source": "Q1-18",
+      "port": "J1-14",
+      "centres_connected": true
+    },
+    {
+      "net": "DC19",
+      "source": "Q1-19",
+      "port": "J1-16",
+      "centres_connected": true
+    },
+    {
+      "net": "DC12",
+      "source": "R02-2",
+      "port": "J1-3",
+      "centres_connected": true
+    },
+    {
+      "net": "DC17",
+      "source": "Q1-17",
+      "port": "J1-12",
+      "centres_connected": true
+    },
+    {
+      "net": "DC14",
+      "source": "Q1-14",
+      "port": "J1-8",
+      "centres_connected": true
+    },
+    {
+      "net": "DC10",
+      "source": "Q1-10",
+      "port": "J1-10",
+      "centres_connected": true
+    },
+    {
+      "net": "DC08",
+      "source": "Q1-8",
+      "port": "J1-4",
+      "centres_connected": true
+    },
+    {
+      "net": "DC07",
+      "source": "Q1-7",
+      "port": "J1-6",
+      "centres_connected": true
+    },
+    {
+      "net": "DC01",
+      "source": "Q1-1",
+      "port": "J1-15",
+      "centres_connected": true
+    },
+    {
+      "net": "DC06",
+      "source": "Q1-6",
+      "port": "J1-13",
+      "centres_connected": true
+    },
+    {
+      "net": "DC11",
+      "source": "R05-2",
+      "port": "J1-1",
+      "centres_connected": true
+    },
+    {
+      "net": "DC04",
+      "source": "Q1-4",
+      "port": "J1-18",
+      "centres_connected": true
+    },
+    {
+      "net": "DC03",
+      "source": "Q1-3",
+      "port": "J1-17",
+      "centres_connected": true
+    },
+    {
+      "net": "DC09",
+      "source": "R09-2",
+      "port": "J1-9",
+      "centres_connected": true
+    },
+    {
+      "net": "DC05",
+      "source": "R35-2",
+      "port": "J1-11",
+      "centres_connected": true
+    },
+    {
+      "net": "DC02",
+      "source": "R34-2",
+      "port": "J1-19",
+      "centres_connected": true
+    },
+    {
+      "net": "DC21",
+      "source": "R13-2",
+      "port": "J1-38",
+      "centres_connected": true
+    },
+    {
+      "net": "DC24",
+      "source": "R16-2",
+      "port": "J1-46",
+      "centres_connected": true
+    },
+    {
+      "net": "DC28",
+      "source": "R28-2",
+      "port": "J1-48",
+      "centres_connected": true
+    },
+    {
+      "net": "DC22",
+      "source": "Q1-22",
+      "port": "J1-28",
+      "centres_connected": true
+    },
+    {
+      "net": "DC30",
+      "source": "R24-2",
+      "port": "J1-25",
+      "centres_connected": true
+    },
+    {
+      "net": "DC23",
+      "source": "Q1-23",
+      "port": "J1-30",
+      "centres_connected": true
+    },
+    {
+      "net": "DC25",
+      "source": "Q1-25",
+      "port": "J1-32",
+      "centres_connected": true
+    },
+    {
+      "net": "DC20",
+      "source": "Q1-20",
+      "port": "J1-24",
+      "centres_connected": true
+    },
+    {
+      "net": "DC26",
+      "source": "Q1-26",
+      "port": "J1-34",
+      "centres_connected": true
+    },
+    {
+      "net": "DC27",
+      "source": "Q1-27",
+      "port": "J1-26",
+      "centres_connected": true
+    },
+    {
+      "net": "DC29",
+      "source": "Q1-29",
+      "port": "J1-36",
+      "centres_connected": true
+    },
+    {
+      "net": "DC33",
+      "source": "Q1-33",
+      "port": "J1-40",
+      "centres_connected": true
+    },
+    {
+      "net": "DC31",
+      "source": "R21-2",
+      "port": "J1-44",
+      "centres_connected": true
+    },
+    {
+      "net": "DC36",
+      "source": "Q1-36",
+      "port": "J1-22",
+      "centres_connected": true
+    },
+    {
+      "net": "DC37",
+      "source": "Q1-37",
+      "port": "J1-23",
+      "centres_connected": true
+    },
+    {
+      "net": "DC38",
+      "source": "Q1-38",
+      "port": "J1-20",
+      "centres_connected": true
+    },
+    {
+      "net": "DC32",
+      "source": "R30-2",
+      "port": "J1-27",
+      "centres_connected": true
+    },
+    {
+      "net": "DC34",
+      "source": "R31-2",
+      "port": "J1-42",
+      "centres_connected": true
+    },
+    {
+      "net": "DC35",
+      "source": "R32-2",
+      "port": "J1-21",
+      "centres_connected": true
+    }
+  ],
+  "one_internal_layer_per_net": true,
+  "standalone_transition_vias": 0,
+  "terminal_vias": 76,
+  "RF_signal_vias": 0,
+  "retained_L5_L6_shield_vias": 1439,
+  "used_ZIF_pins": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42,
+    44,
+    46,
+    48
+  ],
+  "ZIF_pin50_unused": true,
+  "non45_turns": [],
+  "complete_SMP_pad_hulls_excluded": true,
+  "resistor_interpad_body_excluded": true,
+  "protected_sources_unchanged": {
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\ZIF10mm_Reference_End_20261016\\updated_mechanical_plan.json": true,
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc": true,
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.SchDoc": true,
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\pin_mapping.csv": true
+  },
+  "native_PCB_and_schematic_updated": false,
+  "native_DRC_performed": false
+}

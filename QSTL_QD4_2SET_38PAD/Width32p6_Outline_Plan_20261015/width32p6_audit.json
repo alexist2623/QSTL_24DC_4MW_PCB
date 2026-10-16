@@ -1,0 +1,44 @@
+{
+  "status": "WIDTH32P6_OUTLINE_ONLY_NOT_APPLIED",
+  "reference_source": "F:\\Nextcloud\\Lab\\Instruments\\CustomParts\\Carrier_12MW_72DC\\PCB\\Sample_Holder\\Sample_Holder.PcbDoc",
+  "reference_width_mm": 32.6,
+  "reference_length_mm": 107.1,
+  "previous_proposed_width_mm": 23.0,
+  "new_proposed_width_mm": 32.6,
+  "retained_proposed_length_mm": 77.5,
+  "fixed_x_centreline_mm": 9.75,
+  "new_x_limits_mm": [
+    -6.55,
+    26.05
+  ],
+  "added_each_side_from_23mm": 4.8,
+  "added_each_side_from_19p5mm": 6.55,
+  "all_positions_and_path_samples_unchanged": true,
+  "retained_counts": {
+    "SMP": 16,
+    "QD_pads": 38,
+    "mounts": 8,
+    "trial_RC_pairs": 4
+  },
+  "rod_inside_width_mm": 39.0,
+  "centred_PCB_to_rail_clearance_each_side_mm": 3.2,
+  "native_and_reference_files_unchanged": true,
+  "source_hashes": {
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Outline_Mount_Concept_20261014\\qd28_left_entry_audit.json": "d536abb54ebe8b658f07130aec77f7fa7e159f7db81817fea20334b02a3c1995",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Central_Four_RC_Plan_20261015\\central_rc_placement_audit.json": "940b0c45d1bb0bed02fd1fb57c870bfbb6b4ee69486134c47f56f962d7669794",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\Sample_Holder_Size_Comparison_20261015\\size_comparison_with_rod.json": "862dc3badfdc342b1e89724db80fc68ec00517b81740255799c71763e1c68bbe",
+    "F:\\Nextcloud\\Lab\\Instruments\\CustomParts\\Carrier_12MW_72DC\\PCB\\Sample_Holder\\Sample_Holder.PcbDoc": "8202d33437e9faf5d86ecb3d40f989ccf6b8abe79581ee535c5280b8149bdfdb",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_24DC_4MW_PCB\\Mechanical_Assembly\\Probe_H_Frame\\Probe_H_Frame.step": "1755a6cb10b159be491ad9d4e30359dbf396d496a2e5ec5346b01c06b04649c6",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\saved_revision_snapshot.json": "59f1529af34d5fe53be259c174ae52d57879028c2e36d3cf1f3ff579a99e32b9",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.SchDoc": "e6d83b6a6b7d74bc14fc5d10041c3d76ee38e315133cc71012b8034f834e6249",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QD4_2SET_38.PcbLib": "ec4b54190f8ca7402dc81cc066efe8c18dcc453841cc93d68eaa695fe161746f",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\pin_mapping.csv": "6ca9f71707db65fb3418abcf7f730685e450c347f0d70f42da30b12f9f3edd5f"
+  },
+  "limitations": [
+    "Unapplied outline proposal; native remains 19.5 x 67.9 mm.",
+    "Only the four previously proposed central R/C pairs are shown.",
+    "No new full RF/DC routing, DRC or mechanical assembly-fit claim.",
+    "Known copper-carrier and mounting conflicts remain unresolved."
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "status": "OFFLINE_SIGNAL_COPPER_ONLY",
+  "all_signal_nets_connected": true,
+  "signal_nets": 70,
+  "connectivity": {
+    "DC01": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW02": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC03": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC04": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW05": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC06": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC07": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC08": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW09": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC10": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW11": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW12": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW13": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC14": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW15": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW16": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC17": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC18": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC19": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC20": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW21": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC22": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC23": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW24": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC25": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC26": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC27": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW28": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC29": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW30": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW31": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW32": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC33": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW34": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "MW35": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC36": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC37": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC38": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S02": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC02": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S05": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC05": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S09": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC09": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S11": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC11": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S12": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC12": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S13": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC13": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S15": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC15": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S16": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC16": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S21": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC21": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S24": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC24": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S28": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC28": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S30": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC30": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S31": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC31": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S32": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC32": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S34": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC34": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "S35": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    },
+    "DC35": {
+      "connected": true,
+      "copper_components": 1,
+      "missing_pads": []
+    }
+  },
+  "minimum_clearance_mm": 0.152190233425443,
+  "clearance_violations": [],
+  "schematic_map_matches": true,
+  "dc_channels": 38,
+  "rf_bias_tees": 16,
+  "plan_sha256": "0372ffaa6a00c63014e49ce2a76cc6f6351e5690b3683992e764f428967a94aa",
+  "pending": [
+    "Ground copper",
+    "RF shield vias",
+    "Mask and paste geometry",
+    "Native save/reopen and DRC"
+  ],
+  "passed": true
+}

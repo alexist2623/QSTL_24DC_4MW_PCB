@@ -1,0 +1,59 @@
+{
+  "selected_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_rotation_20261011\\dc_final_candidate.json",
+  "selected_sha256": "eefbfe8ff5a56f85c61db86a75646cf87397af0d012d526a2af8694ae3d064ca",
+  "reason": "Retain the simpler 345-bend route (maximum 15 per net). The corrected selected-layer-stub stagger trial improves mean centreline distance by only 0.124 mm and total length by 19.951 mm, while adding 36 bends and raising the maximum to 20. Both pass exact geometry audits; the modest centrality gain does not justify the additional route complexity.",
+  "inactive_layer_stubs_investigated": true,
+  "selected_layer_only_second_pass_passed": true,
+  "selection_is_global_optimum_claim": false,
+  "candidates": [
+    {
+      "file": "dc_final_candidate.json",
+      "sha256": "eefbfe8ff5a56f85c61db86a75646cf87397af0d012d526a2af8694ae3d064ca",
+      "passed": true,
+      "metrics": {
+        "total_bends": 345,
+        "maximum_bends": 15,
+        "total_dc_length_mm": 1784.7675929095547,
+        "length_weighted_mean_absolute_x_offset_mm": 4.8223420971108855,
+        "actual_minimum_dc_to_dc_mm": 0.10499851999999521,
+        "actual_minimum_dc_to_ground_mm": 0.21249893999999966,
+        "minimum_rc_body_envelope_clearance_mm": 0.16275775850363552,
+        "minimum_smp_full_hull_clearance_mm": 0.21249893999999966,
+        "top_fanout_minimum_clearance_mm": 0.3249993499999988
+      }
+    },
+    {
+      "file": "dc_staggered_candidate.json",
+      "sha256": "2fc778d0f2b04e225715bb9f45fdcd696f2d97e8b69f7511c8bb0e6b8fcfe613",
+      "passed": true,
+      "metrics": {
+        "total_bends": 374,
+        "maximum_bends": 18,
+        "total_dc_length_mm": 1805.9816729172014,
+        "length_weighted_mean_absolute_x_offset_mm": 4.915229028172586,
+        "actual_minimum_dc_to_dc_mm": 0.10499851999999875,
+        "actual_minimum_dc_to_ground_mm": 0.21249893999999966,
+        "minimum_rc_body_envelope_clearance_mm": 0.16275775850363552,
+        "minimum_smp_full_hull_clearance_mm": 0.21249893999999966,
+        "top_fanout_minimum_clearance_mm": 0.3249993499999988
+      }
+    },
+    {
+      "file": "dc_two_pass_staggered_candidate.json",
+      "sha256": "368030bfbaa655c3eeb4675e5934230be3667a05b2a01835a95f0bd82f47712a",
+      "passed": true,
+      "metrics": {
+        "total_bends": 381,
+        "maximum_bends": 20,
+        "total_dc_length_mm": 1764.8161865739062,
+        "length_weighted_mean_absolute_x_offset_mm": 4.697998040546308,
+        "actual_minimum_dc_to_dc_mm": 0.10310085616018756,
+        "actual_minimum_dc_to_ground_mm": 0.21249893999999966,
+        "minimum_rc_body_envelope_clearance_mm": 0.1589379600000029,
+        "minimum_smp_full_hull_clearance_mm": 0.21249893999999966,
+        "top_fanout_minimum_clearance_mm": 0.3249993499999988
+      }
+    }
+  ],
+  "native_design_modified": false
+}

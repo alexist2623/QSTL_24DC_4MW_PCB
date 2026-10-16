@@ -1,0 +1,13 @@
+{
+  "native_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+  "native_sha256": "f8356dd694810d2318a51e99544ab2345f8b9996de80e9ddc4456bbc6a14c632",
+  "files": [
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\review\\Saved_native_signal_layout.png",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\review\\Saved_native_QD_bias_tee_detail.png"
+  ],
+  "source": "Saved native binary pads/tracks/vias, not the routing plan",
+  "ground_pours_shown": false,
+  "masks_shown": false,
+  "coordinate_projection": "Top-view coordinates for every layer",
+  "native_unchanged": true
+}

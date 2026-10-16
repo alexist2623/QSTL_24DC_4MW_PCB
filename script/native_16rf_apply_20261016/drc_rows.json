@@ -1,0 +1,140 @@
+[
+  [
+    "Date:",
+    "",
+    "2026-10-16"
+  ],
+  [
+    "Time:",
+    "",
+    "9:20:16 AM"
+  ],
+  [
+    "Elapsed Time:",
+    "",
+    "00:00:02"
+  ],
+  [
+    "Filename:",
+    "",
+    "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc"
+  ],
+  [
+    "Warnings:",
+    "",
+    "0"
+  ],
+  [
+    "Rule Violations:",
+    "",
+    "0"
+  ],
+  [
+    "Warnings",
+    "Count"
+  ],
+  [
+    "Total",
+    "0"
+  ],
+  [
+    "Rule Violations",
+    "Count"
+  ],
+  [
+    "Clearance Constraint (Gap=0.2mm) (InNet('GND') And OnLayer('L6_RF_QD')),(All)",
+    "0"
+  ],
+  [
+    "Clearance Constraint (Gap=0.2mm) (InNet('GND') And (ExistsOnLayer('L2_DC_A') Or ExistsOnLayer('L3_DC_B'))),((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And (ExistsOnLayer('L2_DC_A') Or ExistsOnLayer('L3_DC_B')))",
+    "0"
+  ],
+  [
+    "Clearance Constraint (Gap=0.15mm) (Not (InNet('GND') And OnLayer('L6_RF_QD')) And Not (InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L3_DC_B')))),(Not (InNet('GND') And OnLayer('L6_RF_QD')) And Not (InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L3_DC_B'))))",
+    "0"
+  ],
+  [
+    "Clearance Constraint (Gap=0.1mm) ((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And (ExistsOnLayer('L2_DC_A') Or ExistsOnLayer('L3_DC_B'))),((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And (ExistsOnLayer('L2_DC_A') Or ExistsOnLayer('L3_DC_B')))",
+    "0"
+  ],
+  [
+    "Short-Circuit Constraint (Allowed=No) (All),(All)",
+    "0"
+  ],
+  [
+    "Un-Routed Net Constraint ( (All) )",
+    "0"
+  ],
+  [
+    "Modified Polygon (Allow modified: No), (Allow shelved: No)",
+    "0"
+  ],
+  [
+    "Width Constraint (Min=0.125mm) (Max=0.254mm) (Preferred=0.15mm) (Not (OnLayer('L6_RF_QD') And (InNet('MW02') Or InNet('MW05') Or InNet('MW09') Or InNet('MW11') Or InNet('MW12') Or InNet('MW13') Or InNet('MW15') Or InNet('MW16') Or InNet('MW21') Or InNet('MW24') Or InNet('MW28') Or InNet('MW30') Or InNet('MW31') Or InNet('MW32') Or InNet('MW34') Or InNet('MW35') Or InNet('S02') Or InNet('S05') Or InNet('S09') Or InNet('S11') Or InNet('S12') Or InNet('S13') Or InNet('S15') Or InNet('S16') Or InNet('S21') Or InNet('S24') Or InNet('S28') Or InNet('S30') Or InNet('S31') Or InNet('S32') Or InNet('S34') Or InNet('S35'))) And Not ((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38'))))",
+    "0"
+  ],
+  [
+    "Width Constraint (Min=0.125mm) (Max=0.254mm) (Preferred=0.125mm) ((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')))",
+    "0"
+  ],
+  [
+    "Width Constraint (Min=0.11mm) (Max=0.11mm) (Preferred=0.11mm) (OnLayer('L6_RF_QD') And (InNet('MW02') Or InNet('MW05') Or InNet('MW09') Or InNet('MW11') Or InNet('MW12') Or InNet('MW13') Or InNet('MW15') Or InNet('MW16') Or InNet('MW21') Or InNet('MW24') Or InNet('MW28') Or InNet('MW30') Or InNet('MW31') Or InNet('MW32') Or InNet('MW34') Or InNet('MW35') Or InNet('S02') Or InNet('S05') Or InNet('S09') Or InNet('S11') Or InNet('S12') Or InNet('S13') Or InNet('S15') Or InNet('S16') Or InNet('S21') Or InNet('S24') Or InNet('S28') Or InNet('S30') Or InNet('S31') Or InNet('S32') Or InNet('S34') Or InNet('S35')))",
+    "0"
+  ],
+  [
+    "Routing Topology Rule(Topology=Shortest) (All)",
+    "0"
+  ],
+  [
+    "Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=0.2mm) (PreferredHoleWidth=0.2mm) (MinWidth=0.4mm) (MaxWidth=0.4mm) (PreferedWidth=0.4mm) (IsVia And (InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(78.740080315,-363.779481102,653.543219685,-180.118141732))",
+    "0"
+  ],
+  [
+    "Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=0.2mm) (PreferredHoleWidth=0.2mm) (MinWidth=0.35mm) (MaxWidth=0.35mm) (PreferedWidth=0.35mm) (IsVia And (InNet('DC01') Or InNet('DC03') Or InNet('DC04') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC10') Or InNet('DC14') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC22') Or InNet('DC23') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC29') Or InNet('DC33') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(251.927525197,1664.295451969,516.889710236,1969.719415748))",
+    "0"
+  ],
+  [
+    "Routing Via (MinHoleWidth=0.25mm) (MaxHoleWidth=0.25mm) (PreferredHoleWidth=0.25mm) (MinWidth=0.5mm) (MaxWidth=0.5mm) (PreferedWidth=0.5mm) (Not (IsVia And InNet('GND')) And Not (IsVia And (InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(78.740080315,-363.779481102,653.543219685,-180.118141732)) And Not (IsVia And (InNet('DC01') Or InNet('DC03') Or InNet('DC04') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC10') Or InNet('DC14') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC22') Or InNet('DC23') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC29') Or InNet('DC33') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(251.927525197,1664.295451969,516.889710236,1969.719415748)))",
+    "0"
+  ],
+  [
+    "Routing Via (MinHoleWidth=0.1mm) (MaxHoleWidth=0.1mm) (PreferredHoleWidth=0.1mm) (MinWidth=0.25mm) (MaxWidth=0.25mm) (PreferedWidth=0.25mm) (IsVia And InNet('GND'))",
+    "0"
+  ],
+  [
+    "Hole Size Constraint (Min=0.025mm) (Max=4.1mm) (All)",
+    "0"
+  ],
+  [
+    "Hole To Hole Clearance (Gap=0.254mm) (All),(All)",
+    "0"
+  ],
+  [
+    "Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)",
+    "0"
+  ],
+  [
+    "Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)",
+    "0"
+  ],
+  [
+    "Silk to Silk (Clearance=0.254mm) (All),(All)",
+    "0"
+  ],
+  [
+    "Net Antennae (Tolerance=0mm) (All)",
+    "0"
+  ],
+  [
+    "Component Clearance Constraint ( Horizontal Gap = 0.254mm, Vertical Gap = 0.254mm ) (All),(All)",
+    "0"
+  ],
+  [
+    "Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)",
+    "0"
+  ],
+  [
+    "Total",
+    "0"
+  ]
+]

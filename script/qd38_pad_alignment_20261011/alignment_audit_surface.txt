@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "native_sha256": "9607d5bfbdd962c49c9a6d4ecce671a4de9f5552322f134225bcbadf5796e351",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "mounts": 8,
+  "RC_groups": 16,
+  "direct_GND_checks": 48,
+  "native_DRC_categories": 23,
+  "native_DRC_violations": 0,
+  "errors": []
+}

@@ -1,0 +1,88 @@
+{
+  "candidate_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_pad_alignment_20261011\\alignment_full_candidate.json",
+  "candidate_sha256": "4e4264afef78d39bbc27740630d56468f2d3029b03f5019c05e0e3c32f80f28c",
+  "inner_alignment": "nearest_corner_per_side",
+  "outer_alignment": "not_requested",
+  "qd_endpoint_via": {
+    "count": 22,
+    "baseline_land_mm": 0.4,
+    "land_mm": 0.35,
+    "drill_mm": 0.2,
+    "low": 1,
+    "high": 32
+  },
+  "allowed_rule_changes": [
+    {
+      "name": "QD38_QD_VIA_0P4_0P2",
+      "field": "WIDTH",
+      "before": "15.748mil",
+      "after_mm": 0.35
+    },
+    {
+      "name": "QD38_QD_VIA_0P4_0P2",
+      "field": "MINWIDTH",
+      "before": "15.748mil",
+      "after_mm": 0.35
+    },
+    {
+      "name": "QD38_QD_VIA_0P4_0P2",
+      "field": "MAXWIDTH",
+      "before": "15.748mil",
+      "after_mm": 0.35
+    }
+  ],
+  "edit_region": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          14.0,
+          36.0
+        ],
+        [
+          14.0,
+          49.0
+        ],
+        [
+          5.5,
+          49.0
+        ],
+        [
+          5.5,
+          36.0
+        ],
+        [
+          14.0,
+          36.0
+        ]
+      ]
+    ]
+  },
+  "baseline_sha256": "1ac42a098d0eb7f50f13e6ab7242dc9a81e40564f2cf7057d0134fa5732c723c",
+  "affected_internal_nets": [
+    "DC01",
+    "DC03",
+    "DC04",
+    "DC17",
+    "DC18",
+    "DC19",
+    "DC20",
+    "DC22",
+    "DC23",
+    "DC36",
+    "DC37",
+    "DC38"
+  ],
+  "ground_layers_changed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    32
+  ],
+  "manufacturer_sources": [
+    "https://jlcpcb.com/capabilities/pcb-capabilities/",
+    "https://jlcpcb.com/help/article/hdi-pcb-capabilities-faq"
+  ]
+}

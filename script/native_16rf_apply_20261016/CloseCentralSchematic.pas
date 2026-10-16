@@ -1,0 +1,1 @@
+Procedure CloseCentralSchematic;Var D:IServerDocument;Begin D:=Client.OpenDocument('SCH','C:\GIT_Workspace\QSTL_24DC_4MW_PCB\QSTL_QD4_2SET_38PAD\QSTL_QD4_2SET_38PAD.SchDoc');If D<>Nil Then Client.CloseDocument(D);End;

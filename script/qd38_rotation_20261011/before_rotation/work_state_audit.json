@@ -1,0 +1,365 @@
+{
+  "checked_at_utc": "2026-10-11T06:24:28.762585+00:00",
+  "target_project": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PrjPcb",
+  "current_project_root": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB",
+  "source_files_unchanged": {
+    "QSTL_24DC_4MW_PCB.SchDoc": true,
+    "QSTL_24DC_4MW_PCB.PcbDoc": true,
+    "QSTL_24DC_4MW_PCB.PcbLib": true,
+    "Reference_Connectors.SchLib": true,
+    "Reference_Connectors.PcbLib": true,
+    "Passives_0603.PcbLib": true,
+    "QSTL_24DC_4MW_PCB.SchLib": true,
+    "ZIF_5025985193.PcbLib": true,
+    "Reference_Resistors.SchLib": true,
+    "Reference_Capacitors.SchLib": true,
+    "Capacitors_0402.PcbLib": true,
+    "QSTL_24DC_4MW_PCB.PrjPcb": true
+  },
+  "plan": {
+    "qd_pads": 38,
+    "independent_dc": 38,
+    "rf_bias_tees": 16,
+    "odd_zif_pins_used": true,
+    "zif_pin_50_unused": true,
+    "schematic_netmap_matches_current_plan": true,
+    "all_assignment_checks_passed": true
+  },
+  "native_pcb": {
+    "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+    "sha256": "f8356dd694810d2318a51e99544ab2345f8b9996de80e9ddc4456bbc6a14c632",
+    "unchanged_source_copy": false,
+    "component_count": 50,
+    "qd_pad_count": 38,
+    "qd38_replacement_applied": true,
+    "snapshot_matches_current_hash": true,
+    "saved_geometry_audit_matches_current_hash": true,
+    "saved_geometry_audit_matches_current_candidate": true,
+    "saved_geometry_audit_passed": true,
+    "saved_geometry_audit_errors": [],
+    "stored_connection_count": 0,
+    "physical_ground_copper_connected": true,
+    "physical_ground_connected_components": 1
+  },
+  "native_validation": "APPLIED_VALIDATION_INCOMPLETE",
+  "native_reopened": true,
+  "native_drc": {
+    "available": true,
+    "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010\\Native_DRC.html",
+    "sha256": "09705cd03b5a486358282d0d14697921a256f04b6909cea0baaf53e58c0d8cc4",
+    "target_file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PcbDoc",
+    "target_matches": true,
+    "report_not_older_than_saved_pcb": true,
+    "violations": 0,
+    "warnings": 0,
+    "stopped_at_violation_limit": false,
+    "rule_count": 21,
+    "rule_family_counts": {
+      "Clearance Constraint": 3,
+      "Short-Circuit Constraint": 1,
+      "Un-Routed Net Constraint": 1,
+      "Modified Polygon": 1,
+      "Width Constraint": 3,
+      "Routing Topology Rule": 1,
+      "Routing Via": 3,
+      "Hole Size Constraint": 1,
+      "Hole To Hole Clearance": 1,
+      "Minimum Solder Mask Sliver": 1,
+      "Silk To Solder Mask": 1,
+      "Silk to Silk": 1,
+      "Net Antennae": 1,
+      "Component Clearance Constraint": 1,
+      "Height Constraint": 1
+    },
+    "expected_rule_family_counts": {
+      "Clearance Constraint": 3,
+      "Short-Circuit Constraint": 1,
+      "Un-Routed Net Constraint": 1,
+      "Modified Polygon": 1,
+      "Width Constraint": 3,
+      "Routing Topology Rule": 1,
+      "Routing Via": 3,
+      "Hole Size Constraint": 1,
+      "Hole To Hole Clearance": 1,
+      "Minimum Solder Mask Sliver": 1,
+      "Silk To Solder Mask": 1,
+      "Silk to Silk": 1,
+      "Net Antennae": 1,
+      "Component Clearance Constraint": 1,
+      "Height Constraint": 1
+    },
+    "all_21_required_rules_reported": true,
+    "all_rule_rows_zero": true,
+    "rules": [
+      {
+        "rule": "Clearance Constraint (Gap=0.2mm) (InNet('GND') And OnLayer('L6_RF_QD')),(All)",
+        "violations": 0
+      },
+      {
+        "rule": "Clearance Constraint (Gap=0.15mm) (Not (InNet('GND') And OnLayer('L6_RF_QD')) And Not (InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L4_DC_B')))),(Not (InNet('GND') And OnLayer('L6_RF_QD')) And Not (InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L4_DC_B'))))",
+        "violations": 0
+      },
+      {
+        "rule": "Clearance Constraint (Gap=0.2mm) (InNet('GND') And (OnLayer('L2_DC_A') Or OnLayer('L4_DC_B'))),(All)",
+        "violations": 0
+      },
+      {
+        "rule": "Short-Circuit Constraint (Allowed=No) (All),(All)",
+        "violations": 0
+      },
+      {
+        "rule": "Un-Routed Net Constraint ( (All) )",
+        "violations": 0
+      },
+      {
+        "rule": "Modified Polygon (Allow modified: No), (Allow shelved: No)",
+        "violations": 0
+      },
+      {
+        "rule": "Width Constraint (Min=0.11mm) (Max=0.11mm) (Preferred=0.11mm) (OnLayer('L6_RF_QD') And (InNet('MW02') Or InNet('MW05') Or InNet('MW09') Or InNet('MW11') Or InNet('MW12') Or InNet('MW13') Or InNet('MW15') Or InNet('MW16') Or InNet('MW21') Or InNet('MW24') Or InNet('MW28') Or InNet('MW30') Or InNet('MW31') Or InNet('MW32') Or InNet('MW34') Or InNet('MW35') Or InNet('S02') Or InNet('S05') Or InNet('S09') Or InNet('S11') Or InNet('S12') Or InNet('S13') Or InNet('S15') Or InNet('S16') Or InNet('S21') Or InNet('S24') Or InNet('S28') Or InNet('S30') Or InNet('S31') Or InNet('S32') Or InNet('S34') Or InNet('S35')))",
+        "violations": 0
+      },
+      {
+        "rule": "Width Constraint (Min=0.125mm) (Max=0.254mm) (Preferred=0.15mm) (Not (OnLayer('L6_RF_QD') And (InNet('MW02') Or InNet('MW05') Or InNet('MW09') Or InNet('MW11') Or InNet('MW12') Or InNet('MW13') Or InNet('MW15') Or InNet('MW16') Or InNet('MW21') Or InNet('MW24') Or InNet('MW28') Or InNet('MW30') Or InNet('MW31') Or InNet('MW32') Or InNet('MW34') Or InNet('MW35') Or InNet('S02') Or InNet('S05') Or InNet('S09') Or InNet('S11') Or InNet('S12') Or InNet('S13') Or InNet('S15') Or InNet('S16') Or InNet('S21') Or InNet('S24') Or InNet('S28') Or InNet('S30') Or InNet('S31') Or InNet('S32') Or InNet('S34') Or InNet('S35'))) And Not ((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38'))))",
+        "violations": 0
+      },
+      {
+        "rule": "Width Constraint (Min=0.125mm) (Max=0.254mm) (Preferred=0.254mm) ((InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')))",
+        "violations": 0
+      },
+      {
+        "rule": "Routing Topology Rule(Topology=Shortest) (All)",
+        "violations": 0
+      },
+      {
+        "rule": "Routing Via (MinHoleWidth=0.1mm) (MaxHoleWidth=0.1mm) (PreferredHoleWidth=0.1mm) (MinWidth=0.25mm) (MaxWidth=0.25mm) (PreferedWidth=0.25mm) (IsVia And InNet('GND'))",
+        "violations": 0
+      },
+      {
+        "rule": "Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=0.2mm) (PreferredHoleWidth=0.2mm) (MinWidth=0.4mm) (MaxWidth=0.4mm) (PreferedWidth=0.4mm) (IsVia And (InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(90.551080315,91.929137008,688.976319685,275.590562992))",
+        "violations": 0
+      },
+      {
+        "rule": "Routing Via (MinHoleWidth=0.25mm) (MaxHoleWidth=0.25mm) (PreferredHoleWidth=0.25mm) (MinWidth=0.5mm) (MaxWidth=0.5mm) (PreferedWidth=0.5mm) (Not (IsVia And InNet('GND')) And Not (IsVia And (InNet('DC01') Or InNet('DC02') Or InNet('DC03') Or InNet('DC04') Or InNet('DC05') Or InNet('DC06') Or InNet('DC07') Or InNet('DC08') Or InNet('DC09') Or InNet('DC10') Or InNet('DC11') Or InNet('DC12') Or InNet('DC13') Or InNet('DC14') Or InNet('DC15') Or InNet('DC16') Or InNet('DC17') Or InNet('DC18') Or InNet('DC19') Or InNet('DC20') Or InNet('DC21') Or InNet('DC22') Or InNet('DC23') Or InNet('DC24') Or InNet('DC25') Or InNet('DC26') Or InNet('DC27') Or InNet('DC28') Or InNet('DC29') Or InNet('DC30') Or InNet('DC31') Or InNet('DC32') Or InNet('DC33') Or InNet('DC34') Or InNet('DC35') Or InNet('DC36') Or InNet('DC37') Or InNet('DC38')) And InRegionAbsolute(90.551080315,91.929137008,688.976319685,275.590562992)))",
+        "violations": 0
+      },
+      {
+        "rule": "Hole Size Constraint (Min=0.025mm) (Max=4.1mm) (All)",
+        "violations": 0
+      },
+      {
+        "rule": "Hole To Hole Clearance (Gap=0.254mm) (All),(All)",
+        "violations": 0
+      },
+      {
+        "rule": "Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)",
+        "violations": 0
+      },
+      {
+        "rule": "Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)",
+        "violations": 0
+      },
+      {
+        "rule": "Silk to Silk (Clearance=0.254mm) (All),(All)",
+        "violations": 0
+      },
+      {
+        "rule": "Net Antennae (Tolerance=0mm) (All)",
+        "violations": 0
+      },
+      {
+        "rule": "Component Clearance Constraint ( Horizontal Gap = 0.254mm, Vertical Gap = 0.254mm ) (All),(All)",
+        "violations": 0
+      },
+      {
+        "rule": "Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)",
+        "violations": 0
+      }
+    ],
+    "verified_zero": true
+  },
+  "saved_routing_requirements": {
+    "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010\\saved_routing_requirement_audit.json",
+    "matches_current_native_hash": true,
+    "passed": false,
+    "dc_turns_over_45_count": 1440,
+    "rf_sharp_turn_count": 300,
+    "arc_count": 0,
+    "no_standalone_DC_transition_vias": true,
+    "direct_QD_DC_via_outside_pad_count": 22
+  },
+  "native_compile": {
+    "PROJECT": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\QSTL_QD4_2SET_38PAD\\QSTL_QD4_2SET_38PAD.PrjPcb",
+    "COMPILE_RESULT": "False",
+    "VIOLATION_COUNT": "0",
+    "NET_COUNT": "86"
+  },
+  "native_compile_verification": {
+    "current_log_matches_audit_hash": true,
+    "current_saved_schematic_matches_validated_hash": true,
+    "compiled_pin_membership_matches_saved_PCB_and_schematic": true,
+    "api_success_claimed": false,
+    "interpretation": "The raw DM_Compile return is retained. Independent verification uses the completed native compiled netlist, zero reported violations, exact saved PCB pad membership and the hash-matched validated SchDoc; module-statistics proof is not claimed."
+  },
+  "stored_airwire_inventory": {
+    "all_endpoints_on_saved_pads": true,
+    "saved_GND_pad_count": 72,
+    "stored_count": 0,
+    "by_net": {},
+    "record_lengths": {},
+    "sample": [],
+    "all_records": [],
+    "interpretation": "Stored airwire inventory only. These records are preserved, not deleted to force a zero count."
+  },
+  "native_paste": {
+    "api_enabled_via_count": "716",
+    "coverage_inventory_matches_current_hash": false,
+    "explicit_paste_object_count": null,
+    "effective_CAM": {
+      "verified": true,
+      "path": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010\\native_paste_cam_validation.json",
+      "sha256": "a6cdb8a8e33dcfb52d200b9e5d4b5a488ab89c580ab0719f3d11cfc758ef4117",
+      "matches_current_native_hash": true,
+      "CAM_files_match_recorded_hashes": true,
+      "both_layers_match_intended_pad_apertures": true,
+      "via_specific_paste_absent": true,
+      "normal_pad_apertures": {
+        "35": 53,
+        "36": 64
+      },
+      "explicit_paste_object_count": 0,
+      "cam_checks": [
+        {
+          "layer": 35,
+          "file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010\\review\\paste_native_cam_linked\\QSTL_QD4_2SET_38PAD.GTP",
+          "sha256": "52f98c0d8f8da23b5e0ca7f39dfaaac7202cd9e14ced5e2083458e7e184f1fe3",
+          "expected_pad_count": 53,
+          "expected_area_mm2": 9.675982885995541,
+          "actual_area_mm2": 9.67600000000001,
+          "missing_outside_tolerance_mm2": 0.0,
+          "extra_outside_tolerance_mm2": 0.0,
+          "tolerance_mm": 5e-05,
+          "objects": 53,
+          "object_types": {
+            "Flash": 53
+          },
+          "primitive_count": 53
+        },
+        {
+          "layer": 36,
+          "file": "C:\\GIT_Workspace\\QSTL_24DC_4MW_PCB\\script\\qd38_carrier_20261010\\review\\paste_native_cam_linked\\QSTL_QD4_2SET_38PAD.GBP",
+          "sha256": "2ad36d9e7467d8b28fc689607c543900172e26f1753407df418d1c6988458dd7",
+          "expected_pad_count": 64,
+          "expected_area_mm2": 48.420714908002395,
+          "actual_area_mm2": 48.420650380000026,
+          "missing_outside_tolerance_mm2": 0.0,
+          "extra_outside_tolerance_mm2": 0.0,
+          "tolerance_mm": 5e-05,
+          "objects": 64,
+          "object_types": {
+            "Flash": 64
+          },
+          "primitive_count": 64
+        }
+      ],
+      "errors": [],
+      "interpretation": "Native API enabled flags do not represent effective CAM aperture geometry. Required R/C pad paste is retained even where its pad contains a via."
+    },
+    "interpretation": "Negative manual expansion and effective CAM apertures require separate interpretation from API enabled flags."
+  },
+  "offline_signal_validation": {
+    "passed": true,
+    "signal_nets": 70,
+    "all_signal_nets_connected": true,
+    "minimum_clearance_mm": 0.152190233425443,
+    "schematic_map_matches": true
+  },
+  "prepared_surface_geometry": {
+    "status": "OFFLINE_CANDIDATE_NATIVE_PENDING",
+    "shield_vias": 640,
+    "shield_span": [
+      5,
+      32
+    ],
+    "shield_land_mm": 0.25,
+    "shield_hole_mm": 0.1,
+    "rf_offset_mm": 0.435,
+    "smp_ring_counts": {
+      "SMP02": 11,
+      "SMP05": 11,
+      "SMP09": 11,
+      "SMP11": 11,
+      "SMP12": 11,
+      "SMP13": 11,
+      "SMP15": 11,
+      "SMP16": 11,
+      "SMP21": 11,
+      "SMP24": 11,
+      "SMP28": 11,
+      "SMP30": 11,
+      "SMP31": 11,
+      "SMP32": 11,
+      "SMP34": 11,
+      "SMP35": 11
+    },
+    "removed_ground_islands": {
+      "1": {
+        "kept": 1,
+        "removed": 0
+      },
+      "2": {
+        "kept": 14,
+        "removed": 60
+      },
+      "3": {
+        "kept": 1,
+        "removed": 0
+      },
+      "4": {
+        "kept": 19,
+        "removed": 110
+      },
+      "5": {
+        "kept": 1,
+        "removed": 0
+      },
+      "32": {
+        "kept": 5,
+        "removed": 17
+      }
+    },
+    "rejected_shield_candidates": {
+      "via_pitch": 352,
+      "signal_clearance": 307,
+      "hole_clearance": 398,
+      "bond_or_body": 373
+    },
+    "mounting_mask_open_both": true,
+    "rc_mask_margin_mm": 0.9,
+    "via_paste": false,
+    "smp_paste": false,
+    "ground_nominal_clearance_mm": 0.2,
+    "ground_geometry_guard_mm": 0.003,
+    "native_region_simplify_mm": 0.001,
+    "minimum_exported_ground_gap_mm": {
+      "1": 0.20192492559305916,
+      "2": 0.2017366143304758,
+      "3": 0.20203009222708457,
+      "4": 0.20195644784828626,
+      "5": 0.20203009222708457,
+      "32": 0.20192482060872396
+    },
+    "qd_inner_ground_exclusion_mm": [
+      5.7,
+      4.7
+    ],
+    "preserve_top_ground": true
+  },
+  "native_update_script_prepared_not_executed": false,
+  "completion": false,
+  "fabrication_release": false,
+  "pending": [
+    "Correct saved routing requirement failures: 1440 DC turns above 45 degrees and 300 sharp RF turns without tangent arcs",
+    "Restore retained QD DC via-in-pad requirement: 22 direct QD DC vias currently lie outside their bonding pads"
+  ]
+}
