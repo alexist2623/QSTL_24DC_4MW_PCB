@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ValidateResistorModels.pas
+[Generic_ScriptingSystem]
+StartProcName=ValidateResistorModels.pas>ValidateResistorModels

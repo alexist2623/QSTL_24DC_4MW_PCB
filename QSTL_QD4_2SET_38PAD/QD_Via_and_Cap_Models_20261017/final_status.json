@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "PCB_sha256": "97581f7c13d63e503f25b2d211d5f3593e22ee7ad6817f86f47d3dbe955f0d7f",
+  "QD_vias_changed": 22,
+  "nominal_land_mm": 0.3,
+  "nominal_hole_mm": 0.2,
+  "changed_cap_models": 8,
+  "actual_Altium_3D_checked": true,
+  "DRC_violations": 0,
+  "audits": {
+    "change_audit.json": {
+      "passed": true,
+      "sha256": "2dc78d42530700513efc369c630567b329b0389ecb9a0b87d8888896ac46131b"
+    },
+    "saved_native_audit.json": {
+      "passed": true,
+      "sha256": "89d89b90b4fe9a448c7b3a7d450970726ea9828e4705c43e1f651a69a5b1d978"
+    },
+    "support_audit.json": {
+      "passed": true,
+      "sha256": "e6fe4a972becbc8a9fb8d7031ba9aaf3f422933c97a90ec724e82ae283063a98"
+    },
+    "mask_cam_audit.json": {
+      "passed": true,
+      "sha256": "11dc008d01b6d6512dc925218e218f380e368773b998131c1a9c6951a51b2714"
+    }
+  },
+  "images": {
+    "Altium_All_16_Cap_Models.png": "198e713d7537052e5ffddd152e60d2161e5f6e429e6420d85871cd92e2b0c19e",
+    "Altium_Corrected_Cap_3D_Closeup.png": "89040a3c024ad3a7c6e7bfc237f14d24910f67e9af1f883f497b009bb846065e",
+    "QD_Via_Land_Before_After.png": "5e7ed91740ffe4815effa6de3f85ff016b0441c5dee8253f35d3096889322f89",
+    "Solder_Mask_and_L5_Openings.png": "67c2f79d3af2a941324a3b0c62d231b6a578c3252465d93fef2529d371388e4f",
+    "User_Reported_Before.png": "6fe58448584d5815da1b6e320cf1ae562b45c362b54d40b1d5f6ab01506e38ac"
+  },
+  "report_sha256": "57856110fa4e11b0ad81dbebafd6c76678f92d3b30e74ef4197153ed6d0cf4b2"
+}

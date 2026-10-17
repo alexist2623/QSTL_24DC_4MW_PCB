@@ -1,0 +1,17 @@
+Procedure CorrectResistorModels;
+Var B:IPCB_Board;D:IServerDocument;I:IPCB_BoardIterator;Body:IPCB_ComponentBody;C:IPCB_Component;
+Bodies:Array[0..15] Of IPCB_ComponentBody;M:IPCB_Model;K,N:Integer;Angle:Double;L:TStringList;
+Begin L:=TStringList.Create;L.Add('START');L.SaveToFile('C:\GIT_Workspace\QSTL_24DC_4MW_PCB\script\resistor_models_20261017\CorrectResistorModels_log.txt');
+D:=Client.OpenDocument('PCB','C:\GIT_Workspace\QSTL_24DC_4MW_PCB\QSTL_QD4_2SET_38PAD\QSTL_QD4_2SET_38PAD.PcbDoc');If D=Nil Then Exit;Client.ShowDocument(D);B:=PCBServer.GetCurrentPCBBoard;
+If B=Nil Then Exit;If LowerCase(B.FileName)<>LowerCase('C:\GIT_Workspace\QSTL_24DC_4MW_PCB\QSTL_QD4_2SET_38PAD\QSTL_QD4_2SET_38PAD.PcbDoc') Then Exit;
+N:=0;I:=B.BoardIterator_Create;I.SetState_FilterAll;I.AddFilter_ObjectSet(MkSet(eComponentBodyObject));Body:=I.FirstPCBObject;
+While Body<>Nil Do Begin C:=Body.Component;If C<>Nil Then If (C.Name.Text='R09') Or (C.Name.Text='R11') Or (C.Name.Text='R12') Or (C.Name.Text='R16') Or (C.Name.Text='R28') Or (C.Name.Text='R30') Or (C.Name.Text='R31') Or (C.Name.Text='R35') Then Begin If N>=16 Then Exit;Bodies[N]:=Body;Inc(N);End;Body:=I.NextPCBObject;End;B.BoardIterator_Destroy(I);
+If N<>8 Then Exit;PCBServer.PreProcess;
+Try For K:=0 To N-1 Do Begin Body:=Bodies[K];C:=Body.Component;Angle:=360-C.Rotation;While Angle>=360 Do Angle:=Angle-360;While Angle<0 Do Angle:=Angle+360;
+PCBServer.SendMessageToRobots(Body.I_ObjectAddress,c_Broadcast,PCBM_BeginModify,c_NoEventData);
+M:=Body.GetModel;M:=M.I_Replicate;M.SetState(0,0,Angle,0);M.SetEmbed(True);Body.SetModel(M);Body.SetState_FromModel;
+Body.SetBodyProjection(eBoardSide_Bottom);Body.SetStandoffHeight(0);Body.SetOverallHeight(MMsToCoord(0.45));Body.ValidateMesh;
+PCBServer.SendMessageToRobots(Body.I_ObjectAddress,c_Broadcast,PCBM_EndModify,c_NoEventData);L.Add('MODEL='+C.Name.Text+'|ROTZ='+FloatToStr(Angle));End;
+Finally PCBServer.PostProcess;End;
+B.SetState_DocumentHasChanged;B.ViewManager_FullUpdate;B.GraphicallyInvalidate;
+L.Add('COMPLETE_REQUIRES_VISUAL_CHECK_AND_SAVE');L.SaveToFile('C:\GIT_Workspace\QSTL_24DC_4MW_PCB\script\resistor_models_20261017\CorrectResistorModels_log.txt');L.Free;End;

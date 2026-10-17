@@ -1,0 +1,3731 @@
+{
+  "passed": true,
+  "source_sha256": "edd42f24edac77e77edbf044c594f1bbccf6f832195d7200ffb0dcccd57e6060",
+  "baseline_sha256": "97581f7c13d63e503f25b2d211d5f3593e22ee7ad6817f86f47d3dbe955f0d7f",
+  "checks": [
+    {
+      "check": "Verified baseline evidence",
+      "passed": true,
+      "details": "saved_native_audit.json"
+    },
+    {
+      "check": "Verified baseline evidence",
+      "passed": true,
+      "details": "support_audit.json"
+    },
+    {
+      "check": "Verified baseline evidence",
+      "passed": true,
+      "details": "mask_cam_audit.json"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Arcs6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Arcs6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Components6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Components6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Nets6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Nets6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Pads6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Pads6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Polygons6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Polygons6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Regions6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Regions6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Rules6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Rules6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Tracks6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Tracks6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Vias6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "details": "Vias6/Header"
+    },
+    {
+      "check": "Saved connection count zero",
+      "passed": true,
+      "details": 0
+    },
+    {
+      "check": "Preserved source",
+      "passed": true,
+      "details": "QSTL_QD4_2SET_38PAD.SchDoc"
+    },
+    {
+      "check": "Preserved source",
+      "passed": true,
+      "details": "pin_mapping.csv"
+    },
+    {
+      "check": "Shape-based model cache retains 49 models and only eight changes",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Shape-based cache changes only Z rotation",
+      "passed": true,
+      "details": {
+        "component": 6,
+        "fields": {
+          "MODEL.3D.ROTZ": [
+            "210.000",
+            "150.000"
+          ]
+        },
+        "prefix_equal": true,
+        "tail_equal": true
+      }
+    },
+    {
+      "check": "Shape-based cache changes only Z rotation",
+      "passed": true,
+      "details": {
+        "component": 9,
+        "fields": {
+          "MODEL.3D.ROTZ": [
+            "330.000",
+            "30.000"
+          ]
+        },
+        "prefix_equal": true,
+        "tail_equal": true
+      }
+    },
+    {
+      "check": "Shape-based cache changes only Z rotation",
+      "passed": true,
+      "details": {
+        "component": 12,
+        "fields": {
+          "MODEL.3D.ROTZ": [
+            "240.000",
+            "120.000"
+          ]
+        },
+        "prefix_equal": true,
+        "tail_equal": true
+      }
+    },
+    {
+      "check": "Shape-based cache changes only Z rotation",
+      "passed": true,
+      "details": {
+        "component": 15,
+        "fields": {
+          "MODEL.3D.ROTZ": [
+            "300.000",
+            "60.000"
+          ]
+        },
+        "prefix_equal": true,
+        "tail_equal": true
+      }
+    },
+    {
+      "check": "Shape-based cache changes only Z rotation",
+      "passed": true,
+      "details": {
+        "component": 30,
+        "fields": {
+          "MODEL.3D.ROTZ": [
+            "120.000",
+            "240.000"
+          ]
+        },
+        "prefix_equal": true,
+        "tail_equal": true
+      }
+    },
+    {
+      "check": "Shape-based cache changes only Z rotation",
+      "passed": true,
+      "details": {
+        "component": 33,
+        "fields": {
+          "MODEL.3D.ROTZ": [
+            "60.000",
+            "300.000"
+          ]
+        },
+        "prefix_equal": true,
+        "tail_equal": true
+      }
+    },
+    {
+      "check": "Shape-based cache changes only Z rotation",
+      "passed": true,
+      "details": {
+        "component": 36,
+        "fields": {
+          "MODEL.3D.ROTZ": [
+            "150.000",
+            "210.000"
+          ]
+        },
+        "prefix_equal": true,
+        "tail_equal": true
+      }
+    },
+    {
+      "check": "Shape-based cache changes only Z rotation",
+      "passed": true,
+      "details": {
+        "component": 39,
+        "fields": {
+          "MODEL.3D.ROTZ": [
+            "30.000",
+            "330.000"
+          ]
+        },
+        "prefix_equal": true,
+        "tail_equal": true
+      }
+    },
+    {
+      "check": "Only Board save-time metadata changed",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "All stored text identities and content preserved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text geometry/content preserved; only native text-buffer serialization differs",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "All 49 model instances retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R35"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R35"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R35"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R35"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R35"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R35"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R35"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R35"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R35"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R35",
+        [
+          "MODEL.3D.ROTZ"
+        ]
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R35",
+        29.999963296074895,
+        30.0,
+        3.670392510457532e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R35"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R31"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R31"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R31"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R31"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R31"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R31"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R31"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R31"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R31"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R31",
+        [
+          "MODEL.3D.ROTZ"
+        ]
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R31",
+        150.00003670392533,
+        150.0,
+        3.6703925331948994e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R31"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R09"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R09"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R09"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R09"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R09"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R09"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R09"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R09"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R09"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R09",
+        [
+          "MODEL.3D.ROTZ"
+        ]
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R09",
+        59.999962566366264,
+        60.0,
+        3.743363373587272e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R09"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R30"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R30"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R30"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R30"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R30"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R30"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R30"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R30"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R30"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R30",
+        [
+          "MODEL.3D.ROTZ"
+        ]
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R30",
+        119.99996329607477,
+        120.0,
+        3.670392523247301e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R30"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R11"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R11"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R11"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R11"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R11"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R11"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R11"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R11"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R11"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R11",
+        [
+          "MODEL.3D.ROTZ"
+        ]
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R11",
+        120.00003743363374,
+        120.0,
+        3.743363373587272e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R11"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R28"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R28"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R28"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R28"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R28"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R28"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R28"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R28"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R28"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R28",
+        [
+          "MODEL.3D.ROTZ"
+        ]
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R28",
+        60.00003670392523,
+        60.0,
+        3.670392523247301e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R28"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R12"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R12"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R12"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R12"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R12"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R12"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R12"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R12"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R12"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R12",
+        [
+          "MODEL.3D.ROTZ"
+        ]
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R12",
+        150.00003670392533,
+        150.0,
+        3.6703925331948994e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R12"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R16"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R16"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R16"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R16"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R16"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R16"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R16"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R16"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R16"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R16",
+        [
+          "MODEL.3D.ROTZ"
+        ]
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R16",
+        30.000037433633718,
+        30.0,
+        3.743363372166186e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R16"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C35"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C35"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C35"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C35"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C35"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C35"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C35"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C35"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C35"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C35",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C35",
+        119.99998390571334,
+        120.0,
+        1.609428666426993e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C35"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C31"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C31"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C31"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C31"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C31"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C31"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C31"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C31"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C31"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C31",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C31",
+        60.00001609428662,
+        60.0,
+        1.6094286621637366e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C31"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C09"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C09"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C09"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C09"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C09"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C09"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C09"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C09"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C09"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C09",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C09",
+        149.9999918390717,
+        150.0,
+        8.160928302913817e-06
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C09"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C30"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C30"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C30"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C30"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C30"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C30"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C30"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C30"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C30"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C30",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C30",
+        29.99998390571338,
+        30.0,
+        1.6094286621637366e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C30"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C28"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C28"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C28"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C28"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C28"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C28"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C28"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C28"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C28"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C28",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C28",
+        149.99997408304327,
+        150.0,
+        2.591695673004324e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C28"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C12"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C12"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C12"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C12"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C12"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C12"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C12"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C12"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C12"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C12",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C12",
+        59.9999498278078,
+        60.0,
+        5.017219220349034e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C12"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C16"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C16"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C16"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C16"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C16"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C16"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C16"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C16"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C16"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C16",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C16",
+        120.00005017219223,
+        120.0,
+        5.017219223191205e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C16"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C11"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C11"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C11"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C11"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C11"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C11"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C11"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C11"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C11"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C11",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C11",
+        30.000050172192207,
+        30.0,
+        5.017219220349034e-05
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C11"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R13"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R13"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R13"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R13"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R13"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R13"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R13"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R13"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R13"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R13",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R13",
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R13"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C13"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C13"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C13"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C13"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C13"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C13"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C13"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C13"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C13"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C13",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C13",
+        90.0,
+        90.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C13"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP13"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP13"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP13"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP13"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP13"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP13"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP13"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP13"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP13"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP13",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R15"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R15"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R15"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R15"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R15"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R15"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R15"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R15"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R15"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R15",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R15",
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R15"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C15"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C15"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C15"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C15"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C15"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C15"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C15"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C15"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C15"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C15",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C15",
+        90.0,
+        90.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C15"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP15"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP15"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP15"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP15"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP15"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP15"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP15"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP15"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP15"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP15",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP16"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP16"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP16"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP16"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP16"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP16"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP16"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP16"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP16"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP16",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP12"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP12"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP12"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP12"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP12"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP12"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP12"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP12"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP12"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP12",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP28"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP28"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP28"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP28"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP28"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP28"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP28"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP28"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP28"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP28",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP11"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP11"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP11"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP11"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP11"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP11"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP11"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP11"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP11"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP11",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R24"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R24"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R24"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R24"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R24"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R24"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R24"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R24"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R24"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R24",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R24",
+        90.0,
+        90.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R24"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C24"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C24"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C24"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C24"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C24"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C24"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C24"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C24"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C24"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C24",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C24",
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C24"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP24"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP24"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP24"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP24"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP24"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP24"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP24"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP24"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP24"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP24",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R02"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R02"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R02"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R02"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R02"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R02"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R02"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R02"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R02"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R02",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R02",
+        90.0,
+        90.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R02"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C02"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C02"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C02"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C02"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C02"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C02"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C02"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C02"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C02"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C02",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C02",
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C02"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP02"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP02"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP02"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP02"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP02"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP02"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP02"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP02"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP02"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP02",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R21"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R21"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R21"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R21"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R21"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R21"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R21"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R21"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R21"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R21",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R21",
+        90.0,
+        90.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R21"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C21"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C21"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C21"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C21"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C21"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C21"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C21"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C21"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C21"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C21",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C21",
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C21"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP21"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP21"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP21"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP21"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP21"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP21"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP21"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP21"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP21"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP21",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R05"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R05"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R05"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R05"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R05"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R05"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R05"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R05"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R05"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R05",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R05",
+        90.0,
+        90.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R05"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C05"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C05"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C05"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C05"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C05"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C05"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C05"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C05"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C05"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C05",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C05",
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C05"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP05"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP05"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP05"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP05"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP05"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP05"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP05"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP05"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP05"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP05",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP30"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP30"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP30"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP30"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP30"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP30"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP30"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP30"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP30"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP30",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP09"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP09"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP09"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP09"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP09"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP09"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP09"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP09"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP09"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP09",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP31"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP31"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP31"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP31"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP31"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP31"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP31"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP31"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP31"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP31",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP35"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP35"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP35"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP35"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP35"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP35"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP35"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP35"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP35"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP35",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R32"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R32"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R32"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R32"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R32"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R32"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R32"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R32"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R32"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R32",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R32",
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R32"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C32"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C32"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C32"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C32"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C32"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C32"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C32"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C32"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C32"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C32",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C32",
+        90.0,
+        90.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C32"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP32"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP32"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP32"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP32"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP32"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP32"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP32"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP32"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP32"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP32",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "R34"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "R34"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "R34"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "R34"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "R34"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "R34"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "R34"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "R34"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "R34"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "R34",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "R34",
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "R34"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "C34"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "C34"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "C34"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "C34"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "C34"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "C34"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "C34"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "C34"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "C34"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "C34",
+        []
+      ]
+    },
+    {
+      "check": "Bottom projected R/C long axis matches pads",
+      "passed": true,
+      "details": [
+        "C34",
+        90.0,
+        90.0,
+        0.0
+      ]
+    },
+    {
+      "check": "R/C model centred between pads",
+      "passed": true,
+      "details": "C34"
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "SMP34"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "SMP34"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "SMP34"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "SMP34"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "SMP34"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "SMP34"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "SMP34"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "SMP34"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "SMP34"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "SMP34",
+        []
+      ]
+    },
+    {
+      "check": "Expected model rotation",
+      "passed": true,
+      "details": "J1"
+    },
+    {
+      "check": "Preserved model model_origin_mm",
+      "passed": true,
+      "details": "J1"
+    },
+    {
+      "check": "Preserved model standoff_mm",
+      "passed": true,
+      "details": "J1"
+    },
+    {
+      "check": "Preserved model overall_height_mm",
+      "passed": true,
+      "details": "J1"
+    },
+    {
+      "check": "Preserved model body_projection",
+      "passed": true,
+      "details": "J1"
+    },
+    {
+      "check": "Preserved model dz_mm",
+      "passed": true,
+      "details": "J1"
+    },
+    {
+      "check": "Preserved model outline_mm",
+      "passed": true,
+      "details": "J1"
+    },
+    {
+      "check": "Preserved model component_fields",
+      "passed": true,
+      "details": "J1"
+    },
+    {
+      "check": "Embedded STEP geometry unchanged",
+      "passed": true,
+      "details": "J1"
+    },
+    {
+      "check": "Only intended model Z field changed",
+      "passed": true,
+      "details": [
+        "J1",
+        []
+      ]
+    },
+    {
+      "check": "Exactly eight resistor models changed",
+      "passed": true,
+      "details": [
+        "R35",
+        "R31",
+        "R09",
+        "R30",
+        "R11",
+        "R28",
+        "R12",
+        "R16"
+      ]
+    },
+    {
+      "check": "Native DRC zero",
+      "passed": true,
+      "details": 0
+    },
+    {
+      "check": "Saved and reopened native verification complete",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "DRC follows model correction",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Native source stable during audit",
+      "passed": true,
+      "details": null
+    }
+  ],
+  "issues": [],
+  "changed_models": [
+    "R35",
+    "R31",
+    "R09",
+    "R30",
+    "R11",
+    "R28",
+    "R12",
+    "R16"
+  ],
+  "RC_axis_checks": [
+    {
+      "ref": "R35",
+      "pad_axis_deg": 29.999963296074895,
+      "projected_model_axis_deg": 30.0,
+      "error_deg": 3.670392510457532e-05,
+      "model_Z_before_deg": 30.0,
+      "model_Z_after_deg": 330.0,
+      "changed": true
+    },
+    {
+      "ref": "R31",
+      "pad_axis_deg": 150.00003670392533,
+      "projected_model_axis_deg": 150.0,
+      "error_deg": 3.6703925331948994e-05,
+      "model_Z_before_deg": 150.0,
+      "model_Z_after_deg": 210.0,
+      "changed": true
+    },
+    {
+      "ref": "R09",
+      "pad_axis_deg": 59.999962566366264,
+      "projected_model_axis_deg": 60.0,
+      "error_deg": 3.743363373587272e-05,
+      "model_Z_before_deg": 60.0,
+      "model_Z_after_deg": 300.0,
+      "changed": true
+    },
+    {
+      "ref": "R30",
+      "pad_axis_deg": 119.99996329607477,
+      "projected_model_axis_deg": 120.0,
+      "error_deg": 3.670392523247301e-05,
+      "model_Z_before_deg": 120.0,
+      "model_Z_after_deg": 240.0,
+      "changed": true
+    },
+    {
+      "ref": "R11",
+      "pad_axis_deg": 120.00003743363374,
+      "projected_model_axis_deg": 120.0,
+      "error_deg": 3.743363373587272e-05,
+      "model_Z_before_deg": 300.0,
+      "model_Z_after_deg": 60.0,
+      "changed": true
+    },
+    {
+      "ref": "R28",
+      "pad_axis_deg": 60.00003670392523,
+      "projected_model_axis_deg": 60.0,
+      "error_deg": 3.670392523247301e-05,
+      "model_Z_before_deg": 240.0,
+      "model_Z_after_deg": 120.0,
+      "changed": true
+    },
+    {
+      "ref": "R12",
+      "pad_axis_deg": 150.00003670392533,
+      "projected_model_axis_deg": 150.0,
+      "error_deg": 3.6703925331948994e-05,
+      "model_Z_before_deg": 330.0,
+      "model_Z_after_deg": 30.0,
+      "changed": true
+    },
+    {
+      "ref": "R16",
+      "pad_axis_deg": 30.000037433633718,
+      "projected_model_axis_deg": 30.0,
+      "error_deg": 3.743363372166186e-05,
+      "model_Z_before_deg": 210.0,
+      "model_Z_after_deg": 150.0,
+      "changed": true
+    },
+    {
+      "ref": "C35",
+      "pad_axis_deg": 119.99998390571334,
+      "projected_model_axis_deg": 120.0,
+      "error_deg": 1.609428666426993e-05,
+      "model_Z_before_deg": 240.0,
+      "model_Z_after_deg": 240.0,
+      "changed": false
+    },
+    {
+      "ref": "C31",
+      "pad_axis_deg": 60.00001609428662,
+      "projected_model_axis_deg": 60.0,
+      "error_deg": 1.6094286621637366e-05,
+      "model_Z_before_deg": 300.0,
+      "model_Z_after_deg": 300.0,
+      "changed": false
+    },
+    {
+      "ref": "C09",
+      "pad_axis_deg": 149.9999918390717,
+      "projected_model_axis_deg": 150.0,
+      "error_deg": 8.160928302913817e-06,
+      "model_Z_before_deg": 210.0,
+      "model_Z_after_deg": 210.0,
+      "changed": false
+    },
+    {
+      "ref": "C30",
+      "pad_axis_deg": 29.99998390571338,
+      "projected_model_axis_deg": 30.0,
+      "error_deg": 1.6094286621637366e-05,
+      "model_Z_before_deg": 330.0,
+      "model_Z_after_deg": 330.0,
+      "changed": false
+    },
+    {
+      "ref": "C28",
+      "pad_axis_deg": 149.99997408304327,
+      "projected_model_axis_deg": 150.0,
+      "error_deg": 2.591695673004324e-05,
+      "model_Z_before_deg": 30.0,
+      "model_Z_after_deg": 30.0,
+      "changed": false
+    },
+    {
+      "ref": "C12",
+      "pad_axis_deg": 59.9999498278078,
+      "projected_model_axis_deg": 60.0,
+      "error_deg": 5.017219220349034e-05,
+      "model_Z_before_deg": 120.0,
+      "model_Z_after_deg": 120.0,
+      "changed": false
+    },
+    {
+      "ref": "C16",
+      "pad_axis_deg": 120.00005017219223,
+      "projected_model_axis_deg": 120.0,
+      "error_deg": 5.017219223191205e-05,
+      "model_Z_before_deg": 60.0,
+      "model_Z_after_deg": 60.0,
+      "changed": false
+    },
+    {
+      "ref": "C11",
+      "pad_axis_deg": 30.000050172192207,
+      "projected_model_axis_deg": 30.0,
+      "error_deg": 5.017219220349034e-05,
+      "model_Z_before_deg": 150.0,
+      "model_Z_after_deg": 150.0,
+      "changed": false
+    },
+    {
+      "ref": "R13",
+      "pad_axis_deg": 0.0,
+      "projected_model_axis_deg": 0.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 180.0,
+      "model_Z_after_deg": 180.0,
+      "changed": false
+    },
+    {
+      "ref": "C13",
+      "pad_axis_deg": 90.0,
+      "projected_model_axis_deg": 90.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 270.0,
+      "model_Z_after_deg": 270.0,
+      "changed": false
+    },
+    {
+      "ref": "R15",
+      "pad_axis_deg": 0.0,
+      "projected_model_axis_deg": 0.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 360.0,
+      "model_Z_after_deg": 360.0,
+      "changed": false
+    },
+    {
+      "ref": "C15",
+      "pad_axis_deg": 90.0,
+      "projected_model_axis_deg": 90.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 270.0,
+      "model_Z_after_deg": 270.0,
+      "changed": false
+    },
+    {
+      "ref": "R24",
+      "pad_axis_deg": 90.0,
+      "projected_model_axis_deg": 90.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 90.0,
+      "model_Z_after_deg": 90.0,
+      "changed": false
+    },
+    {
+      "ref": "C24",
+      "pad_axis_deg": 0.0,
+      "projected_model_axis_deg": 0.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 0.0,
+      "model_Z_after_deg": 0.0,
+      "changed": false
+    },
+    {
+      "ref": "R02",
+      "pad_axis_deg": 90.0,
+      "projected_model_axis_deg": 90.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 90.0,
+      "model_Z_after_deg": 90.0,
+      "changed": false
+    },
+    {
+      "ref": "C02",
+      "pad_axis_deg": 0.0,
+      "projected_model_axis_deg": 0.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 180.0,
+      "model_Z_after_deg": 180.0,
+      "changed": false
+    },
+    {
+      "ref": "R21",
+      "pad_axis_deg": 90.0,
+      "projected_model_axis_deg": 90.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 270.0,
+      "model_Z_after_deg": 270.0,
+      "changed": false
+    },
+    {
+      "ref": "C21",
+      "pad_axis_deg": 0.0,
+      "projected_model_axis_deg": 0.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 0.0,
+      "model_Z_after_deg": 0.0,
+      "changed": false
+    },
+    {
+      "ref": "R05",
+      "pad_axis_deg": 90.0,
+      "projected_model_axis_deg": 90.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 270.0,
+      "model_Z_after_deg": 270.0,
+      "changed": false
+    },
+    {
+      "ref": "C05",
+      "pad_axis_deg": 0.0,
+      "projected_model_axis_deg": 0.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 180.0,
+      "model_Z_after_deg": 180.0,
+      "changed": false
+    },
+    {
+      "ref": "R32",
+      "pad_axis_deg": 0.0,
+      "projected_model_axis_deg": 0.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 180.0,
+      "model_Z_after_deg": 180.0,
+      "changed": false
+    },
+    {
+      "ref": "C32",
+      "pad_axis_deg": 90.0,
+      "projected_model_axis_deg": 90.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 90.0,
+      "model_Z_after_deg": 90.0,
+      "changed": false
+    },
+    {
+      "ref": "R34",
+      "pad_axis_deg": 0.0,
+      "projected_model_axis_deg": 0.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 0.0,
+      "model_Z_after_deg": 0.0,
+      "changed": false
+    },
+    {
+      "ref": "C34",
+      "pad_axis_deg": 90.0,
+      "projected_model_axis_deg": 90.0,
+      "error_deg": 0.0,
+      "model_Z_before_deg": 90.0,
+      "model_Z_after_deg": 90.0,
+      "changed": false
+    }
+  ],
+  "stored_connections": 0,
+  "DRC_violations": 0,
+  "changed_streams": [
+    "Board6/Data",
+    "ComponentBodies6/Data",
+    "FileHeaderSix",
+    "Models/0",
+    "Models/1",
+    "Models/10",
+    "Models/11",
+    "Models/12",
+    "Models/13",
+    "Models/14",
+    "Models/15",
+    "Models/18",
+    "Models/2",
+    "Models/21",
+    "Models/22",
+    "Models/3",
+    "Models/4",
+    "Models/5",
+    "Models/6",
+    "Models/7",
+    "Models/8",
+    "Models/Data",
+    "PrimitiveGuids/Data",
+    "ShapeBasedComponentBodies6/Data",
+    "Texts/Data",
+    "Texts6/Data"
+  ],
+  "manufacturing_evidence": "Current pad/via/region/rule/stack streams are byte-identical to the baseline whose native mask/paste, QD exclusions and 71-net connectivity audits passed. No new CAM export is required for this mesh-only correction."
+}

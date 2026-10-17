@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=RestoreRCMaskMargin.pas
+[Generic_ScriptingSystem]
+StartProcName=RestoreRCMaskMargin.pas>RestoreRCMaskMargin

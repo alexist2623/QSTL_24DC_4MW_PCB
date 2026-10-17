@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "PCB_sha256": "214d65cc0d5debf9ef67c7c31496fe23b06b70147fe2f5511073fe110cb24619",
+  "RC_margin_before_mm": 0.2,
+  "RC_margin_after_mm": 0.9,
+  "Top_mask_unchanged": true,
+  "DRC_violations": 0,
+  "audits": {
+    "compact_audit.json": {
+      "passed": true,
+      "sha256": "43c392f89fff5f0108820b52eedafe3db50db00c11b68e81dd877642eba229f2"
+    },
+    "saved_native_audit.json": {
+      "passed": true,
+      "sha256": "99274023a76d252151f40f6f8c41cae7080ba5c79f3c3a0ca974e8ac00eeee8b"
+    },
+    "support_audit.json": {
+      "passed": true,
+      "sha256": "fd384799be2f22d771da753b623acb8a01ccce52ac84efbe0a5fdc433be04728"
+    },
+    "mask_cam_audit.json": {
+      "passed": true,
+      "sha256": "ea400735c47faae4b87064140aafcdd5aa660dfbbec7c8521797c01842456496"
+    }
+  },
+  "images": {
+    "Capacitor_Pad_Registration.png": "a59ad2f9522a6e8ab306f3842ba341f22c94338a23e6d3021bdbdbab7b7a75c8",
+    "Corrected_Masks_Both_Faces.png": "bbd2dc649c6151a81f7d33c1ff518afe574a8792eba9d5b75bcb98b3e07cdc53",
+    "Mask_Before_After.png": "13afab9eb2f0b289f426c5f54c2ceb0bdd805067433dd821d66ce63ac8aff32c",
+    "Solder_Mask_and_L5_Openings.png": "f520ef0b4eaa0ad65fa5151f7d5a42104d73451942aef298dc3d26232bf0d09d"
+  },
+  "report_sha256": "28097ef7aabd58b9d1d45d2aa6da3ede9fe540e1b4f61c83e5470e37d900096e"
+}

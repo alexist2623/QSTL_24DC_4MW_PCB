@@ -1,0 +1,1409 @@
+{
+  "passed": true,
+  "source_sha256": "214d65cc0d5debf9ef67c7c31496fe23b06b70147fe2f5511073fe110cb24619",
+  "checks": [
+    {
+      "check": "All RF/DC/mechanical routes exactly preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Unchanged pad x",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Unchanged pad y",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Unchanged pad sx",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Unchanged pad sy",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Unchanged pad hole",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Unchanged pad rotation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Unchanged pad layer",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Unchanged pad net",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Unchanged pad shape",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All 1590 vias preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Outline preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Nonmask region preserved",
+      "passed": true,
+      "detail": [
+        1,
+        "GND"
+      ]
+    },
+    {
+      "check": "Nonmask region preserved",
+      "passed": true,
+      "detail": [
+        2,
+        "GND"
+      ]
+    },
+    {
+      "check": "Nonmask region preserved",
+      "passed": true,
+      "detail": [
+        3,
+        "GND"
+      ]
+    },
+    {
+      "check": "Nonmask region preserved",
+      "passed": true,
+      "detail": [
+        4,
+        "GND"
+      ]
+    },
+    {
+      "check": "Nonmask region preserved",
+      "passed": true,
+      "detail": [
+        5,
+        null
+      ]
+    },
+    {
+      "check": "Nonmask region preserved",
+      "passed": true,
+      "detail": [
+        5,
+        "GND"
+      ]
+    },
+    {
+      "check": "Nonmask region preserved",
+      "passed": true,
+      "detail": [
+        32,
+        "GND"
+      ]
+    },
+    {
+      "check": "Nonmask region preserved",
+      "passed": true,
+      "detail": [
+        37,
+        null
+      ]
+    },
+    {
+      "check": "Preserved QSTL_QD4_2SET_38PAD.SchDoc",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Preserved pin_mapping.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All native rules preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Arcs6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Arcs6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "ComponentBodies6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "ComponentBodies6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Components6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Components6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/0"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/1"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/10"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/11"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/12"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/13"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/14"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/15"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/16"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/17"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/18"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/19"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/2"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/20"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/21"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/22"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/23"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/24"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/25"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/26"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/3"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/4"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/5"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/6"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/7"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/8"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/9"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Models/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "ModelsNoEmbed/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "ModelsNoEmbed/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Pads6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Pads6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Rules6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Rules6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Tracks6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Tracks6/Header"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Vias6/Data"
+    },
+    {
+      "check": "Native stream preserved",
+      "passed": true,
+      "detail": "Vias6/Header"
+    },
+    {
+      "check": "32 persistent L5-only cutouts preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "L5 void C02",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C05",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C09",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C11",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C12",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C13",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C15",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C16",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C21",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C24",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C28",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C30",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C31",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C32",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C34",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void C35",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R02",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R05",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R09",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R11",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R12",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R13",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R15",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R16",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R21",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R24",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R28",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R30",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R31",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R32",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R34",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "L5 void R35",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "Compact rotated footprint C02",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C05",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C09",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C11",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C12",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C13",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C15",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C16",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C21",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C24",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C28",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C30",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C31",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C32",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C34",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint C35",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R02",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R05",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R09",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R11",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R12",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R13",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R15",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R16",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R21",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R24",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R28",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R30",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R31",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R32",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R34",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Compact rotated footprint R35",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-1",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R34-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-3",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-4",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R35-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-6",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-7",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-8",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R09-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-10",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R05-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R02-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R11-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-14",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R12-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R15-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-17",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-18",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-19",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-20",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R13-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-22",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-23",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R16-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-25",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-26",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-27",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R28-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-29",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R24-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R21-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R30-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-33",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R31-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover R32-2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-36",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-37",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Top local via cover Q1-38",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 0",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 0",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 1",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 1",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 2",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 2",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 3",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 3",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 4",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 4",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 5",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 5",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 6",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 6",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 7",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 7",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 8",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 8",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 9",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 9",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 10",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 10",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 11",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 11",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 12",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 12",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 13",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 13",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 14",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 14",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 15",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "SMP solder control 15",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Top ZIF protection",
+      "passed": true,
+      "detail": [
+        37,
+        0.0
+      ]
+    },
+    {
+      "check": "Bottom ZIF via protection",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "RF strip preserved",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Bottom local via protection",
+      "passed": true,
+      "detail": [
+        38,
+        0.0
+      ]
+    },
+    {
+      "check": "Top central metal exposed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Bottom bond field exposed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Top mounts exposed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Bottom mounts exposed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Stable native source",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "issues": []
+}

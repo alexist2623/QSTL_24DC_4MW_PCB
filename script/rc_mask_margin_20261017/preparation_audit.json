@@ -1,0 +1,15 @@
+{
+  "before_sha256": "5a5d3a83e164647765685761dfe95143e4bacdde0b8763a326cdc1eebfc5e8ac",
+  "RC_footprints": 32,
+  "before_margin_mm": 0.2,
+  "after_margin_mm": 0.9,
+  "Top_unchanged": true,
+  "local_sliver_repairs": [
+    {
+      "before_gap_mm": 0.11999885999999904,
+      "added_mask_mm2": 9.430996825015638e-08
+    }
+  ],
+  "Bottom_mask_area_before_mm2": 908.2208154035569,
+  "Bottom_mask_area_after_mm2": 1002.9150985802746
+}

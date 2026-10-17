@@ -22,3 +22,7 @@ script/rf_entry_shield_fix_20261016/** -text
 script/smp_broad_rounding_20261016/** -text
 script/compact_masks_20261016/** -text
 script/bond_pad_width_20261016/** -text
+# Preserve source-bound evidence for the R/C model, mask and QD via corrections.
+script/rc_mask_margin_20261017/** -text
+script/qd_via_land_20261017/** -text
+script/resistor_models_20261017/** -text

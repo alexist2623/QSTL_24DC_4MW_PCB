@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=CorrectCapModels.pas
+[Generic_ScriptingSystem]
+StartProcName=CorrectCapModels.pas>CorrectCapModels

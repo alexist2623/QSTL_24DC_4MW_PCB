@@ -1,0 +1,55 @@
+{
+  "source_sha256": "97581f7c13d63e503f25b2d211d5f3593e22ee7ad6817f86f47d3dbe955f0d7f",
+  "changed_refs": [
+    "R16",
+    "R12",
+    "R28",
+    "R11",
+    "R30",
+    "R09",
+    "R31",
+    "R35"
+  ],
+  "model_changes": [
+    {
+      "ref": "R16",
+      "before": 210.0,
+      "after": 150.0
+    },
+    {
+      "ref": "R12",
+      "before": 330.0,
+      "after": 30.0
+    },
+    {
+      "ref": "R28",
+      "before": 240.0,
+      "after": 120.0
+    },
+    {
+      "ref": "R11",
+      "before": 300.0,
+      "after": 60.0
+    },
+    {
+      "ref": "R30",
+      "before": 120.0,
+      "after": 240.0
+    },
+    {
+      "ref": "R09",
+      "before": 60.0,
+      "after": 300.0
+    },
+    {
+      "ref": "R31",
+      "before": 150.0,
+      "after": 210.0
+    },
+    {
+      "ref": "R35",
+      "before": 30.0,
+      "after": 330.0
+    }
+  ]
+}
