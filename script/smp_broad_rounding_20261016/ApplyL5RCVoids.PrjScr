@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=ApplyL5RCVoids.pas
+[Generic_ScriptingSystem]
+StartProcName=ApplyL5RCVoids.pas>ApplyL5RCVoids

@@ -1,0 +1,226 @@
+[
+  {
+    "channel": "SMP34",
+    "side": -1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999915,
+    "clear": true
+  },
+  {
+    "channel": "SMP34",
+    "side": 1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999915,
+    "clear": true
+  },
+  {
+    "channel": "SMP32",
+    "side": -1,
+    "count": 6,
+    "max_step_mm": 0.41999999999999105,
+    "clear": true
+  },
+  {
+    "channel": "SMP32",
+    "side": 1,
+    "count": 6,
+    "max_step_mm": 0.41999999999999105,
+    "clear": true
+  },
+  {
+    "channel": "SMP35",
+    "side": -1,
+    "count": 6,
+    "max_step_mm": 0.41999999999999105,
+    "clear": true
+  },
+  {
+    "channel": "SMP35",
+    "side": 1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999911,
+    "clear": true
+  },
+  {
+    "channel": "SMP31",
+    "side": -1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999946,
+    "clear": true
+  },
+  {
+    "channel": "SMP31",
+    "side": 1,
+    "count": 6,
+    "max_step_mm": 0.41999999999999105,
+    "clear": true
+  },
+  {
+    "channel": "SMP09",
+    "side": -1,
+    "count": 8,
+    "max_step_mm": 0.419999703926605,
+    "clear": true
+  },
+  {
+    "channel": "SMP09",
+    "side": 1,
+    "count": 7,
+    "max_step_mm": 0.419998929299478,
+    "clear": true
+  },
+  {
+    "channel": "SMP30",
+    "side": -1,
+    "count": 7,
+    "max_step_mm": 0.41999892929947913,
+    "clear": true
+  },
+  {
+    "channel": "SMP30",
+    "side": 1,
+    "count": 8,
+    "max_step_mm": 0.41999970392660835,
+    "clear": true
+  },
+  {
+    "channel": "SMP05",
+    "side": -1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999946,
+    "clear": true
+  },
+  {
+    "channel": "SMP05",
+    "side": 1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999946,
+    "clear": true
+  },
+  {
+    "channel": "SMP21",
+    "side": -1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999946,
+    "clear": true
+  },
+  {
+    "channel": "SMP21",
+    "side": 1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999946,
+    "clear": true
+  },
+  {
+    "channel": "SMP02",
+    "side": -1,
+    "count": 5,
+    "max_step_mm": 0.4199999999999946,
+    "clear": false
+  },
+  {
+    "channel": "SMP02",
+    "side": 1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999946,
+    "clear": true
+  },
+  {
+    "channel": "SMP24",
+    "side": -1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999946,
+    "clear": true
+  },
+  {
+    "channel": "SMP24",
+    "side": 1,
+    "count": 5,
+    "max_step_mm": 0.4199999999999946,
+    "clear": false
+  },
+  {
+    "channel": "SMP11",
+    "side": -1,
+    "count": 7,
+    "max_step_mm": 0.41999892929947824,
+    "clear": true
+  },
+  {
+    "channel": "SMP11",
+    "side": 1,
+    "count": 8,
+    "max_step_mm": 0.41999970392660524,
+    "clear": true
+  },
+  {
+    "channel": "SMP28",
+    "side": -1,
+    "count": 8,
+    "max_step_mm": 0.41999970392660835,
+    "clear": true
+  },
+  {
+    "channel": "SMP28",
+    "side": 1,
+    "count": 7,
+    "max_step_mm": 0.4199989292994756,
+    "clear": true
+  },
+  {
+    "channel": "SMP12",
+    "side": -1,
+    "count": 6,
+    "max_step_mm": 0.41999999999999127,
+    "clear": true
+  },
+  {
+    "channel": "SMP12",
+    "side": 1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999912,
+    "clear": true
+  },
+  {
+    "channel": "SMP16",
+    "side": -1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999946,
+    "clear": true
+  },
+  {
+    "channel": "SMP16",
+    "side": 1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999946,
+    "clear": true
+  },
+  {
+    "channel": "SMP15",
+    "side": -1,
+    "count": 6,
+    "max_step_mm": 0.4199999999999915,
+    "clear": true
+  },
+  {
+    "channel": "SMP15",
+    "side": 1,
+    "count": 6,
+    "max_step_mm": 0.41999999999999105,
+    "clear": true
+  },
+  {
+    "channel": "SMP13",
+    "side": -1,
+    "count": 6,
+    "max_step_mm": 0.41999999999999105,
+    "clear": true
+  },
+  {
+    "channel": "SMP13",
+    "side": 1,
+    "count": 6,
+    "max_step_mm": 0.41999999999999105,
+    "clear": true
+  }
+]

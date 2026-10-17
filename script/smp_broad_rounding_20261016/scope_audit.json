@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "changed_entries": [
+    "SMP34",
+    "SMP32",
+    "SMP35",
+    "SMP31",
+    "SMP09",
+    "SMP30",
+    "SMP05",
+    "SMP21",
+    "SMP11",
+    "SMP28",
+    "SMP12",
+    "SMP16",
+    "SMP15"
+  ],
+  "retained_ambiguous_entries": [
+    "SMP02",
+    "SMP24"
+  ],
+  "preserved_C13": true,
+  "preserved_QD_RF_DC_and_protected_fences": true,
+  "maximum_entry_mirror_error_mm": 4.9733430564928146e-06
+}

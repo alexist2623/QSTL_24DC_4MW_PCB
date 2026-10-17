@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "other_RF_routes_and_entry_shields_exactly_unchanged": true,
+  "local_removed_shields": 17,
+  "local_added_shields": 19,
+  "changed_shield_bounds_mm": [
+    11.344278458567743,
+    22.412,
+    14.711916882556187,
+    24.250852796679474
+  ],
+  "other_saved_routes_max_difference_mm": 0.0,
+  "unchanged_route_native_grid_tolerance_mm": 5.08e-06,
+  "rounded_route_differences_mm": {},
+  "native_arc": {
+    "cx": 13.35000124,
+    "cy": 24.44999936,
+    "radius": 1.5999993399999999,
+    "start": 180.0,
+    "end": 270.0,
+    "layer": 32
+  },
+  "normal_launch_mm": 0.75,
+  "radial_entry_mm": 3.4,
+  "source_sha256": "8b8002cfa465c2b7ff8a1c57299817a78393ef0a3739fe9d5962aed1a692bdd5"
+}

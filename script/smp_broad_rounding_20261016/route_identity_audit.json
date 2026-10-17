@@ -1,0 +1,548 @@
+{
+  "passed": true,
+  "issues": [],
+  "max_route_centreline_difference_mm": 0.00010144068792791882,
+  "arcs_tessellation_bound_mm": 0.0001,
+  "rows": [
+    {
+      "net": "DC16",
+      "layer": 2,
+      "hausdorff_mm": 1.1490865957604561e-06
+    },
+    {
+      "net": "DC15",
+      "layer": 2,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC13",
+      "layer": 2,
+      "hausdorff_mm": 1.2870120371176493e-06
+    },
+    {
+      "net": "DC18",
+      "layer": 2,
+      "hausdorff_mm": 1.633768626931167e-06
+    },
+    {
+      "net": "DC19",
+      "layer": 2,
+      "hausdorff_mm": 1.4048423844540396e-06
+    },
+    {
+      "net": "DC12",
+      "layer": 2,
+      "hausdorff_mm": 1.6858232391939288e-06
+    },
+    {
+      "net": "DC17",
+      "layer": 2,
+      "hausdorff_mm": 1.1024109034113644e-06
+    },
+    {
+      "net": "DC14",
+      "layer": 2,
+      "hausdorff_mm": 1.4960254690877186e-06
+    },
+    {
+      "net": "DC10",
+      "layer": 2,
+      "hausdorff_mm": 1.5912546042667122e-06
+    },
+    {
+      "net": "DC08",
+      "layer": 2,
+      "hausdorff_mm": 1.1400551519062837e-06
+    },
+    {
+      "net": "DC07",
+      "layer": 2,
+      "hausdorff_mm": 1.4720093553135434e-06
+    },
+    {
+      "net": "DC01",
+      "layer": 2,
+      "hausdorff_mm": 1.5042606372787778e-06
+    },
+    {
+      "net": "DC06",
+      "layer": 2,
+      "hausdorff_mm": 1.173795525370931e-06
+    },
+    {
+      "net": "DC11",
+      "layer": 2,
+      "hausdorff_mm": 1.2593649177012826e-06
+    },
+    {
+      "net": "DC04",
+      "layer": 2,
+      "hausdorff_mm": 1.4000714107041258e-06
+    },
+    {
+      "net": "DC03",
+      "layer": 2,
+      "hausdorff_mm": 1.2586501030570124e-06
+    },
+    {
+      "net": "DC09",
+      "layer": 2,
+      "hausdorff_mm": 1.1461239050867943e-06
+    },
+    {
+      "net": "DC05",
+      "layer": 2,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC02",
+      "layer": 2,
+      "hausdorff_mm": 1.739482641010244e-06
+    },
+    {
+      "net": "DC21",
+      "layer": 3,
+      "hausdorff_mm": 1.4289856555166579e-06
+    },
+    {
+      "net": "DC24",
+      "layer": 3,
+      "hausdorff_mm": 1.4480331335388167e-06
+    },
+    {
+      "net": "DC28",
+      "layer": 3,
+      "hausdorff_mm": 1.4424978524874454e-06
+    },
+    {
+      "net": "DC22",
+      "layer": 3,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC30",
+      "layer": 3,
+      "hausdorff_mm": 1.486606897003602e-06
+    },
+    {
+      "net": "DC23",
+      "layer": 3,
+      "hausdorff_mm": 1.2000000033651759e-06
+    },
+    {
+      "net": "DC25",
+      "layer": 3,
+      "hausdorff_mm": 1.293878728234976e-06
+    },
+    {
+      "net": "DC20",
+      "layer": 3,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC26",
+      "layer": 3,
+      "hausdorff_mm": 1.3010764707321743e-06
+    },
+    {
+      "net": "DC27",
+      "layer": 3,
+      "hausdorff_mm": 1.5579473430587486e-06
+    },
+    {
+      "net": "DC29",
+      "layer": 3,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC33",
+      "layer": 3,
+      "hausdorff_mm": 1.7126587778663464e-06
+    },
+    {
+      "net": "DC31",
+      "layer": 3,
+      "hausdorff_mm": 1.371787108226726e-06
+    },
+    {
+      "net": "DC36",
+      "layer": 3,
+      "hausdorff_mm": 1.3859292936933352e-06
+    },
+    {
+      "net": "DC37",
+      "layer": 3,
+      "hausdorff_mm": 1.259880791827474e-06
+    },
+    {
+      "net": "DC38",
+      "layer": 3,
+      "hausdorff_mm": 1.1737967453238123e-06
+    },
+    {
+      "net": "DC32",
+      "layer": 3,
+      "hausdorff_mm": 1.4919860685643329e-06
+    },
+    {
+      "net": "DC34",
+      "layer": 3,
+      "hausdorff_mm": 1.5132077482883657e-06
+    },
+    {
+      "net": "DC35",
+      "layer": 3,
+      "hausdorff_mm": 1.5000000288978303e-06
+    },
+    {
+      "net": "DC18",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC36",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC26",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC07",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC28",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC14",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC03",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC16",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC13",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC04",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC15",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC12",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC09",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC05",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC08",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC11",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC10",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC06",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC32",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC17",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC01",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC37",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC38",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC19",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC23",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC25",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC29",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC20",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC27",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC21",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC33",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC31",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC34",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC02",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC35",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "DC30",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC22",
+      "layer": 1,
+      "hausdorff_mm": 9.800000002613274e-07
+    },
+    {
+      "net": "DC24",
+      "layer": 1,
+      "hausdorff_mm": 9.79999999373149e-07
+    },
+    {
+      "net": "MW02",
+      "layer": 32,
+      "hausdorff_mm": 4.125708335305626e-05
+    },
+    {
+      "net": "S34",
+      "layer": 32,
+      "hausdorff_mm": 9.949384456161761e-05
+    },
+    {
+      "net": "MW35",
+      "layer": 32,
+      "hausdorff_mm": 9.749150037406361e-05
+    },
+    {
+      "net": "S32",
+      "layer": 32,
+      "hausdorff_mm": 0.00010019276792002158
+    },
+    {
+      "net": "MW05",
+      "layer": 32,
+      "hausdorff_mm": 9.806078555356719e-05
+    },
+    {
+      "net": "S35",
+      "layer": 32,
+      "hausdorff_mm": 0.00010112779054205395
+    },
+    {
+      "net": "MW34",
+      "layer": 32,
+      "hausdorff_mm": 9.875953258757026e-05
+    },
+    {
+      "net": "S31",
+      "layer": 32,
+      "hausdorff_mm": 0.00010107775761938676
+    },
+    {
+      "net": "MW09",
+      "layer": 32,
+      "hausdorff_mm": 9.632042322686675e-05
+    },
+    {
+      "net": "S09",
+      "layer": 32,
+      "hausdorff_mm": 9.763019200176492e-05
+    },
+    {
+      "net": "MW32",
+      "layer": 32,
+      "hausdorff_mm": 8.533957057629516e-05
+    },
+    {
+      "net": "S30",
+      "layer": 32,
+      "hausdorff_mm": 9.848919004315309e-05
+    },
+    {
+      "net": "MW11",
+      "layer": 32,
+      "hausdorff_mm": 9.898880177335037e-05
+    },
+    {
+      "net": "S05",
+      "layer": 32,
+      "hausdorff_mm": 9.921426773027225e-05
+    },
+    {
+      "net": "MW31",
+      "layer": 32,
+      "hausdorff_mm": 9.155377229044241e-05
+    },
+    {
+      "net": "S21",
+      "layer": 32,
+      "hausdorff_mm": 9.81027486204558e-05
+    },
+    {
+      "net": "MW12",
+      "layer": 32,
+      "hausdorff_mm": 8.58345231214228e-05
+    },
+    {
+      "net": "S02",
+      "layer": 32,
+      "hausdorff_mm": 9.07196701290712e-05
+    },
+    {
+      "net": "MW30",
+      "layer": 32,
+      "hausdorff_mm": 9.434971175924945e-05
+    },
+    {
+      "net": "S24",
+      "layer": 32,
+      "hausdorff_mm": 9.086477643458313e-05
+    },
+    {
+      "net": "MW13",
+      "layer": 32,
+      "hausdorff_mm": 9.971588537816972e-05
+    },
+    {
+      "net": "S11",
+      "layer": 32,
+      "hausdorff_mm": 9.851113107474086e-05
+    },
+    {
+      "net": "MW28",
+      "layer": 32,
+      "hausdorff_mm": 9.78623728275095e-05
+    },
+    {
+      "net": "S28",
+      "layer": 32,
+      "hausdorff_mm": 9.907660715688188e-05
+    },
+    {
+      "net": "MW15",
+      "layer": 32,
+      "hausdorff_mm": 9.382581882215002e-05
+    },
+    {
+      "net": "S12",
+      "layer": 32,
+      "hausdorff_mm": 9.966810920210603e-05
+    },
+    {
+      "net": "MW24",
+      "layer": 32,
+      "hausdorff_mm": 0.00010144068792791882
+    },
+    {
+      "net": "S16",
+      "layer": 32,
+      "hausdorff_mm": 9.936042523412405e-05
+    },
+    {
+      "net": "MW16",
+      "layer": 32,
+      "hausdorff_mm": 9.230060570491506e-05
+    },
+    {
+      "net": "S15",
+      "layer": 32,
+      "hausdorff_mm": 9.799634148837144e-05
+    },
+    {
+      "net": "MW21",
+      "layer": 32,
+      "hausdorff_mm": 5.925116921054287e-05
+    },
+    {
+      "net": "S13",
+      "layer": 32,
+      "hausdorff_mm": 9.960025165889875e-05
+    }
+  ]
+}

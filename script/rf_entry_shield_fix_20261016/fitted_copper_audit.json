@@ -1,0 +1,171 @@
+{
+  "passed": true,
+  "errors": [],
+  "minimum_RF_pair": [
+    0.40757293716802756,
+    "MW35",
+    "MW34"
+  ],
+  "rows": [
+    {
+      "net": "MW02",
+      "foreign_pad_gap_mm": 0.317939489104998,
+      "foreign_via_gap_mm": 0.26953864167168307
+    },
+    {
+      "net": "S34",
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_via_gap_mm": 4.505536167419276
+    },
+    {
+      "net": "MW35",
+      "foreign_pad_gap_mm": 0.3073834322687915,
+      "foreign_via_gap_mm": 0.35881685130442664
+    },
+    {
+      "net": "S32",
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_via_gap_mm": 4.505536167419276
+    },
+    {
+      "net": "MW05",
+      "foreign_pad_gap_mm": 0.364409834811168,
+      "foreign_via_gap_mm": 0.32569813505173717
+    },
+    {
+      "net": "S35",
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_via_gap_mm": 2.607342953798317
+    },
+    {
+      "net": "MW34",
+      "foreign_pad_gap_mm": 0.3644098348111672,
+      "foreign_via_gap_mm": 0.33449550964915
+    },
+    {
+      "net": "S31",
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_via_gap_mm": 2.6073429537983177
+    },
+    {
+      "net": "MW09",
+      "foreign_pad_gap_mm": 0.3889197054055044,
+      "foreign_via_gap_mm": 0.35137461617225335
+    },
+    {
+      "net": "S09",
+      "foreign_pad_gap_mm": 0.7149997299999877,
+      "foreign_via_gap_mm": 2.9847041372330674
+    },
+    {
+      "net": "MW32",
+      "foreign_pad_gap_mm": 0.4603872981538551,
+      "foreign_via_gap_mm": 0.5039954269495447
+    },
+    {
+      "net": "S30",
+      "foreign_pad_gap_mm": 0.7149997299999877,
+      "foreign_via_gap_mm": 2.9847041372330687
+    },
+    {
+      "net": "MW11",
+      "foreign_pad_gap_mm": 0.4244453549861461,
+      "foreign_via_gap_mm": 0.3993559415618834
+    },
+    {
+      "net": "S05",
+      "foreign_pad_gap_mm": 0.7149997299999993,
+      "foreign_via_gap_mm": 4.505536167419274
+    },
+    {
+      "net": "MW31",
+      "foreign_pad_gap_mm": 0.41771119859238526,
+      "foreign_via_gap_mm": 1.1857939227462173
+    },
+    {
+      "net": "S21",
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_via_gap_mm": 4.505536167419274
+    },
+    {
+      "net": "MW12",
+      "foreign_pad_gap_mm": 0.3889197054055066,
+      "foreign_via_gap_mm": 0.9174315248964849
+    },
+    {
+      "net": "S02",
+      "foreign_pad_gap_mm": 0.7149997299999993,
+      "foreign_via_gap_mm": 4.505536167419274
+    },
+    {
+      "net": "MW30",
+      "foreign_pad_gap_mm": 0.4711569756551189,
+      "foreign_via_gap_mm": 0.4834470729859282
+    },
+    {
+      "net": "S24",
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_via_gap_mm": 4.505536167419274
+    },
+    {
+      "net": "MW13",
+      "foreign_pad_gap_mm": 0.34570891265288684,
+      "foreign_via_gap_mm": 0.3139045560624896
+    },
+    {
+      "net": "S11",
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_via_gap_mm": 2.9847041372330674
+    },
+    {
+      "net": "MW28",
+      "foreign_pad_gap_mm": 0.4711569756551273,
+      "foreign_via_gap_mm": 0.43556368494930847
+    },
+    {
+      "net": "S28",
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_via_gap_mm": 2.9847041372330687
+    },
+    {
+      "net": "MW15",
+      "foreign_pad_gap_mm": 0.8060465409477403,
+      "foreign_via_gap_mm": 1.3516082901535103
+    },
+    {
+      "net": "S12",
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_via_gap_mm": 2.6073429537983195
+    },
+    {
+      "net": "MW24",
+      "foreign_pad_gap_mm": 0.3841263215434123,
+      "foreign_via_gap_mm": 0.39114381843187723
+    },
+    {
+      "net": "S16",
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_via_gap_mm": 2.6073429537983204
+    },
+    {
+      "net": "MW16",
+      "foreign_pad_gap_mm": 0.38412632154343784,
+      "foreign_via_gap_mm": 0.39114381843190776
+    },
+    {
+      "net": "S15",
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_via_gap_mm": 4.505536167419272
+    },
+    {
+      "net": "MW21",
+      "foreign_pad_gap_mm": 0.3220722050060216,
+      "foreign_via_gap_mm": 0.27233430168344913
+    },
+    {
+      "net": "S13",
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_via_gap_mm": 4.505536167419272
+    }
+  ]
+}

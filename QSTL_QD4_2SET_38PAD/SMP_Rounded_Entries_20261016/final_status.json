@@ -1,0 +1,246 @@
+{
+  "passed": true,
+  "PCB_sha256": "cc4b516bb2a595396ce22cec023afa5312c15f7b7ff8f72017cb110756e87819",
+  "schematic_sha256": "2aca373648777449e7f9e73ebb3b9fa79f70ea04280bb8ef83a3a0f543a72b47",
+  "pin_map_sha256": "ba0e050bd2be2f5c2953391de0974c32697c7ce2028394466da274c842c6426d",
+  "changed_entries": [
+    "SMP34",
+    "SMP32",
+    "SMP35",
+    "SMP31",
+    "SMP09",
+    "SMP30",
+    "SMP05",
+    "SMP21",
+    "SMP11",
+    "SMP28",
+    "SMP12",
+    "SMP16",
+    "SMP15"
+  ],
+  "retained_ambiguous_entries": [
+    "SMP02",
+    "SMP24"
+  ],
+  "preserved_C13": true,
+  "connected_named_nets": 71,
+  "stored_connections": 0,
+  "native_DRC_violations": 0,
+  "retained_rules": 44,
+  "shield_vias": 1514,
+  "DC_terminal_vias": 76,
+  "entry_geometry": [
+    {
+      "channel": "SMP34",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 0.7500000000000087,
+      "straight_radial_entry_mm": 3.4000000000000004,
+      "other_RF_edge_gap_mm": 3.89,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 4.505405587671229
+    },
+    {
+      "channel": "SMP32",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 0.7500000000000087,
+      "straight_radial_entry_mm": 3.4000000000000004,
+      "other_RF_edge_gap_mm": 3.89,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 4.505405587671229
+    },
+    {
+      "channel": "SMP35",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 3.5806823688687093,
+      "straight_radial_entry_mm": 3.324018169510543,
+      "other_RF_edge_gap_mm": 4.271920993591804,
+      "foreign_pad_gap_mm": 0.7149997299999948,
+      "foreign_DC_via_gap_mm": 2.607308383623386
+    },
+    {
+      "channel": "SMP31",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 3.5806823688687093,
+      "straight_radial_entry_mm": 3.324018169510543,
+      "other_RF_edge_gap_mm": 4.271920993591803,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 2.607308383623386
+    },
+    {
+      "channel": "SMP09",
+      "status": "candidate",
+      "radius_mm": 1.4,
+      "arcs": 2,
+      "normal_launch_mm": 0.75,
+      "straight_radial_entry_mm": 1.6,
+      "other_RF_edge_gap_mm": 4.8756406460551025,
+      "foreign_pad_gap_mm": 0.7149997299999878,
+      "foreign_DC_via_gap_mm": 2.984666198972867
+    },
+    {
+      "channel": "SMP30",
+      "status": "candidate",
+      "radius_mm": 1.4,
+      "arcs": 2,
+      "normal_launch_mm": 0.75,
+      "straight_radial_entry_mm": 1.6,
+      "other_RF_edge_gap_mm": 4.875640646055104,
+      "foreign_pad_gap_mm": 0.714999729999988,
+      "foreign_DC_via_gap_mm": 2.984666198972868
+    },
+    {
+      "channel": "SMP05",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 0.8849999999999996,
+      "straight_radial_entry_mm": 2.550000000000006,
+      "other_RF_edge_gap_mm": 3.6899999999999973,
+      "foreign_pad_gap_mm": 0.7149997299999994,
+      "foreign_DC_via_gap_mm": 4.50540558767123
+    },
+    {
+      "channel": "SMP21",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 0.8849999999999996,
+      "straight_radial_entry_mm": 2.550000000000006,
+      "other_RF_edge_gap_mm": 3.689999999999997,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 4.505405587671229
+    },
+    {
+      "channel": "SMP02",
+      "status": "retained: broad arc not yet verified",
+      "rejections": {
+        "continuous shield row obstructed by mounting/pad land": 52,
+        "foreign pad": 4
+      }
+    },
+    {
+      "channel": "SMP24",
+      "status": "retained: broad arc not yet verified",
+      "rejections": {
+        "continuous shield row obstructed by mounting/pad land": 52,
+        "foreign pad": 4
+      }
+    },
+    {
+      "channel": "SMP11",
+      "status": "candidate",
+      "radius_mm": 1.4,
+      "arcs": 2,
+      "normal_launch_mm": 0.75,
+      "straight_radial_entry_mm": 1.6,
+      "other_RF_edge_gap_mm": 4.8756406460551025,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 2.984666198972867
+    },
+    {
+      "channel": "SMP28",
+      "status": "candidate",
+      "radius_mm": 1.4,
+      "arcs": 2,
+      "normal_launch_mm": 0.75,
+      "straight_radial_entry_mm": 1.6,
+      "other_RF_edge_gap_mm": 4.875640646055104,
+      "foreign_pad_gap_mm": 0.7149997299999951,
+      "foreign_DC_via_gap_mm": 2.984666198972869
+    },
+    {
+      "channel": "SMP12",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 3.580682368868705,
+      "straight_radial_entry_mm": 3.324018169510545,
+      "other_RF_edge_gap_mm": 4.271920993591813,
+      "foreign_pad_gap_mm": 0.7149997299999948,
+      "foreign_DC_via_gap_mm": 2.6073083836233883
+    },
+    {
+      "channel": "SMP16",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 3.580682368868705,
+      "straight_radial_entry_mm": 3.324018169510545,
+      "other_RF_edge_gap_mm": 4.2719209935918165,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 2.6073083836233883
+    },
+    {
+      "channel": "SMP15",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 0.749999999999998,
+      "straight_radial_entry_mm": 3.4000000000000004,
+      "other_RF_edge_gap_mm": 3.89,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 4.505405587671229
+    },
+    {
+      "channel": "SMP13",
+      "status": "preserved accepted C13",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 0.75,
+      "straight_radial_entry_mm": 3.4
+    }
+  ],
+  "evidence": {
+    "saved_native_audit.json": {
+      "path": "script\\smp_broad_rounding_20261016\\saved_native_audit.json",
+      "sha256": "9b8dfcf3949b49f9c443472ca71beb9ed914c63bad4ca857c7981325942f18cf"
+    },
+    "support_audit.json": {
+      "path": "script\\smp_broad_rounding_20261016\\support_audit.json",
+      "sha256": "464f0f717a8c943c48f6fc8b613715647bba577b817db7541508d72dcc1c361b"
+    },
+    "preservation_audit.json": {
+      "path": "script\\smp_broad_rounding_20261016\\preservation_audit.json",
+      "sha256": "55a1ed04a8539c5377e57448e266fd0081a809b94e82849d3ad961c5ab94633b"
+    },
+    "route_identity_audit.json": {
+      "path": "script\\smp_broad_rounding_20261016\\route_identity_audit.json",
+      "sha256": "df2608f297b81b1f60c45b43eeb10bfbe9162f95e4e409c884a30e2ee43fa8f8"
+    },
+    "preparation_audit.json": {
+      "path": "script\\smp_broad_rounding_20261016\\preparation_audit.json",
+      "sha256": "f9aff05edf79eb2309073c2b3b77c6f4ebcb9478131cb8e1566ebe45dd39c109"
+    },
+    "fitted_copper_audit.json": {
+      "path": "script\\smp_broad_rounding_20261016\\fitted_copper_audit.json",
+      "sha256": "78fe4108c68677ea8bb3b88356b83cfa44270e329240bddb710ccd73022f4663"
+    },
+    "native_scope_audit.json": {
+      "path": "script\\smp_broad_rounding_20261016\\native_scope_audit.json",
+      "sha256": "f5bfbd225472d2a45b99697a545525ad700fcb2efc5d79eab55f29ba702f3e6d"
+    },
+    "l5_rc_openings_audit.json": {
+      "path": "script\\smp_broad_rounding_20261016\\l5_rc_openings_audit.json",
+      "sha256": "a07088b1cef4b2910529a2eb7130f1502505c685bee2c5f92b4cc1f7c12c31d5"
+    },
+    "mask_detail_audit.json": {
+      "path": "script\\smp_broad_rounding_20261016\\mask_detail_audit.json",
+      "sha256": "190afc4f3dd525e0ade86e92d1ed8606a8425a565dd0a182a6ec359406127c37"
+    },
+    "mask_cam_audit.json": {
+      "path": "script\\smp_broad_rounding_20261016\\mask_cam_audit.json",
+      "sha256": "29ded6cf2042d4f3dea565ab42da8f9d99c7bf1bbdd11a3c361d5d35e8cbcdbd"
+    }
+  },
+  "L5_individual_component_voids": 32,
+  "QD_Top_masked_vias": 22,
+  "native_mask_CAM_verified": true
+}

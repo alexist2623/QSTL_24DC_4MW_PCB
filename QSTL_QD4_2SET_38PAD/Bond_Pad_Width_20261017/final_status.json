@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "PCB_sha256": "5a5d3a83e164647765685761dfe95143e4bacdde0b8763a326cdc1eebfc5e8ac",
+  "pad_width_before_mm": 0.25,
+  "pad_width_after_mm": 0.26,
+  "DRC_violations": 0,
+  "minima": {
+    "pad_to_pad_mm": 0.15214168853725749,
+    "limiting_pad_pair": [
+      "35",
+      "34"
+    ],
+    "pad_to_pocket_mm": 0.20899249377596352,
+    "pad_to_L6_ground_mm": 0.2004918757442368,
+    "pad_to_shield_land_mm": 0.2009997551204518,
+    "pad_to_foreign_signal_mm": 0.1542691393656335,
+    "moved_shield_to_shield_land_mm": 0.1540812381453474,
+    "moved_shield_to_signal_via_land_mm": 0.20390248414232465
+  },
+  "remaining_protruding_DC_vias": 22,
+  "audits": {
+    "width_audit.json": {
+      "passed": true,
+      "sha256": "6e2f55e10d92103c9bc4a93c2f36be1cf4692a422eff5c6fe7acdad045fdfe66"
+    },
+    "saved_native_audit.json": {
+      "passed": true,
+      "sha256": "808a83dc57f5fe88e5cb3e5a0b4777dc7f5a071548d132c2cbffd1dff9a586ec"
+    },
+    "support_audit.json": {
+      "passed": true,
+      "sha256": "af7761e35ec4ee23fd12bb4f18a5b4ca8dbafbead8004f4c83dd01452aba62c6"
+    },
+    "mask_cam_audit.json": {
+      "passed": true,
+      "sha256": "fca0f2df957a35cd7aa0437f807239340813cbf36a441e78411446e8c90f99a0"
+    }
+  },
+  "images": {
+    "Saved_Bond_Pad_Width.png": "e8191e71217737d111c4ee79fd09c219606132eb93e5414940006b58a9f6970c"
+  },
+  "report_sha256": "a8263c746656748e821a675cd9f6c07a5beb1b773e5a2d7030445971184d046e"
+}

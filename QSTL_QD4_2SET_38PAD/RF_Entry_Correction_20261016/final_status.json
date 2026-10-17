@@ -1,0 +1,105 @@
+{
+  "passed": true,
+  "PCB_sha256": "8b8002cfa465c2b7ff8a1c57299817a78393ef0a3739fe9d5962aed1a692bdd5",
+  "schematic_sha256": "2aca373648777449e7f9e73ebb3b9fa79f70ea04280bb8ef83a3a0f543a72b47",
+  "pin_map_sha256": "ba0e050bd2be2f5c2953391de0974c32697c7ce2028394466da274c842c6426d",
+  "connected_named_nets": 71,
+  "stored_connections": 0,
+  "native_DRC_violations": 0,
+  "retained_rules": 44,
+  "shield_vias": 1502,
+  "DC_terminal_vias": 76,
+  "marked_pair_measurements": [
+    {
+      "view": "Before",
+      "channels": [
+        "MW13",
+        "MW15"
+      ],
+      "edge_gap_mm": 0.19773258347693207
+    },
+    {
+      "view": "Before",
+      "channels": [
+        "MW30",
+        "MW28"
+      ],
+      "edge_gap_mm": 0.6060791289606519
+    },
+    {
+      "view": "Saved revision",
+      "channels": [
+        "MW13",
+        "MW15"
+      ],
+      "edge_gap_mm": 1.0955807627428438
+    },
+    {
+      "view": "Saved revision",
+      "channels": [
+        "MW30",
+        "MW28"
+      ],
+      "edge_gap_mm": 0.7808128435489952
+    }
+  ],
+  "SMP_entries_verified": 16,
+  "ambiguous_SMP_entries_applied": [],
+  "C13_rounding": {
+    "passed": true,
+    "other_RF_routes_and_entry_shields_exactly_unchanged": true,
+    "local_removed_shields": 17,
+    "local_added_shields": 19,
+    "changed_shield_bounds_mm": [
+      11.344278458567743,
+      22.412,
+      14.711916882556187,
+      24.250852796679474
+    ],
+    "other_saved_routes_max_difference_mm": 0.0,
+    "unchanged_route_native_grid_tolerance_mm": 5.08e-06,
+    "rounded_route_differences_mm": {},
+    "native_arc": {
+      "cx": 13.35000124,
+      "cy": 24.44999936,
+      "radius": 1.5999993399999999,
+      "start": 180.0,
+      "end": 270.0,
+      "layer": 32
+    },
+    "normal_launch_mm": 0.75,
+    "radial_entry_mm": 3.4,
+    "source_sha256": "8b8002cfa465c2b7ff8a1c57299817a78393ef0a3739fe9d5962aed1a692bdd5"
+  },
+  "rejected_trial": "Further movement of QD-side MW28 reduced foreign QD-pad copper clearance to 0.1564 mm. That trial was not applied; saved MW28 QD curve is retained.",
+  "evidence": {
+    "saved_native_audit.json": {
+      "path": "script\\rf_entry_shield_fix_20261016\\saved_native_audit.json",
+      "sha256": "ec8689a42a93a2500f62d4a16e5b81623cc6384ac62275bc5df60da4dad7c29c"
+    },
+    "support_audit.json": {
+      "path": "script\\rf_entry_shield_fix_20261016\\support_audit.json",
+      "sha256": "b57b0a3659a4a5824e30ba537fb7d5b458f0e1c9ecad89d2d598df2fb6c5ad74"
+    },
+    "preservation_audit.json": {
+      "path": "script\\rf_entry_shield_fix_20261016\\preservation_audit.json",
+      "sha256": "99806165c68586e86e2a53638e7aaddc05fb2c023b110a06f10215cc4c6e284e"
+    },
+    "route_identity_audit.json": {
+      "path": "script\\rf_entry_shield_fix_20261016\\route_identity_audit.json",
+      "sha256": "544267b300fa65e963a6cfc4ccfb7071a03e8a8978825d2b3cdf734af2398efc"
+    },
+    "preparation_audit.json": {
+      "path": "script\\rf_entry_shield_fix_20261016\\preparation_audit.json",
+      "sha256": "0dfab11f3e04ca201f46361ee2793b659e867e97316c8aff132f24cf4c6d78fe"
+    },
+    "fitted_copper_audit.json": {
+      "path": "script\\rf_entry_shield_fix_20261016\\fitted_copper_audit.json",
+      "sha256": "2a6679da75737348ea91c22c13c2e03293c51c6b2fbb15280bc328ba58bc2db7"
+    },
+    "c13_native_audit.json": {
+      "path": "script\\rf_entry_shield_fix_20261016\\c13_native_audit.json",
+      "sha256": "be302cfe4beedd119461b8f8c0f6c4fc7267a04bbb1cf60008b42783338c7a1b"
+    }
+  }
+}

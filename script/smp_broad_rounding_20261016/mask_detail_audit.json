@@ -1,0 +1,554 @@
+{
+  "passed": true,
+  "source_sha256": "cc4b516bb2a595396ce22cec023afa5312c15f7b7ff8f72017cb110756e87819",
+  "checks": [
+    {
+      "feature": "R34/C34",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP34",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R34/C34",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP34",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R32/C32",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP32",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R32/C32",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP32",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R35/C35",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP35",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R35/C35",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP35",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R31/C31",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP31",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R31/C31",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP31",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R09/C09",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP09",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R09/C09",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP09",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R30/C30",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP30",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R30/C30",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP30",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R05/C05",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP05",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R05/C05",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP05",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R21/C21",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP21",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R21/C21",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP21",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R02/C02",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP02",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R02/C02",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP02",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R24/C24",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP24",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R24/C24",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP24",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R11/C11",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP11",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R11/C11",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP11",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R28/C28",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP28",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R28/C28",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP28",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R12/C12",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP12",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R12/C12",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP12",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R16/C16",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP16",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R16/C16",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP16",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R15/C15",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP15",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R15/C15",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP15",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R13/C13",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP13",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "R13/C13",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "SMP13",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "ZIF bottom via rectangle, 0.40 mm margin",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "ZIF top solder-control rectangle",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "RF protected strip, 0.71 mm from centreline",
+      "layer": 38,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-1",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-3",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-4",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-6",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-7",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-8",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-10",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-14",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-17",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-18",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-19",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-20",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-22",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-23",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-25",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-26",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-27",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-29",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-33",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-36",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-37",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD via Q1-38",
+      "layer": 37,
+      "intrusion_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD Bottom wire-bond field",
+      "layer": 38,
+      "missing_opening_mm2": 0.0,
+      "passed": true
+    },
+    {
+      "feature": "QD Top centre metal",
+      "layer": 37,
+      "missing_opening_mm2": 0.0,
+      "passed": true
+    }
+  ],
+  "QD_top_protected_vias": 22,
+  "scope": "Saved general mask openings; normal component-pad openings are intentional and checked by native mask export."
+}

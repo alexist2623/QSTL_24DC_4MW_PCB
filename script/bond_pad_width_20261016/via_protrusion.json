@@ -1,0 +1,316 @@
+{
+  "scope": "Verified saved 0.260 mm pads and unchanged native terminal via positions",
+  "source_sha256": "5a5d3a83e164647765685761dfe95143e4bacdde0b8763a326cdc1eebfc5e8ac",
+  "count": 22,
+  "still_protruding": 22,
+  "rows": [
+    {
+      "pad": "1",
+      "net": "DC01",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.13745380143860586,
+        0.01245003738799036
+      ],
+      "before_protrusion_mm": 0.062449937387990345,
+      "after_protrusion_mm": 0.057449947387990336,
+      "required_width_mm": 0.3748993747759807,
+      "long_axis_protrusion_mm": 0
+    },
+    {
+      "pad": "3",
+      "net": "DC03",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.2999000324657173,
+        -1.2165394738944402e-06
+      ],
+      "before_protrusion_mm": 0.055333592465717285,
+      "after_protrusion_mm": 0.055333592465717285,
+      "required_width_mm": 0.3500017330789478,
+      "long_axis_protrusion_mm": 0.055333592465717285
+    },
+    {
+      "pad": "4",
+      "net": "DC04",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.2998995615036239,
+        -1.0226809514790602e-06
+      ],
+      "before_protrusion_mm": 0.050000922680951465,
+      "after_protrusion_mm": 0.045000932680951455,
+      "required_width_mm": 0.3500013453619029,
+      "long_axis_protrusion_mm": 0.03589704150362394
+    },
+    {
+      "pad": "6",
+      "net": "DC06",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.21900019569464202,
+        -1.4333435267993577e-06
+      ],
+      "before_protrusion_mm": 0.05000133334352677,
+      "after_protrusion_mm": 0.04500134334352676,
+      "required_width_mm": 0.35000216668705353,
+      "long_axis_protrusion_mm": 0
+    },
+    {
+      "pad": "7",
+      "net": "DC07",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.29900060525169847,
+        -2.103332288255766e-06
+      ],
+      "before_protrusion_mm": 0.05000200333228824,
+      "after_protrusion_mm": 0.04500201333228823,
+      "required_width_mm": 0.35000350666457647,
+      "long_axis_protrusion_mm": 0
+    },
+    {
+      "pad": "8",
+      "net": "DC08",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.2990001745128617,
+        4.58977764961066e-08
+      ],
+      "before_protrusion_mm": 0.04999994589777648,
+      "after_protrusion_mm": 0.04499995589777647,
+      "required_width_mm": 0.34999939179555295,
+      "long_axis_protrusion_mm": 0.03273705451286174
+    },
+    {
+      "pad": "10",
+      "net": "DC10",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.26899730128422317,
+        2.868018473694417e-06
+      ],
+      "before_protrusion_mm": 0.05000276801847367,
+      "after_protrusion_mm": 0.04500277801847366,
+      "required_width_mm": 0.3500050360369473,
+      "long_axis_protrusion_mm": 0.042265471284223144
+    },
+    {
+      "pad": "14",
+      "net": "DC14",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.29900060525169847,
+        2.1033322883390326e-06
+      ],
+      "before_protrusion_mm": 0.050002003332288325,
+      "after_protrusion_mm": 0.045002013332288315,
+      "required_width_mm": 0.35000350666457664,
+      "long_axis_protrusion_mm": 0
+    },
+    {
+      "pad": "17",
+      "net": "DC17",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.2824010178769837,
+        2.7398932849337365e-06
+      ],
+      "before_protrusion_mm": 0.050002639893284934,
+      "after_protrusion_mm": 0.045002649893284924,
+      "required_width_mm": 0.35000477978656985,
+      "long_axis_protrusion_mm": 0.028903937876983643
+    },
+    {
+      "pad": "18",
+      "net": "DC18",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.2998997402714435,
+        0.024899279441671834
+      ],
+      "before_protrusion_mm": 0.07489917944167182,
+      "after_protrusion_mm": 0.06989918944167181,
+      "required_width_mm": 0.3997978588833436,
+      "long_axis_protrusion_mm": 0.062400850271443487
+    },
+    {
+      "pad": "19",
+      "net": "DC19",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.27490818019155555,
+        0.02489987129625741
+      ],
+      "before_protrusion_mm": 0.07489977129625738,
+      "after_protrusion_mm": 0.06989978129625737,
+      "required_width_mm": 0.39979904259251475,
+      "long_axis_protrusion_mm": 0.04678570019155559
+    },
+    {
+      "pad": "20",
+      "net": "DC20",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.16244569999999925,
+        0.019918679999999998
+      ],
+      "before_protrusion_mm": 0.06991857999999998,
+      "after_protrusion_mm": 0.06491858999999997,
+      "required_width_mm": 0.38983665999999995,
+      "long_axis_protrusion_mm": 0
+    },
+    {
+      "pad": "22",
+      "net": "DC22",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.2998994798541093,
+        5.027557660186588e-07
+      ],
+      "before_protrusion_mm": 0.062400589854109345,
+      "after_protrusion_mm": 0.062400589854109345,
+      "required_width_mm": 0.350000305511532,
+      "long_axis_protrusion_mm": 0.062400589854109345
+    },
+    {
+      "pad": "23",
+      "net": "DC23",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.282401017876983,
+        -2.7398932864880488e-06
+      ],
+      "before_protrusion_mm": 0.05000263989328649,
+      "after_protrusion_mm": 0.04500264989328648,
+      "required_width_mm": 0.35000477978657296,
+      "long_axis_protrusion_mm": 0.028903937876982977
+    },
+    {
+      "pad": "25",
+      "net": "DC25",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.2615014642680586,
+        1.185921022495151e-08
+      ],
+      "before_protrusion_mm": 0.04999991185921021,
+      "after_protrusion_mm": 0.0449999218592102,
+      "required_width_mm": 0.3499993237184204,
+      "long_axis_protrusion_mm": 0
+    },
+    {
+      "pad": "26",
+      "net": "DC26",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.2989985395777645,
+        -8.4925305116057e-07
+      ],
+      "before_protrusion_mm": 0.05000074925305115,
+      "after_protrusion_mm": 0.04500075925305114,
+      "required_width_mm": 0.3500009985061023,
+      "long_axis_protrusion_mm": 0.001490879577764559
+    },
+    {
+      "pad": "27",
+      "net": "DC27",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.2989989465384864,
+        -1.8730112980036573e-07
+      ],
+      "before_protrusion_mm": 0.050000087301129786,
+      "after_protrusion_mm": 0.04500009730112978,
+      "required_width_mm": 0.34999967460225956,
+      "long_axis_protrusion_mm": 0.040274546538486444
+    },
+    {
+      "pad": "29",
+      "net": "DC29",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.29899864000000065,
+        0.0
+      ],
+      "before_protrusion_mm": 0.0739978200000006,
+      "after_protrusion_mm": 0.0739978200000006,
+      "required_width_mm": 0.34999929999999996,
+      "long_axis_protrusion_mm": 0.0739978200000006
+    },
+    {
+      "pad": "33",
+      "net": "DC33",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.29900032738612825,
+        9.390018872457162e-07
+      ],
+      "before_protrusion_mm": 0.05000083900188723,
+      "after_protrusion_mm": 0.04500084900188722,
+      "required_width_mm": 0.35000117800377445,
+      "long_axis_protrusion_mm": 0
+    },
+    {
+      "pad": "36",
+      "net": "DC36",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.29990079907354344,
+        -1.2050121863949048e-06
+      ],
+      "before_protrusion_mm": 0.055334359073543504,
+      "after_protrusion_mm": 0.055334359073543504,
+      "required_width_mm": 0.35000171002437275,
+      "long_axis_protrusion_mm": 0.055334359073543504
+    },
+    {
+      "pad": "37",
+      "net": "DC37",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.299898924663328,
+        0.002489830432184828
+      ],
+      "before_protrusion_mm": 0.06788135466332801,
+      "after_protrusion_mm": 0.06788135466332801,
+      "required_width_mm": 0.35497896086436964,
+      "long_axis_protrusion_mm": 0.06788135466332801
+    },
+    {
+      "pad": "38",
+      "net": "DC38",
+      "via_diameter_mm": 0.34999929999999996,
+      "drill_mm": 0.1999996,
+      "local_offset_mm": [
+        0.299899172571875,
+        0.024900795885534843
+      ],
+      "before_protrusion_mm": 0.07490069588553483,
+      "after_protrusion_mm": 0.07409825257187502,
+      "required_width_mm": 0.39980089177106964,
+      "long_axis_protrusion_mm": 0.07409825257187502
+    }
+  ]
+}

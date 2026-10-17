@@ -1,0 +1,34 @@
+[
+  {
+    "view": "Before",
+    "channels": [
+      "MW13",
+      "MW15"
+    ],
+    "edge_gap_mm": 0.19773258347693207
+  },
+  {
+    "view": "Before",
+    "channels": [
+      "MW30",
+      "MW28"
+    ],
+    "edge_gap_mm": 0.6060791289606519
+  },
+  {
+    "view": "Saved revision",
+    "channels": [
+      "MW13",
+      "MW15"
+    ],
+    "edge_gap_mm": 1.0955807627428438
+  },
+  {
+    "view": "Saved revision",
+    "channels": [
+      "MW30",
+      "MW28"
+    ],
+    "edge_gap_mm": 0.7808128435489952
+  }
+]

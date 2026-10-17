@@ -1,0 +1,9 @@
+{
+  "source_sha256": "0abc5c7a8258df4c239ed4535fba5e120190757f4976b8fbe72d4fae5b1eaad0",
+  "images": {
+    "Capacitor_Pad_Registration.png": "3c57f0b14c983aa82bd66c0c54fe264192a876d9ae26a6a6f47997bdd457fa7b",
+    "Corrected_Masks_Both_Faces.png": "d513c036c74bf27b209dd82e389eaa35d476ddd41ee5baad88f122480cb222c2",
+    "Mask_Before_After.png": "2de69df4e0c21bf1e356b60bbed95d87ac673a8dee7727b950f49f8b045d2a2c",
+    "Solder_Mask_and_L5_Openings.png": "3cf28e05f2c23b33de7f62e99bd84e2bca5776d444309756feb79a61213a3bb1"
+  }
+}

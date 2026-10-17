@@ -1,0 +1,6 @@
+[Design]
+Version=1.0
+[Document1]
+DocumentPath=RecalculateConnections.pas
+[Generic_ScriptingSystem]
+StartProcName=RecalculateConnections.pas>RecalculateConnections

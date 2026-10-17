@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "source_sha256": "5a5d3a83e164647765685761dfe95143e4bacdde0b8763a326cdc1eebfc5e8ac",
+  "layers": [
+    {
+      "layer": "GTS",
+      "passed": true,
+      "missing_opening_mm2": 0.0,
+      "extra_opening_mm2": 0.0,
+      "normal_SMD_openings": 53,
+      "sha256": "cacc19e2ac0368ef8b19552ada1b6d1ffa41adc1f7d6ce7e204ce7104574f6f6"
+    },
+    {
+      "layer": "GBS",
+      "passed": true,
+      "missing_opening_mm2": 0.0,
+      "extra_opening_mm2": 0.0,
+      "normal_SMD_openings": 64,
+      "sha256": "5d4cb8131b623db491496bf24914eb6a404075f1f0cf109f572d8774c05ad48a"
+    }
+  ],
+  "QD_top_vias_fully_masked": 22,
+  "CAM_geometry_tolerance_mm": 0.0003
+}

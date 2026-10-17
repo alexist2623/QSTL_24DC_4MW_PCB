@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "issues": [],
+  "checks": {
+    "max_preserved_route_difference_mm": 0.0,
+    "DC_terminal_vias": 76,
+    "schematic_and_pin_map_unchanged": true,
+    "all_pad_positions_unchanged": true,
+    "native_rules_unchanged": true
+  },
+  "source_sha256": "cc4b516bb2a595396ce22cec023afa5312c15f7b7ff8f72017cb110756e87819"
+}

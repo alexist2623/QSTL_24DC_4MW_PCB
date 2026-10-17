@@ -1,0 +1,190 @@
+{
+  "changed": [
+    "SMP34",
+    "SMP32",
+    "SMP35",
+    "SMP31",
+    "SMP09",
+    "SMP30",
+    "SMP05",
+    "SMP21",
+    "SMP11",
+    "SMP28",
+    "SMP12",
+    "SMP16",
+    "SMP15"
+  ],
+  "uncertain": [
+    "SMP02",
+    "SMP24"
+  ],
+  "entries": [
+    {
+      "channel": "SMP34",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 0.7500000000000087,
+      "straight_radial_entry_mm": 3.4000000000000004,
+      "other_RF_edge_gap_mm": 3.89,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 4.505405587671229
+    },
+    {
+      "channel": "SMP32",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 0.7500000000000087,
+      "straight_radial_entry_mm": 3.4000000000000004,
+      "other_RF_edge_gap_mm": 3.89,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 4.505405587671229
+    },
+    {
+      "channel": "SMP35",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 3.5806823688687093,
+      "straight_radial_entry_mm": 3.324018169510543,
+      "other_RF_edge_gap_mm": 4.271920993591804,
+      "foreign_pad_gap_mm": 0.7149997299999948,
+      "foreign_DC_via_gap_mm": 2.607308383623386
+    },
+    {
+      "channel": "SMP31",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 3.5806823688687093,
+      "straight_radial_entry_mm": 3.324018169510543,
+      "other_RF_edge_gap_mm": 4.271920993591803,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 2.607308383623386
+    },
+    {
+      "channel": "SMP09",
+      "status": "candidate",
+      "radius_mm": 1.4,
+      "arcs": 2,
+      "normal_launch_mm": 0.75,
+      "straight_radial_entry_mm": 1.6,
+      "other_RF_edge_gap_mm": 4.8756406460551025,
+      "foreign_pad_gap_mm": 0.7149997299999878,
+      "foreign_DC_via_gap_mm": 2.984666198972867
+    },
+    {
+      "channel": "SMP30",
+      "status": "candidate",
+      "radius_mm": 1.4,
+      "arcs": 2,
+      "normal_launch_mm": 0.75,
+      "straight_radial_entry_mm": 1.6,
+      "other_RF_edge_gap_mm": 4.875640646055104,
+      "foreign_pad_gap_mm": 0.714999729999988,
+      "foreign_DC_via_gap_mm": 2.984666198972868
+    },
+    {
+      "channel": "SMP05",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 0.8849999999999996,
+      "straight_radial_entry_mm": 2.550000000000006,
+      "other_RF_edge_gap_mm": 3.6899999999999973,
+      "foreign_pad_gap_mm": 0.7149997299999994,
+      "foreign_DC_via_gap_mm": 4.50540558767123
+    },
+    {
+      "channel": "SMP21",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 0.8849999999999996,
+      "straight_radial_entry_mm": 2.550000000000006,
+      "other_RF_edge_gap_mm": 3.689999999999997,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 4.505405587671229
+    },
+    {
+      "channel": "SMP02",
+      "status": "retained: broad arc not yet verified",
+      "rejections": {
+        "continuous shield row obstructed by mounting/pad land": 52,
+        "foreign pad": 4
+      }
+    },
+    {
+      "channel": "SMP24",
+      "status": "retained: broad arc not yet verified",
+      "rejections": {
+        "continuous shield row obstructed by mounting/pad land": 52,
+        "foreign pad": 4
+      }
+    },
+    {
+      "channel": "SMP11",
+      "status": "candidate",
+      "radius_mm": 1.4,
+      "arcs": 2,
+      "normal_launch_mm": 0.75,
+      "straight_radial_entry_mm": 1.6,
+      "other_RF_edge_gap_mm": 4.8756406460551025,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 2.984666198972867
+    },
+    {
+      "channel": "SMP28",
+      "status": "candidate",
+      "radius_mm": 1.4,
+      "arcs": 2,
+      "normal_launch_mm": 0.75,
+      "straight_radial_entry_mm": 1.6,
+      "other_RF_edge_gap_mm": 4.875640646055104,
+      "foreign_pad_gap_mm": 0.7149997299999951,
+      "foreign_DC_via_gap_mm": 2.984666198972869
+    },
+    {
+      "channel": "SMP12",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 3.580682368868705,
+      "straight_radial_entry_mm": 3.324018169510545,
+      "other_RF_edge_gap_mm": 4.271920993591813,
+      "foreign_pad_gap_mm": 0.7149997299999948,
+      "foreign_DC_via_gap_mm": 2.6073083836233883
+    },
+    {
+      "channel": "SMP16",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 3.580682368868705,
+      "straight_radial_entry_mm": 3.324018169510545,
+      "other_RF_edge_gap_mm": 4.2719209935918165,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 2.6073083836233883
+    },
+    {
+      "channel": "SMP15",
+      "status": "candidate",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 0.749999999999998,
+      "straight_radial_entry_mm": 3.4000000000000004,
+      "other_RF_edge_gap_mm": 3.89,
+      "foreign_pad_gap_mm": 0.714999729999995,
+      "foreign_DC_via_gap_mm": 4.505405587671229
+    },
+    {
+      "channel": "SMP13",
+      "status": "preserved accepted C13",
+      "radius_mm": 1.6,
+      "arcs": 1,
+      "normal_launch_mm": 0.75,
+      "straight_radial_entry_mm": 3.4
+    }
+  ]
+}

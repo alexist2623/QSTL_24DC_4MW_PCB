@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "other_RF_routes_and_entry_shields_exactly_unchanged": true,
+  "local_removed_shields": 17,
+  "local_added_shields": 19,
+  "changed_shield_bounds_mm": [
+    11.344278458567743,
+    22.412,
+    14.711916882556187,
+    24.250852796679474
+  ]
+}

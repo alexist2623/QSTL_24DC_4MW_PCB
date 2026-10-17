@@ -1,0 +1,199 @@
+{
+  "pcb_sha256": "012ac75a0f807e5213ff8c0638402fbb9aab77252f20f3eacdea856f96112b22",
+  "component_count": 32,
+  "passing": 0,
+  "rows": [
+    {
+      "component": "C02",
+      "hull_area_mm2": 7.1999950760003815,
+      "remaining_L5_copper_mm2": 7.1999950760003815,
+      "void_pass": false
+    },
+    {
+      "component": "C05",
+      "hull_area_mm2": 7.1999950760003815,
+      "remaining_L5_copper_mm2": 7.1999950760003815,
+      "void_pass": false
+    },
+    {
+      "component": "C09",
+      "hull_area_mm2": 7.1999941711013085,
+      "remaining_L5_copper_mm2": 7.1999941711013085,
+      "void_pass": false
+    },
+    {
+      "component": "C11",
+      "hull_area_mm2": 7.199998656805683,
+      "remaining_L5_copper_mm2": 7.1999986568056835,
+      "void_pass": false
+    },
+    {
+      "component": "C12",
+      "hull_area_mm2": 7.199998656805686,
+      "remaining_L5_copper_mm2": 7.199998656805687,
+      "void_pass": false
+    },
+    {
+      "component": "C13",
+      "hull_area_mm2": 7.199995076000404,
+      "remaining_L5_copper_mm2": 7.199995076000404,
+      "void_pass": false
+    },
+    {
+      "component": "C15",
+      "hull_area_mm2": 7.199995076000407,
+      "remaining_L5_copper_mm2": 7.199995076000407,
+      "void_pass": false
+    },
+    {
+      "component": "C16",
+      "hull_area_mm2": 7.199998656805689,
+      "remaining_L5_copper_mm2": 7.19999865680569,
+      "void_pass": false
+    },
+    {
+      "component": "C21",
+      "hull_area_mm2": 7.199995076000382,
+      "remaining_L5_copper_mm2": 7.199995076000382,
+      "void_pass": false
+    },
+    {
+      "component": "C24",
+      "hull_area_mm2": 7.199995076000382,
+      "remaining_L5_copper_mm2": 7.199995076000382,
+      "void_pass": false
+    },
+    {
+      "component": "C28",
+      "hull_area_mm2": 7.200001346270815,
+      "remaining_L5_copper_mm2": 7.200001346270814,
+      "void_pass": false
+    },
+    {
+      "component": "C30",
+      "hull_area_mm2": 7.199998545957408,
+      "remaining_L5_copper_mm2": 7.199998545957408,
+      "void_pass": false
+    },
+    {
+      "component": "C31",
+      "hull_area_mm2": 7.199998545957427,
+      "remaining_L5_copper_mm2": 7.199998545957427,
+      "void_pass": false
+    },
+    {
+      "component": "C32",
+      "hull_area_mm2": 7.199999647997719,
+      "remaining_L5_copper_mm2": 7.199999647997719,
+      "void_pass": false
+    },
+    {
+      "component": "C34",
+      "hull_area_mm2": 7.199999647997722,
+      "remaining_L5_copper_mm2": 7.199999647997722,
+      "void_pass": false
+    },
+    {
+      "component": "C35",
+      "hull_area_mm2": 7.199998545957428,
+      "remaining_L5_copper_mm2": 7.199998545957428,
+      "void_pass": false
+    },
+    {
+      "component": "R02",
+      "hull_area_mm2": 2.800000991999714,
+      "remaining_L5_copper_mm2": 2.1626695796263786,
+      "void_pass": false
+    },
+    {
+      "component": "R05",
+      "hull_area_mm2": 2.800000991999714,
+      "remaining_L5_copper_mm2": 2.162669969870759,
+      "void_pass": false
+    },
+    {
+      "component": "R09",
+      "hull_area_mm2": 2.800002829995441,
+      "remaining_L5_copper_mm2": 2.162671851782527,
+      "void_pass": false
+    },
+    {
+      "component": "R11",
+      "hull_area_mm2": 2.8000028299954405,
+      "remaining_L5_copper_mm2": 2.162671728586,
+      "void_pass": false
+    },
+    {
+      "component": "R12",
+      "hull_area_mm2": 2.800001536177874,
+      "remaining_L5_copper_mm2": 2.1626702489300955,
+      "void_pass": false
+    },
+    {
+      "component": "R13",
+      "hull_area_mm2": 2.800003532001097,
+      "remaining_L5_copper_mm2": 2.1626723015628815,
+      "void_pass": false
+    },
+    {
+      "component": "R15",
+      "hull_area_mm2": 2.8000009919997253,
+      "remaining_L5_copper_mm2": 2.1626701985574095,
+      "void_pass": false
+    },
+    {
+      "component": "R16",
+      "hull_area_mm2": 2.800002829995419,
+      "remaining_L5_copper_mm2": 2.1626717501020636,
+      "void_pass": false
+    },
+    {
+      "component": "R21",
+      "hull_area_mm2": 2.8000009919997115,
+      "remaining_L5_copper_mm2": 2.1626704928503564,
+      "void_pass": false
+    },
+    {
+      "component": "R24",
+      "hull_area_mm2": 2.8000009919997115,
+      "remaining_L5_copper_mm2": 2.162669699922909,
+      "void_pass": false
+    },
+    {
+      "component": "R28",
+      "hull_area_mm2": 2.8000015361778763,
+      "remaining_L5_copper_mm2": 2.162670027011187,
+      "void_pass": false
+    },
+    {
+      "component": "R30",
+      "hull_area_mm2": 2.8000015361778767,
+      "remaining_L5_copper_mm2": 2.1626701502238426,
+      "void_pass": false
+    },
+    {
+      "component": "R31",
+      "hull_area_mm2": 2.8000015361778745,
+      "remaining_L5_copper_mm2": 2.1626703859782075,
+      "void_pass": false
+    },
+    {
+      "component": "R32",
+      "hull_area_mm2": 2.800003532001097,
+      "remaining_L5_copper_mm2": 2.162672538310795,
+      "void_pass": false
+    },
+    {
+      "component": "R34",
+      "hull_area_mm2": 2.8000009919997253,
+      "remaining_L5_copper_mm2": 2.1626701334930236,
+      "void_pass": false
+    },
+    {
+      "component": "R35",
+      "hull_area_mm2": 2.800001536177871,
+      "remaining_L5_copper_mm2": 2.1626706098003385,
+      "void_pass": false
+    }
+  ]
+}

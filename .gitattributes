@@ -17,3 +17,8 @@ script/qd38_copper_fit_20261014/** -text
 script/reference12_fastening_20261015/** -text
 script/cap_1206_apply_20261014/native_prep/CC1206JKNPO9BN104_OEM_MAX_Centered.step -text
 script/cap_1206_apply_20261014/native_prep/part_parameters.json -text
+# Preserve the byte hashes recorded by the subsequent RF, mask and pad audits.
+script/rf_entry_shield_fix_20261016/** -text
+script/smp_broad_rounding_20261016/** -text
+script/compact_masks_20261016/** -text
+script/bond_pad_width_20261016/** -text

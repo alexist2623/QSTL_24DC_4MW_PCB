@@ -1,0 +1,44 @@
+{
+  "before_sha256": "cc4b516bb2a595396ce22cec023afa5312c15f7b7ff8f72017cb110756e87819",
+  "applied_over_sha256": "b916d82d8781786f0029128ab0af41a247a14f659dd2691ffabc31a778c757a1",
+  "RC_footprints": 32,
+  "Top_local_vias": 38,
+  "local_sliver_repairs": [
+    {
+      "previous_gap_mm": 0.11290472531523661,
+      "added_mask_area_mm2": 1.0981365860275642e-05
+    },
+    {
+      "previous_gap_mm": 0.0645299543568558,
+      "added_mask_area_mm2": 0.0005745768975994892
+    },
+    {
+      "previous_gap_mm": 0.05281730834520815,
+      "added_mask_area_mm2": 0.004566615296568485
+    },
+    {
+      "previous_gap_mm": 0.01673602355784412,
+      "added_mask_area_mm2": 0.0016697637874590722
+    },
+    {
+      "previous_gap_mm": 0.010660180169580376,
+      "added_mask_area_mm2": 0.0006976173879523955
+    },
+    {
+      "previous_gap_mm": 0.11019340034290614,
+      "added_mask_area_mm2": 1.169129481251314e-05
+    }
+  ],
+  "mask_area_mm2": {
+    "37": {
+      "before": 989.5588711769066,
+      "after": 372.93236307250174,
+      "reduction_percent": 62.313271707729314
+    },
+    "38": {
+      "before": 1112.7852355376328,
+      "after": 908.2619325905742,
+      "reduction_percent": 18.37940479577309
+    }
+  }
+}

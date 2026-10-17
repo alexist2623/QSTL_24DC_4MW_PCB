@@ -1,12 +1,12 @@
 # QD4 / 2SET 38-pad carrier
 
-## Current saved design (2026-10-16)
+## Current saved design (2026-10-17)
 
 Open [QSTL_QD4_2SET_38PAD.PrjPcb](QSTL_QD4_2SET_38PAD.PrjPcb). The accepted 16-RF / 38-DC relocation is implemented in this project's PCB and schematic, including 0603 resistors, exact Yageo CC1206JKNPO9BN104 1206 capacitors, the 32.600 x 99.025 mm outline, relocated ZIF and reference P/A mounting axes.
 
 DC is routed on L2 and L3, nineteen nets per layer, with the long runs centred at X=9.75 mm in a 4.805 mm copper envelope. L4 is GND. The updated ZIF assignments are synchronized with the schematic and [pin map](pin_mapping.csv). Saved/reopened native checks found 71 connected named nets, zero unrouted connections, zero DRC violations and zero enumerated schematic compiler violations.
 
-The authoritative current PCB SHA256 is `0adecc99d347b092775e4fe84506e643e7af0a8ce49d43413f4dc0239a6f58de`. See the [current implementation report](Native_Applied_20261016/IMPLEMENTATION_REPORT.md), [saved RF/DC image](Native_Applied_20261016/Saved_RF_DC_Layers.png) and [validation manifest](Native_Applied_20261016/final_status.json). Manufacturing stack acceptance, impedance certification and the inherited SMP component-PTH annular-ring review remain separate. No production Gerber release accompanies this commit.
+The authoritative current PCB SHA256 is `5a5d3a83e164647765685761dfe95143e4bacdde0b8763a326cdc1eebfc5e8ac`. All 38 QD bond pads now have 0.260 mm short-axis width, with a saved minimum pad gap of 0.152142 mm. Pad centres, lengths, rotations, mapping and RF/DC routes are preserved; five local shield vias and local L6 clearance are adjusted. Native save/reopen DRC is zero. Compact masks and all 32 L5 C/R cutouts remain. DC via lands still protrude beyond the rectangular pads. See the [current report](Bond_Pad_Width_20261017/IMPLEMENTATION_REPORT.md), [saved close-up](Bond_Pad_Width_20261017/Saved_Bond_Pad_Width.png) and [audit manifest](Bond_Pad_Width_20261017/final_status.json). No new production Gerber is issued.
 
 The sections and dated proposal folders below preserve design history. They do not describe the current native geometry or layer assignment when they disagree with the current report above.
 
@@ -90,7 +90,7 @@ The following geometric reports bind to this correction:
 - [Full alignment audit](../script/qd38_pad_alignment_20261011/alignment_full_audit.json): all signal connectivity, permitted DC turns, foreign clearances, ground connectivity, mask, shield and QD exclusion checks pass.
 - [Local DC audit](../script/qd38_pad_alignment_20261011/alignment_local_delta_audit.json): twelve local endpoint repairs, unchanged distant routing, net/layer assignments and RF copper. Minimum DC gap is approximately 0.105 mm.
 - [Independent via placement audit](../script/qd38_pad_alignment_20261011/independent_aligned_via_placement.json): full drill containment; minimum foreign-pad gap 0.150327 mm, via-land gap 0.150417 mm and hole gap 0.300416 mm after native-grid quantization.
-- [Independent surface audit](../script/qd38_pad_alignment_20261011/independent_alignment_surfaces.json) and [native-grid locality audit](../script/qd38_pad_alignment_20261011/alignment_native_grid_locality.json): unchanged masks/RF/668 shields, local subtractive ground only, and at least 0.20 mm signal-to-GND clearance. Retained RF overlap areas at QD pads 2/21 are approximately 0.028952/0.029233 mmÂ².
+- [Independent surface audit](../script/qd38_pad_alignment_20261011/independent_alignment_surfaces.json) and [native-grid locality audit](../script/qd38_pad_alignment_20261011/alignment_native_grid_locality.json): unchanged masks/RF/668 shields, local subtractive ground only, and at least 0.20 mm signal-to-GND clearance. Retained RF overlap areas at QD pads 2/21 are approximately 0.028952/0.029233 mm2.
 
 Saved-native results also pass:
 
